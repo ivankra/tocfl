@@ -1,0 +1,5 @@
+*.apkg
+.ipynb_checkpoints
+data/media
+downloads
+tocfl-cedict.csv

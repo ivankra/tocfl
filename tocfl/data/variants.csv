@@ -1,0 +1,56 @@
+# Manual disambiguations for ambiguous variant entries from TOCFL/CCCC lists.
+# Variants column format here:
+#  trad [pinyin] / ...
+#  trad [pinyin] (POS) / ...
+Vocabulary,Pinyin,POS,Variants
+姊姊/姐姐/姊/姐,jiějie/jiě,N,姊姊 [jiějie] / 姐姐 [jiějie] / 姊 [jiě] / 姐 [jiě]
+這裡/這裏/這兒,zhèlǐ/zhèr,N,這裡 [zhèlǐ] / 這裏 [zhèlǐ] / 這兒 [zhèr]
+那裡/那裏/那兒,nàlǐ/nàr,N,那裡 [nàlǐ] / 那裏 [nàlǐ] / 那兒 [nàr]
+哪裡/哪裏/哪兒,nǎlǐ/nǎr,N,哪裡 [nǎlǐ] / 哪裏 [nǎlǐ] / 哪兒 [nǎr]
+畫/畫兒,huà/huàr,V / N,畫 [huà] / 畫兒 [huàr]
+計畫/計劃,jìhuà,V / N,計畫 [jìhuà] / 計劃 [jìhuà]
+部分/部份,bùfen,Det / N,部分 [bùfen] / 部份 [bùfen]
+盒/盒(子),hé/hézi,M / N,盒 [hé] (M) / 盒子 [hézi] (N)
+手錶/手表/錶/表,shǒubiǎo/biǎo,N,手錶 [shǒubiǎo] / 手表 [shǒubiǎo] / 錶 [biǎo] / 表 [biǎo]
+盤/盤(子),pán(zi),M / N,盤 [pán] (M) / 盤子 [pánzi] (N)
+瓶/瓶(子),píng(zi),M / N,瓶 [píng] (M) / 瓶子 [píngzi] (N)
+箱/箱(子),xiāng/xiāng(zi),M / N,箱 [xiāng] (M) / 箱子 [xiāngzi] (N)
+刷(子)/刷,shuā(zi)/shuā,N / V,刷 [shuā] (N) / 刷子 [shuāzi] (N) / 刷 [shuā] (V)
+保證/証,bǎozhèng,N / V,保證 [bǎozhèng] / 保証 [bǎozhèng]
+規畫/規劃,guīhuà,N / V,規畫 [guīhuà] / 規劃 [guīhuà]
+駕駛/駕,jiàshǐ/jià,N / V,駕駛 [jiàshǐ] / 駕 [jià]
+黏/粘,nián,V / Vs,黏 [nián] / 粘 [nián]
+葉(子),yè(zi),M / N,葉 [yè] / 葉子 [yèzi]
+占/佔,zhàn,V / Vst,占 [zhàn] / 佔 [zhàn]
+架/架(子),jià/jià(zi),V / N,架 [jià] (V) / 架子 [jiàzi] (N)
+以至/以致/以至於/以致於,yǐzhì/yǐzhìyú,Conj,以至 [yǐzhì] / 以致 [yǐzhì] / 以至於 [yǐzhìyú] / 以致於 [yǐzhìyú]
+嘴唇/嘴脣/唇/脣,zuǐchún/chún,N,嘴唇 [zuǐchún] / 嘴脣 [zuǐchún] / 唇 [chún] / 脣 [chún]
+聲音/聲,shēngyīn,N,聲音 [shēngyīn] / 聲 [shēng]
+布/佈置,bùzhì,V,布置 [bùzhì] / 佈置 [bùzhì]
+訪問/訪,fǎngwèn,V,訪問 [fǎngwèn] / 訪 [fǎng]
+古蹟/跡,gǔjī,N,古蹟 [gǔjī] / 古跡 [gǔjī]
+舅舅/舅,jiùjiu,N,舅舅 [jiùjiu] / 舅 [jiù]
+漸漸/漸,jiànjiàn,Adv,漸漸 [jiànjiàn] / 漸 [jiàn]
+默默/默,mòmò,Adv,默默 [mòmò] / 默 [mò]
+夜裡/裏,yèlǐ/lǐ,N,夜裡 [yèlǐ] / 夜裏 [yèlǐ]
+偶而/偶爾,ǒuér,Adv,偶而 [ǒu'ér] / 偶爾 [ǒu'ěr]
+#2018 entries:
+一點/一點兒,yīdiǎn(r),Det,一點 [yīdiǎn] / 一點兒 [yīdiǎnr]
+窗/窗戶,chuānghu,N,窗 [chuāng] / 窗戶 [chuānghu]
+差點/差點兒,chà(yī)diǎn/chà(yī)diǎnr,Adv,差點 [chàdiǎn] / 差點兒 [chàdiǎnr]
+有點/有點兒,yǒu(yì)diǎn/yǒu(yì)diǎnr,Adv,有點 [yǒudiǎn] / 有點兒 [yǒudiǎnr]
+以至/致(於),yǐzhì(yú),Conj,以至 [yǐzhì] / 以致 [yǐzhì] / 以至於 [yǐzhìyú] / 以致於 [yǐzhìyú]
+凡/凡是,fánshì,Conj,凡 [fán] / 凡是 [fánshì]
+# CCCC
+"災(火災,水災)","zāi(huǒzāi, shuǐzāi)",N,災 [zāi] / 火災 [huǒzāi] / 水災 [shuǐzāi]
+星期天/星期日,xīngqítiān/xīngqītiān/xīngqírì/xīngqīrì,N/ADV,星期天 [xīngqítiān] / 星期天 [xīngqītiān] / 星期日 [xīngqírì] / 星期日 [xīngqīrì]
+圓/圓形,yuán/yuánxíng,VS/N,圓 [yuán] / 圓形 [yuánxíng]
+杯(子),bēi(zi),N/M,杯 [bēi] (M) / 杯子 [bēizi] (N)
+運動,yùndòng/yùndong,N/V,運動 [yùndòng] / 運動 [yùndong]
+畫/畫兒,huà/huàr,V/N,畫 [huà] / 畫兒 [huàr]
+和,hé/hàn,Prep/Conj,和 [hé] / 和 [hàn]
+事/事情,shì/shìqíng/shìqing,N,事 [shì] / 事情 [shìqíng] / 事情 [shìqing]
+盒(子),hé(zi),N/M,盒 [hé] (M) / 盒子 [hézi] (N)
+盤(子),pán(zhi),N/M,盤 [pán] (M) / 盤子 [pánzi] (N)
+有時/有時候,yǒushí/yǒushíhòu/yǒushíhou,ADV,有時 [yǒushí] / 有時候 [yǒushíhòu] / 有時候 [yǒushíhou]
+廣播,guǎngbò/guǎngbō,N/V,廣播 [guǎngbò] / 廣播 [guǎngbō]
