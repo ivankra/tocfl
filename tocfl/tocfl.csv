@@ -1,398 +1,398 @@
 ID,Traditional,Simplified,Pinyin,POS,Variants
-L0-1-001,我,我,wǒ,N,
-L0-1-002,你/妳,你/妳,nǐ,N,"[[""你"", ""nǐ""], [""妳"", ""nǐ""]]"
-L0-1-003,他/她,他/她,tā,N,"[[""他"", ""tā""], [""她"", ""tā""]]"
-L0-1-004,我們,我们,wǒmen,N,
-L0-1-005,你們/妳們,你们/妳们,nǐmen,N,"[[""你們"", ""nǐmen""], [""妳們"", ""nǐmen""]]"
-L0-1-006,他們/她們,他们/她们,tāmen,N,"[[""他們"", ""tāmen""], [""她們"", ""tāmen""]]"
-L0-1-007,您,您,nín,N,
-L0-1-008,誰,谁,shéi,N,
-L0-1-009,姓名,姓名,xìngmíng,N,
-L0-1-010,人,人,rén,N,
-L0-1-011,國,国,guó,N,
-L0-1-012,中國,中国,zhōngguó,N,
-L0-1-013,美國,美国,měiguó,N,
-L0-1-014,日本,日本,rìběn,N,
-L0-1-015,台灣/臺灣,台湾/台湾,táiwān,N,"[[""台灣"", ""táiwān""], [""臺灣"", ""táiwān""]]"
-L0-1-016,名字,名字,míngzi,N,
-L0-1-017,家,家,jiā,N,
-L0-1-018,電話,电话,diànhuà,N,
-L0-1-019,時間,时间,shíjiān,N,
-L0-1-020,小時,小时,xiǎoshí,N,
-L0-1-021,現在,现在,xiànzài,N,
-L0-1-022,今年,今年,jīnnián,N,
-L0-1-023,今天,今天,jīntiān,N,
-L0-1-024,明天,明天,míngtiān,N,
-L0-1-025,昨天,昨天,zuótiān,N,
-L0-1-026,早上,早上,zǎoshàng,N,
-L0-1-027,上午,上午,shàngwǔ,N,
-L0-1-028,中午,中午,zhōngwǔ,N,
-L0-1-029,下午,下午,xiàwǔ,N,
-L0-1-030,晚上,晚上,wǎnshàng,N,
-L0-1-031,一,一,yī,N,
-L0-1-032,二,二,èr,N,
-L0-1-033,三,三,sān,N,
-L0-1-034,四,四,sì,N,
-L0-1-035,五,五,wǔ,N,
-L0-1-036,六,六,liù,N,
-L0-1-037,七,七,qī,N,
-L0-1-038,八,八,bā,N,
-L0-1-039,九,九,jiǔ,N,
-L0-1-040,十,十,shí,N,
-L0-1-041,兩,两,liǎng,N,
-L0-1-042,時候,时候,shíhòu,N,
-L0-1-043,百,百,bǎi,N,
-L0-1-044,半,半,bàn,N,
-L0-1-045,千,千,qiān,N,
-L0-1-046,爸爸/爸,爸爸/爸,bàba/bà,N,"[[""爸爸"", ""bàba""], [""爸"", ""bà""]]"
-L0-1-047,媽媽/媽,妈妈/妈,māma/mā,N,"[[""媽媽"", ""māma""], [""媽"", ""mā""]]"
-L0-1-048,哥哥/哥,哥哥/哥,gēge/gē,N,"[[""哥哥"", ""gēge""], [""哥"", ""gē""]]"
-L0-1-049,弟弟/弟,弟弟/弟,dìdi/dì,N,"[[""弟弟"", ""dìdi""], [""弟"", ""dì""]]"
-L0-1-050,姊姊/姐姐/姊/姐,姊姊/姐姐/姊/姐,jiějie/jiě,N,"[[""姊姊"", ""jiějie""], [""姐姐"", ""jiějie""], [""姊"", ""jiě""], [""姐"", ""jiě""]]"
-L0-1-051,妹妹/妹,妹妹/妹,mèimei/mèi,N,"[[""妹妹"", ""mèimei""], [""妹"", ""mèi""]]"
-L0-1-052,小孩(子),小孩(子),xiǎohái(zi),N,"[[""小孩"", ""xiǎohái""], [""小孩子"", ""xiǎoháizi""]]"
-L0-1-053,的,的,de,Ptc,
-L0-1-054,第,第,dì,Det,
-L0-1-055,分,分,fēn,M,
-L0-1-056,點,点,diǎn,M,
-L0-1-057,個,个,ge,M,
-L0-1-058,歲,岁,suì,M,
-L0-1-059,年,年,nián,M,
-L0-1-060,住,住,zhù,V,
-L0-1-061,來,来,lái,V,
-L0-1-062,是,是,shì,Vst,
-L0-1-063,姓,姓,xìng,Vst,
-L0-1-064,覺得,觉得,juéde,Vst,
-L0-1-065,喜歡,喜欢,xǐhuān,Vst,
-L0-1-066,打電話,打电话,dǎdiànhuà,Vi,
-L0-1-067,漂亮,漂亮,piàoliàng,Vs,
-L0-1-068,高,高,gāo,Vs,
-L0-1-069,老,老,lǎo,Vs,
-L0-1-070,好,好,hǎo,Adv,
-L0-1-071,很,很,hěn,Adv,
-L0-1-072,真,真,zhēn,Adv,
-L0-1-073,電腦,电脑,diànnǎo,N,
-L0-1-074,老師,老师,lǎoshī,N,
-L0-1-075,買,买,mǎi,V,
-L0-1-076,忙,忙,máng,Vs,
-L0-1-077,學生,学生,xuéshēng,N,
-L0-1-078,大學,大学,dàxué,N,
-L0-1-079,學校,学校,xuéxiào,N,
-L0-1-080,中文,中文,zhōngwén,N,
-L0-1-081,同學,同学,tóngxué,N,
-L0-1-082,字,字,zì,N,
-L0-1-083,筆,笔,bǐ,N,
-L0-1-084,學,学,xué,V,
-L0-1-085,問,问,wèn,V,
-L0-1-086,說,说,shuō,V,
-L0-1-087,寫,写,xiě,V,
-L0-1-088,聽,听,tīng,V,
-L0-1-089,對,对,duì,Vs,
-L0-1-090,能,能,néng,Vaux,
-L0-1-091,可以,可以,kěyǐ,Vaux,
-L0-1-092,上課,上课,shàngkè,V-sep,
-L0-1-093,知道,知道,zhīdào,Vst,
-L0-1-094,電視(機),电视(机),diànshì(jī),N,"[[""電視"", ""diànshì""], [""電視機"", ""diànshìjī""]]"
-L0-1-095,水,水,shuǐ,N,
-L0-1-096,久,久,jiǔ,Vs-pred,
-L0-1-097,早,早,zǎo,Vs,
-L0-1-098,再,再,zài,Adv,
-L0-1-099,書,书,shū,N,
-L0-1-100,電影,电影,diànyǐng,N,
-L0-1-101,以前,以前,yǐqián,N,
-L0-1-102,以後,以后,yǐhòu,N,
-L0-1-103,走,走,zǒu,V,
-L0-1-104,等,等,děng,V,
-L0-1-105,看,看,kàn,V,
-L0-1-106,就,就,jiù,Adv,
-L0-1-107,什麼/甚麼,什么/甚么,shénme,N,"[[""什麼"", ""shénme""], [""甚麼"", ""shénme""]]"
-L0-1-108,朋友,朋友,péngyǒu,N,
-L0-1-109,東西,东西,dōngxi,N,
-L0-1-110,吧,吧,ba,Ptc,
-L0-1-111,呢,呢,ne,Ptc,
-L0-1-112,嗎,吗,ma,Ptc,
-L0-1-113,找,找,zhǎo,V,
-L0-1-114,做,做,zuò,V,
-L0-1-115,再見,再见,zàijiàn,Vi,
-L0-1-116,怎麼樣,怎么样,zěnmeyàng,Vs,
-L0-1-117,叫,叫,jiào,Vst/V,
-L0-1-118,謝謝,谢谢,xièxie,Vst,
-L0-1-119,對不起,对不起,duìbùqǐ,,
-L0-1-120,請問,请问,qǐngwèn,,
-L0-1-121,這,这,zhè,Det,
-L0-1-122,那,那,nà,Det,
-L0-1-123,公共汽車/公車,公共汽车/公车,gōnggòngqìchē/gōngchē,N,"[[""公共汽車"", ""gōnggòngqìchē""], [""公車"", ""gōngchē""]]"
-L0-1-124,車(子),车(子),chē(zi),N,"[[""車"", ""chē""], [""車子"", ""chēzi""]]"
-L0-1-125,到,到,dào,V,
-L0-1-126,去,去,qù,V,
-L0-1-127,回,回,huí,V,
-L0-1-128,坐,坐,zuò,Vi,
-L0-1-129,這裡/這裏/這兒,这里/这里/这儿,zhèlǐ/zhèr,N,"[[""這裡"", ""zhèlǐ""], [""這裏"", ""zhèlǐ""], [""這兒"", ""zhèr""]]"
-L0-1-130,那裡/那裏/那兒,那里/那里/那儿,nàlǐ/nàr,N,"[[""那裡"", ""nàlǐ""], [""那裏"", ""nàlǐ""], [""那兒"", ""nàr""]]"
-L0-1-131,哪裡/哪裏/哪兒,哪里/哪里/哪儿,nǎlǐ/nǎr,N,"[[""哪裡"", ""nǎlǐ""], [""哪裏"", ""nǎlǐ""], [""哪兒"", ""nǎr""]]"
-L0-1-132,開車,开车,kāichē,V-sep,
-L0-1-133,錢,钱,qián,N,
-L0-1-134,多少,多少,duōshǎo,N,
-L0-1-135,給,给,gěi,V,
-L0-1-136,貴,贵,guì,Vs,
-L0-1-137,便宜,便宜,piányí,Vs,
-L0-1-138,大,大,dà,Vs,
-L0-1-139,小,小,xiǎo,Vs,
-L0-1-140,難,难,nán,Vs,
-L0-1-141,容易,容易,róngyì,Vs,
-L0-1-142,有,有,yǒu,Vst,
-L0-1-143,想,想,xiǎng,Vst,
-L0-1-144,幾,几,jǐ,Det,
-L0-1-145,塊,块,kuài,M,
-L0-1-146,位,位,wèi,M,
-L0-1-147,飯,饭,fàn,N,
-L0-1-148,吃,吃,chī,V,
-L0-1-149,請,请,qǐng,V,
-L0-1-150,也,也,yě,Adv,
-L0-1-151,不,不,bù,Adv,
-L0-1-152,沒,没,méi,Adv,
-L0-1-153,都,都,dōu,Adv,
-L0-1-154,只,只,zhǐ,Adv,
-L0-1-155,可是,可是,kěshì,Conj,
-L0-1-156,還是,还是,háishì,Conj,
-L0-1-157,了,了,le,Ptc,
-L0-1-158,得,得,de,Ptc,
-L0-1-159,過,过,guò,Ptc,
-L0-1-160,沒有,没有,méiyǒu,Ptc,
-L0-2-001,男,男,nán,N,
-L0-2-002,女,女,nǚ,N,
-L0-2-003,孩子,孩子,háizi,N,
-L0-2-004,小姐,小姐,xiǎojiě,N,
-L0-2-005,先生,先生,xiānshēng,N,
-L0-2-006,太太,太太,tàitai,N,
-L0-2-007,女兒,女儿,nǚ'ér,N,
-L0-2-008,兒子,儿子,érzi,N,
-L0-2-009,大家,大家,dàjiā,N,
-L0-2-010,路,路,lù,N,
-L0-2-011,手機,手机,shǒujī,N,
-L0-2-012,明年,明年,míngnián,N,
-L0-2-013,去年,去年,qùnián,N,
-L0-2-014,生日,生日,shēngrì,N,
-L0-2-015,月,月,yuè,N,
-L0-2-016,日,日,rì,N,
-L0-2-017,星期,星期,xīngqí,N,
-L0-2-018,星期天/星期日,星期天/星期日,xīngqítiān/xīngqírì,N,"[[""星期天"", ""xīngqítiān""], [""星期日"", ""xīngqírì""]]"
-L0-2-019,禮拜天,礼拜天,lǐbàitiān,N,
-L0-2-020,週末/周末,周末/周末,zhōumò,N,"[[""週末"", ""zhōumò""], [""周末"", ""zhōumò""]]"
-L0-2-021,號,号,hào,M,
-L0-2-022,天,天,tiān,N/M,
-L0-2-023,從,从,cóng,Prep,
-L0-2-024,在,在,zài,Prep/Vst,
-L0-2-025,愛,爱,ài,Vst,
-L0-2-026,快樂,快乐,kuàilè,Vs,
-L0-2-027,太,太,tài,Adv,
-L0-2-028,公園,公园,gōngyuán,N,
-L0-2-029,國家,国家,guójiā,N,
-L0-2-030,分鐘,分钟,fēnzhōng,M,
-L0-2-031,家人,家人,jiārén,N,
-L0-2-032,胖,胖,pàng,Vs,
-L0-2-033,矮,矮,ǎi,Vs,
-L0-2-034,瘦,瘦,shòu,Vs,
-L0-2-035,萬,万,wàn,N,
-L0-2-036,鐘頭,钟头,zhōngtóu,N,
-L0-2-037,晚,晚,wǎn,N,
-L0-2-038,前天,前天,qiántiān,N,
-L0-2-039,後天,后天,hòutiān,N,
-L0-2-040,前年,前年,qiánnián,N,
-L0-2-041,後年,后年,hòunián,N,
-L0-2-042,自己,自己,zìjǐ,N,
-L0-2-043,它,它,tā,N,
-L0-2-044,它們,它们,tāmen,N,
-L0-2-045,最,最,zuì,Adv,
-L0-2-046,怕,怕,pà,Vst,
-L0-2-047,美,美,měi,Vs,
-L0-2-048,應該/應,应该/应,yīnggāi/yīng,Vaux,"[[""應該"", ""yīnggāi""], [""應"", ""yīng""]]"
-L0-2-049,真的,真的,zhēnde,Adv,
-L0-2-050,工作,工作,gōngzuò,N,
-L0-2-051,醫生/醫師,医生/医师,yīshēng/yīshī,N,"[[""醫生"", ""yīshēng""], [""醫師"", ""yīshī""]]"
-L0-2-052,一點/一點兒/一點點,一点/一点儿/一点点,yīdiǎn/yīdiǎnr/yīdiǎndiǎn,Det,"[[""一點"", ""yīdiǎn""], [""一點兒"", ""yīdiǎnr""], [""一點點"", ""yīdiǎndiǎn""]]"
-L0-2-053,一些,一些,yīxiē,Det,
-L0-2-054,本,本,běn,M,
-L0-2-055,張,张,zhāng,M,
-L0-2-056,英文,英文,yīngwén,N,
-L0-2-057,紙,纸,zhǐ,N,
-L0-2-058,問題,问题,wèntí,N,
-L0-2-059,意思,意思,yìsi,N,
-L0-2-060,餐廳/飯館,餐厅/饭馆,cāntīng/fànguǎn,N,"[[""餐廳"", ""cāntīng""], [""飯館"", ""fànguǎn""]]"
-L0-2-061,畫/畫兒,画/画儿,huà/huàr,V/N,"[[""畫"", ""huà""], [""畫兒"", ""huàr""]]"
-L0-2-062,讀,读,dú,V,
-L0-2-063,會,会,huì,Vaux,
-L0-2-064,為什麼,为什么,wèishénme,Vs,
-L0-2-065,下課,下课,xiàkè,V-sep,
-L0-2-066,說話,说话,shuōhuà,V-sep,
-L0-2-067,考試,考试,kǎoshì,V-sep/N,
-L0-2-068,懂,懂,dǒng,Vst,
-L0-2-069,念/唸,念/念,niàn,V,"[[""念"", ""niàn""], [""唸"", ""niàn""]]"
-L0-2-070,課,课,kè,N,
-L0-2-071,教,教,jiāo,V,
-L0-2-072,告訴,告诉,gàosù,V,
-L0-2-073,錯,错,cuò,Vp,
-L0-2-074,門口,门口,ménkǒu,N,
-L0-2-075,枝,枝,zhī,M,
-L0-2-076,牛,牛,niú,N,
-L0-2-077,豬,猪,zhū,N,
-L0-2-078,雨,雨,yǔ,N,
-L0-2-079,空氣,空气,kōngqì,N,
-L0-2-080,功課,功课,gōngkè,N,
-L0-2-081,教室,教室,jiàoshì,N,
-L0-2-082,句子,句子,jùzi,N,
-L0-2-083,休息,休息,xiūxí,Vi,
-L0-2-084,非常,非常,fēicháng,Adv,
-L0-2-085,房(子),房(子),fáng(zi),N,"[[""房"", ""fáng""], [""房子"", ""fángzi""]]"
-L0-2-086,房間,房间,fángjiān,N,
-L0-2-087,樓,楼,lóu,M,
-L0-2-088,門,门,mén,N,
-L0-2-089,桌(子),桌(子),zhuō(zi),N,"[[""桌"", ""zhuō""], [""桌子"", ""zhuōzi""]]"
-L0-2-090,椅(子),椅(子),yǐ(zi),N,"[[""椅"", ""yǐ""], [""椅子"", ""yǐzi""]]"
-L0-2-091,床,床,chuáng,N,
-L0-2-092,開,开,kāi,V,
-L0-2-093,低,低,dī,Vs,
-L0-2-094,不錯,不错,bùcuò,Vs,
-L0-2-095,天氣,天气,tiānqì,N,
-L0-2-096,冷,冷,lěng,Vs,
-L0-2-097,熱,热,rè,Vs,
-L0-2-098,下雨,下雨,xiàyǔ,V-sep,
-L0-2-099,風,风,fēng,N,
-L0-2-100,山,山,shān,N,
-L0-2-101,花/花兒,花/花儿,huā/huār,N,"[[""花"", ""huā""], [""花兒"", ""huār""]]"
-L0-2-102,魚,鱼,yú,N,
-L0-2-103,雞,鸡,jī,N,
-L0-2-104,咖啡,咖啡,kāfēi,N,
-L0-2-105,茶,茶,chá,N,
-L0-2-106,用,用,yòng,V,
-L0-2-107,穿,穿,chuān,V,
-L0-2-108,起床,起床,qǐchuáng,Vp,
-L0-2-109,方便,方便,fāngbiàn,Vs,
-L0-2-110,睡覺,睡觉,shuìjiào,V-sep,
-L0-2-111,起來,起来,qǐlái,Vp,
-L0-2-112,先,先,xiān,Adv,
-L0-2-113,常常/常,常常/常,chángcháng/cháng,Adv,"[[""常常"", ""chángcháng""], [""常"", ""cháng""]]"
-L0-2-114,每,每,měi,Det,
-L0-2-115,打,打,dǎ,V,
-L0-2-116,玩,玩,wán,V,
-L0-2-117,運動,运动,yùndòng,Vi/N,
-L0-2-118,走路,走路,zǒulù,V-sep,
-L0-2-119,唱歌,唱歌,chànggē,V-sep,
-L0-2-120,跳,跳,tiào,Vi,
-L0-2-121,還,还,hái,Adv,
-L0-2-122,唱,唱,chàng,V,
-L0-2-123,歌,歌,gē,N,
-L0-2-124,跳舞,跳舞,tiàowǔ,V-sep,
-L0-2-125,又,又,yòu,Adv,
-L0-2-126,球,球,qiú,N,
-L0-2-127,介紹,介绍,jièshào,V,
-L0-2-128,沒關係,没关系,méiguānxi,Vs,
-L0-2-129,事/事兒,事/事儿,shì/shìr,N,"[[""事"", ""shì""], [""事兒"", ""shìr""]]"
-L0-2-130,怎麼,怎么,zěnme,Adv,
-L0-2-131,哪,哪,nǎ,Det,
-L0-2-132,裡面/裏面,里面/里面,lǐmiàn,N,"[[""裡面"", ""lǐmiàn""], [""裏面"", ""lǐmiàn""]]"
-L0-2-133,上(面),上(面),shàng(miàn),N,"[[""上"", ""shàng""], [""上面"", ""shàngmiàn""]]"
-L0-2-134,下(面),下(面),xià(miàn),N,"[[""下"", ""xià""], [""下面"", ""xiàmiàn""]]"
-L0-2-135,外(面),外(面),wài(miàn),N,"[[""外"", ""wài""], [""外面"", ""wàimiàn""]]"
-L0-2-136,外頭,外头,wàitou,N,
-L0-2-137,前(面),前(面),qián(miàn),N,"[[""前"", ""qián""], [""前面"", ""qiánmiàn""]]"
-L0-2-138,後(面),后(面),hòu(miàn),N,"[[""後"", ""hòu""], [""後面"", ""hòumiàn""]]"
-L0-2-139,左(邊),左(边),zuǒ(biān),N,"[[""左"", ""zuǒ""], [""左邊"", ""zuǒbiān""]]"
-L0-2-140,右(邊),右(边),yòu(biān),N,"[[""右"", ""yòu""], [""右邊"", ""yòubiān""]]"
-L0-2-141,旁(邊),旁(边),páng(biān),N,"[[""旁"", ""páng""], [""旁邊"", ""pángbiān""]]"
-L0-2-142,裡/裏,里/里,lǐ,N,"[[""裡"", ""lǐ""], [""裏"", ""lǐ""]]"
-L0-2-143,中,中,zhōng,N,
-L0-2-144,地方,地方,dìfāng,N,
-L0-2-145,附近,附近,fùjìn,N,
-L0-2-146,帶,带,dài,V,
-L0-2-147,拿,拿,ná,V,
-L0-2-148,站,站,zhàn,Vi,
-L0-2-149,快,快,kuài,Vs,
-L0-2-150,慢,慢,màn,Vs,
-L0-2-151,計程車,计程车,jìchéngchē,N,
-L0-2-152,火車,火车,huǒchē,N,
-L0-2-153,飛機,飞机,fēijī,N,
-L0-2-154,輛,辆,liàng,M,
-L0-2-155,出,出,chū,V,
-L0-2-156,進,进,jìn,V,
-L0-2-157,外國,外国,wàiguó,N,
-L0-2-158,手,手,shǒu,N,
-L0-2-159,腳,脚,jiǎo,N,
-L0-2-160,身體,身体,shēntǐ,N,
-L0-2-161,眼睛,眼睛,yǎnjīng,N,
-L0-2-162,鼻(子),鼻(子),bí(zi),N,"[[""鼻"", ""bí""], [""鼻子"", ""bízi""]]"
-L0-2-163,藥,药,yào,N,
-L0-2-164,累,累,lèi,Vs,
-L0-2-165,頭,头,tóu,N,
-L0-2-166,耳朵,耳朵,ěrduo,N,
-L0-2-167,感冒,感冒,gǎnmào,Vp,
-L0-2-168,生病,生病,shēngbìng,Vp-sep,
-L0-2-169,餓,饿,è,Vs,
-L0-2-170,痛,痛,tòng,Vs,
-L0-2-171,嘴巴/嘴,嘴巴/嘴,zuǐba/zuǐ,N,"[[""嘴巴"", ""zuǐba""], [""嘴"", ""zuǐ""]]"
-L0-2-172,病,病,bìng,N,
-L0-2-173,看病,看病,kànbìng,V-sep,
-L0-2-174,元,元,yuán,M,
-L0-2-175,鞋(子),鞋(子),xié(zi),N,"[[""鞋"", ""xié""], [""鞋子"", ""xiézi""]]"
-L0-2-176,衣服/衣,衣服/衣,yīfú/yī,N,"[[""衣服"", ""yīfú""], [""衣"", ""yī""]]"
-L0-2-177,比,比,bǐ,Prep,
-L0-2-178,要,要,yào,V/Vaux,
-L0-2-179,長,长,cháng,Vs,
-L0-2-180,新,新,xīn,Vs,
-L0-2-181,一樣,一样,yīyàng,Vs,
-L0-2-182,見,见,jiàn,Vpt,
-L0-2-183,看見,看见,kànjian,V,
-L0-2-184,聽見,听见,tīngjiàn,Vpt,
-L0-2-185,店,店,diàn,N,
-L0-2-186,短,短,duǎn,Vs,
-L0-2-187,飽,饱,bǎo,Vs,
-L0-2-188,舊,旧,jiù,Vs,
-L0-2-189,像,像,xiàng,Vst,
-L0-2-190,一共/共,一共/共,yīgòng/gòng,Adv,"[[""一共"", ""yīgòng""], [""共"", ""gòng""]]"
-L0-2-191,夠,够,gòu,Vs-pred,
-L0-2-192,筷(子),筷(子),kuài(zi),N,"[[""筷"", ""kuài""], [""筷子"", ""kuàizi""]]"
-L0-2-193,有點/有一點/有一點兒,有点/有一点/有一点儿,yǒudiǎn/yǒuyīdiǎn/yǒuyīdiǎnr,Adv,"[[""有點"", ""yǒudiǎn""], [""有一點"", ""yǒuyīdiǎn""], [""有一點兒"", ""yǒuyīdiǎnr""]]"
-L0-2-194,件,件,jiàn,M,
-L0-2-195,杯,杯,bēi,M,
-L0-2-196,杯(子),杯(子),bēi(zi),N,"[[""杯"", ""bēi""], [""杯子"", ""bēizi""]]"
-L0-2-197,菜,菜,cài,N,
-L0-2-198,肉,肉,ròu,N,
-L0-2-199,酒,酒,jiǔ,N,
-L0-2-200,喝,喝,hē,V,
-L0-2-201,少,少,shǎo,Vs-pred,
-L0-2-202,多,多,duō,Vs-pred/Adv,
-L0-2-203,小吃,小吃,xiǎochī,N,
-L0-2-204,牛奶,牛奶,niúnǎi,N,
-L0-2-205,蛋,蛋,dàn,N,
-L0-2-206,餃(子),饺(子),jiǎo(zi),N,"[[""餃"", ""jiǎo""], [""餃子"", ""jiǎozi""]]"
-L0-2-207,麵,面,miàn,N,
-L0-2-208,湯,汤,tāng,N,
-L0-2-209,包子,包子,bāozi,N,
-L0-2-210,蛋糕,蛋糕,dàngāo,N,
-L0-2-211,麵包,面包,miànbāo,N,
-L0-2-212,水果,水果,shuǐguǒ,N,
-L0-2-213,香蕉,香蕉,xiāngjiāo,N,
-L0-2-214,食物,食物,shíwù,N,
-L0-2-215,飲料,饮料,yǐnliào,N,
-L0-2-216,果汁,果汁,guǒzhī,N,
-L0-2-217,甜,甜,tián,Vs,
-L0-2-218,菜單,菜单,càidān,N,
-L0-2-219,巧克力,巧克力,qiǎokèlì,N,
-L0-2-220,碗,碗,wǎn,N/M,
-L0-2-221,冰,冰,bīng,N,
-L0-2-222,一起,一起,yīqǐ,Adv,
-L0-2-223,因為,因为,yīnwèi,Conj,
-L0-2-224,和,和,hé,Conj,
-L0-2-225,所以,所以,suǒyǐ,Conj,
-L0-2-226,跟,跟,gēn,Conj,
-L0-2-227,一定,一定,yīdìng,Adv,
-L0-2-228,可能,可能,kěnéng,Vaux,
-L0-2-229,邊/邊兒,边/边儿,biān/biānr,N,"[[""邊"", ""biān""], [""邊兒"", ""biānr""]]"
-L0-2-230,別,别,bié,Adv,
-L0-2-231,馬上,马上,mǎshàng,Adv,
-L0-2-232,然後,然后,ránhòu,Adv,
-L0-2-233,得,得,děi,Vpt,
-L0-2-234,著,着,zhe,Ptc,
+L0-1001,我,我,wǒ,N,
+L0-1002,你/妳,你,nǐ,N,"[{""Traditional"": ""你"", ""Simplified"": ""你"", ""Pinyin"": ""nǐ""}, {""Traditional"": ""妳"", ""Simplified"": ""你"", ""Pinyin"": ""nǐ""}]"
+L0-1003,他/她,他/她,tā,N,"[{""Traditional"": ""他"", ""Simplified"": ""他"", ""Pinyin"": ""tā""}, {""Traditional"": ""她"", ""Simplified"": ""她"", ""Pinyin"": ""tā""}]"
+L0-1004,我們,我们,wǒmen,N,
+L0-1005,你們/妳們,你们,nǐmen,N,"[{""Traditional"": ""你們"", ""Simplified"": ""你们"", ""Pinyin"": ""nǐmen""}, {""Traditional"": ""妳們"", ""Simplified"": ""你们"", ""Pinyin"": ""nǐmen""}]"
+L0-1006,他們/她們,他们/她们,tāmen,N,"[{""Traditional"": ""他們"", ""Simplified"": ""他们"", ""Pinyin"": ""tāmen""}, {""Traditional"": ""她們"", ""Simplified"": ""她们"", ""Pinyin"": ""tāmen""}]"
+L0-1007,您,您,nín,N,
+L0-1008,誰,谁,shéi,N,
+L0-1009,姓名,姓名,xìngmíng,N,
+L0-1010,人,人,rén,N,
+L0-1011,國,国,guó,N,
+L0-1012,中國,中国,zhōngguó,N,
+L0-1013,美國,美国,měiguó,N,
+L0-1014,日本,日本,rìběn,N,
+L0-1015,台灣/臺灣,台湾,táiwān,N,"[{""Traditional"": ""台灣"", ""Simplified"": ""台湾"", ""Pinyin"": ""táiwān""}, {""Traditional"": ""臺灣"", ""Simplified"": ""台湾"", ""Pinyin"": ""táiwān""}]"
+L0-1016,名字,名字,míngzi,N,
+L0-1017,家,家,jiā,N,
+L0-1018,電話,电话,diànhuà,N,
+L0-1019,時間,时间,shíjiān,N,
+L0-1020,小時,小时,xiǎoshí,N,
+L0-1021,現在,现在,xiànzài,N,
+L0-1022,今年,今年,jīnnián,N,
+L0-1023,今天,今天,jīntiān,N,
+L0-1024,明天,明天,míngtiān,N,
+L0-1025,昨天,昨天,zuótiān,N,
+L0-1026,早上,早上,zǎoshàng,N,
+L0-1027,上午,上午,shàngwǔ,N,
+L0-1028,中午,中午,zhōngwǔ,N,
+L0-1029,下午,下午,xiàwǔ,N,
+L0-1030,晚上,晚上,wǎnshàng,N,
+L0-1031,一,一,yī,N,
+L0-1032,二,二,èr,N,
+L0-1033,三,三,sān,N,
+L0-1034,四,四,sì,N,
+L0-1035,五,五,wǔ,N,
+L0-1036,六,六,liù,N,
+L0-1037,七,七,qī,N,
+L0-1038,八,八,bā,N,
+L0-1039,九,九,jiǔ,N,
+L0-1040,十,十,shí,N,
+L0-1041,兩,两,liǎng,N,
+L0-1042,時候,时候,shíhòu,N,
+L0-1043,百,百,bǎi,N,
+L0-1044,半,半,bàn,N,
+L0-1045,千,千,qiān,N,
+L0-1046,爸爸/爸,爸爸/爸,bàba/bà,N,"[{""Traditional"": ""爸爸"", ""Simplified"": ""爸爸"", ""Pinyin"": ""bàba""}, {""Traditional"": ""爸"", ""Simplified"": ""爸"", ""Pinyin"": ""bà""}]"
+L0-1047,媽媽/媽,妈妈/妈,māma/mā,N,"[{""Traditional"": ""媽媽"", ""Simplified"": ""妈妈"", ""Pinyin"": ""māma""}, {""Traditional"": ""媽"", ""Simplified"": ""妈"", ""Pinyin"": ""mā""}]"
+L0-1048,哥哥/哥,哥哥/哥,gēge/gē,N,"[{""Traditional"": ""哥哥"", ""Simplified"": ""哥哥"", ""Pinyin"": ""gēge""}, {""Traditional"": ""哥"", ""Simplified"": ""哥"", ""Pinyin"": ""gē""}]"
+L0-1049,弟弟/弟,弟弟/弟,dìdi/dì,N,"[{""Traditional"": ""弟弟"", ""Simplified"": ""弟弟"", ""Pinyin"": ""dìdi""}, {""Traditional"": ""弟"", ""Simplified"": ""弟"", ""Pinyin"": ""dì""}]"
+L0-1050,姊姊/姐姐/姊/姐,姊姊/姐姐/姊/姐,jiějie/jiě,N,"[{""Traditional"": ""姊姊"", ""Simplified"": ""姊姊"", ""Pinyin"": ""jiějie""}, {""Traditional"": ""姐姐"", ""Simplified"": ""姐姐"", ""Pinyin"": ""jiějie""}, {""Traditional"": ""姊"", ""Simplified"": ""姊"", ""Pinyin"": ""jiě""}, {""Traditional"": ""姐"", ""Simplified"": ""姐"", ""Pinyin"": ""jiě""}]"
+L0-1051,妹妹/妹,妹妹/妹,mèimei/mèi,N,"[{""Traditional"": ""妹妹"", ""Simplified"": ""妹妹"", ""Pinyin"": ""mèimei""}, {""Traditional"": ""妹"", ""Simplified"": ""妹"", ""Pinyin"": ""mèi""}]"
+L0-1052,小孩(子),小孩(子),xiǎohái(zi),N,"[{""Traditional"": ""小孩子"", ""Simplified"": ""小孩子"", ""Pinyin"": ""xiǎoháizi""}, {""Traditional"": ""小孩"", ""Simplified"": ""小孩"", ""Pinyin"": ""xiǎohái""}]"
+L0-1053,的,的,de,Ptc,
+L0-1054,第,第,dì,Det,
+L0-1055,分,分,fēn,M,
+L0-1056,點,点,diǎn,M,
+L0-1057,個,个,ge,M,
+L0-1058,歲,岁,suì,M,
+L0-1059,年,年,nián,M,
+L0-1060,住,住,zhù,V,
+L0-1061,來,来,lái,V,
+L0-1062,是,是,shì,Vst,
+L0-1063,姓,姓,xìng,Vst,
+L0-1064,覺得,觉得,juéde,Vst,
+L0-1065,喜歡,喜欢,xǐhuān,Vst,
+L0-1066,打電話,打电话,dǎdiànhuà,Vi,
+L0-1067,漂亮,漂亮,piàoliàng,Vs,
+L0-1068,高,高,gāo,Vs,
+L0-1069,老,老,lǎo,Vs,
+L0-1070,好,好,hǎo,Adv,
+L0-1071,很,很,hěn,Adv,
+L0-1072,真,真,zhēn,Adv,
+L0-1073,電腦,电脑,diànnǎo,N,
+L0-1074,老師,老师,lǎoshī,N,
+L0-1075,買,买,mǎi,V,
+L0-1076,忙,忙,máng,Vs,
+L0-1077,學生,学生,xuéshēng,N,
+L0-1078,大學,大学,dàxué,N,
+L0-1079,學校,学校,xuéxiào,N,
+L0-1080,中文,中文,zhōngwén,N,
+L0-1081,同學,同学,tóngxué,N,
+L0-1082,字,字,zì,N,
+L0-1083,筆,笔,bǐ,N,
+L0-1084,學,学,xué,V,
+L0-1085,問,问,wèn,V,
+L0-1086,說,说,shuō,V,
+L0-1087,寫,写,xiě,V,
+L0-1088,聽,听,tīng,V,
+L0-1089,對,对,duì,Vs,
+L0-1090,能,能,néng,Vaux,
+L0-1091,可以,可以,kěyǐ,Vaux,
+L0-1092,上課,上课,shàngkè,V-sep,
+L0-1093,知道,知道,zhīdào,Vst,
+L0-1094,電視(機),电视(机),diànshì(jī),N,"[{""Traditional"": ""電視機"", ""Simplified"": ""电视机"", ""Pinyin"": ""diànshìjī""}, {""Traditional"": ""電視"", ""Simplified"": ""电视"", ""Pinyin"": ""diànshì""}]"
+L0-1095,水,水,shuǐ,N,
+L0-1096,久,久,jiǔ,Vs-pred,
+L0-1097,早,早,zǎo,Vs,
+L0-1098,再,再,zài,Adv,
+L0-1099,書,书,shū,N,
+L0-1100,電影,电影,diànyǐng,N,
+L0-1101,以前,以前,yǐqián,N,
+L0-1102,以後,以后,yǐhòu,N,
+L0-1103,走,走,zǒu,V,
+L0-1104,等,等,děng,V,
+L0-1105,看,看,kàn,V,
+L0-1106,就,就,jiù,Adv,
+L0-1107,什麼/甚麼,什么/甚么,shénme,N,"[{""Traditional"": ""什麼"", ""Simplified"": ""什么"", ""Pinyin"": ""shénme""}, {""Traditional"": ""甚麼"", ""Simplified"": ""甚么"", ""Pinyin"": ""shénme""}]"
+L0-1108,朋友,朋友,péngyǒu,N,
+L0-1109,東西,东西,dōngxi,N,
+L0-1110,吧,吧,ba,Ptc,
+L0-1111,呢,呢,ne,Ptc,
+L0-1112,嗎,吗,ma,Ptc,
+L0-1113,找,找,zhǎo,V,
+L0-1114,做,做,zuò,V,
+L0-1115,再見,再见,zàijiàn,Vi,
+L0-1116,怎麼樣,怎么样,zěnmeyàng,Vs,
+L0-1117,叫,叫,jiào,Vst/V,
+L0-1118,謝謝,谢谢,xièxie,Vst,
+L0-1119,對不起,对不起,duìbùqǐ,,
+L0-1120,請問,请问,qǐngwèn,,
+L0-1121,這,这,zhè,Det,
+L0-1122,那,那,nà,Det,
+L0-1123,公共汽車/公車,公共汽车/公车,gōnggòngqìchē/gōngchē,N,"[{""Traditional"": ""公共汽車"", ""Simplified"": ""公共汽车"", ""Pinyin"": ""gōnggòngqìchē""}, {""Traditional"": ""公車"", ""Simplified"": ""公车"", ""Pinyin"": ""gōngchē""}]"
+L0-1124,車(子),车(子),chē(zi),N,"[{""Traditional"": ""車子"", ""Simplified"": ""车子"", ""Pinyin"": ""chēzi""}, {""Traditional"": ""車"", ""Simplified"": ""车"", ""Pinyin"": ""chē""}]"
+L0-1125,到,到,dào,V,
+L0-1126,去,去,qù,V,
+L0-1127,回,回,huí,V,
+L0-1128,坐,坐,zuò,Vi,
+L0-1129,這裡/這裏/這兒,这里/这里/这儿,zhèlǐ/zhèr,N,"[{""Traditional"": ""這裡"", ""Simplified"": ""这里"", ""Pinyin"": ""zhèlǐ""}, {""Traditional"": ""這裏"", ""Simplified"": ""这里"", ""Pinyin"": ""zhèlǐ""}, {""Traditional"": ""這兒"", ""Simplified"": ""这儿"", ""Pinyin"": ""zhèr""}]"
+L0-1130,那裡/那裏/那兒,那里/那里/那儿,nàlǐ/nàr,N,"[{""Traditional"": ""那裡"", ""Simplified"": ""那里"", ""Pinyin"": ""nàlǐ""}, {""Traditional"": ""那裏"", ""Simplified"": ""那里"", ""Pinyin"": ""nàlǐ""}, {""Traditional"": ""那兒"", ""Simplified"": ""那儿"", ""Pinyin"": ""nàr""}]"
+L0-1131,哪裡/哪裏/哪兒,哪里/哪里/哪儿,nǎlǐ/nǎr,N,"[{""Traditional"": ""哪裡"", ""Simplified"": ""哪里"", ""Pinyin"": ""nǎlǐ""}, {""Traditional"": ""哪裏"", ""Simplified"": ""哪里"", ""Pinyin"": ""nǎlǐ""}, {""Traditional"": ""哪兒"", ""Simplified"": ""哪儿"", ""Pinyin"": ""nǎr""}]"
+L0-1132,開車,开车,kāichē,V-sep,
+L0-1133,錢,钱,qián,N,
+L0-1134,多少,多少,duōshǎo,N,
+L0-1135,給,给,gěi,V,
+L0-1136,貴,贵,guì,Vs,
+L0-1137,便宜,便宜,piányí,Vs,
+L0-1138,大,大,dà,Vs,
+L0-1139,小,小,xiǎo,Vs,
+L0-1140,難,难,nán,Vs,
+L0-1141,容易,容易,róngyì,Vs,
+L0-1142,有,有,yǒu,Vst,
+L0-1143,想,想,xiǎng,Vst,
+L0-1144,幾,几,jǐ,Det,
+L0-1145,塊,块,kuài,M,
+L0-1146,位,位,wèi,M,
+L0-1147,飯,饭,fàn,N,
+L0-1148,吃,吃,chī,V,
+L0-1149,請,请,qǐng,V,
+L0-1150,也,也,yě,Adv,
+L0-1151,不,不,bù,Adv,
+L0-1152,沒,没,méi,Adv,
+L0-1153,都,都,dōu,Adv,
+L0-1154,只,只,zhǐ,Adv,
+L0-1155,可是,可是,kěshì,Conj,
+L0-1156,還是,还是,háishì,Conj,
+L0-1157,了,了,le,Ptc,
+L0-1158,得,得,de,Ptc,
+L0-1159,過,过,guò,Ptc,
+L0-1160,沒有,没有,méiyǒu,Ptc,
+L0-2001,男,男,nán,N,
+L0-2002,女,女,nǚ,N,
+L0-2003,孩子,孩子,háizi,N,
+L0-2004,小姐,小姐,xiǎojiě,N,
+L0-2005,先生,先生,xiānshēng,N,
+L0-2006,太太,太太,tàitai,N,
+L0-2007,女兒,女儿,nǚ'ér,N,
+L0-2008,兒子,儿子,érzi,N,
+L0-2009,大家,大家,dàjiā,N,
+L0-2010,路,路,lù,N,
+L0-2011,手機,手机,shǒujī,N,
+L0-2012,明年,明年,míngnián,N,
+L0-2013,去年,去年,qùnián,N,
+L0-2014,生日,生日,shēngrì,N,
+L0-2015,月,月,yuè,N,
+L0-2016,日,日,rì,N,
+L0-2017,星期,星期,xīngqí,N,
+L0-2018,星期天/星期日,星期天/星期日,xīngqítiān/xīngqírì,N,"[{""Traditional"": ""星期天"", ""Simplified"": ""星期天"", ""Pinyin"": ""xīngqítiān""}, {""Traditional"": ""星期日"", ""Simplified"": ""星期日"", ""Pinyin"": ""xīngqírì""}]"
+L0-2019,禮拜天,礼拜天,lǐbàitiān,N,
+L0-2020,週末/周末,周末,zhōumò,N,"[{""Traditional"": ""週末"", ""Simplified"": ""周末"", ""Pinyin"": ""zhōumò""}, {""Traditional"": ""周末"", ""Simplified"": ""周末"", ""Pinyin"": ""zhōumò""}]"
+L0-2021,號,号,hào,M,
+L0-2022,天,天,tiān,N/M,
+L0-2023,從,从,cóng,Prep,
+L0-2024,在,在,zài,Prep/Vst,
+L0-2025,愛,爱,ài,Vst,
+L0-2026,快樂,快乐,kuàilè,Vs,
+L0-2027,太,太,tài,Adv,
+L0-2028,公園,公园,gōngyuán,N,
+L0-2029,國家,国家,guójiā,N,
+L0-2030,分鐘,分钟,fēnzhōng,M,
+L0-2031,家人,家人,jiārén,N,
+L0-2032,胖,胖,pàng,Vs,
+L0-2033,矮,矮,ǎi,Vs,
+L0-2034,瘦,瘦,shòu,Vs,
+L0-2035,萬,万,wàn,N,
+L0-2036,鐘頭,钟头,zhōngtóu,N,
+L0-2037,晚,晚,wǎn,N,
+L0-2038,前天,前天,qiántiān,N,
+L0-2039,後天,后天,hòutiān,N,
+L0-2040,前年,前年,qiánnián,N,
+L0-2041,後年,后年,hòunián,N,
+L0-2042,自己,自己,zìjǐ,N,
+L0-2043,它,它,tā,N,
+L0-2044,它們,它们,tāmen,N,
+L0-2045,最,最,zuì,Adv,
+L0-2046,怕,怕,pà,Vst,
+L0-2047,美,美,měi,Vs,
+L0-2048,應該/應,应该/应,yīnggāi/yīng,Vaux,"[{""Traditional"": ""應該"", ""Simplified"": ""应该"", ""Pinyin"": ""yīnggāi""}, {""Traditional"": ""應"", ""Simplified"": ""应"", ""Pinyin"": ""yīng""}]"
+L0-2049,真的,真的,zhēnde,Adv,
+L0-2050,工作,工作,gōngzuò,N,
+L0-2051,醫生/醫師,医生/医师,yīshēng/yīshī,N,"[{""Traditional"": ""醫生"", ""Simplified"": ""医生"", ""Pinyin"": ""yīshēng""}, {""Traditional"": ""醫師"", ""Simplified"": ""医师"", ""Pinyin"": ""yīshī""}]"
+L0-2052,一點/一點兒/一點點,一点/一点儿/一点点,yīdiǎn/yīdiǎnr/yīdiǎndiǎn,Det,"[{""Traditional"": ""一點"", ""Simplified"": ""一点"", ""Pinyin"": ""yīdiǎn""}, {""Traditional"": ""一點兒"", ""Simplified"": ""一点儿"", ""Pinyin"": ""yīdiǎnr""}, {""Traditional"": ""一點點"", ""Simplified"": ""一点点"", ""Pinyin"": ""yīdiǎndiǎn""}]"
+L0-2053,一些,一些,yīxiē,Det,
+L0-2054,本,本,běn,M,
+L0-2055,張,张,zhāng,M,
+L0-2056,英文,英文,yīngwén,N,
+L0-2057,紙,纸,zhǐ,N,
+L0-2058,問題,问题,wèntí,N,
+L0-2059,意思,意思,yìsi,N,
+L0-2060,餐廳/飯館,餐厅/饭馆,cāntīng/fànguǎn,N,"[{""Traditional"": ""餐廳"", ""Simplified"": ""餐厅"", ""Pinyin"": ""cāntīng""}, {""Traditional"": ""飯館"", ""Simplified"": ""饭馆"", ""Pinyin"": ""fànguǎn""}]"
+L0-2061,畫/畫兒,画/画儿,huà/huàr,V/N,"[{""Traditional"": ""畫"", ""Simplified"": ""画"", ""Pinyin"": ""huà""}, {""Traditional"": ""畫兒"", ""Simplified"": ""画儿"", ""Pinyin"": ""huàr""}]"
+L0-2062,讀,读,dú,V,
+L0-2063,會,会,huì,Vaux,
+L0-2064,為什麼,为什么,wèishénme,Vs,
+L0-2065,下課,下课,xiàkè,V-sep,
+L0-2066,說話,说话,shuōhuà,V-sep,
+L0-2067,考試,考试,kǎoshì,V-sep/N,
+L0-2068,懂,懂,dǒng,Vst,
+L0-2069,念/唸,念,niàn,V,"[{""Traditional"": ""念"", ""Simplified"": ""念"", ""Pinyin"": ""niàn""}, {""Traditional"": ""唸"", ""Simplified"": ""念"", ""Pinyin"": ""niàn""}]"
+L0-2070,課,课,kè,N,
+L0-2071,教,教,jiāo,V,
+L0-2072,告訴,告诉,gàosù,V,
+L0-2073,錯,错,cuò,Vp,
+L0-2074,門口,门口,ménkǒu,N,
+L0-2075,枝,枝,zhī,M,
+L0-2076,牛,牛,niú,N,
+L0-2077,豬,猪,zhū,N,
+L0-2078,雨,雨,yǔ,N,
+L0-2079,空氣,空气,kōngqì,N,
+L0-2080,功課,功课,gōngkè,N,
+L0-2081,教室,教室,jiàoshì,N,
+L0-2082,句子,句子,jùzi,N,
+L0-2083,休息,休息,xiūxí,Vi,
+L0-2084,非常,非常,fēicháng,Adv,
+L0-2085,房(子),房(子),fáng(zi),N,"[{""Traditional"": ""房子"", ""Simplified"": ""房子"", ""Pinyin"": ""fángzi""}, {""Traditional"": ""房"", ""Simplified"": ""房"", ""Pinyin"": ""fáng""}]"
+L0-2086,房間,房间,fángjiān,N,
+L0-2087,樓,楼,lóu,M,
+L0-2088,門,门,mén,N,
+L0-2089,桌(子),桌(子),zhuō(zi),N,"[{""Traditional"": ""桌子"", ""Simplified"": ""桌子"", ""Pinyin"": ""zhuōzi""}, {""Traditional"": ""桌"", ""Simplified"": ""桌"", ""Pinyin"": ""zhuō""}]"
+L0-2090,椅(子),椅(子),yǐ(zi),N,"[{""Traditional"": ""椅子"", ""Simplified"": ""椅子"", ""Pinyin"": ""yǐzi""}, {""Traditional"": ""椅"", ""Simplified"": ""椅"", ""Pinyin"": ""yǐ""}]"
+L0-2091,床,床,chuáng,N,
+L0-2092,開,开,kāi,V,
+L0-2093,低,低,dī,Vs,
+L0-2094,不錯,不错,bùcuò,Vs,
+L0-2095,天氣,天气,tiānqì,N,
+L0-2096,冷,冷,lěng,Vs,
+L0-2097,熱,热,rè,Vs,
+L0-2098,下雨,下雨,xiàyǔ,V-sep,
+L0-2099,風,风,fēng,N,
+L0-2100,山,山,shān,N,
+L0-2101,花/花兒,花/花儿,huā/huār,N,"[{""Traditional"": ""花"", ""Simplified"": ""花"", ""Pinyin"": ""huā""}, {""Traditional"": ""花兒"", ""Simplified"": ""花儿"", ""Pinyin"": ""huār""}]"
+L0-2102,魚,鱼,yú,N,
+L0-2103,雞,鸡,jī,N,
+L0-2104,咖啡,咖啡,kāfēi,N,
+L0-2105,茶,茶,chá,N,
+L0-2106,用,用,yòng,V,
+L0-2107,穿,穿,chuān,V,
+L0-2108,起床,起床,qǐchuáng,Vp,
+L0-2109,方便,方便,fāngbiàn,Vs,
+L0-2110,睡覺,睡觉,shuìjiào,V-sep,
+L0-2111,起來,起来,qǐlái,Vp,
+L0-2112,先,先,xiān,Adv,
+L0-2113,常常/常,常常/常,chángcháng/cháng,Adv,"[{""Traditional"": ""常常"", ""Simplified"": ""常常"", ""Pinyin"": ""chángcháng""}, {""Traditional"": ""常"", ""Simplified"": ""常"", ""Pinyin"": ""cháng""}]"
+L0-2114,每,每,měi,Det,
+L0-2115,打,打,dǎ,V,
+L0-2116,玩,玩,wán,V,
+L0-2117,運動,运动,yùndòng,Vi/N,
+L0-2118,走路,走路,zǒulù,V-sep,
+L0-2119,唱歌,唱歌,chànggē,V-sep,
+L0-2120,跳,跳,tiào,Vi,
+L0-2121,還,还,hái,Adv,
+L0-2122,唱,唱,chàng,V,
+L0-2123,歌,歌,gē,N,
+L0-2124,跳舞,跳舞,tiàowǔ,V-sep,
+L0-2125,又,又,yòu,Adv,
+L0-2126,球,球,qiú,N,
+L0-2127,介紹,介绍,jièshào,V,
+L0-2128,沒關係,没关系,méiguānxi,Vs,
+L0-2129,事/事兒,事/事儿,shì/shìr,N,"[{""Traditional"": ""事"", ""Simplified"": ""事"", ""Pinyin"": ""shì""}, {""Traditional"": ""事兒"", ""Simplified"": ""事儿"", ""Pinyin"": ""shìr""}]"
+L0-2130,怎麼,怎么,zěnme,Adv,
+L0-2131,哪,哪,nǎ,Det,
+L0-2132,裡面/裏面,里面,lǐmiàn,N,"[{""Traditional"": ""裡面"", ""Simplified"": ""里面"", ""Pinyin"": ""lǐmiàn""}, {""Traditional"": ""裏面"", ""Simplified"": ""里面"", ""Pinyin"": ""lǐmiàn""}]"
+L0-2133,上(面),上(面),shàng(miàn),N,"[{""Traditional"": ""上面"", ""Simplified"": ""上面"", ""Pinyin"": ""shàngmiàn""}, {""Traditional"": ""上"", ""Simplified"": ""上"", ""Pinyin"": ""shàng""}]"
+L0-2134,下(面),下(面),xià(miàn),N,"[{""Traditional"": ""下面"", ""Simplified"": ""下面"", ""Pinyin"": ""xiàmiàn""}, {""Traditional"": ""下"", ""Simplified"": ""下"", ""Pinyin"": ""xià""}]"
+L0-2135,外(面),外(面),wài(miàn),N,"[{""Traditional"": ""外面"", ""Simplified"": ""外面"", ""Pinyin"": ""wàimiàn""}, {""Traditional"": ""外"", ""Simplified"": ""外"", ""Pinyin"": ""wài""}]"
+L0-2136,外頭,外头,wàitou,N,
+L0-2137,前(面),前(面),qián(miàn),N,"[{""Traditional"": ""前面"", ""Simplified"": ""前面"", ""Pinyin"": ""qiánmiàn""}, {""Traditional"": ""前"", ""Simplified"": ""前"", ""Pinyin"": ""qián""}]"
+L0-2138,後(面),后(面),hòu(miàn),N,"[{""Traditional"": ""後面"", ""Simplified"": ""后面"", ""Pinyin"": ""hòumiàn""}, {""Traditional"": ""後"", ""Simplified"": ""后"", ""Pinyin"": ""hòu""}]"
+L0-2139,左(邊),左(边),zuǒ(biān),N,"[{""Traditional"": ""左邊"", ""Simplified"": ""左边"", ""Pinyin"": ""zuǒbiān""}, {""Traditional"": ""左"", ""Simplified"": ""左"", ""Pinyin"": ""zuǒ""}]"
+L0-2140,右(邊),右(边),yòu(biān),N,"[{""Traditional"": ""右邊"", ""Simplified"": ""右边"", ""Pinyin"": ""yòubiān""}, {""Traditional"": ""右"", ""Simplified"": ""右"", ""Pinyin"": ""yòu""}]"
+L0-2141,旁(邊),旁(边),páng(biān),N,"[{""Traditional"": ""旁邊"", ""Simplified"": ""旁边"", ""Pinyin"": ""pángbiān""}, {""Traditional"": ""旁"", ""Simplified"": ""旁"", ""Pinyin"": ""páng""}]"
+L0-2142,裡/裏,里,lǐ,N,"[{""Traditional"": ""裡"", ""Simplified"": ""里"", ""Pinyin"": ""lǐ""}, {""Traditional"": ""裏"", ""Simplified"": ""里"", ""Pinyin"": ""lǐ""}]"
+L0-2143,中,中,zhōng,N,
+L0-2144,地方,地方,dìfāng,N,
+L0-2145,附近,附近,fùjìn,N,
+L0-2146,帶,带,dài,V,
+L0-2147,拿,拿,ná,V,
+L0-2148,站,站,zhàn,Vi,
+L0-2149,快,快,kuài,Vs,
+L0-2150,慢,慢,màn,Vs,
+L0-2151,計程車,计程车,jìchéngchē,N,
+L0-2152,火車,火车,huǒchē,N,
+L0-2153,飛機,飞机,fēijī,N,
+L0-2154,輛,辆,liàng,M,
+L0-2155,出,出,chū,V,
+L0-2156,進,进,jìn,V,
+L0-2157,外國,外国,wàiguó,N,
+L0-2158,手,手,shǒu,N,
+L0-2159,腳,脚,jiǎo,N,
+L0-2160,身體,身体,shēntǐ,N,
+L0-2161,眼睛,眼睛,yǎnjīng,N,
+L0-2162,鼻(子),鼻(子),bí(zi),N,"[{""Traditional"": ""鼻子"", ""Simplified"": ""鼻子"", ""Pinyin"": ""bízi""}, {""Traditional"": ""鼻"", ""Simplified"": ""鼻"", ""Pinyin"": ""bí""}]"
+L0-2163,藥,药,yào,N,
+L0-2164,累,累,lèi,Vs,
+L0-2165,頭,头,tóu,N,
+L0-2166,耳朵,耳朵,ěrduo,N,
+L0-2167,感冒,感冒,gǎnmào,Vp,
+L0-2168,生病,生病,shēngbìng,Vp-sep,
+L0-2169,餓,饿,è,Vs,
+L0-2170,痛,痛,tòng,Vs,
+L0-2171,嘴巴/嘴,嘴巴/嘴,zuǐba/zuǐ,N,"[{""Traditional"": ""嘴巴"", ""Simplified"": ""嘴巴"", ""Pinyin"": ""zuǐba""}, {""Traditional"": ""嘴"", ""Simplified"": ""嘴"", ""Pinyin"": ""zuǐ""}]"
+L0-2172,病,病,bìng,N,
+L0-2173,看病,看病,kànbìng,V-sep,
+L0-2174,元,元,yuán,M,
+L0-2175,鞋(子),鞋(子),xié(zi),N,"[{""Traditional"": ""鞋子"", ""Simplified"": ""鞋子"", ""Pinyin"": ""xiézi""}, {""Traditional"": ""鞋"", ""Simplified"": ""鞋"", ""Pinyin"": ""xié""}]"
+L0-2176,衣服/衣,衣服/衣,yīfú/yī,N,"[{""Traditional"": ""衣服"", ""Simplified"": ""衣服"", ""Pinyin"": ""yīfú""}, {""Traditional"": ""衣"", ""Simplified"": ""衣"", ""Pinyin"": ""yī""}]"
+L0-2177,比,比,bǐ,Prep,
+L0-2178,要,要,yào,V/Vaux,
+L0-2179,長,长,cháng,Vs,
+L0-2180,新,新,xīn,Vs,
+L0-2181,一樣,一样,yīyàng,Vs,
+L0-2182,見,见,jiàn,Vpt,
+L0-2183,看見,看见,kànjian,V,
+L0-2184,聽見,听见,tīngjiàn,Vpt,
+L0-2185,店,店,diàn,N,
+L0-2186,短,短,duǎn,Vs,
+L0-2187,飽,饱,bǎo,Vs,
+L0-2188,舊,旧,jiù,Vs,
+L0-2189,像,像,xiàng,Vst,
+L0-2190,一共/共,一共/共,yīgòng/gòng,Adv,"[{""Traditional"": ""一共"", ""Simplified"": ""一共"", ""Pinyin"": ""yīgòng""}, {""Traditional"": ""共"", ""Simplified"": ""共"", ""Pinyin"": ""gòng""}]"
+L0-2191,夠,够,gòu,Vs-pred,
+L0-2192,筷(子),筷(子),kuài(zi),N,"[{""Traditional"": ""筷子"", ""Simplified"": ""筷子"", ""Pinyin"": ""kuàizi""}, {""Traditional"": ""筷"", ""Simplified"": ""筷"", ""Pinyin"": ""kuài""}]"
+L0-2193,有點/有一點/有一點兒,有点/有一点/有一点儿,yǒudiǎn/yǒuyīdiǎn/yǒuyīdiǎnr,Adv,"[{""Traditional"": ""有點"", ""Simplified"": ""有点"", ""Pinyin"": ""yǒudiǎn""}, {""Traditional"": ""有一點"", ""Simplified"": ""有一点"", ""Pinyin"": ""yǒuyīdiǎn""}, {""Traditional"": ""有一點兒"", ""Simplified"": ""有一点儿"", ""Pinyin"": ""yǒuyīdiǎnr""}]"
+L0-2194,件,件,jiàn,M,
+L0-2195,杯,杯,bēi,M,
+L0-2196,杯(子),杯(子),bēi(zi),N,"[{""Traditional"": ""杯子"", ""Simplified"": ""杯子"", ""Pinyin"": ""bēizi""}, {""Traditional"": ""杯"", ""Simplified"": ""杯"", ""Pinyin"": ""bēi""}]"
+L0-2197,菜,菜,cài,N,
+L0-2198,肉,肉,ròu,N,
+L0-2199,酒,酒,jiǔ,N,
+L0-2200,喝,喝,hē,V,
+L0-2201,少,少,shǎo,Vs-pred,
+L0-2202,多,多,duō,Vs-pred/Adv,
+L0-2203,小吃,小吃,xiǎochī,N,
+L0-2204,牛奶,牛奶,niúnǎi,N,
+L0-2205,蛋,蛋,dàn,N,
+L0-2206,餃(子),饺(子),jiǎo(zi),N,"[{""Traditional"": ""餃子"", ""Simplified"": ""饺子"", ""Pinyin"": ""jiǎozi""}, {""Traditional"": ""餃"", ""Simplified"": ""饺"", ""Pinyin"": ""jiǎo""}]"
+L0-2207,麵,面,miàn,N,
+L0-2208,湯,汤,tāng,N,
+L0-2209,包子,包子,bāozi,N,
+L0-2210,蛋糕,蛋糕,dàngāo,N,
+L0-2211,麵包,面包,miànbāo,N,
+L0-2212,水果,水果,shuǐguǒ,N,
+L0-2213,香蕉,香蕉,xiāngjiāo,N,
+L0-2214,食物,食物,shíwù,N,
+L0-2215,飲料,饮料,yǐnliào,N,
+L0-2216,果汁,果汁,guǒzhī,N,
+L0-2217,甜,甜,tián,Vs,
+L0-2218,菜單,菜单,càidān,N,
+L0-2219,巧克力,巧克力,qiǎokèlì,N,
+L0-2220,碗,碗,wǎn,N/M,
+L0-2221,冰,冰,bīng,N,
+L0-2222,一起,一起,yīqǐ,Adv,
+L0-2223,因為,因为,yīnwèi,Conj,
+L0-2224,和,和,hé,Conj,
+L0-2225,所以,所以,suǒyǐ,Conj,
+L0-2226,跟,跟,gēn,Conj,
+L0-2227,一定,一定,yīdìng,Adv,
+L0-2228,可能,可能,kěnéng,Vaux,
+L0-2229,邊/邊兒,边/边儿,biān/biānr,N,"[{""Traditional"": ""邊"", ""Simplified"": ""边"", ""Pinyin"": ""biān""}, {""Traditional"": ""邊兒"", ""Simplified"": ""边儿"", ""Pinyin"": ""biānr""}]"
+L0-2230,別,别,bié,Adv,
+L0-2231,馬上,马上,mǎshàng,Adv,
+L0-2232,然後,然后,ránhòu,Adv,
+L0-2233,得,得,děi,Vpt,
+L0-2234,著,着,zhe,Ptc,
 L1-0001,零,零,líng,N,
 L1-0002,爺爺,爷爷,yéye,N,
 L1-0003,奶奶,奶奶,nǎinai,N,
@@ -409,18 +409,18 @@ L1-0013,哪,哪,na,Ptc,
 L1-0014,地址,地址,dìzhǐ,N,
 L1-0015,市,市,shì,N,
 L1-0016,名,名,míng,M,
-L1-0017,城市/城,城市/城,chéngshì/chéng,N,"[[""城市"", ""chéngshì""], [""城"", ""chéng""]]"
+L1-0017,城市/城,城市/城,chéngshì/chéng,N,"[{""Traditional"": ""城市"", ""Simplified"": ""城市"", ""Pinyin"": ""chéngshì""}, {""Traditional"": ""城"", ""Simplified"": ""城"", ""Pinyin"": ""chéng""}]"
 L1-0018,街,街,jiē,N,
 L1-0019,電子郵件,电子邮件,diànzǐyóujiàn,N,
 L1-0020,禮拜,礼拜,lǐbài,N,
 L1-0021,從前,从前,cóngqián,N,
-L1-0022,剛剛/剛,刚刚/刚,gānggāng/gāng,Adv,"[[""剛剛"", ""gānggāng""], [""剛"", ""gāng""]]"
-L1-0023,一會兒/一會,一会儿/一会,yīhuǐr/yīhuǐ,N,"[[""一會兒"", ""yīhuǐr""], [""一會"", ""yīhuǐ""]]"
+L1-0022,剛剛/剛,刚刚/刚,gānggāng/gāng,Adv,"[{""Traditional"": ""剛剛"", ""Simplified"": ""刚刚"", ""Pinyin"": ""gānggāng""}, {""Traditional"": ""剛"", ""Simplified"": ""刚"", ""Pinyin"": ""gāng""}]"
+L1-0023,一會兒/一會,一会儿/一会,yīhuǐr/yīhuǐ,N,"[{""Traditional"": ""一會兒"", ""Simplified"": ""一会儿"", ""Pinyin"": ""yīhuǐr""}, {""Traditional"": ""一會"", ""Simplified"": ""一会"", ""Pinyin"": ""yīhuǐ""}]"
 L1-0024,結婚,结婚,jiéhūn,Vp-sep,
-L1-0025,春天/春,春天/春,chūntiān/chūn,N,"[[""春天"", ""chūntiān""], [""春"", ""chūn""]]"
-L1-0026,夏天/夏,夏天/夏,xiàtiān/xià,N,"[[""夏天"", ""xiàtiān""], [""夏"", ""xià""]]"
-L1-0027,秋天/秋,秋天/秋,qiūtiān/qiū,N,"[[""秋天"", ""qiūtiān""], [""秋"", ""qiū""]]"
-L1-0028,冬天/冬,冬天/冬,dōngtiān/dōng,N,"[[""冬天"", ""dōngtiān""], [""冬"", ""dōng""]]"
+L1-0025,春天/春,春天/春,chūntiān/chūn,N,"[{""Traditional"": ""春天"", ""Simplified"": ""春天"", ""Pinyin"": ""chūntiān""}, {""Traditional"": ""春"", ""Simplified"": ""春"", ""Pinyin"": ""chūn""}]"
+L1-0026,夏天/夏,夏天/夏,xiàtiān/xià,N,"[{""Traditional"": ""夏天"", ""Simplified"": ""夏天"", ""Pinyin"": ""xiàtiān""}, {""Traditional"": ""夏"", ""Simplified"": ""夏"", ""Pinyin"": ""xià""}]"
+L1-0027,秋天/秋,秋天/秋,qiūtiān/qiū,N,"[{""Traditional"": ""秋天"", ""Simplified"": ""秋天"", ""Pinyin"": ""qiūtiān""}, {""Traditional"": ""秋"", ""Simplified"": ""秋"", ""Pinyin"": ""qiū""}]"
+L1-0028,冬天/冬,冬天/冬,dōngtiān/dōng,N,"[{""Traditional"": ""冬天"", ""Simplified"": ""冬天"", ""Pinyin"": ""dōngtiān""}, {""Traditional"": ""冬"", ""Simplified"": ""冬"", ""Pinyin"": ""dōng""}]"
 L1-0029,笑,笑,xiào,Vi,
 L1-0030,哭,哭,kū,Vi,
 L1-0031,高興,高兴,gāoxìng,Vs,
@@ -442,14 +442,14 @@ L1-0046,辦公室,办公室,bàngōngshì,N,
 L1-0047,工人,工人,gōngrén,N,
 L1-0048,護士,护士,hùshì,N,
 L1-0049,司機,司机,sījī,N,
-L1-0050,老闆/老板,老板/老板,lǎobǎn,N,"[[""老闆"", ""lǎobǎn""], [""老板"", ""lǎobǎn""]]"
+L1-0050,老闆/老板,老板,lǎobǎn,N,"[{""Traditional"": ""老闆"", ""Simplified"": ""老板"", ""Pinyin"": ""lǎobǎn""}, {""Traditional"": ""老板"", ""Simplified"": ""老板"", ""Pinyin"": ""lǎobǎn""}]"
 L1-0051,上班,上班,shàngbān,V-sep,
 L1-0052,下班,下班,xiàbān,V-sep,
 L1-0053,能力,能力,nénglì,N,
 L1-0054,努力,努力,nǔlì,Vs,
 L1-0055,準備,准备,zhǔnbèi,V,
 L1-0056,打算,打算,dǎsuàn,Vaux,
-L1-0057,計畫/計劃,计划/计划,jìhuà,V/N,"[[""計畫"", ""jìhuà""], [""計劃"", ""jìhuà""]]"
+L1-0057,計畫/計劃,计划,jìhuà,V/N,"[{""Traditional"": ""計畫"", ""Simplified"": ""计划"", ""Pinyin"": ""jìhuà""}, {""Traditional"": ""計劃"", ""Simplified"": ""计划"", ""Pinyin"": ""jìhuà""}]"
 L1-0058,機會,机会,jīhuì,N,
 L1-0059,如果,如果,rúguǒ,Conj,
 L1-0060,小學,小学,xiǎoxué,N,
@@ -461,7 +461,7 @@ L1-0065,年級,年级,niánjí,N,
 L1-0066,作業,作业,zuòyè,N,
 L1-0067,成績,成绩,chéngjī,N,
 L1-0068,語言,语言,yǔyán,N,
-L1-0069,華語/華文,华语/华文,huáyǔ/huáwén,N,"[[""華語"", ""huáyǔ""], [""華文"", ""huáwén""]]"
+L1-0069,華語/華文,华语/华文,huáyǔ/huáwén,N,"[{""Traditional"": ""華語"", ""Simplified"": ""华语"", ""Pinyin"": ""huáyǔ""}, {""Traditional"": ""華文"", ""Simplified"": ""华文"", ""Pinyin"": ""huáwén""}]"
 L1-0070,黑板,黑板,hēibǎn,N,
 L1-0071,課本,课本,kèběn,N,
 L1-0072,字典,字典,zìdiǎn,N,
@@ -471,7 +471,7 @@ L1-0075,回答,回答,huídá,V/N,
 L1-0076,答,答,dá,V,
 L1-0077,句,句,jù,M,
 L1-0078,圖,图,tú,N,
-L1-0079,部分/部份,部分/部份,bùfen,Det/N,"[[""部分"", ""bùfen""], [""部份"", ""bùfen""]]"
+L1-0079,部分/部份,部分/部份,bùfen,Det/N,"[{""Traditional"": ""部分"", ""Simplified"": ""部分"", ""Pinyin"": ""bùfen""}, {""Traditional"": ""部份"", ""Simplified"": ""部份"", ""Pinyin"": ""bùfen""}]"
 L1-0080,想法,想法,xiǎngfǎ,N,
 L1-0081,學習,学习,xuéxí,V,
 L1-0082,練習,练习,liànxí,V/N,
@@ -496,9 +496,9 @@ L1-0100,方法,方法,fāngfǎ,N,
 L1-0101,有用,有用,yǒuyòng,Vs,
 L1-0102,進步,进步,jìnbù,Vp,
 L1-0103,圖書館,图书馆,túshūguǎn,N,
-L1-0104,洗手間/廁所,洗手间/厕所,xǐshǒujiān/cèsuǒ,N,"[[""洗手間"", ""xǐshǒujiān""], [""廁所"", ""cèsuǒ""]]"
+L1-0104,洗手間/廁所,洗手间/厕所,xǐshǒujiān/cèsuǒ,N,"[{""Traditional"": ""洗手間"", ""Simplified"": ""洗手间"", ""Pinyin"": ""xǐshǒujiān""}, {""Traditional"": ""廁所"", ""Simplified"": ""厕所"", ""Pinyin"": ""cèsuǒ""}]"
 L1-0105,宿舍,宿舍,sùshè,N,
-L1-0106,屋(子),屋(子),wū(zi),N,"[[""屋"", ""wū""], [""屋子"", ""wūzi""]]"
+L1-0106,屋(子),屋(子),wū(zi),N,"[{""Traditional"": ""屋子"", ""Simplified"": ""屋子"", ""Pinyin"": ""wūzi""}, {""Traditional"": ""屋"", ""Simplified"": ""屋"", ""Pinyin"": ""wū""}]"
 L1-0107,間,间,jiān,M,
 L1-0108,大樓,大楼,dàlóu,N,
 L1-0109,樓上,楼上,lóushàng,N,
@@ -507,13 +507,13 @@ L1-0111,樓梯,楼梯,lóutī,N,
 L1-0112,電梯,电梯,diàntī,N,
 L1-0113,廚房,厨房,chúfáng,N,
 L1-0114,客廳,客厅,kètīng,N,
-L1-0115,窗(子)/窗戶,窗(子)/窗户,chuāng(zi)/chuānghu,N,"[[""窗"", ""chuāng""], [""窗子"", ""chuāngzi""], [""窗戶"", ""chuānghu""]]"
+L1-0115,窗(子)/窗戶,窗(子)/窗户,chuāng(zi)/chuānghu,N,"[{""Traditional"": ""窗子"", ""Simplified"": ""窗子"", ""Pinyin"": ""chuāngzi""}, {""Traditional"": ""窗"", ""Simplified"": ""窗"", ""Pinyin"": ""chuāng""}, {""Traditional"": ""窗戶"", ""Simplified"": ""窗户"", ""Pinyin"": ""chuānghu""}]"
 L1-0116,家具,家具,jiājù,N,
 L1-0117,沙發,沙发,shāfā,N,
-L1-0118,盒/盒(子),盒/盒(子),hé/hézi,M/N,"[[""盒"", ""hé"", ""M""], [""盒子"", ""hézi"", ""N""]]"
+L1-0118,盒/盒(子),盒/盒(子),hé/hézi,M/N,"[{""Traditional"": ""盒"", ""Simplified"": ""盒"", ""Pinyin"": ""hé"", ""POS"": ""M""}, {""Traditional"": ""盒子"", ""Simplified"": ""盒子"", ""Pinyin"": ""hézi"", ""POS"": ""N""}]"
 L1-0119,關,关,guān,V,
 L1-0120,燈,灯,dēng,N,
-L1-0121,冷氣(機),冷气(机),lěngqì(jī),N,"[[""冷氣"", ""lěngqì""], [""冷氣機"", ""lěngqìjī""]]"
+L1-0121,冷氣(機),冷气(机),lěngqì(jī),N,"[{""Traditional"": ""冷氣機"", ""Simplified"": ""冷气机"", ""Pinyin"": ""lěngqìjī""}, {""Traditional"": ""冷氣"", ""Simplified"": ""冷气"", ""Pinyin"": ""lěngqì""}]"
 L1-0122,冰箱,冰箱,bīngxiāng,N,
 L1-0123,台,台,tái,M,
 L1-0124,電,电,diàn,N,
@@ -539,7 +539,7 @@ L1-0143,長,长,zhǎng,Vs,
 L1-0144,太陽,太阳,tàiyáng,N,
 L1-0145,洗,洗,xǐ,V,
 L1-0146,洗澡,洗澡,xǐzǎo,V-sep,
-L1-0147,有空/有空兒,有空/有空儿,yǒukòng/yǒukòngr,Vs,"[[""有空"", ""yǒukòng""], [""有空兒"", ""yǒukòngr""]]"
+L1-0147,有空/有空兒,有空/有空儿,yǒukòng/yǒukòngr,Vs,"[{""Traditional"": ""有空"", ""Simplified"": ""有空"", ""Pinyin"": ""yǒukòng""}, {""Traditional"": ""有空兒"", ""Simplified"": ""有空儿"", ""Pinyin"": ""yǒukòngr""}]"
 L1-0148,發現,发现,fāxiàn,Vp/N,
 L1-0149,餐,餐,cān,N,
 L1-0150,搬,搬,bān,V,
@@ -548,7 +548,7 @@ L1-0152,脫,脱,tuō,V,
 L1-0153,過年,过年,guònián,Vi,
 L1-0154,新年,新年,xīnnián,N,
 L1-0155,游泳,游泳,yóuyǒng,V-sep,
-L1-0156,跑/跑步,跑/跑步,pǎo/pǎobù,Vi,"[[""跑"", ""pǎo""], [""跑步"", ""pǎobù""]]"
+L1-0156,跑/跑步,跑/跑步,pǎo/pǎobù,Vi,"[{""Traditional"": ""跑"", ""Simplified"": ""跑"", ""Pinyin"": ""pǎo""}, {""Traditional"": ""跑步"", ""Simplified"": ""跑步"", ""Pinyin"": ""pǎobù""}]"
 L1-0157,踢,踢,tī,V,
 L1-0158,足球,足球,zúqiú,N,
 L1-0159,籃球,篮球,lánqiú,N,
@@ -557,7 +557,7 @@ L1-0161,棒球,棒球,bàngqiú,N,
 L1-0162,比賽,比赛,bǐsài,Vi/N,
 L1-0163,開始,开始,kāishǐ,Vp,
 L1-0164,騎,骑,qí,V,
-L1-0165,腳踏車/自行車,脚踏车/自行车,jiǎotàchē/zìxíngchē,N,"[[""腳踏車"", ""jiǎotàchē""], [""自行車"", ""zìxíngchē""]]"
+L1-0165,腳踏車/自行車,脚踏车/自行车,jiǎotàchē/zìxíngchē,N,"[{""Traditional"": ""腳踏車"", ""Simplified"": ""脚踏车"", ""Pinyin"": ""jiǎotàchē""}, {""Traditional"": ""自行車"", ""Simplified"": ""自行车"", ""Pinyin"": ""zìxíngchē""}]"
 L1-0166,上網,上网,shàngwǎng,V-sep,
 L1-0167,網路,网路,wǎnglù,N,
 L1-0168,網站,网站,wǎngzhàn,N,
@@ -570,8 +570,8 @@ L1-0174,音樂,音乐,yīnyuè,N,
 L1-0175,票,票,piào,N,
 L1-0176,活動,活动,huódòng,N,
 L1-0177,故事,故事,gùshi,N,
-L1-0178,聊天/聊天兒,聊天/聊天儿,liáotiān/liáotiānr,V-sep,"[[""聊天"", ""liáotiān""], [""聊天兒"", ""liáotiānr""]]"
-L1-0179,有時候/有時,有时候/有时,yǒushíhou/yǒushí,Adv,"[[""有時候"", ""yǒushíhou""], [""有時"", ""yǒushí""]]"
+L1-0178,聊天/聊天兒,聊天/聊天儿,liáotiān/liáotiānr,V-sep,"[{""Traditional"": ""聊天"", ""Simplified"": ""聊天"", ""Pinyin"": ""liáotiān""}, {""Traditional"": ""聊天兒"", ""Simplified"": ""聊天儿"", ""Pinyin"": ""liáotiānr""}]"
+L1-0179,有時候/有時,有时候/有时,yǒushíhou/yǒushí,Adv,"[{""Traditional"": ""有時候"", ""Simplified"": ""有时候"", ""Pinyin"": ""yǒushíhou""}, {""Traditional"": ""有時"", ""Simplified"": ""有时"", ""Pinyin"": ""yǒushí""}]"
 L1-0180,平常,平常,píngcháng,N,
 L1-0181,總是,总是,zǒngshì,Adv,
 L1-0182,已經,已经,yǐjīng,Adv,
@@ -610,7 +610,7 @@ L1-0214,啊,啊,ā,Ptc,
 L1-0215,怎麼辦,怎么办,zěnmebàn,,
 L1-0216,車站,车站,chēzhàn,N,
 L1-0217,汽車,汽车,qìchē,N,
-L1-0218,飛機場/機場,飞机场/机场,fēijīchǎng/jīchǎng,N,"[[""飛機場"", ""fēijīchǎng""], [""機場"", ""jīchǎng""]]"
+L1-0218,飛機場/機場,飞机场/机场,fēijīchǎng/jīchǎng,N,"[{""Traditional"": ""飛機場"", ""Simplified"": ""飞机场"", ""Pinyin"": ""fēijīchǎng""}, {""Traditional"": ""機場"", ""Simplified"": ""机场"", ""Pinyin"": ""jīchǎng""}]"
 L1-0219,馬路,马路,mǎlù,N,
 L1-0220,路口,路口,lùkǒu,N,
 L1-0221,十字路口,十字路口,shízìlùkǒu,N,
@@ -621,14 +621,14 @@ L1-0225,旅館,旅馆,lǚguǎn,N,
 L1-0226,袋子,袋子,dàizi,N,
 L1-0227,參觀,参观,cānguān,V,
 L1-0228,地圖,地图,dìtú,N,
-L1-0229,照相機/相機,照相机/相机,zhàoxiàngjī/xiàngjī,N,"[[""照相機"", ""zhàoxiàngjī""], [""相機"", ""xiàngjī""]]"
+L1-0229,照相機/相機,照相机/相机,zhàoxiàngjī/xiàngjī,N,"[{""Traditional"": ""照相機"", ""Simplified"": ""照相机"", ""Pinyin"": ""zhàoxiàngjī""}, {""Traditional"": ""相機"", ""Simplified"": ""相机"", ""Pinyin"": ""xiàngjī""}]"
 L1-0230,照相,照相,zhàoxiàng,V-sep,
-L1-0231,照片/相片/相片兒,照片/相片/相片儿,zhàopiàn/xiàngpiàn/xiàngpiànr,N,"[[""照片"", ""zhàopiàn""], [""相片"", ""xiàngpiàn""], [""相片兒"", ""xiàngpiànr""]]"
+L1-0231,照片/相片/相片兒,照片/相片/相片儿,zhàopiàn/xiàngpiàn/xiàngpiànr,N,"[{""Traditional"": ""照片"", ""Simplified"": ""照片"", ""Pinyin"": ""zhàopiàn""}, {""Traditional"": ""相片"", ""Simplified"": ""相片"", ""Pinyin"": ""xiàngpiàn""}, {""Traditional"": ""相片兒"", ""Simplified"": ""相片儿"", ""Pinyin"": ""xiàngpiànr""}]"
 L1-0232,風景,风景,fēngjǐng,N,
-L1-0233,南/南部,南/南部,nán/nánbù,N,"[[""南"", ""nán""], [""南部"", ""nánbù""]]"
-L1-0234,西/西部,西/西部,xī/xībù,N,"[[""西"", ""xī""], [""西部"", ""xībù""]]"
-L1-0235,北/北部,北/北部,běi/běibù,N,"[[""北"", ""běi""], [""北部"", ""běibù""]]"
-L1-0236,東/東部,东/东部,dōng/dōngbù,N,"[[""東"", ""dōng""], [""東部"", ""dōngbù""]]"
+L1-0233,南/南部,南/南部,nán/nánbù,N,"[{""Traditional"": ""南"", ""Simplified"": ""南"", ""Pinyin"": ""nán""}, {""Traditional"": ""南部"", ""Simplified"": ""南部"", ""Pinyin"": ""nánbù""}]"
+L1-0234,西/西部,西/西部,xī/xībù,N,"[{""Traditional"": ""西"", ""Simplified"": ""西"", ""Pinyin"": ""xī""}, {""Traditional"": ""西部"", ""Simplified"": ""西部"", ""Pinyin"": ""xībù""}]"
+L1-0235,北/北部,北/北部,běi/běibù,N,"[{""Traditional"": ""北"", ""Simplified"": ""北"", ""Pinyin"": ""běi""}, {""Traditional"": ""北部"", ""Simplified"": ""北部"", ""Pinyin"": ""běibù""}]"
+L1-0236,東/東部,东/东部,dōng/dōngbù,N,"[{""Traditional"": ""東"", ""Simplified"": ""东"", ""Pinyin"": ""dōng""}, {""Traditional"": ""東部"", ""Simplified"": ""东部"", ""Pinyin"": ""dōngbù""}]"
 L1-0237,中間,中间,zhōngjiān,N,
 L1-0238,離,离,lí,Prep,
 L1-0239,離開,离开,líkāi,Vp,
@@ -644,9 +644,9 @@ L1-0248,掉,掉,diào,Vpt,
 L1-0249,一直,一直,yīzhí,Adv,
 L1-0250,最後,最后,zuìhòu,N,
 L1-0251,病人,病人,bìngrén,N,
-L1-0252,頭髮/髮,头发/发,tóufǎ/fǎ,N,"[[""頭髮"", ""tóufǎ""], [""髮"", ""fǎ""]]"
-L1-0253,手指(頭)/指頭,手指(头)/指头,shǒuzhǐ(tou)/zhǐtou,N,"[[""手指"", ""shǒuzhǐ""], [""手指頭"", ""shǒuzhǐtou""], [""指頭"", ""zhǐtou""]]"
-L1-0254,肚(子),肚(子),dù(zi),N,"[[""肚"", ""dù""], [""肚子"", ""dùzi""]]"
+L1-0252,頭髮/髮,头发/发,tóufǎ/fǎ,N,"[{""Traditional"": ""頭髮"", ""Simplified"": ""头发"", ""Pinyin"": ""tóufǎ""}, {""Traditional"": ""髮"", ""Simplified"": ""发"", ""Pinyin"": ""fǎ""}]"
+L1-0253,手指(頭)/指頭,手指(头)/指头,shǒuzhǐ(tou)/zhǐtou,N,"[{""Traditional"": ""手指頭"", ""Simplified"": ""手指头"", ""Pinyin"": ""shǒuzhǐtou""}, {""Traditional"": ""手指"", ""Simplified"": ""手指"", ""Pinyin"": ""shǒuzhǐ""}, {""Traditional"": ""指頭"", ""Simplified"": ""指头"", ""Pinyin"": ""zhǐtou""}]"
+L1-0254,肚(子),肚(子),dù(zi),N,"[{""Traditional"": ""肚子"", ""Simplified"": ""肚子"", ""Pinyin"": ""dùzi""}, {""Traditional"": ""肚"", ""Simplified"": ""肚"", ""Pinyin"": ""dù""}]"
 L1-0255,臉,脸,liǎn,N,
 L1-0256,心,心,xīn,N,
 L1-0257,健康,健康,jiànkāng,Vs/N,
@@ -659,23 +659,23 @@ L1-0263,希望,希望,xīwàng,Vst,
 L1-0264,書店,书店,shūdiàn,N,
 L1-0265,商店,商店,shāngdiàn,N,
 L1-0266,市場,市场,shìchǎng,N,
-L1-0267,超級市場/超市,超级市场/超市,chāojíshìchǎng/chāoshì,N,"[[""超級市場"", ""chāojíshìchǎng""], [""超市"", ""chāoshì""]]"
+L1-0267,超級市場/超市,超级市场/超市,chāojíshìchǎng/chāoshì,N,"[{""Traditional"": ""超級市場"", ""Simplified"": ""超级市场"", ""Pinyin"": ""chāojíshìchǎng""}, {""Traditional"": ""超市"", ""Simplified"": ""超市"", ""Pinyin"": ""chāoshì""}]"
 L1-0268,信用卡,信用卡,xìnyòngkǎ,N,
 L1-0269,重要,重要,zhòngyào,Vs,
 L1-0270,顏色,颜色,yánsè,N,
 L1-0271,黃色,黄色,huángsè,N,
 L1-0272,白色,白色,báisè,N,
-L1-0273,手錶/手表/錶/表,手表/手表/表/表,shǒubiǎo/biǎo,N,"[[""手錶"", ""shǒubiǎo""], [""手表"", ""shǒubiǎo""], [""錶"", ""biǎo""], [""表"", ""biǎo""]]"
-L1-0274,襪(子),袜(子),wà(zi),N,"[[""襪"", ""wà""], [""襪子"", ""wàzi""]]"
+L1-0273,手錶/手表/錶/表,手表/手表/表/表,shǒubiǎo/biǎo,N,"[{""Traditional"": ""手錶"", ""Simplified"": ""手表"", ""Pinyin"": ""shǒubiǎo""}, {""Traditional"": ""手表"", ""Simplified"": ""手表"", ""Pinyin"": ""shǒubiǎo""}, {""Traditional"": ""錶"", ""Simplified"": ""表"", ""Pinyin"": ""biǎo""}, {""Traditional"": ""表"", ""Simplified"": ""表"", ""Pinyin"": ""biǎo""}]"
+L1-0274,襪(子),袜(子),wà(zi),N,"[{""Traditional"": ""襪子"", ""Simplified"": ""袜子"", ""Pinyin"": ""wàzi""}, {""Traditional"": ""襪"", ""Simplified"": ""袜"", ""Pinyin"": ""wà""}]"
 L1-0275,雙,双,shuāng,M,
-L1-0276,裙(子),裙(子),qún(zi),N,"[[""裙"", ""qún""], [""裙子"", ""qúnzi""]]"
-L1-0277,褲(子),裤(子),kù(zi),N,"[[""褲"", ""kù""], [""褲子"", ""kùzi""]]"
+L1-0276,裙(子),裙(子),qún(zi),N,"[{""Traditional"": ""裙子"", ""Simplified"": ""裙子"", ""Pinyin"": ""qúnzi""}, {""Traditional"": ""裙"", ""Simplified"": ""裙"", ""Pinyin"": ""qún""}]"
+L1-0277,褲(子),裤(子),kù(zi),N,"[{""Traditional"": ""褲子"", ""Simplified"": ""裤子"", ""Pinyin"": ""kùzi""}, {""Traditional"": ""褲"", ""Simplified"": ""裤"", ""Pinyin"": ""kù""}]"
 L1-0278,大衣,大衣,dàyī,N,
-L1-0279,帽(子),帽(子),mào(zi),N,"[[""帽"", ""mào""], [""帽子"", ""màozi""]]"
+L1-0279,帽(子),帽(子),mào(zi),N,"[{""Traditional"": ""帽子"", ""Simplified"": ""帽子"", ""Pinyin"": ""màozi""}, {""Traditional"": ""帽"", ""Simplified"": ""帽"", ""Pinyin"": ""mào""}]"
 L1-0280,皮包,皮包,píbāo,N,
 L1-0281,外套,外套,wàitào,N,
 L1-0282,小心,小心,xiǎoxīn,Vs,
-L1-0283,比較/較,比较/较,bǐjiào/jiào,Adv,"[[""比較"", ""bǐjiào""], [""較"", ""jiào""]]"
+L1-0283,比較/較,比较/较,bǐjiào/jiào,Adv,"[{""Traditional"": ""比較"", ""Simplified"": ""比较"", ""Pinyin"": ""bǐjiào""}, {""Traditional"": ""較"", ""Simplified"": ""较"", ""Pinyin"": ""jiào""}]"
 L1-0284,差不多,差不多,chabùduō,Vs/Adv,
 L1-0285,戴,戴,dài,V,
 L1-0286,試,试,shì,V,
@@ -684,8 +684,8 @@ L1-0288,重,重,zhòng,Vs,
 L1-0289,樣子,样子,yàngzi,N,
 L1-0290,特別,特别,tèbié,Vs,
 L1-0291,簡單,简单,jiǎndān,Vs,
-L1-0292,其他/其它,其他/其它,qítā,Det,"[[""其他"", ""qítā""], [""其它"", ""qítā""]]"
-L1-0293,聲音/聲,声音/声,shēngyīn,N,"[[""聲音"", ""shēngyīn""], [""聲"", ""shēng""]]"
+L1-0292,其他/其它,其他/其它,qítā,Det,"[{""Traditional"": ""其他"", ""Simplified"": ""其他"", ""Pinyin"": ""qítā""}, {""Traditional"": ""其它"", ""Simplified"": ""其它"", ""Pinyin"": ""qítā""}]"
+L1-0293,聲音/聲,声音/声,shēngyīn,N,"[{""Traditional"": ""聲音"", ""Simplified"": ""声音"", ""Pinyin"": ""shēngyīn""}, {""Traditional"": ""聲"", ""Simplified"": ""声"", ""Pinyin"": ""shēng""}]"
 L1-0294,好像,好像,hǎoxiàng,Adv,
 L1-0295,奇怪,奇怪,qíguài,Vs,
 L1-0296,三明治,三明治,sānmíngzhì,N,
@@ -698,16 +698,16 @@ L1-0302,點心,点心,diǎnxīn,N,
 L1-0303,冰淇淋,冰淇淋,bīngqílín,N,
 L1-0304,青菜,青菜,qīngcài,N,
 L1-0305,糖,糖,táng,N,
-L1-0306,叉(子),叉(子),chā(zi),N,"[[""叉"", ""chā""], [""叉子"", ""chāzi""]]"
-L1-0307,刀(子),刀(子),dāo(zi),N,"[[""刀"", ""dāo""], [""刀子"", ""dāozi""]]"
+L1-0306,叉(子),叉(子),chā(zi),N,"[{""Traditional"": ""叉子"", ""Simplified"": ""叉子"", ""Pinyin"": ""chāzi""}, {""Traditional"": ""叉"", ""Simplified"": ""叉"", ""Pinyin"": ""chā""}]"
+L1-0307,刀(子),刀(子),dāo(zi),N,"[{""Traditional"": ""刀子"", ""Simplified"": ""刀子"", ""Pinyin"": ""dāozi""}, {""Traditional"": ""刀"", ""Simplified"": ""刀"", ""Pinyin"": ""dāo""}]"
 L1-0308,湯匙,汤匙,tāngchí,N,
-L1-0309,盤/盤(子),盘/盘(子),pán(zi),M/N,"[[""盤"", ""pán"", ""M""], [""盤子"", ""pánzi"", ""N""]]"
+L1-0309,盤/盤(子),盘/盘(子),pán(zi),M/N,"[{""Traditional"": ""盤"", ""Simplified"": ""盘"", ""Pinyin"": ""pán"", ""POS"": ""M""}, {""Traditional"": ""盤子"", ""Simplified"": ""盘子"", ""Pinyin"": ""pánzi"", ""POS"": ""N""}]"
 L1-0310,片,片,piàn,M,
-L1-0311,瓶/瓶(子),瓶/瓶(子),píng(zi),M/N,"[[""瓶"", ""píng"", ""M""], [""瓶子"", ""píngzi"", ""N""]]"
+L1-0311,瓶/瓶(子),瓶/瓶(子),píng(zi),M/N,"[{""Traditional"": ""瓶"", ""Simplified"": ""瓶"", ""Pinyin"": ""píng"", ""POS"": ""M""}, {""Traditional"": ""瓶子"", ""Simplified"": ""瓶子"", ""Pinyin"": ""píngzi"", ""POS"": ""N""}]"
 L1-0312,支,支,zhī,M,
 L1-0313,份,份,fèn,M,
 L1-0314,道,道,dào,M,
-L1-0315,一半/一半兒,一半/一半儿,yībàn/yībànr,Det,"[[""一半"", ""yībàn""], [""一半兒"", ""yībànr""]]"
+L1-0315,一半/一半兒,一半/一半儿,yībàn/yībànr,Det,"[{""Traditional"": ""一半"", ""Simplified"": ""一半"", ""Pinyin"": ""yībàn""}, {""Traditional"": ""一半兒"", ""Simplified"": ""一半儿"", ""Pinyin"": ""yībànr""}]"
 L1-0316,味道,味道,wèidào,N,
 L1-0317,酸,酸,suān,Vs,
 L1-0318,苦,苦,kǔ,Vs,
@@ -722,7 +722,7 @@ L1-0326,所有,所有,suǒyǒu,Det,
 L1-0327,需要,需要,xūyào,Vst,
 L1-0328,烤,烤,kǎo,V,
 L1-0329,過,过,guò,V,
-L1-0330,但是/但,但是/但,dànshì/dàn,Conj,"[[""但是"", ""dànshì""], [""但"", ""dàn""]]"
+L1-0330,但是/但,但是/但,dànshì/dàn,Conj,"[{""Traditional"": ""但是"", ""Simplified"": ""但是"", ""Pinyin"": ""dànshì""}, {""Traditional"": ""但"", ""Simplified"": ""但"", ""Pinyin"": ""dàn""}]"
 L1-0331,或是,或是,huòshì,Conj,
 L1-0332,要是,要是,yàoshì,Conj,
 L1-0333,把,把,bǎ,Ptc,
@@ -737,7 +737,7 @@ L1-0341,呀,呀,yā,Ptc,
 L1-0342,以為,以为,yǐwéi,V,
 L1-0343,有的,有的,yǒude,Det,
 L1-0344,替,替,tì,Prep,
-L1-0345,一下(子)/一下子兒,一下(子)/一下子儿,yīxià(zi)/yīxiàzir,N,"[[""一下"", ""yīxià""], [""一下子"", ""yīxiàzi""], [""一下子兒"", ""yīxiàzir""]]"
+L1-0345,一下(子)/一下子兒,一下(子)/一下子儿,yīxià(zi)/yīxiàzir,N,"[{""Traditional"": ""一下子"", ""Simplified"": ""一下子"", ""Pinyin"": ""yīxiàzi""}, {""Traditional"": ""一下"", ""Simplified"": ""一下"", ""Pinyin"": ""yīxià""}, {""Traditional"": ""一下子兒"", ""Simplified"": ""一下子儿"", ""Pinyin"": ""yīxiàzir""}]"
 L1-0346,不過,不过,bùguò,Adv/Conj,
 L1-0347,地,地,de,Ptc,
 L2-0001,出生,出生,chūshēng,Vp,
@@ -746,7 +746,7 @@ L2-0003,住址,住址,zhùzhǐ,N,
 L2-0004,母語,母语,mǔyǔ,N,
 L2-0005,表,表,biǎo,N,
 L2-0006,鐘,钟,zhōng,M,
-L2-0007,鐘/時鐘,钟/时钟,zhōng/shízhōng,N,"[[""鐘"", ""zhōng""], [""時鐘"", ""shízhōng""]]"
+L2-0007,鐘/時鐘,钟/时钟,zhōng/shízhōng,N,"[{""Traditional"": ""鐘"", ""Simplified"": ""钟"", ""Pinyin"": ""zhōng""}, {""Traditional"": ""時鐘"", ""Simplified"": ""时钟"", ""Pinyin"": ""shízhōng""}]"
 L2-0008,傳真,传真,chuánzhēn,N,
 L2-0009,白天,白天,báitian,N,
 L2-0010,半夜,半夜,bànyè,N,
@@ -767,10 +767,10 @@ L2-0024,母親,母亲,mǔqīn,N,
 L2-0025,父母,父母,fùmǔ,N,
 L2-0026,外公,外公,wàigōng,N,
 L2-0027,外婆,外婆,wàipó,N,
-L2-0028,伯伯/伯,伯伯/伯,bóbo/bó,N,"[[""伯伯"", ""bóbo""], [""伯"", ""bó""]]"
+L2-0028,伯伯/伯,伯伯/伯,bóbo/bó,N,"[{""Traditional"": ""伯伯"", ""Simplified"": ""伯伯"", ""Pinyin"": ""bóbo""}, {""Traditional"": ""伯"", ""Simplified"": ""伯"", ""Pinyin"": ""bó""}]"
 L2-0029,伯父,伯父,bófù,N,
 L2-0030,伯母,伯母,bómǔ,N,
-L2-0031,叔叔/叔,叔叔/叔,shúshu/shú,N,"[[""叔叔"", ""shúshu""], [""叔"", ""shú""]]"
+L2-0031,叔叔/叔,叔叔/叔,shúshu/shú,N,"[{""Traditional"": ""叔叔"", ""Simplified"": ""叔叔"", ""Pinyin"": ""shúshu""}, {""Traditional"": ""叔"", ""Simplified"": ""叔"", ""Pinyin"": ""shú""}]"
 L2-0032,姑姑,姑姑,gūgu,N,
 L2-0033,孫女,孙女,sūnnǚ,N,
 L2-0034,孫子,孙子,sūnzi,N,
@@ -806,7 +806,7 @@ L2-0063,成功,成功,chénggōng,Vs,
 L2-0064,報告,报告,bàogào,V/N,
 L2-0065,資料,资料,zīliào,N,
 L2-0066,管理,管理,guǎnlǐ,V,
-L2-0067,做法/作法,做法/作法,zuòfǎ,N,"[[""做法"", ""zuòfǎ""], [""作法"", ""zuòfǎ""]]"
+L2-0067,做法/作法,做法/作法,zuòfǎ,N,"[{""Traditional"": ""做法"", ""Simplified"": ""做法"", ""Pinyin"": ""zuòfǎ""}, {""Traditional"": ""作法"", ""Simplified"": ""作法"", ""Pinyin"": ""zuòfǎ""}]"
 L2-0068,看法,看法,kànfǎ,N,
 L2-0069,辦,办,bàn,V,
 L2-0070,打工,打工,dǎgōng,V-sep,
@@ -816,11 +816,11 @@ L2-0073,正式,正式,zhèngshì,Vs,
 L2-0074,查,查,chá,V,
 L2-0075,考,考,kǎo,V,
 L2-0076,例如,例如,lìrú,Prep,
-L2-0077,例(子),例(子),lì(zi),N,"[[""例"", ""lì""], [""例子"", ""lìzi""]]"
+L2-0077,例(子),例(子),lì(zi),N,"[{""Traditional"": ""例子"", ""Simplified"": ""例子"", ""Pinyin"": ""lìzi""}, {""Traditional"": ""例"", ""Simplified"": ""例"", ""Pinyin"": ""lì""}]"
 L2-0078,題目,题目,tímù,N,
 L2-0079,題,题,tí,M,
 L2-0080,答案,答案,dá'àn,N,
-L2-0081,念書/唸書,念书/念书,niànshū,V-sep,"[[""念書"", ""niànshū""], [""唸書"", ""niànshū""]]"
+L2-0081,念書/唸書,念书,niànshū,V-sep,"[{""Traditional"": ""念書"", ""Simplified"": ""念书"", ""Pinyin"": ""niànshū""}, {""Traditional"": ""唸書"", ""Simplified"": ""念书"", ""Pinyin"": ""niànshū""}]"
 L2-0082,歷史,历史,lìshǐ,N,
 L2-0083,數學,数学,shùxué,N,
 L2-0084,書法,书法,shūfǎ,N,
@@ -857,7 +857,7 @@ L2-0114,本子,本子,běnzi,N,
 L2-0115,尺,尺,chǐ,N,
 L2-0116,討論,讨论,tǎolùn,V,
 L2-0117,同意,同意,tóngyì,Vst,
-L2-0118,了解/瞭解,了解/了解,liǎojiě,Vst,"[[""了解"", ""liǎojiě""], [""瞭解"", ""liǎojiě""]]"
+L2-0118,了解/瞭解,了解,liǎojiě,Vst,"[{""Traditional"": ""了解"", ""Simplified"": ""了解"", ""Pinyin"": ""liǎojiě""}, {""Traditional"": ""瞭解"", ""Simplified"": ""了解"", ""Pinyin"": ""liǎojiě""}]"
 L2-0119,無聊,无聊,wúliáo,Vs,
 L2-0120,有趣,有趣,yǒuqù,Vs,
 L2-0121,有意思,有意思,yǒuyìsi,Vs,
@@ -880,14 +880,14 @@ L2-0137,座,座,zuò,M,
 L2-0138,臥室,卧室,wòshì,N,
 L2-0139,臥房,卧房,wòfáng,N,
 L2-0140,浴室,浴室,yùshì,N,
-L2-0141,院(子),院(子),yuàn(zi),N,"[[""院"", ""yuàn""], [""院子"", ""yuànzi""]]"
+L2-0141,院(子),院(子),yuàn(zi),N,"[{""Traditional"": ""院子"", ""Simplified"": ""院子"", ""Pinyin"": ""yuànzi""}, {""Traditional"": ""院"", ""Simplified"": ""院"", ""Pinyin"": ""yuàn""}]"
 L2-0142,書房,书房,shūfáng,N,
 L2-0143,洗衣機,洗衣机,xǐyījī,N,
 L2-0144,餐桌,餐桌,cānzhuō,N,
 L2-0145,打開,打开,dǎkāi,Vp,
-L2-0146,箱/箱(子),箱/箱(子),xiāng/xiāng(zi),M/N,"[[""箱"", ""xiāng"", ""M""], [""箱子"", ""xiāngzi"", ""N""]]"
+L2-0146,箱/箱(子),箱/箱(子),xiāng/xiāng(zi),M/N,"[{""Traditional"": ""箱"", ""Simplified"": ""箱"", ""Pinyin"": ""xiāng"", ""POS"": ""M""}, {""Traditional"": ""箱子"", ""Simplified"": ""箱子"", ""Pinyin"": ""xiāngzi"", ""POS"": ""N""}]"
 L2-0147,層,层,céng,M,
-L2-0148,櫃(子),柜(子),guì(zi),N,"[[""櫃"", ""guì""], [""櫃子"", ""guìzi""]]"
+L2-0148,櫃(子),柜(子),guì(zi),N,"[{""Traditional"": ""櫃子"", ""Simplified"": ""柜子"", ""Pinyin"": ""guìzi""}, {""Traditional"": ""櫃"", ""Simplified"": ""柜"", ""Pinyin"": ""guì""}]"
 L2-0149,大門,大门,dàmén,N,
 L2-0150,鄰居,邻居,línjū,N,
 L2-0151,熱鬧,热闹,rènao,Vs,
@@ -901,7 +901,7 @@ L2-0158,鄉下,乡下,xiāngxià,N,
 L2-0159,傘,伞,sǎn,N,
 L2-0160,花,花,huā,V,
 L2-0161,朵,朵,duǒ,M,
-L2-0162,蚊(子),蚊(子),wén(zi),N,"[[""蚊"", ""wén""], [""蚊子"", ""wénzi""]]"
+L2-0162,蚊(子),蚊(子),wén(zi),N,"[{""Traditional"": ""蚊子"", ""Simplified"": ""蚊子"", ""Pinyin"": ""wénzi""}, {""Traditional"": ""蚊"", ""Simplified"": ""蚊"", ""Pinyin"": ""wén""}]"
 L2-0163,自然,自然,zìrán,Vs,
 L2-0164,月亮,月亮,yuèliàng,N,
 L2-0165,星星,星星,xīngxing,N,
@@ -911,7 +911,7 @@ L2-0168,暖和,暖和,nuǎnhuo,Vs,
 L2-0169,涼快,凉快,liángkuài,Vs,
 L2-0170,涼,凉,liáng,Vs,
 L2-0171,乾,干,gān,Vp,
-L2-0172,濕/溼,湿/湿,shī,Vs,"[[""濕"", ""shī""], [""溼"", ""shī""]]"
+L2-0172,濕/溼,湿,shī,Vs,"[{""Traditional"": ""濕"", ""Simplified"": ""湿"", ""Pinyin"": ""shī""}, {""Traditional"": ""溼"", ""Simplified"": ""湿"", ""Pinyin"": ""shī""}]"
 L2-0173,度,度,dù,M,
 L2-0174,颱風,台风,táifēng,N,
 L2-0175,季節,季节,jìjié,N,
@@ -934,11 +934,11 @@ L2-0191,枕頭,枕头,zhěntou,N,
 L2-0192,鬧鐘,闹钟,nàozhōng,N,
 L2-0193,拖鞋,拖鞋,tuōxié,N,
 L2-0194,毛巾,毛巾,máojīn,N,
-L2-0195,刷(子)/刷,刷(子)/刷,shuā(zi)/shuā,N/V,"[[""刷"", ""shuā"", ""N""], [""刷子"", ""shuāzi"", ""N""], [""刷"", ""shuā"", ""V""]]"
+L2-0195,刷(子)/刷,刷(子)/刷,shuā(zi)/shuā,N/V,"[{""Traditional"": ""刷"", ""Simplified"": ""刷"", ""Pinyin"": ""shuā"", ""POS"": ""N""}, {""Traditional"": ""刷子"", ""Simplified"": ""刷子"", ""Pinyin"": ""shuāzi"", ""POS"": ""N""}, {""Traditional"": ""刷"", ""Simplified"": ""刷"", ""Pinyin"": ""shuā"", ""POS"": ""V""}]"
 L2-0196,肥皂,肥皂,féizào,N,
 L2-0197,牙膏,牙膏,yágāo,N,
 L2-0198,衛生紙,卫生纸,wèishēngzhǐ,N,
-L2-0199,籃(子),篮(子),lán(zi),N,"[[""籃"", ""lán""], [""籃子"", ""lánzi""]]"
+L2-0199,籃(子),篮(子),lán(zi),N,"[{""Traditional"": ""籃子"", ""Simplified"": ""篮子"", ""Pinyin"": ""lánzi""}, {""Traditional"": ""籃"", ""Simplified"": ""篮"", ""Pinyin"": ""lán""}]"
 L2-0200,假日,假日,jiàrì,N,
 L2-0201,結束,结束,jiéshù,Vp,
 L2-0202,完,完,wán,Vp,
@@ -971,7 +971,7 @@ L2-0228,舞,舞,wǔ,N,
 L2-0229,游,游,yóu,Vi,
 L2-0230,游泳池,游泳池,yóuyǒngchí,N,
 L2-0231,遊戲,游戏,yóuxì,N/Vi,
-L2-0232,茶館/茶館兒,茶馆/茶馆儿,cháguǎn/cháguǎnr,N,"[[""茶館"", ""cháguǎn""], [""茶館兒"", ""cháguǎnr""]]"
+L2-0232,茶館/茶館兒,茶馆/茶馆儿,cháguǎn/cháguǎnr,N,"[{""Traditional"": ""茶館"", ""Simplified"": ""茶馆"", ""Pinyin"": ""cháguǎn""}, {""Traditional"": ""茶館兒"", ""Simplified"": ""茶馆儿"", ""Pinyin"": ""cháguǎnr""}]"
 L2-0233,門票,门票,ménpiào,N,
 L2-0234,陪,陪,péi,V,
 L2-0235,利用,利用,lìyòng,V,
@@ -998,7 +998,7 @@ L2-0255,偷,偷,tōu,V,
 L2-0256,滿,满,mǎn,Vp,
 L2-0257,丟,丢,diū,V,
 L2-0258,換,换,huàn,V,
-L2-0259,一塊/一塊兒,一块/一块儿,yīkuài/yīkuàir,Adv,"[[""一塊"", ""yīkuài""], [""一塊兒"", ""yīkuàir""]]"
+L2-0259,一塊/一塊兒,一块/一块儿,yīkuài/yīkuàir,Adv,"[{""Traditional"": ""一塊"", ""Simplified"": ""一块"", ""Pinyin"": ""yīkuài""}, {""Traditional"": ""一塊兒"", ""Simplified"": ""一块儿"", ""Pinyin"": ""yīkuàir""}]"
 L2-0260,同時,同时,tóngshí,N,
 L2-0261,保護,保护,bǎohù,V,
 L2-0262,出門,出门,chūmén,V-sep,
@@ -1026,8 +1026,8 @@ L2-0283,到處,到处,dàochù,Adv,
 L2-0284,地點,地点,dìdiǎn,N,
 L2-0285,巴士,巴士,bāshì,N,
 L2-0286,加油,加油,jiāyóu,Vi,
-L2-0287,摩托車/機車,摩托车/机车,mótuōchē/jīchē,N,"[[""摩托車"", ""mótuōchē""], [""機車"", ""jīchē""]]"
-L2-0288,船/船兒,船/船儿,chuán/chuánr,N,"[[""船"", ""chuán""], [""船兒"", ""chuánr""]]"
+L2-0287,摩托車/機車,摩托车/机车,mótuōchē/jīchē,N,"[{""Traditional"": ""摩托車"", ""Simplified"": ""摩托车"", ""Pinyin"": ""mótuōchē""}, {""Traditional"": ""機車"", ""Simplified"": ""机车"", ""Pinyin"": ""jīchē""}]"
+L2-0288,船/船兒,船/船儿,chuán/chuánr,N,"[{""Traditional"": ""船"", ""Simplified"": ""船"", ""Pinyin"": ""chuán""}, {""Traditional"": ""船兒"", ""Simplified"": ""船儿"", ""Pinyin"": ""chuánr""}]"
 L2-0289,地鐵,地铁,dìtiě,N,
 L2-0290,捷運,捷运,jiéyùn,N,
 L2-0291,停車場,停车场,tíngchēchǎng,N,
@@ -1062,7 +1062,7 @@ L2-0319,標準,标准,biāozhǔn,N/Vs,
 L2-0320,拍照,拍照,pāizhào,V-sep,
 L2-0321,腿,腿,tuǐ,N,
 L2-0322,背,背,bèi,N,
-L2-0323,脖(子),脖(子),bó(zi),N,"[[""脖"", ""bó""], [""脖子"", ""bózi""]]"
+L2-0323,脖(子),脖(子),bó(zi),N,"[{""Traditional"": ""脖子"", ""Simplified"": ""脖子"", ""Pinyin"": ""bózi""}, {""Traditional"": ""脖"", ""Simplified"": ""脖"", ""Pinyin"": ""bó""}]"
 L2-0324,汗,汗,hàn,N,
 L2-0325,臉色,脸色,liǎnsè,N,
 L2-0326,救護車,救护车,jiùhùchē,N,
@@ -1082,7 +1082,7 @@ L2-0339,正常,正常,zhèngcháng,Vs,
 L2-0340,有錢,有钱,yǒuqián,Vs,
 L2-0341,生意,生意,shēngyì,N,
 L2-0342,商人,商人,shāngrén,N,
-L2-0343,老闆娘/老板娘,老板娘/老板娘,lǎobǎnniáng,N,"[[""老闆娘"", ""lǎobǎnniáng""], [""老板娘"", ""lǎobǎnniáng""]]"
+L2-0343,老闆娘/老板娘,老板娘,lǎobǎnniáng,N,"[{""Traditional"": ""老闆娘"", ""Simplified"": ""老板娘"", ""Pinyin"": ""lǎobǎnniáng""}, {""Traditional"": ""老板娘"", ""Simplified"": ""老板娘"", ""Pinyin"": ""lǎobǎnniáng""}]"
 L2-0344,店員,店员,diànyuán,N,
 L2-0345,訂,订,dìng,V,
 L2-0346,訂位,订位,dìngwèi,V-sep,
@@ -1133,7 +1133,7 @@ L2-0390,熱狗,热狗,règǒu,N,
 L2-0391,饅頭,馒头,mántou,N,
 L2-0392,米,米,mǐ,N,
 L2-0393,豆腐,豆腐,dòufu,N,
-L2-0394,橘(子),橘(子),jú(zi),N,"[[""橘"", ""jú""], [""橘子"", ""júzi""]]"
+L2-0394,橘(子),橘(子),jú(zi),N,"[{""Traditional"": ""橘子"", ""Simplified"": ""橘子"", ""Pinyin"": ""júzi""}, {""Traditional"": ""橘"", ""Simplified"": ""橘"", ""Pinyin"": ""jú""}]"
 L2-0395,葡萄,葡萄,pútao,N,
 L2-0396,芒果,芒果,mángguǒ,N,
 L2-0397,烏龍茶,乌龙茶,wūlóngchá,N,
@@ -1141,11 +1141,11 @@ L2-0398,豆漿,豆浆,dòujiāng,N,
 L2-0399,可樂,可乐,kělè,N,
 L2-0400,奶茶,奶茶,nǎichá,N,
 L2-0401,汽水,汽水,qìshuǐ,N,
-L2-0402,冰塊/冰塊兒,冰块/冰块儿,bīngkuài/bīngkuàir,N,"[[""冰塊"", ""bīngkuài""], [""冰塊兒"", ""bīngkuàir""]]"
+L2-0402,冰塊/冰塊兒,冰块/冰块儿,bīngkuài/bīngkuàir,N,"[{""Traditional"": ""冰塊"", ""Simplified"": ""冰块"", ""Pinyin"": ""bīngkuài""}, {""Traditional"": ""冰塊兒"", ""Simplified"": ""冰块儿"", ""Pinyin"": ""bīngkuàir""}]"
 L2-0403,甜點,甜点,tiándiǎn,N,
 L2-0404,餅乾,饼干,bǐnggān,N,
 L2-0405,鹽,盐,yán,N,
-L2-0406,味/味兒,味/味儿,wèi/wèir,N,"[[""味"", ""wèi""], [""味兒"", ""wèir""]]"
+L2-0406,味/味兒,味/味儿,wèi/wèir,N,"[{""Traditional"": ""味"", ""Simplified"": ""味"", ""Pinyin"": ""wèi""}, {""Traditional"": ""味兒"", ""Simplified"": ""味儿"", ""Pinyin"": ""wèir""}]"
 L2-0407,聞,闻,wén,V,
 L2-0408,臭,臭,chòu,Vs,
 L2-0409,口,口,kǒu,M,
@@ -1157,7 +1157,7 @@ L2-0414,新鮮,新鲜,xīnxian,Vs,
 L2-0415,熟,熟,shóu,Vs,
 L2-0416,炒,炒,chǎo,V,
 L2-0417,炸,炸,zhá,V,
-L2-0418,嚐/嘗,尝/尝,cháng,V,"[[""嚐"", ""cháng""], [""嘗"", ""cháng""]]"
+L2-0418,嚐/嘗,尝,cháng,V,"[{""Traditional"": ""嚐"", ""Simplified"": ""尝"", ""Pinyin"": ""cháng""}, {""Traditional"": ""嘗"", ""Simplified"": ""尝"", ""Pinyin"": ""cháng""}]"
 L2-0419,裝,装,zhuāng,V,
 L2-0420,不用,不用,bùyòng,Adv,
 L2-0421,不但,不但,bùdàn,Conj,
@@ -1174,7 +1174,7 @@ L2-0431,必須,必须,bìxū,Adv,
 L2-0432,多麼,多么,duōme,Adv,
 L2-0433,這樣,这样,zhèyàng,Vs,
 L2-0434,那樣,那样,nàyàng,Adv/Vs,
-L2-0435,等/等等,等/等等,děng/děngděng,Ptc,"[[""等"", ""děng""], [""等等"", ""děngděng""]]"
+L2-0435,等/等等,等/等等,děng/děngděng,Ptc,"[{""Traditional"": ""等"", ""Simplified"": ""等"", ""Pinyin"": ""děng""}, {""Traditional"": ""等等"", ""Simplified"": ""等等"", ""Pinyin"": ""děngděng""}]"
 L2-0436,別的,别的,biéde,Det,
 L2-0437,除了,除了,chúle,Prep,
 L2-0438,從來,从来,cónglái,Adv,
@@ -1239,7 +1239,7 @@ L3-0011,安心,安心,ānxīn,Vs,
 L3-0012,按照,按照,ànzhào,Prep,
 L3-0013,把,把,bǎ,M,
 L3-0014,白,白,bái,Vs,
-L3-0015,白/白白,白/白白,bái/báibái,Adv,"[[""白"", ""bái""], [""白白"", ""báibái""]]"
+L3-0015,白/白白,白/白白,bái/báibái,Adv,"[{""Traditional"": ""白"", ""Simplified"": ""白"", ""Pinyin"": ""bái""}, {""Traditional"": ""白白"", ""Simplified"": ""白白"", ""Pinyin"": ""báibái""}]"
 L3-0016,白菜,白菜,báicài,N,
 L3-0017,擺,摆,bǎi,V,
 L3-0018,榜樣,榜样,bǎngyàng,N,
@@ -1252,7 +1252,7 @@ L3-0024,寶貝,宝贝,bǎobèi,N,
 L3-0025,寶貴,宝贵,bǎoguì,Vs,
 L3-0026,保守,保守,bǎoshǒu,Vs,
 L3-0027,保養,保养,bǎoyǎng,V,
-L3-0028,保證/証,保证/证,bǎozhèng,N/V,"[[""保證"", ""bǎozhèng""], [""保証"", ""bǎozhèng""]]"
+L3-0028,保證/証,保证/证,bǎozhèng,N/V,"[{""Traditional"": ""保證"", ""Simplified"": ""保证"", ""Pinyin"": ""bǎozhèng""}, {""Traditional"": ""保証"", ""Simplified"": ""保证"", ""Pinyin"": ""bǎozhèng""}]"
 L3-0029,抱,抱,bào,V,
 L3-0030,抱怨,抱怨,bàoyuàn,V,
 L3-0031,報名,报名,bàomíng,V-sep,
@@ -1282,13 +1282,13 @@ L3-0054,畢竟,毕竟,bìjìng,Adv,
 L3-0055,避免,避免,bìmiǎn,V,
 L3-0056,餅,饼,bǐng,N,
 L3-0057,病,病,bìng,Vp,
-L3-0058,比如/比如說,比如/比如说,bǐrú/bǐrúshuō,Prep,"[[""比如"", ""bǐrú""], [""比如說"", ""bǐrúshuō""]]"
+L3-0058,比如/比如說,比如/比如说,bǐrú/bǐrúshuō,Prep,"[{""Traditional"": ""比如"", ""Simplified"": ""比如"", ""Pinyin"": ""bǐrú""}, {""Traditional"": ""比如說"", ""Simplified"": ""比如说"", ""Pinyin"": ""bǐrúshuō""}]"
 L3-0059,必要,必要,bìyào,Vs,
 L3-0060,播,播,bò,V,
 L3-0061,博士,博士,bóshì,N,
 L3-0062,博物館,博物馆,bówùguǎn,N,
 L3-0063,布,布,bù,N,
-L3-0064,不見(了),不见(了),bùjiàn(le),Vp,"[[""不見"", ""bùjiàn""], [""不見了"", ""bùjiànle""]]"
+L3-0064,不見(了),不见(了),bùjiàn(le),Vp,"[{""Traditional"": ""不見了"", ""Simplified"": ""不见了"", ""Pinyin"": ""bùjiànle""}, {""Traditional"": ""不見"", ""Simplified"": ""不见"", ""Pinyin"": ""bùjiàn""}]"
 L3-0065,不得不,不得不,bùdébù,Adv,
 L3-0066,不斷,不断,bùduàn,Adv/Vs,
 L3-0067,不論,不论,bùlùn,Conj,
@@ -1298,7 +1298,7 @@ L3-0070,不如,不如,bùrú,conj,
 L3-0071,不少,不少,bùshǎo,Det/Vs,
 L3-0072,不幸,不幸,bùxìng,Vs,
 L3-0073,不用說,不用说,bùyòngshuō,Conj,
-L3-0074,布/佈置,布/布置,bùzhì,V,"[[""布置"", ""bùzhì""], [""佈置"", ""bùzhì""]]"
+L3-0074,布/佈置,布/布置,bùzhì,V,"[{""Traditional"": ""布置"", ""Simplified"": ""布置"", ""Pinyin"": ""bùzhì""}, {""Traditional"": ""佈置"", ""Simplified"": ""布置"", ""Pinyin"": ""bùzhì""}]"
 L3-0075,不足,不足,bùzú,Vs,
 L3-0076,擦,擦,cā,V,
 L3-0077,猜,猜,cāi,V,
@@ -1310,9 +1310,9 @@ L3-0082,草地,草地,cǎodì,N,
 L3-0083,草原,草原,cǎoyuán,N,
 L3-0084,曾,曾,céng,Adv,
 L3-0085,曾經,曾经,céngjīng,Adv,
-L3-0086,差點/差點兒/差一點兒,差点/差点儿/差一点儿,chādiǎn/chādiǎnr/chāyīdiǎnr,Adv,"[[""差點"", ""chādiǎn""], [""差點兒"", ""chādiǎnr""], [""差一點兒"", ""chāyīdiǎnr""]]"
+L3-0086,差點/差點兒/差一點兒,差点/差点儿/差一点儿,chādiǎn/chādiǎnr/chāyīdiǎnr,Adv,"[{""Traditional"": ""差點"", ""Simplified"": ""差点"", ""Pinyin"": ""chādiǎn""}, {""Traditional"": ""差點兒"", ""Simplified"": ""差点儿"", ""Pinyin"": ""chādiǎnr""}, {""Traditional"": ""差一點兒"", ""Simplified"": ""差一点儿"", ""Pinyin"": ""chāyīdiǎnr""}]"
 L3-0087,差別,差别,chābié,N,
-L3-0088,嘗試/嚐試,尝试/尝试,chángshì,V,"[[""嘗試"", ""chángshì""], [""嚐試"", ""chángshì""]]"
+L3-0088,嘗試/嚐試,尝试,chángshì,V,"[{""Traditional"": ""嘗試"", ""Simplified"": ""尝试"", ""Pinyin"": ""chángshì""}, {""Traditional"": ""嚐試"", ""Simplified"": ""尝试"", ""Pinyin"": ""chángshì""}]"
 L3-0089,產品,产品,chǎnpǐn,N,
 L3-0090,產生,产生,chǎnshēng,Vpt,
 L3-0091,超過,超过,chāoguò,Vpt,
@@ -1331,7 +1331,7 @@ L3-0103,成熟,成熟,chéngshóu,Vs,
 L3-0104,成長,成长,chéngzhǎng,Vs,
 L3-0105,尺,尺,chǐ,M,
 L3-0106,吃喝玩樂,吃喝玩乐,chīhēwánlè,Vi,
-L3-0107,蟲(子),虫(子),chóng(zi),N,"[[""蟲"", ""chóng""], [""蟲子"", ""chóngzi""]]"
+L3-0107,蟲(子),虫(子),chóng(zi),N,"[{""Traditional"": ""蟲子"", ""Simplified"": ""虫子"", ""Pinyin"": ""chóngzi""}, {""Traditional"": ""蟲"", ""Simplified"": ""虫"", ""Pinyin"": ""chóng""}]"
 L3-0108,充實,充实,chōngshí,Vs,
 L3-0109,重新,重新,chóngxīn,Adv,
 L3-0110,醜,丑,chǒu,Vs,
@@ -1372,7 +1372,7 @@ L3-0144,當地,当地,dāngdì,N,
 L3-0145,當面,当面,dāngmiàn,Adv,
 L3-0146,當年,当年,dāngnián,N,
 L3-0147,當天,当天,dàngtiān,N,
-L3-0148,當作/當做,当作/当做,dàngzuò,Vst,"[[""當作"", ""dàngzuò""], [""當做"", ""dàngzuò""]]"
+L3-0148,當作/當做,当作/当做,dàngzuò,Vst,"[{""Traditional"": ""當作"", ""Simplified"": ""当作"", ""Pinyin"": ""dàngzuò""}, {""Traditional"": ""當做"", ""Simplified"": ""当做"", ""Pinyin"": ""dàngzuò""}]"
 L3-0149,擔任,担任,dānrèn,V,
 L3-0150,單身,单身,dānshēn,Vs,
 L3-0151,島,岛,dǎo,N,
@@ -1445,10 +1445,10 @@ L3-0217,犯,犯,fàn,Vst,
 L3-0218,反而,反而,fǎn'ér,Conj,
 L3-0219,方式,方式,fāngshì,N,
 L3-0220,房客,房客,fángkè,N,
-L3-0221,訪問/訪,访问/访,fǎngwèn,V,"[[""訪問"", ""fǎngwèn""], [""訪"", ""fǎng""]]"
+L3-0221,訪問/訪,访问/访,fǎngwèn,V,"[{""Traditional"": ""訪問"", ""Simplified"": ""访问"", ""Pinyin"": ""fǎngwèn""}, {""Traditional"": ""訪"", ""Simplified"": ""访"", ""Pinyin"": ""fǎng""}]"
 L3-0222,煩惱,烦恼,fánnǎo,Vs,
 L3-0223,範圍,范围,fànwéi,N,
-L3-0224,翻譯/翻/譯,翻译/翻/译,fānyì/fān/yì,V,"[[""翻譯"", ""fānyì""], [""翻"", ""fān""], [""譯"", ""yì""]]"
+L3-0224,翻譯/翻/譯,翻译/翻/译,fānyì/fān/yì,V,"[{""Traditional"": ""翻譯"", ""Simplified"": ""翻译"", ""Pinyin"": ""fānyì""}, {""Traditional"": ""翻"", ""Simplified"": ""翻"", ""Pinyin"": ""fān""}, {""Traditional"": ""譯"", ""Simplified"": ""译"", ""Pinyin"": ""yì""}]"
 L3-0225,反應,反应,fǎnyìng,N,
 L3-0226,發票,发票,fāpiào,N,
 L3-0227,發脾氣,发脾气,fāpíqì,Vi,
@@ -1490,12 +1490,12 @@ L3-0262,歌曲,歌曲,gēqǔ,N,
 L3-0263,歌星,歌星,gēxīng,N,
 L3-0264,隔壁,隔壁,gébì,N,
 L3-0265,個人,个人,gèrén,N,
-L3-0266,個子/個兒,个子/个儿,gèzi/gèr,N,"[[""個子"", ""gèzi""], [""個兒"", ""gèr""]]"
+L3-0266,個子/個兒,个子/个儿,gèzi/gèr,N,"[{""Traditional"": ""個子"", ""Simplified"": ""个子"", ""Pinyin"": ""gèzi""}, {""Traditional"": ""個兒"", ""Simplified"": ""个儿"", ""Pinyin"": ""gèr""}]"
 L3-0267,給,给,gěi,Prep,
 L3-0268,革命,革命,gémìng,Vi,
 L3-0269,跟,跟,gēn,Prep/V,
 L3-0270,根,根,gēn,M/V,
-L3-0271,根據/據,根据/据,gēnjù/jù,Prep,"[[""根據"", ""gēnjù""], [""據"", ""jù""]]"
+L3-0271,根據/據,根据/据,gēnjù/jù,Prep,"[{""Traditional"": ""根據"", ""Simplified"": ""根据"", ""Pinyin"": ""gēnjù""}, {""Traditional"": ""據"", ""Simplified"": ""据"", ""Pinyin"": ""jù""}]"
 L3-0272,更加,更加,gèngjiā,Adv,
 L3-0273,各式各樣,各式各样,gèshìgèyàng,Vs-attr,
 L3-0274,各位,各位,gèwèi,N,
@@ -1521,7 +1521,7 @@ L3-0293,購買,购买,gòumǎi,V,
 L3-0294,姑娘,姑娘,gūniang,N,
 L3-0295,古,古,gǔ,Vs-attr,
 L3-0296,古代,古代,gǔdài,N,
-L3-0297,古蹟/跡,古迹/迹,gǔjī,N,"[[""古蹟"", ""gǔjī""], [""古跡"", ""gǔjī""]]"
+L3-0297,古蹟/跡,古迹/迹,gǔjī,N,"[{""Traditional"": ""古蹟"", ""Simplified"": ""古迹"", ""Pinyin"": ""gǔjī""}, {""Traditional"": ""古跡"", ""Simplified"": ""古迹"", ""Pinyin"": ""gǔjī""}]"
 L3-0298,古老,古老,gǔlǎo,Vs,
 L3-0299,顧,顾,gù,V,
 L3-0300,顧客,顾客,gùkè,N,
@@ -1558,7 +1558,7 @@ L3-0330,害,害,hài,V,
 L3-0331,航空,航空,hángkōng,N,
 L3-0332,漢語,汉语,hànyǔ,N,
 L3-0333,好,好,hào,Vs,
-L3-0334,好好/好好兒,好好/好好儿,hǎohǎo/hǎohǎor,Adv,"[[""好好"", ""hǎohǎo""], [""好好兒"", ""hǎohǎor""]]"
+L3-0334,好好/好好兒,好好/好好儿,hǎohǎo/hǎohǎor,Adv,"[{""Traditional"": ""好好"", ""Simplified"": ""好好"", ""Pinyin"": ""hǎohǎo""}, {""Traditional"": ""好好兒"", ""Simplified"": ""好好儿"", ""Pinyin"": ""hǎohǎor""}]"
 L3-0335,好了,好了,hǎole,Ptc,
 L3-0336,和,和,hé,Prep,
 L3-0337,合,合,hé,Adv,
@@ -1572,7 +1572,7 @@ L3-0344,紅豆,红豆,hóngdòu,N,
 L3-0345,紅綠燈,红绿灯,hónglǜdēng,N,
 L3-0346,厚,厚,hòu,Vs,
 L3-0347,後,后,hòu,Det/N,
-L3-0348,忽然/忽,忽然/忽,hūrán/hū,Adv,"[[""忽然"", ""hūrán""], [""忽"", ""hū""]]"
+L3-0348,忽然/忽,忽然/忽,hūrán/hū,Adv,"[{""Traditional"": ""忽然"", ""Simplified"": ""忽然"", ""Pinyin"": ""hūrán""}, {""Traditional"": ""忽"", ""Simplified"": ""忽"", ""Pinyin"": ""hū""}]"
 L3-0349,糊塗,糊涂,hútú,Vs,
 L3-0350,互相,互相,hùxiāng,Adv,
 L3-0351,護照,护照,hùzhào,N,
@@ -1665,7 +1665,7 @@ L3-0437,解決,解决,jiějué,V,
 L3-0438,姊妹,姊妹,jiěmèi,N,
 L3-0439,解釋,解释,jiěshì,V/N,
 L3-0440,斤,斤,jīn,M,
-L3-0441,金(子),金(子),jīn(zi),N,"[[""金"", ""jīn""], [""金子"", ""jīnzi""]]"
+L3-0441,金(子),金(子),jīn(zi),N,"[{""Traditional"": ""金子"", ""Simplified"": ""金子"", ""Pinyin"": ""jīnzi""}, {""Traditional"": ""金"", ""Simplified"": ""金"", ""Pinyin"": ""jīn""}]"
 L3-0442,緊,紧,jǐn,Vs,
 L3-0443,僅,仅,jǐn,Adv,
 L3-0444,僅僅,仅仅,jǐnjǐn,Adv,
@@ -1685,7 +1685,7 @@ L3-0457,救,救,jiù,V,
 L3-0458,就,就,jiù,Prep,
 L3-0459,就是,就是,jiùshì,Conj,
 L3-0460,就算,就算,jiùsuàn,Conj,
-L3-0461,舅舅/舅,舅舅/舅,jiùjiu,N,"[[""舅舅"", ""jiùjiu""], [""舅"", ""jiù""]]"
+L3-0461,舅舅/舅,舅舅/舅,jiùjiu,N,"[{""Traditional"": ""舅舅"", ""Simplified"": ""舅舅"", ""Pinyin"": ""jiùjiu""}, {""Traditional"": ""舅"", ""Simplified"": ""舅"", ""Pinyin"": ""jiù""}]"
 L3-0462,舅媽,舅妈,jiùmā,N,
 L3-0463,居住,居住,jūzhù,Vi,
 L3-0464,舉,举,jǔ,V,
@@ -1744,7 +1744,7 @@ L3-0516,來得及,来得及,láidejí,Vs,
 L3-0517,藍,蓝,lán,Vs,
 L3-0518,浪漫,浪漫,làngmàn,Vs,
 L3-0519,老公,老公,lǎogōng,N,
-L3-0520,老虎/虎,老虎/虎,lǎohǔ/hǔ,N,"[[""老虎"", ""lǎohǔ""], [""虎"", ""hǔ""]]"
+L3-0520,老虎/虎,老虎/虎,lǎohǔ/hǔ,N,"[{""Traditional"": ""老虎"", ""Simplified"": ""老虎"", ""Pinyin"": ""lǎohǔ""}, {""Traditional"": ""虎"", ""Simplified"": ""虎"", ""Pinyin"": ""hǔ""}]"
 L3-0521,老婆,老婆,lǎopó,N,
 L3-0522,老實,老实,lǎoshí,Vs,
 L3-0523,老是,老是,lǎoshì,Adv,
@@ -1759,7 +1759,7 @@ L3-0531,練,练,liàn,V,
 L3-0532,戀愛,恋爱,liàn'ài,Vp,
 L3-0533,亮,亮,liàng,Vs,
 L3-0534,良好,良好,liánghǎo,Vs,
-L3-0535,連絡/聯絡,连络/联络,liánluò,V,"[[""連絡"", ""liánluò""], [""聯絡"", ""liánluò""]]"
+L3-0535,連絡/聯絡,连络/联络,liánluò,V,"[{""Traditional"": ""連絡"", ""Simplified"": ""连络"", ""Pinyin"": ""liánluò""}, {""Traditional"": ""聯絡"", ""Simplified"": ""联络"", ""Pinyin"": ""liánluò""}]"
 L3-0536,連續劇,连续剧,liánxùjù,N,
 L3-0537,了不起,了不起,liǎobùqǐ,Vs,
 L3-0538,離婚,离婚,líhūn,Vp-sep,
@@ -1824,7 +1824,7 @@ L3-0596,廟,庙,miào,N,
 L3-0597,米飯,米饭,mǐfàn,N,
 L3-0598,米粉,米粉,mǐfěn,N,
 L3-0599,迷路,迷路,mílù,Vp-sep,
-L3-0600,秘密/祕密,秘密/秘密,mìmì,N,"[[""秘密"", ""mìmì""], [""祕密"", ""mìmì""]]"
+L3-0600,秘密/祕密,秘密,mìmì,N,"[{""Traditional"": ""秘密"", ""Simplified"": ""秘密"", ""Pinyin"": ""mìmì""}, {""Traditional"": ""祕密"", ""Simplified"": ""秘密"", ""Pinyin"": ""mìmì""}]"
 L3-0601,明白,明白,míngbái,Vpt,
 L3-0602,名詞,名词,míngcí,N,
 L3-0603,民國,民国,mínguó,N,
@@ -1846,7 +1846,7 @@ L3-0618,南方,南方,nánfāng,N,
 L3-0619,難怪,难怪,nánguài,Adv,
 L3-0620,難看,难看,nánkàn,Vs,
 L3-0621,腦,脑,nǎo,N,
-L3-0622,腦(子),脑(子),nǎo(zi),N,"[[""腦"", ""nǎo""], [""腦子"", ""nǎozi""]]"
+L3-0622,腦(子),脑(子),nǎo(zi),N,"[{""Traditional"": ""腦子"", ""Simplified"": ""脑子"", ""Pinyin"": ""nǎozi""}, {""Traditional"": ""腦"", ""Simplified"": ""脑"", ""Pinyin"": ""nǎo""}]"
 L3-0623,拿手,拿手,náshǒu,Vs,
 L3-0624,哪些,哪些,nǎxiē,Det,
 L3-0625,內容,内容,nèiróng,N,
@@ -1861,7 +1861,7 @@ L3-0633,女士,女士,nǚshì,N,
 L3-0634,喔,喔,ō,Ptc,
 L3-0635,哦,哦,ó,Ptc,
 L3-0636,排,排,pái,V,
-L3-0637,牌(子),牌(子),pái(zi),N,"[[""牌"", ""pái""], [""牌子"", ""páizi""]]"
+L3-0637,牌(子),牌(子),pái(zi),N,"[{""Traditional"": ""牌子"", ""Simplified"": ""牌子"", ""Pinyin"": ""páizi""}, {""Traditional"": ""牌"", ""Simplified"": ""牌"", ""Pinyin"": ""pái""}]"
 L3-0638,盼望,盼望,pànwàng,Vst,
 L3-0639,培養,培养,péiyǎng,V,
 L3-0640,配,配,pèi,V,
@@ -1962,14 +1962,14 @@ L3-0734,弱,弱,ruò,Vs,
 L3-0735,森林,森林,sēnlín,N,
 L3-0736,失戀,失恋,shīliàn,Vp,
 L3-0737,失去,失去,shīqù,Vpt,
-L3-0738,獅(子),狮(子),shī(zi),N,"[[""獅"", ""shī""], [""獅子"", ""shīzi""]]"
+L3-0738,獅(子),狮(子),shī(zi),N,"[{""Traditional"": ""獅子"", ""Simplified"": ""狮子"", ""Pinyin"": ""shīzi""}, {""Traditional"": ""獅"", ""Simplified"": ""狮"", ""Pinyin"": ""shī""}]"
 L3-0739,時代,时代,shídài,N,
 L3-0740,十分,十分,shífēn,Adv,
 L3-0741,實話,实话,shíhuà,N,
 L3-0742,實際,实际,shíjì,Vs,
 L3-0743,時刻,时刻,shíkè,N,
 L3-0744,實力,实力,shílì,N,
-L3-0745,石頭/石,石头/石,shítou/shí,N,"[[""石頭"", ""shítou""], [""石"", ""shí""]]"
+L3-0745,石頭/石,石头/石,shítou/shí,N,"[{""Traditional"": ""石頭"", ""Simplified"": ""石头"", ""Pinyin"": ""shítou""}, {""Traditional"": ""石"", ""Simplified"": ""石"", ""Pinyin"": ""shí""}]"
 L3-0746,實行,实行,shíxíng,V,
 L3-0747,石油,石油,shíyóu,N,
 L3-0748,實在,实在,shízài,Vs,
@@ -2036,7 +2036,7 @@ L3-0808,說明,说明,shuōmíng,N/V,
 L3-0809,說起來,说起来,shuōqǐlái,Adv,
 L3-0810,思考,思考,sīkǎo,V,
 L3-0811,思想,思想,sīxiǎng,N,
-L3-0812,似乎/似,似乎/似,sìhū/sì,Adv,"[[""似乎"", ""sìhū""], [""似"", ""sì""]]"
+L3-0812,似乎/似,似乎/似,sìhū/sì,Adv,"[{""Traditional"": ""似乎"", ""Simplified"": ""似乎"", ""Pinyin"": ""sìhū""}, {""Traditional"": ""似"", ""Simplified"": ""似"", ""Pinyin"": ""sì""}]"
 L3-0813,寺廟,寺庙,sìmiào,N,
 L3-0814,算了,算了,suànle,Vs,
 L3-0815,隨便,随便,suíbiàn,Vs,
@@ -2094,7 +2094,7 @@ L3-0866,推銷,推销,tuīxiāo,V,
 L3-0867,退步,退步,tuìbù,Vp,
 L3-0868,退休,退休,tuìxiū,Vp,
 L3-0869,突然,突然,túrán,Adv,
-L3-0870,兔(子),兔(子),tù(zi),N,"[[""兔"", ""tù""], [""兔子"", ""tùzi""]]"
+L3-0870,兔(子),兔(子),tù(zi),N,"[{""Traditional"": ""兔子"", ""Simplified"": ""兔子"", ""Pinyin"": ""tùzi""}, {""Traditional"": ""兔"", ""Simplified"": ""兔"", ""Pinyin"": ""tù""}]"
 L3-0871,外邊,外边,wàibiān,N,
 L3-0872,外文,外文,wàiwén,N,
 L3-0873,外語,外语,wàiyǔ,N,
@@ -2118,7 +2118,7 @@ L3-0890,溫暖,温暖,wēnnuǎn,Vs,
 L3-0891,溫柔,温柔,wēnróu,Vs,
 L3-0892,文件,文件,wénjiàn,N,
 L3-0893,文學,文学,wénxué,N,
-L3-0894,文章/文,文章/文,wénzhāng/wén,N,"[[""文章"", ""wénzhāng""], [""文"", ""wén""]]"
+L3-0894,文章/文,文章/文,wénzhāng/wén,N,"[{""Traditional"": ""文章"", ""Simplified"": ""文章"", ""Pinyin"": ""wénzhāng""}, {""Traditional"": ""文"", ""Simplified"": ""文"", ""Pinyin"": ""wén""}]"
 L3-0895,文字,文字,wénzì,N,
 L3-0896,穩定,稳定,wěndìng,Vs,
 L3-0897,問好,问好,wènhǎo,Vi,
@@ -2195,7 +2195,7 @@ L3-0967,性格,性格,xìnggé,N,
 L3-0968,幸好,幸好,xìnghǎo,Adv,
 L3-0969,幸虧,幸亏,xìngkuī,Adv,
 L3-0970,幸運,幸运,xìngyùn,Vs,
-L3-0971,兇/凶,凶/凶,xiōng,Vs,"[[""兇"", ""xiōng""], [""凶"", ""xiōng""]]"
+L3-0971,兇/凶,凶,xiōng,Vs,"[{""Traditional"": ""兇"", ""Simplified"": ""凶"", ""Pinyin"": ""xiōng""}, {""Traditional"": ""凶"", ""Simplified"": ""凶"", ""Pinyin"": ""xiōng""}]"
 L3-0972,熊貓,熊猫,xióngmāo,N,
 L3-0973,修,修,xiū,V,
 L3-0974,修改,修改,xiūgǎi,V,
@@ -2209,7 +2209,7 @@ L3-0981,學問,学问,xuéwèn,N,
 L3-0982,尋找,寻找,xúnzhǎo,V,
 L3-0983,訓練,训练,xùnliàn,V,
 L3-0984,押金,押金,yājīn,N,
-L3-0985,鴨(子),鸭(子),yā(zi),N,"[[""鴨"", ""yā""], [""鴨子"", ""yāzi""]]"
+L3-0985,鴨(子),鸭(子),yā(zi),N,"[{""Traditional"": ""鴨子"", ""Simplified"": ""鸭子"", ""Pinyin"": ""yāzi""}, {""Traditional"": ""鴨"", ""Simplified"": ""鸭"", ""Pinyin"": ""yā""}]"
 L3-0986,牙,牙,yá,N,
 L3-0987,牙齒,牙齿,yáchǐ,N,
 L3-0988,演,演,yǎn,V,
@@ -2231,9 +2231,9 @@ L3-1003,要不是,要不是,yàobúshì,Conj,
 L3-1004,要緊,要紧,yàojǐn,Vs,
 L3-1005,也好,也好,yěhǎo,,
 L3-1006,頁,页,yè,M,
-L3-1007,夜裡/裏,夜里/里,yèlǐ/lǐ,N,"[[""夜裡"", ""yèlǐ""], [""夜裏"", ""yèlǐ""]]"
+L3-1007,夜裡/裏,夜里/里,yèlǐ/lǐ,N,"[{""Traditional"": ""夜裡"", ""Simplified"": ""夜里"", ""Pinyin"": ""yèlǐ""}, {""Traditional"": ""夜裏"", ""Simplified"": ""夜里"", ""Pinyin"": ""yèlǐ""}]"
 L3-1008,一般來說,一般来说,yībānláishuō,,
-L3-1009,一點/一點兒,一点/一点儿,yīdiǎn/yīdiǎnr,Adv,"[[""一點"", ""yīdiǎn""], [""一點兒"", ""yīdiǎnr""]]"
+L3-1009,一點/一點兒,一点/一点儿,yīdiǎn/yīdiǎnr,Adv,"[{""Traditional"": ""一點"", ""Simplified"": ""一点"", ""Pinyin"": ""yīdiǎn""}, {""Traditional"": ""一點兒"", ""Simplified"": ""一点儿"", ""Pinyin"": ""yīdiǎnr""}]"
 L3-1010,一方面,一方面,yīfāngmiàn,Conj,
 L3-1011,衣櫃,衣柜,yīguì,N,
 L3-1012,依靠,依靠,yīkào,V,
@@ -2298,7 +2298,7 @@ L3-1070,早日,早日,zǎorì,Adv,
 L3-1071,早晚,早晚,zǎowǎn,N,
 L3-1072,造成,造成,zàochéng,Vpt,
 L3-1073,噪音,噪音,zàoyīn,N,
-L3-1074,增加/增,增加/增,zēngjiā/zēng,Vpt,"[[""增加"", ""zēngjiā""], [""增"", ""zēng""]]"
+L3-1074,增加/增,增加/增,zēngjiā/zēng,Vpt,"[{""Traditional"": ""增加"", ""Simplified"": ""增加"", ""Pinyin"": ""zēngjiā""}, {""Traditional"": ""增"", ""Simplified"": ""增"", ""Pinyin"": ""zēng""}]"
 L3-1075,責任,责任,zérèn,N,
 L3-1076,知,知,zhī,Vst,
 L3-1077,之後,之后,zhīhòu,N,
@@ -2393,7 +2393,7 @@ L3-1165,最後,最后,zuìhòu,N,
 L3-1166,最佳,最佳,zuìjiā,Vs-attr,
 L3-1167,尊敬,尊敬,zūnjìng,Vst,
 L3-1168,作,作,zuò,V,
-L3-1169,做夢/作夢,做梦/作梦,zuòmèng,V-sep,"[[""做夢"", ""zuòmèng""], [""作夢"", ""zuòmèng""]]"
+L3-1169,做夢/作夢,做梦/作梦,zuòmèng,V-sep,"[{""Traditional"": ""做夢"", ""Simplified"": ""做梦"", ""Pinyin"": ""zuòmèng""}, {""Traditional"": ""作夢"", ""Simplified"": ""作梦"", ""Pinyin"": ""zuòmèng""}]"
 L3-1170,作品,作品,zuòpǐn,N,
 L3-1171,做人,做人,zuòrén,Vi,
 L3-1172,做事,做事,zuòshì,Vi,
@@ -2403,10 +2403,10 @@ L4-0002,愛護,爱护,àihù,Vst,
 L4-0003,愛人,爱人,àirén,N,
 L4-0004,哎呀,哎呀,āiyā,Ptc,
 L4-0005,哎喲,哎哟,āiyāo,Ptc,
-L4-0006,癌症/癌,癌症/癌,áizhèng/ái,N,"[[""癌症"", ""áizhèng""], [""癌"", ""ái""]]"
+L4-0006,癌症/癌,癌症/癌,áizhèng/ái,N,"[{""Traditional"": ""癌症"", ""Simplified"": ""癌症"", ""Pinyin"": ""áizhèng""}, {""Traditional"": ""癌"", ""Simplified"": ""癌"", ""Pinyin"": ""ái""}]"
 L4-0007,按,按,àn,V,
 L4-0008,暗,暗,àn,Vs,
-L4-0009,案(子),案(子),àn(zi),N,"[[""案"", ""àn""], [""案子"", ""ànzi""]]"
+L4-0009,案(子),案(子),àn(zi),N,"[{""Traditional"": ""案子"", ""Simplified"": ""案子"", ""Pinyin"": ""ànzi""}, {""Traditional"": ""案"", ""Simplified"": ""案"", ""Pinyin"": ""àn""}]"
 L4-0010,骯髒,肮脏,āngzāng,Vs,
 L4-0011,按時,按时,ànshí,Adv,
 L4-0012,安慰,安慰,ānwèi,V,
@@ -2427,7 +2427,7 @@ L4-0026,拌,拌,bàn,V,
 L4-0027,般,般,bān,,
 L4-0028,磅,磅,bàng,M,
 L4-0029,棒,棒,bàng,M,
-L4-0030,棒(子),棒(子),bàng(zi),N,"[[""棒"", ""bàng""], [""棒子"", ""bàngzi""]]"
+L4-0030,棒(子),棒(子),bàng(zi),N,"[{""Traditional"": ""棒子"", ""Simplified"": ""棒子"", ""Pinyin"": ""bàngzi""}, {""Traditional"": ""棒"", ""Simplified"": ""棒"", ""Pinyin"": ""bàng""}]"
 L4-0031,辦公,办公,bàngōng,Vi,
 L4-0032,傍晚,傍晚,bāngwǎn,N,
 L4-0033,半路,半路,bànlù,N,
@@ -2460,7 +2460,7 @@ L4-0059,保障,保障,bǎozhàng,N/V,
 L4-0060,包裝,包装,bāozhuāng,N/V,
 L4-0061,把握,把握,bǎwò,N,
 L4-0062,備,备,bèi,V,
-L4-0063,被(子),被(子),bèi(zi),N,"[[""被"", ""bèi""], [""被子"", ""bèizi""]]"
+L4-0063,被(子),被(子),bèi(zi),N,"[{""Traditional"": ""被子"", ""Simplified"": ""被子"", ""Pinyin"": ""bèizi""}, {""Traditional"": ""被"", ""Simplified"": ""被"", ""Pinyin"": ""bèi""}]"
 L4-0064,悲劇,悲剧,bēijù,N,
 L4-0065,背面,背面,bèimiàn,N,
 L4-0066,悲痛,悲痛,bēitòng,Vs,
@@ -2516,8 +2516,8 @@ L4-0115,不到,不到,bùdào,Vst,
 L4-0116,不得已,不得已,bùdéyǐ,Vs,
 L4-0117,部隊,部队,bùduì,N,
 L4-0118,不敢當,不敢当,bùgǎndāng,Vs,
-L4-0119,布告/佈告,布告/布告,bùgào,N,"[[""布告"", ""bùgào""], [""佈告"", ""bùgào""]]"
-L4-0120,布告欄/佈告欄,布告栏/布告栏,bùgàolán,N,"[[""布告欄"", ""bùgàolán""], [""佈告欄"", ""bùgàolán""]]"
+L4-0119,布告/佈告,布告,bùgào,N,"[{""Traditional"": ""布告"", ""Simplified"": ""布告"", ""Pinyin"": ""bùgào""}, {""Traditional"": ""佈告"", ""Simplified"": ""布告"", ""Pinyin"": ""bùgào""}]"
+L4-0120,布告欄/佈告欄,布告栏,bùgàolán,N,"[{""Traditional"": ""布告欄"", ""Simplified"": ""布告栏"", ""Pinyin"": ""bùgàolán""}, {""Traditional"": ""佈告欄"", ""Simplified"": ""布告栏"", ""Pinyin"": ""bùgàolán""}]"
 L4-0121,不顧,不顾,bùgù,Vst,
 L4-0122,不見得,不见得,bùjiànde,Adv,
 L4-0123,不僅,不仅,bùjǐn,Conj,
@@ -2571,7 +2571,7 @@ L4-0170,長方形,长方形,chángfāngxíng,N,
 L4-0171,場合,场合,chǎnghé,N,
 L4-0172,長久,长久,chángjiǔ,Vs,
 L4-0173,廠商,厂商,chǎngshāng,N,
-L4-0174,嘗試/嚐試,尝试/尝试,chángshì,N,"[[""嘗試"", ""chángshì""], [""嚐試"", ""chángshì""]]"
+L4-0174,嘗試/嚐試,尝试,chángshì,N,"[{""Traditional"": ""嘗試"", ""Simplified"": ""尝试"", ""Pinyin"": ""chángshì""}, {""Traditional"": ""嚐試"", ""Simplified"": ""尝试"", ""Pinyin"": ""chángshì""}]"
 L4-0175,常識,常识,chángshì,N,
 L4-0176,場所,场所,chǎngsuǒ,N,
 L4-0177,長途,长途,chángtú,Vs-attr,
@@ -2584,19 +2584,19 @@ L4-0183,潮流,潮流,cháoliú,N,
 L4-0184,吵鬧,吵闹,chǎonào,Vi,
 L4-0185,鈔票,钞票,chāopiào,N,
 L4-0186,超人,超人,chāorén,N,
-L4-0187,潮溼/潮濕,潮湿/潮湿,cháoshī,Vs,"[[""潮溼"", ""cháoshī""], [""潮濕"", ""cháoshī""]]"
+L4-0187,潮溼/潮濕,潮湿,cháoshī,Vs,"[{""Traditional"": ""潮溼"", ""Simplified"": ""潮湿"", ""Pinyin"": ""cháoshī""}, {""Traditional"": ""潮濕"", ""Simplified"": ""潮湿"", ""Pinyin"": ""cháoshī""}]"
 L4-0188,超越,超越,chāoyuè,V,
 L4-0189,超重,超重,chāozhòng,Vp,
 L4-0190,插圖,插图,chātú,N,
 L4-0191,茶葉,茶叶,cháyè,N,
 L4-0192,扯,扯,chě,V,
-L4-0193,澈底/徹底,澈底/彻底,chèdǐ,Vs,"[[""澈底"", ""chèdǐ""], [""徹底"", ""chèdǐ""]]"
-L4-0194,沉/沈,沉/沈,chén,Vp,"[[""沉"", ""chén""], [""沈"", ""chén""]]"
+L4-0193,澈底/徹底,澈底/彻底,chèdǐ,Vs,"[{""Traditional"": ""澈底"", ""Simplified"": ""澈底"", ""Pinyin"": ""chèdǐ""}, {""Traditional"": ""徹底"", ""Simplified"": ""彻底"", ""Pinyin"": ""chèdǐ""}]"
+L4-0194,沉/沈,沉/沈,chén,Vp,"[{""Traditional"": ""沉"", ""Simplified"": ""沉"", ""Pinyin"": ""chén""}, {""Traditional"": ""沈"", ""Simplified"": ""沈"", ""Pinyin"": ""chén""}]"
 L4-0195,成,成,chéng,M/Vpt,
 L4-0196,稱,称,chēng,V,
 L4-0197,撐,撑,chēng,V,
 L4-0198,成本,成本,chéngběn,N,
-L4-0199,成分/成份,成分/成份,chéngfèn,N,"[[""成分"", ""chéngfèn""], [""成份"", ""chéngfèn""]]"
+L4-0199,成分/成份,成分/成份,chéngfèn,N,"[{""Traditional"": ""成分"", ""Simplified"": ""成分"", ""Pinyin"": ""chéngfèn""}, {""Traditional"": ""成份"", ""Simplified"": ""成份"", ""Pinyin"": ""chéngfèn""}]"
 L4-0200,成交,成交,chéngjiāo,Vp,
 L4-0201,乘客,乘客,chéngkè,N,
 L4-0202,誠懇,诚恳,chéngkěn,Vs,
@@ -2611,7 +2611,7 @@ L4-0210,成語,成语,chéngyǔ,N,
 L4-0211,陳列,陈列,chénliè,V,
 L4-0212,車票,车票,chēpiào,N,
 L4-0213,遲,迟,chí,Vp,
-L4-0214,翅膀/翅,翅膀/翅,chìbǎng/chì,N,"[[""翅膀"", ""chìbǎng""], [""翅"", ""chì""]]"
+L4-0214,翅膀/翅,翅膀/翅,chìbǎng/chì,N,"[{""Traditional"": ""翅膀"", ""Simplified"": ""翅膀"", ""Pinyin"": ""chìbǎng""}, {""Traditional"": ""翅"", ""Simplified"": ""翅"", ""Pinyin"": ""chì""}]"
 L4-0215,尺寸,尺寸,chǐcùn,N,
 L4-0216,吃虧,吃亏,chīkuī,Vs,
 L4-0217,持續,持续,chíxù,Vaux,
@@ -2620,7 +2620,7 @@ L4-0219,重,重,chóng,Adv,
 L4-0220,沖,冲,chōng,V,
 L4-0221,衝,冲,chōng,Vi,
 L4-0222,崇拜,崇拜,chóngbài,Vst,
-L4-0223,充分/充份,充分/充份,chōngfèn,Vs,"[[""充分"", ""chōngfèn""], [""充份"", ""chōngfèn""]]"
+L4-0223,充分/充份,充分/充份,chōngfèn,Vs,"[{""Traditional"": ""充分"", ""Simplified"": ""充分"", ""Pinyin"": ""chōngfèn""}, {""Traditional"": ""充份"", ""Simplified"": ""充份"", ""Pinyin"": ""chōngfèn""}]"
 L4-0224,崇高,崇高,chónggāo,Vs,
 L4-0225,充滿,充满,chōngmǎn,Vpt,
 L4-0226,衝突,冲突,chōngtú,N,
@@ -2664,7 +2664,7 @@ L4-0263,出席,出席,chūxí,V,
 L4-0264,儲蓄,储蓄,chúxù,Vi,
 L4-0265,出院,出院,chūyuàn,Vi,
 L4-0266,刺,刺,cì,V,
-L4-0267,詞典/辭典,词典/辞典,cídiǎn,N,"[[""詞典"", ""cídiǎn""], [""辭典"", ""cídiǎn""]]"
+L4-0267,詞典/辭典,词典/辞典,cídiǎn,N,"[{""Traditional"": ""詞典"", ""Simplified"": ""词典"", ""Pinyin"": ""cídiǎn""}, {""Traditional"": ""辭典"", ""Simplified"": ""辞典"", ""Pinyin"": ""cídiǎn""}]"
 L4-0268,詞彙,词汇,cíhuì,N,
 L4-0269,刺激,刺激,cìjī,V,
 L4-0270,次數,次数,cìshù,N,
@@ -2697,12 +2697,12 @@ L4-0296,打斷,打断,dǎduàn,Vpt,
 L4-0297,大哥,大哥,dàgē,N,
 L4-0298,待,待,dài,V/Vi,
 L4-0299,代,代,dài,N/V,
-L4-0300,帶(子),带(子),dài(zi),N,"[[""帶"", ""dài""], [""帶子"", ""dàizi""]]"
+L4-0300,帶(子),带(子),dài(zi),N,"[{""Traditional"": ""帶子"", ""Simplified"": ""带子"", ""Pinyin"": ""dàizi""}, {""Traditional"": ""帶"", ""Simplified"": ""带"", ""Pinyin"": ""dài""}]"
 L4-0301,代表,代表,dàibiǎo,Vs,
 L4-0302,帶動,带动,dàidòng,V,
 L4-0303,大夫,大夫,dàifū,N,
 L4-0304,代溝,代沟,dàigōu,N,
-L4-0305,待會/待會兒,待会/待会儿,dāihuì/dāihuìr,Adv,"[[""待會"", ""dāihuì""], [""待會兒"", ""dāihuìr""]]"
+L4-0305,待會/待會兒,待会/待会儿,dāihuì/dāihuìr,Adv,"[{""Traditional"": ""待會"", ""Simplified"": ""待会"", ""Pinyin"": ""dāihuì""}, {""Traditional"": ""待會兒"", ""Simplified"": ""待会儿"", ""Pinyin"": ""dāihuìr""}]"
 L4-0306,代價,代价,dàijià,N,
 L4-0307,貸款,贷款,dàikuǎn,N/V-sep,
 L4-0308,代理,代理,dàilǐ,V,
@@ -2712,7 +2712,7 @@ L4-0311,大街,大街,dàjiē,N,
 L4-0312,大力,大力,dàlì,Adv,
 L4-0313,大量,大量,dàliàng,Det,
 L4-0314,單,单,dān,Adv,
-L4-0315,單(子),单(子),dān(zi),N,"[[""單"", ""dān""], [""單子"", ""dānzi""]]"
+L4-0315,單(子),单(子),dān(zi),N,"[{""Traditional"": ""單子"", ""Simplified"": ""单子"", ""Pinyin"": ""dānzi""}, {""Traditional"": ""單"", ""Simplified"": ""单"", ""Pinyin"": ""dān""}]"
 L4-0316,大腦,大脑,dànǎo,N,
 L4-0317,蛋白質,蛋白质,dànbáizhí,N,
 L4-0318,擔保,担保,dānbǎo,V,
@@ -2752,7 +2752,7 @@ L4-0351,得分,得分,défēn,Vs-sep,
 L4-0352,得獎,得奖,déjiǎng,V-sep,
 L4-0353,得了,得了,déle,,
 L4-0354,登,登,dēng,V,
-L4-0355,凳(子),凳(子),dèng(zi),N,"[[""凳"", ""dèng""], [""凳子"", ""dèngzi""]]"
+L4-0355,凳(子),凳(子),dèng(zi),N,"[{""Traditional"": ""凳子"", ""Simplified"": ""凳子"", ""Pinyin"": ""dèngzi""}, {""Traditional"": ""凳"", ""Simplified"": ""凳"", ""Pinyin"": ""dèng""}]"
 L4-0356,等不及,等不及,děngbùjí,Vi,
 L4-0357,等級,等级,děngjí,N,
 L4-0358,登記,登记,dēngjì,Vp,
@@ -2768,10 +2768,10 @@ L4-0367,電動,电动,diàndòng,Vs-attr,
 L4-0368,典禮,典礼,diǎnlǐ,N,
 L4-0369,電器,电器,diànqì,N,
 L4-0370,點燃,点燃,diǎnrán,V,
-L4-0371,電扇/電風扇,电扇/电风扇,diànshàn/diànfēngshàn,N,"[[""電扇"", ""diànshàn""], [""電風扇"", ""diànfēngshàn""]]"
+L4-0371,電扇/電風扇,电扇/电风扇,diànshàn/diànfēngshàn,N,"[{""Traditional"": ""電扇"", ""Simplified"": ""电扇"", ""Pinyin"": ""diànshàn""}, {""Traditional"": ""電風扇"", ""Simplified"": ""电风扇"", ""Pinyin"": ""diànfēngshàn""}]"
 L4-0372,電視劇,电视剧,diànshìjù,N,
-L4-0373,電視台/電視臺,电视台/电视台,diànshìtái,N,"[[""電視台"", ""diànshìtái""], [""電視臺"", ""diànshìtái""]]"
-L4-0374,電台/電臺,电台/电台,diàntái,N,"[[""電台"", ""diàntái""], [""電臺"", ""diàntái""]]"
+L4-0373,電視台/電視臺,电视台,diànshìtái,N,"[{""Traditional"": ""電視台"", ""Simplified"": ""电视台"", ""Pinyin"": ""diànshìtái""}, {""Traditional"": ""電視臺"", ""Simplified"": ""电视台"", ""Pinyin"": ""diànshìtái""}]"
+L4-0374,電台/電臺,电台,diàntái,N,"[{""Traditional"": ""電台"", ""Simplified"": ""电台"", ""Pinyin"": ""diàntái""}, {""Traditional"": ""電臺"", ""Simplified"": ""电台"", ""Pinyin"": ""diàntái""}]"
 L4-0375,點頭,点头,diǎntóu,V-sep,
 L4-0376,電線,电线,diànxiàn,N,
 L4-0377,典型,典型,diǎnxíng,Vs/N,
@@ -2815,7 +2815,7 @@ L4-0414,賭,赌,dǔ,V,
 L4-0415,斷,断,duàn,Vp,
 L4-0416,端,端,duān,V,
 L4-0417,鍛鍊,锻炼,duànliàn,V,
-L4-0418,度過/渡過,度过/渡过,dùguò,V,"[[""度過"", ""dùguò""], [""渡過"", ""dùguò""]]"
+L4-0418,度過/渡過,度过/渡过,dùguò,V,"[{""Traditional"": ""度過"", ""Simplified"": ""度过"", ""Pinyin"": ""dùguò""}, {""Traditional"": ""渡過"", ""Simplified"": ""渡过"", ""Pinyin"": ""dùguò""}]"
 L4-0419,隊,队,duì,M,
 L4-0420,堆,堆,duī,V,
 L4-0421,對岸,对岸,duì'àn,N,
@@ -2832,7 +2832,7 @@ L4-0431,噸,吨,dùn,M,
 L4-0432,蹲,蹲,dūn,Vi,
 L4-0433,躲,躲,duǒ,Vi,
 L4-0434,奪,夺,duó,V,
-L4-0435,多半/多半兒,多半/多半儿,duōbàn/duōbànr,Det,"[[""多半"", ""duōbàn""], [""多半兒"", ""duōbànr""]]"
+L4-0435,多半/多半兒,多半/多半儿,duōbàn/duōbànr,Det,"[{""Traditional"": ""多半"", ""Simplified"": ""多半"", ""Pinyin"": ""duōbàn""}, {""Traditional"": ""多半兒"", ""Simplified"": ""多半儿"", ""Pinyin"": ""duōbànr""}]"
 L4-0436,多多,多多,duōduō,Adv,
 L4-0437,多少,多少,duōshǎo,Adv,
 L4-0438,多數,多数,duōshù,Det,
@@ -2895,10 +2895,10 @@ L4-0494,肥胖,肥胖,féipàng,Vs,
 L4-0495,廢氣,废气,fèiqì,N,
 L4-0496,廢水,废水,fèishuǐ,N,
 L4-0497,廢物,废物,fèiwù,N,
-L4-0498,份/份兒,份/份儿,fèn/fènr,N,"[[""份"", ""fèn""], [""份兒"", ""fènr""]]"
+L4-0498,份/份兒,份/份儿,fèn/fènr,N,"[{""Traditional"": ""份"", ""Simplified"": ""份"", ""Pinyin"": ""fèn""}, {""Traditional"": ""份兒"", ""Simplified"": ""份儿"", ""Pinyin"": ""fènr""}]"
 L4-0499,粉筆,粉笔,fěnbǐ,N,
 L4-0500,分別,分别,fēnbié,Adv/N/V,
-L4-0501,分布/分佈,分布/分布,fēnbù,Vs,"[[""分布"", ""fēnbù""], [""分佈"", ""fēnbù""]]"
+L4-0501,分布/分佈,分布,fēnbù,Vs,"[{""Traditional"": ""分布"", ""Simplified"": ""分布"", ""Pinyin"": ""fēnbù""}, {""Traditional"": ""分佈"", ""Simplified"": ""分布"", ""Pinyin"": ""fēnbù""}]"
 L4-0502,奮鬥,奋斗,fèndòu,Vi,
 L4-0503,紛紛,纷纷,fēnfēn,Adv,
 L4-0504,吩咐,吩咐,fēnfù,V,
@@ -2944,7 +2944,7 @@ L4-0543,富裕,富裕,fùyù,Vs,
 L4-0544,複雜,复杂,fùzá,Vs,
 L4-0545,複製,复制,fùzhì,V,
 L4-0546,該,该,gāi,Det,
-L4-0547,蓋(子),盖(子),gài(zi),N,"[[""蓋"", ""gài""], [""蓋子"", ""gàizi""]]"
+L4-0547,蓋(子),盖(子),gài(zi),N,"[{""Traditional"": ""蓋子"", ""Simplified"": ""盖子"", ""Pinyin"": ""gàizi""}, {""Traditional"": ""蓋"", ""Simplified"": ""盖"", ""Pinyin"": ""gài""}]"
 L4-0548,改革,改革,gǎigé,V,
 L4-0549,改造,改造,gǎizào,V,
 L4-0550,改正,改正,gǎizhèng,V,
@@ -2959,7 +2959,7 @@ L4-0558,感恩,感恩,gǎn'ēn,Vs,
 L4-0559,鋼,钢,gāng,N,
 L4-0560,鋼筆,钢笔,gāngbǐ,N,
 L4-0561,港幣,港币,gǎngbì,N,
-L4-0562,港口/港,港口/港,gǎngkǒu/gǎng,N,"[[""港口"", ""gǎngkǒu""], [""港"", ""gǎng""]]"
+L4-0562,港口/港,港口/港,gǎngkǒu/gǎng,N,"[{""Traditional"": ""港口"", ""Simplified"": ""港口"", ""Pinyin"": ""gǎngkǒu""}, {""Traditional"": ""港"", ""Simplified"": ""港"", ""Pinyin"": ""gǎng""}]"
 L4-0563,感激,感激,gǎnjī,Vst,
 L4-0564,趕緊,赶紧,gǎnjǐn,Adv,
 L4-0565,幹嘛,干嘛,gànma,Adv/Vi,
@@ -2992,7 +2992,7 @@ L4-0591,歌手,歌手,gēshǒu,N,
 L4-0592,個性,个性,gèxìng,N,
 L4-0593,各自,各自,gèzì,N,
 L4-0594,供,供,gōng,V,
-L4-0595,公布/公佈,公布/公布,gōngbù,V,"[[""公布"", ""gōngbù""], [""公佈"", ""gōngbù""]]"
+L4-0595,公布/公佈,公布,gōngbù,V,"[{""Traditional"": ""公布"", ""Simplified"": ""公布"", ""Pinyin"": ""gōngbù""}, {""Traditional"": ""公佈"", ""Simplified"": ""公布"", ""Pinyin"": ""gōngbù""}]"
 L4-0596,工程,工程,gōngchéng,N,
 L4-0597,工夫,工夫,gōngfu,N,
 L4-0598,公公,公公,gōnggōng,N,
@@ -3015,7 +3015,7 @@ L4-0614,怪,怪,guài,Adv,
 L4-0615,怪不得,怪不得,guàibùde,Adv,
 L4-0616,慣,惯,guàn,Vp/V,
 L4-0617,關,关,guān,M,
-L4-0618,罐(子),罐(子),guàn(zi),N,"[[""罐"", ""guàn""], [""罐子"", ""guànzi""]]"
+L4-0618,罐(子),罐(子),guàn(zi),N,"[{""Traditional"": ""罐子"", ""Simplified"": ""罐子"", ""Pinyin"": ""guànzi""}, {""Traditional"": ""罐"", ""Simplified"": ""罐"", ""Pinyin"": ""guàn""}]"
 L4-0619,管道,管道,guǎndào,N,
 L4-0620,官方,官方,guānfāng,N,
 L4-0621,廣,广,guǎng,Vs,
@@ -3045,9 +3045,9 @@ L4-0644,古典,古典,gǔdiǎn,Vs,
 L4-0645,固定,固定,gùdìng,Vs,
 L4-0646,跪,跪,guì,Vi,
 L4-0647,規定,规定,guīdìng,N/V,
-L4-0648,規畫/規劃,规画/规划,guīhuà,N/V,"[[""規畫"", ""guīhuà""], [""規劃"", ""guīhuà""]]"
+L4-0648,規畫/規劃,规画/规划,guīhuà,N/V,"[{""Traditional"": ""規畫"", ""Simplified"": ""规画"", ""Pinyin"": ""guīhuà""}, {""Traditional"": ""規劃"", ""Simplified"": ""规划"", ""Pinyin"": ""guīhuà""}]"
 L4-0649,規律,规律,guīlǜ,N,
-L4-0650,櫃臺/櫃台/櫃檯,柜台/柜台/柜台,guìtái,N,"[[""櫃臺"", ""guìtái""], [""櫃台"", ""guìtái""], [""櫃檯"", ""guìtái""]]"
+L4-0650,櫃臺/櫃台/櫃檯,柜台,guìtái,N,"[{""Traditional"": ""櫃臺"", ""Simplified"": ""柜台"", ""Pinyin"": ""guìtái""}, {""Traditional"": ""櫃台"", ""Simplified"": ""柜台"", ""Pinyin"": ""guìtái""}, {""Traditional"": ""櫃檯"", ""Simplified"": ""柜台"", ""Pinyin"": ""guìtái""}]"
 L4-0651,規則,规则,guīzé,N/Vs,
 L4-0652,貴族,贵族,guìzú,N,
 L4-0653,估計,估计,gūjì,V,
@@ -3055,7 +3055,7 @@ L4-0654,鼓勵,鼓励,gǔlì,N/V,
 L4-0655,滾,滚,gǔn,Vi,
 L4-0656,裹,裹,guǒ,V,
 L4-0657,過,过,guò,Adv,
-L4-0658,鍋(子),锅(子),guō(zi),N,"[[""鍋"", ""guō""], [""鍋子"", ""guōzi""]]"
+L4-0658,鍋(子),锅(子),guō(zi),N,"[{""Traditional"": ""鍋子"", ""Simplified"": ""锅子"", ""Pinyin"": ""guōzi""}, {""Traditional"": ""鍋"", ""Simplified"": ""锅"", ""Pinyin"": ""guō""}]"
 L4-0659,過程,过程,guòchéng,N,
 L4-0660,過度,过度,guòdù,Vs,
 L4-0661,過渡,过渡,guòdù,Vi,
@@ -3071,7 +3071,7 @@ L4-0670,過期,过期,guòqí,Vp,
 L4-0671,果然,果然,guǒrán,Adv,
 L4-0672,過世,过世,guòshì,Vp,
 L4-0673,國中,国中,guózhōng,N,
-L4-0674,骨頭/骨,骨头/骨,gútou/gǔ,N,"[[""骨頭"", ""gútou""], [""骨"", ""gǔ""]]"
+L4-0674,骨頭/骨,骨头/骨,gútou/gǔ,N,"[{""Traditional"": ""骨頭"", ""Simplified"": ""骨头"", ""Pinyin"": ""gútou""}, {""Traditional"": ""骨"", ""Simplified"": ""骨"", ""Pinyin"": ""gǔ""}]"
 L4-0675,顧問,顾问,gùwèn,N,
 L4-0676,鼓舞,鼓舞,gǔwǔ,V,
 L4-0677,故鄉,故乡,gùxiāng,N,
@@ -3118,18 +3118,18 @@ L4-0717,和平,和平,hépíng,Vs,
 L4-0718,和氣,和气,héqì,Vs,
 L4-0719,合算,合算,hésuàn,Vs,
 L4-0720,合約,合约,héyuē,N,
-L4-0721,猴(子),猴(子),hóu(zi),N,"[[""猴"", ""hóu""], [""猴子"", ""hóuzi""]]"
+L4-0721,猴(子),猴(子),hóu(zi),N,"[{""Traditional"": ""猴子"", ""Simplified"": ""猴子"", ""Pinyin"": ""hóuzi""}, {""Traditional"": ""猴"", ""Simplified"": ""猴"", ""Pinyin"": ""hóu""}]"
 L4-0722,後代,后代,hòudài,N,
 L4-0723,後方,后方,hòufāng,N,
 L4-0724,後果,后果,hòuguǒ,N,
 L4-0725,後悔,后悔,hòuhuǐ,Vs,
-L4-0726,喉嚨/喉,喉咙/喉,hóulóng/hóu,N,"[[""喉嚨"", ""hóulóng""], [""喉"", ""hóu""]]"
+L4-0726,喉嚨/喉,喉咙/喉,hóulóng/hóu,N,"[{""Traditional"": ""喉嚨"", ""Simplified"": ""喉咙"", ""Pinyin"": ""hóulóng""}, {""Traditional"": ""喉"", ""Simplified"": ""喉"", ""Pinyin"": ""hóu""}]"
 L4-0727,後頭,后头,hòutou,N,
 L4-0728,後退,后退,hòutuì,Vi,
 L4-0729,後院,后院,hòuyuàn,N,
 L4-0730,戶,户,hù,M,
 L4-0731,呼,呼,hū,V,
-L4-0732,鬍(子),胡(子),hú(zi),N,"[[""鬍"", ""hú""], [""鬍子"", ""húzi""]]"
+L4-0732,鬍(子),胡(子),hú(zi),N,"[{""Traditional"": ""鬍子"", ""Simplified"": ""胡子"", ""Pinyin"": ""húzi""}, {""Traditional"": ""鬍"", ""Simplified"": ""胡"", ""Pinyin"": ""hú""}]"
 L4-0733,划,划,huá,V,
 L4-0734,滑,滑,huá,Vp/Vs,
 L4-0735,化,化,huà,Vst/Vp,
@@ -3164,7 +3164,7 @@ L4-0763,互動,互动,hùdòng,N,
 L4-0764,灰,灰,huī,Vs-attr/N,
 L4-0765,揮,挥,huī,V,
 L4-0766,回電,回电,huídiàn,V-sep,
-L4-0767,回教/伊斯蘭教,回教/伊斯兰教,Huíjiào/Yīsīlánjiào,N,"[[""回教"", ""Huíjiào""], [""伊斯蘭教"", ""Yīsīlánjiào""]]"
+L4-0767,回教/伊斯蘭教,回教/伊斯兰教,Huíjiào/Yīsīlánjiào,N,"[{""Traditional"": ""回教"", ""Simplified"": ""回教"", ""Pinyin"": ""Huíjiào""}, {""Traditional"": ""伊斯蘭教"", ""Simplified"": ""伊斯兰教"", ""Pinyin"": ""Yīsīlánjiào""}]"
 L4-0768,匯款,汇款,huìkuǎn,V-sep,
 L4-0769,灰色,灰色,huīsè,N,
 L4-0770,回收,回收,huíshōu,V,
@@ -3216,7 +3216,7 @@ L4-0815,獎金,奖金,jiǎngjīn,N,
 L4-0816,獎品,奖品,jiǎngpǐn,N,
 L4-0817,建國,建国,jiànguó,Vi,
 L4-0818,將要,将要,jiāngyào,Adv,
-L4-0819,漸漸/漸,渐渐/渐,jiànjiàn,Adv,"[[""漸漸"", ""jiànjiàn""], [""漸"", ""jiàn""]]"
+L4-0819,漸漸/漸,渐渐/渐,jiànjiàn,Adv,"[{""Traditional"": ""漸漸"", ""Simplified"": ""渐渐"", ""Pinyin"": ""jiànjiàn""}, {""Traditional"": ""漸"", ""Simplified"": ""渐"", ""Pinyin"": ""jiàn""}]"
 L4-0820,間接,间接,jiànjiē,Vs-attr,
 L4-0821,堅決,坚决,jiānjué,Vs,
 L4-0822,鍵盤,键盘,jiànpán,N,
@@ -3246,13 +3246,13 @@ L4-0845,交易,交易,jiāoyì,N/Vi,
 L4-0846,假期,假期,jiàqí,N,
 L4-0847,加上,加上,jiāshàng,Conj,
 L4-0848,家事,家事,jiāshì,N,
-L4-0849,駕駛/駕,驾驶/驾,jiàshǐ/jià,N/V,"[[""駕駛"", ""jiàshǐ""], [""駕"", ""jià""]]"
+L4-0849,駕駛/駕,驾驶/驾,jiàshǐ/jià,N/V,"[{""Traditional"": ""駕駛"", ""Simplified"": ""驾驶"", ""Pinyin"": ""jiàshǐ""}, {""Traditional"": ""駕"", ""Simplified"": ""驾"", ""Pinyin"": ""jià""}]"
 L4-0850,加速,加速,jiāsù,V,
 L4-0851,加以,加以,jiāyǐ,Adv,
 L4-0852,價值,价值,jiàzhí,Vst,
 L4-0853,基本上,基本上,jīběnshàng,Adv,
 L4-0854,疾病,疾病,jíbìng,N,
-L4-0855,嫉妒/忌妒,嫉妒/忌妒,jídù/jìdù,Vst,"[[""嫉妒"", ""jídù""], [""忌妒"", ""jìdù""]]"
+L4-0855,嫉妒/忌妒,嫉妒/忌妒,jídù/jìdù,Vst,"[{""Traditional"": ""嫉妒"", ""Simplified"": ""嫉妒"", ""Pinyin"": ""jídù""}, {""Traditional"": ""忌妒"", ""Simplified"": ""忌妒"", ""Pinyin"": ""jìdù""}]"
 L4-0856,結,结,jié,N,
 L4-0857,屆,届,jiè,M,
 L4-0858,解,解,jiě,V,
@@ -3294,9 +3294,9 @@ L4-0893,浸,浸,jìn,V,
 L4-0894,金額,金额,jīn'é,N,
 L4-0895,靜,静,jìng,Vs,
 L4-0896,竟,竟,jìng,Adv,
-L4-0897,鏡(子),镜(子),jìng(zi),N,"[[""鏡"", ""jìng""], [""鏡子"", ""jìngzi""]]"
+L4-0897,鏡(子),镜(子),jìng(zi),N,"[{""Traditional"": ""鏡子"", ""Simplified"": ""镜子"", ""Pinyin"": ""jìngzi""}, {""Traditional"": ""鏡"", ""Simplified"": ""镜"", ""Pinyin"": ""jìng""}]"
 L4-0898,敬愛,敬爱,jìng'ài,Vst,
-L4-0899,精彩/精采,精彩/精采,jīngcǎi,Vs,"[[""精彩"", ""jīngcǎi""], [""精采"", ""jīngcǎi""]]"
+L4-0899,精彩/精采,精彩/精采,jīngcǎi,Vs,"[{""Traditional"": ""精彩"", ""Simplified"": ""精彩"", ""Pinyin"": ""jīngcǎi""}, {""Traditional"": ""精采"", ""Simplified"": ""精采"", ""Pinyin"": ""jīngcǎi""}]"
 L4-0900,警告,警告,jǐnggào,N/V,
 L4-0901,淨化,净化,jìnghuà,Vpt,
 L4-0902,經濟,经济,jīngjì,N,
@@ -3356,8 +3356,8 @@ L4-0955,捐款,捐款,juānkuǎn,N/V-sep,
 L4-0956,具備,具备,jùbèi,Vst,
 L4-0957,聚餐,聚餐,jùcān,V-sep,
 L4-0958,劇場,剧场,jùchǎng,N,
-L4-0959,巨大/巨,巨大/巨,jùdà/jù,Vs,"[[""巨大"", ""jùdà""], [""巨"", ""jù""]]"
-L4-0960,決/絕,决/绝,jué,Adv,"[[""決"", ""jué""], [""絕"", ""jué""]]"
+L4-0959,巨大/巨,巨大/巨,jùdà/jù,Vs,"[{""Traditional"": ""巨大"", ""Simplified"": ""巨大"", ""Pinyin"": ""jùdà""}, {""Traditional"": ""巨"", ""Simplified"": ""巨"", ""Pinyin"": ""jù""}]"
+L4-0960,決/絕,决/绝,jué,Adv,"[{""Traditional"": ""決"", ""Simplified"": ""决"", ""Pinyin"": ""jué""}, {""Traditional"": ""絕"", ""Simplified"": ""绝"", ""Pinyin"": ""jué""}]"
 L4-0961,絕不,绝不,juébù,Adv,
 L4-0962,絕大部分,绝大部分,juédàbùfèn,Det,
 L4-0963,絕對,绝对,juéduì,Vs-attr,
@@ -3412,7 +3412,7 @@ L4-1011,課外,课外,kèwài,Vs-attr,
 L4-1012,可喜,可喜,kěxǐ,Vs,
 L4-1013,可笑,可笑,kěxiào,Vs,
 L4-1014,空,空,kōng,Adv/N,
-L4-1015,空/空兒,空/空儿,kòng/kòngr,N,"[[""空"", ""kòng""], [""空兒"", ""kòngr""]]"
+L4-1015,空/空兒,空/空儿,kòng/kòngr,N,"[{""Traditional"": ""空"", ""Simplified"": ""空"", ""Pinyin"": ""kòng""}, {""Traditional"": ""空兒"", ""Simplified"": ""空儿"", ""Pinyin"": ""kòngr""}]"
 L4-1016,恐怖,恐怖,kǒngbù,Vs,
 L4-1017,空前,空前,kōngqián,Vs-attr,
 L4-1018,控制,控制,kòngzhì,V,
@@ -3474,7 +3474,7 @@ L4-1073,禮,礼,lǐ,N,
 L4-1074,立,立,lì,V,
 L4-1075,利,利,lì,Vs,
 L4-1076,粒,粒,lì,M,
-L4-1077,梨(子),梨(子),lí(zi),N,"[[""梨"", ""lí""], [""梨子"", ""lízi""]]"
+L4-1077,梨(子),梨(子),lí(zi),N,"[{""Traditional"": ""梨子"", ""Simplified"": ""梨子"", ""Pinyin"": ""lízi""}, {""Traditional"": ""梨"", ""Simplified"": ""梨"", ""Pinyin"": ""lí""}]"
 L4-1078,連,连,lián,Adv,
 L4-1079,量,量,liáng,V,
 L4-1080,亮,亮,liàng,V,
@@ -3507,7 +3507,7 @@ L4-1106,臨時,临时,línshí,N,
 L4-1107,禮品,礼品,lǐpǐn,N,
 L4-1108,力氣,力气,lìqì,N,
 L4-1109,利潤,利润,lìrùn,N,
-L4-1110,裡頭/裏頭,里头/里头,lǐtou,N,"[[""裡頭"", ""lǐtou""], [""裏頭"", ""lǐtou""]]"
+L4-1110,裡頭/裏頭,里头,lǐtou,N,"[{""Traditional"": ""裡頭"", ""Simplified"": ""里头"", ""Pinyin"": ""lǐtou""}, {""Traditional"": ""裏頭"", ""Simplified"": ""里头"", ""Pinyin"": ""lǐtou""}]"
 L4-1111,溜,溜,liū,Vi,
 L4-1112,溜冰,溜冰,liūbīng,V-sep,
 L4-1113,流動,流动,liúdòng,Vi,
@@ -3524,7 +3524,7 @@ L4-1123,綠豆,绿豆,lǜdòu,N,
 L4-1124,略,略,lüè,Vs,
 L4-1125,陸軍,陆军,lùjūn,N,
 L4-1126,論,论,lùn,V/Prep,
-L4-1127,輪(子),轮(子),lún(zi),N,"[[""輪"", ""lún""], [""輪子"", ""lúnzi""]]"
+L4-1127,輪(子),轮(子),lún(zi),N,"[{""Traditional"": ""輪子"", ""Simplified"": ""轮子"", ""Pinyin"": ""lúnzi""}, {""Traditional"": ""輪"", ""Simplified"": ""轮"", ""Pinyin"": ""lún""}]"
 L4-1128,輪船,轮船,lúnchuán,N,
 L4-1129,輪流,轮流,lúnliú,Adv,
 L4-1130,論文,论文,lùnwén,N,
@@ -3577,7 +3577,7 @@ L4-1176,面談,面谈,miàntán,Vi,
 L4-1177,面子,面子,miànzi,N,
 L4-1178,妙,妙,miào,Vs,
 L4-1179,滅亡,灭亡,mièwáng,Vp,
-L4-1180,蜜蜂/蜂,蜜蜂/蜂,mìfēng/fēng,N,"[[""蜜蜂"", ""mìfēng""], [""蜂"", ""fēng""]]"
+L4-1180,蜜蜂/蜂,蜜蜂/蜂,mìfēng/fēng,N,"[{""Traditional"": ""蜜蜂"", ""Simplified"": ""蜜蜂"", ""Pinyin"": ""mìfēng""}, {""Traditional"": ""蜂"", ""Simplified"": ""蜂"", ""Pinyin"": ""fēng""}]"
 L4-1181,迷糊,迷糊,míhú,Vs,
 L4-1182,名,名,míng,Vst,
 L4-1183,命,命,mìng,V,
@@ -3596,7 +3596,7 @@ L4-1195,民謠,民谣,mínyáo,N,
 L4-1196,民眾,民众,mínzhòng,N,
 L4-1197,民主,民主,mínzhǔ,N/Vs,
 L4-1198,迷失,迷失,míshī,Vp,
-L4-1199,秘書/祕書,秘书/秘书,mìshū,N,"[[""秘書"", ""mìshū""], [""祕書"", ""mìshū""]]"
+L4-1199,秘書/祕書,秘书,mìshū,N,"[{""Traditional"": ""秘書"", ""Simplified"": ""秘书"", ""Pinyin"": ""mìshū""}, {""Traditional"": ""祕書"", ""Simplified"": ""秘书"", ""Pinyin"": ""mìshū""}]"
 L4-1200,迷信,迷信,míxìn,N/Vs,
 L4-1201,抹,抹,mǒ,V,
 L4-1202,磨,磨,mó,V,
@@ -3629,7 +3629,7 @@ L4-1228,能幹,能干,nénggàn,Vs,
 L4-1229,能源,能源,néngyuán,N,
 L4-1230,泥,泥,ní,N,
 L4-1231,膩,腻,nì,Vs,
-L4-1232,黏/粘,黏/粘,nián,V/Vs,"[[""黏"", ""nián""], [""粘"", ""nián""]]"
+L4-1232,黏/粘,黏/粘,nián,V/Vs,"[{""Traditional"": ""黏"", ""Simplified"": ""黏"", ""Pinyin"": ""nián""}, {""Traditional"": ""粘"", ""Simplified"": ""粘"", ""Pinyin"": ""nián""}]"
 L4-1233,尿,尿,niào,N/Vi,
 L4-1234,捏,捏,niē,V,
 L4-1235,寧可,宁可,níngkě,Vaux,
@@ -3642,12 +3642,12 @@ L4-1241,農產品,农产品,nóngchǎnpǐn,N,
 L4-1242,農村,农村,nóngcūn,N,
 L4-1243,弄錯,弄错,nòngcuò,Vp,
 L4-1244,濃厚,浓厚,nónghòu,Vs,
-L4-1245,農民/農夫,农民/农夫,nóngmín/nóngfū,N,"[[""農民"", ""nóngmín""], [""農夫"", ""nóngfū""]]"
+L4-1245,農民/農夫,农民/农夫,nóngmín/nóngfū,N,"[{""Traditional"": ""農民"", ""Simplified"": ""农民"", ""Pinyin"": ""nóngmín""}, {""Traditional"": ""農夫"", ""Simplified"": ""农夫"", ""Pinyin"": ""nóngfū""}]"
 L4-1246,農藥,农药,nóngyào,N,
 L4-1247,暖,暖,nuǎn,Vs/V,
 L4-1248,暖氣,暖气,nuǎnqì,N,
 L4-1249,女性,女性,nǚxìng,N,
-L4-1250,偶而/偶爾,偶而/偶尔,ǒuér,Adv,"[[""偶而"", ""ǒu'ér""], [""偶爾"", ""ǒu'ěr""]]"
+L4-1250,偶而/偶爾,偶而/偶尔,ǒuér,Adv,"[{""Traditional"": ""偶而"", ""Simplified"": ""偶而"", ""Pinyin"": ""ǒu'ér""}, {""Traditional"": ""偶爾"", ""Simplified"": ""偶尔"", ""Pinyin"": ""ǒu'ěr""}]"
 L4-1251,偶然,偶然,ǒurán,Vs,
 L4-1252,排,排,pái,M/V,
 L4-1253,派,派,pài,V,
@@ -3672,7 +3672,7 @@ L4-1271,匹,匹,pī,M,
 L4-1272,批,批,pī,M/V,
 L4-1273,披,披,pī,V,
 L4-1274,騙,骗,piàn,V,
-L4-1275,偏/偏偏,偏/偏偏,piān/piānpiān,Adv,"[[""偏"", ""piān""], [""偏偏"", ""piānpiān""]]"
+L4-1275,偏/偏偏,偏/偏偏,piān/piānpiān,Adv,"[{""Traditional"": ""偏"", ""Simplified"": ""偏"", ""Pinyin"": ""piān""}, {""Traditional"": ""偏偏"", ""Simplified"": ""偏偏"", ""Pinyin"": ""piānpiān""}]"
 L4-1276,片面,片面,piànmiàn,Vs-attr,
 L4-1277,偏食,偏食,piānshí,Vs,
 L4-1278,偏向,偏向,piānxiàng,Vst,
@@ -3687,10 +3687,10 @@ L4-1286,平常,平常,píngcháng,Vs,
 L4-1287,平衡,平衡,pínghéng,Vst,
 L4-1288,平靜,平静,píngjìng,Vs,
 L4-1289,平均,平均,píngjūn,Vs,
-L4-1290,乒乓球/桌球,乒乓球/桌球,pīngpāngqiú/zhuōqiú,N,"[[""乒乓球"", ""pīngpāngqiú""], [""桌球"", ""zhuōqiú""]]"
+L4-1290,乒乓球/桌球,乒乓球/桌球,pīngpāngqiú/zhuōqiú,N,"[{""Traditional"": ""乒乓球"", ""Simplified"": ""乒乓球"", ""Pinyin"": ""pīngpāngqiú""}, {""Traditional"": ""桌球"", ""Simplified"": ""桌球"", ""Pinyin"": ""zhuōqiú""}]"
 L4-1291,拼命,拼命,pīnmìng,Vs,
 L4-1292,聘請,聘请,pìnqǐng,V,
-L4-1293,貧窮/貧,贫穷/贫,pínqióng/pín,Vs,"[[""貧窮"", ""pínqióng""], [""貧"", ""pín""]]"
+L4-1293,貧窮/貧,贫穷/贫,pínqióng/pín,Vs,"[{""Traditional"": ""貧窮"", ""Simplified"": ""贫穷"", ""Pinyin"": ""pínqióng""}, {""Traditional"": ""貧"", ""Simplified"": ""贫"", ""Pinyin"": ""pín""}]"
 L4-1294,批判,批判,pīpàn,V,
 L4-1295,脾氣,脾气,píqì,N,
 L4-1296,頗,颇,pǒ,Adv,
@@ -3710,8 +3710,8 @@ L4-1309,起,起,qǐ,M/V,
 L4-1310,其,其,qí,N,
 L4-1311,棋,棋,qí,N,
 L4-1312,齊,齐,qí,Vs,
-L4-1313,旗(子),旗(子),qí(zi),N,"[[""旗"", ""qí""], [""旗子"", ""qízi""]]"
-L4-1314,妻/妻子,妻/妻子,qī/qīzǐ,N,"[[""妻"", ""qī""], [""妻子"", ""qīzǐ""]]"
+L4-1313,旗(子),旗(子),qí(zi),N,"[{""Traditional"": ""旗子"", ""Simplified"": ""旗子"", ""Pinyin"": ""qízi""}, {""Traditional"": ""旗"", ""Simplified"": ""旗"", ""Pinyin"": ""qí""}]"
+L4-1314,妻/妻子,妻/妻子,qī/qīzǐ,N,"[{""Traditional"": ""妻"", ""Simplified"": ""妻"", ""Pinyin"": ""qī""}, {""Traditional"": ""妻子"", ""Simplified"": ""妻子"", ""Pinyin"": ""qīzǐ""}]"
 L4-1315,欠,欠,qiàn,V,
 L4-1316,牽,牵,qiān,V,
 L4-1317,遷,迁,qiān,V,
@@ -3720,7 +3720,7 @@ L4-1319,簽訂,签订,qiāndìng,V,
 L4-1320,前方,前方,qiánfāng,N,
 L4-1321,強,强,qiáng,Vs,
 L4-1322,槍,枪,qiāng,N,
-L4-1323,牆/牆壁,墙/墙壁,qiáng/qiángbì,N,"[[""牆"", ""qiáng""], [""牆壁"", ""qiángbì""]]"
+L4-1323,牆/牆壁,墙/墙壁,qiáng/qiángbì,N,"[{""Traditional"": ""牆"", ""Simplified"": ""墙"", ""Pinyin"": ""qiáng""}, {""Traditional"": ""牆壁"", ""Simplified"": ""墙壁"", ""Pinyin"": ""qiángbì""}]"
 L4-1324,強大,强大,qiángdà,Vs,
 L4-1325,強度,强度,qiángdù,N,
 L4-1326,搶救,抢救,qiǎngjiù,V,
@@ -3740,7 +3740,7 @@ L4-1339,巧,巧,qiǎo,Vs,
 L4-1340,瞧,瞧,qiáo,V,
 L4-1341,敲,敲,qiāo,V,
 L4-1342,巧妙,巧妙,qiǎomiào,Vs,
-L4-1343,悄悄/悄,悄悄/悄,qiǎoqiǎo/qiǎo,Adv,"[[""悄悄"", ""qiǎoqiǎo""], [""悄"", ""qiǎo""]]"
+L4-1343,悄悄/悄,悄悄/悄,qiǎoqiǎo/qiǎo,Adv,"[{""Traditional"": ""悄悄"", ""Simplified"": ""悄悄"", ""Pinyin"": ""qiǎoqiǎo""}, {""Traditional"": ""悄"", ""Simplified"": ""悄"", ""Pinyin"": ""qiǎo""}]"
 L4-1344,器材,器材,qìcái,N,
 L4-1345,起初,起初,qǐchū,Adv,
 L4-1346,期待,期待,qídài,Vst,
@@ -3802,7 +3802,7 @@ L4-1401,缺乏,缺乏,quēfá,Vst,
 L4-1402,缺少,缺少,quēshǎo,Vst,
 L4-1403,確實,确实,quèshí,Vs,
 L4-1404,缺席,缺席,quēxí,Vs,
-L4-1405,群/羣,群/群,qún,M,"[[""群"", ""qún""], [""羣"", ""qún""]]"
+L4-1405,群/羣,群,qún,M,"[{""Traditional"": ""群"", ""Simplified"": ""群"", ""Pinyin"": ""qún""}, {""Traditional"": ""羣"", ""Simplified"": ""群"", ""Pinyin"": ""qún""}]"
 L4-1406,群眾,群众,qúnzhòng,N,
 L4-1407,取笑,取笑,qǔxiào,V,
 L4-1408,取消,取消,qǔxiāo,V,
@@ -3825,7 +3825,7 @@ L4-1424,人才,人才,réncái,N,
 L4-1425,人格,人格,réngé,N,
 L4-1426,人工,人工,réngōng,N,
 L4-1427,人力,人力,rénlì,N,
-L4-1428,人情味/人情味兒,人情味/人情味儿,rénqíngwèi/rénqíngwèir,N,"[[""人情味"", ""rénqíngwèi""], [""人情味兒"", ""rénqíngwèir""]]"
+L4-1428,人情味/人情味兒,人情味/人情味儿,rénqíngwèi/rénqíngwèir,N,"[{""Traditional"": ""人情味"", ""Simplified"": ""人情味"", ""Pinyin"": ""rénqíngwèi""}, {""Traditional"": ""人情味兒"", ""Simplified"": ""人情味儿"", ""Pinyin"": ""rénqíngwèir""}]"
 L4-1429,人權,人权,rénquán,N,
 L4-1430,人生,人生,rénshēng,N,
 L4-1431,人事,人事,rénshì,N,
@@ -3879,7 +3879,7 @@ L4-1478,傷腦筋,伤脑筋,shāngnǎojīn,Vs,
 L4-1479,上升,上升,shàngshēng,Vi,
 L4-1480,上市,上市,shàngshì,Vp,
 L4-1481,上述,上述,shàngshù,N,
-L4-1482,上台/上臺,上台/上台,shàngtái,V-sep,"[[""上台"", ""shàngtái""], [""上臺"", ""shàngtái""]]"
+L4-1482,上台/上臺,上台,shàngtái,V-sep,"[{""Traditional"": ""上台"", ""Simplified"": ""上台"", ""Pinyin"": ""shàngtái""}, {""Traditional"": ""上臺"", ""Simplified"": ""上台"", ""Pinyin"": ""shàngtái""}]"
 L4-1483,上頭,上头,shàngtou,N,
 L4-1484,上下,上下,shàngxià,N,
 L4-1485,上游,上游,shàngyóu,N,
@@ -3907,7 +3907,7 @@ L4-1506,勝,胜,shèng,Vp,
 L4-1507,省,省,shěng,Vs,
 L4-1508,升,升,shēng,Vp,
 L4-1509,生,生,shēng,Vs-attr,
-L4-1510,繩(子),绳(子),shéng(zi),N,"[[""繩"", ""shéng""], [""繩子"", ""shéngzi""]]"
+L4-1510,繩(子),绳(子),shéng(zi),N,"[{""Traditional"": ""繩子"", ""Simplified"": ""绳子"", ""Pinyin"": ""shéngzi""}, {""Traditional"": ""繩"", ""Simplified"": ""绳"", ""Pinyin"": ""shéng""}]"
 L4-1511,生詞,生词,shēngcí,N,
 L4-1512,生存,生存,shēngcún,Vs,
 L4-1513,省得,省得,shěngde,Vaux,
@@ -3920,7 +3920,7 @@ L4-1519,生長,生长,shēngzhǎng,Vs,
 L4-1520,神話,神话,shénhuà,N,
 L4-1521,神經,神经,shénjīng,N,
 L4-1522,深刻,深刻,shēnkè,Vs,
-L4-1523,神秘/神祕,神秘/神秘,shénmì,Vs,"[[""神秘"", ""shénmì""], [""神祕"", ""shénmì""]]"
+L4-1523,神秘/神祕,神秘,shénmì,Vs,"[{""Traditional"": ""神秘"", ""Simplified"": ""神秘"", ""Pinyin"": ""shénmì""}, {""Traditional"": ""神祕"", ""Simplified"": ""神秘"", ""Pinyin"": ""shénmì""}]"
 L4-1524,神奇,神奇,shénqí,Vs,
 L4-1525,神氣,神气,shénqì,Vs,
 L4-1526,深淺,深浅,shēnqiǎn,N,
@@ -3931,7 +3931,7 @@ L4-1530,神仙,神仙,shénxiān,N,
 L4-1531,深夜,深夜,shēnyè,N,
 L4-1532,慎重,慎重,shènzhòng,Vs,
 L4-1533,社區,社区,shèqū,N,
-L4-1534,舌頭/舌,舌头/舌,shétou/shé,N,"[[""舌頭"", ""shétou""], [""舌"", ""shé""]]"
+L4-1534,舌頭/舌,舌头/舌,shétou/shé,N,"[{""Traditional"": ""舌頭"", ""Simplified"": ""舌头"", ""Pinyin"": ""shétou""}, {""Traditional"": ""舌"", ""Simplified"": ""舌"", ""Pinyin"": ""shé""}]"
 L4-1535,社團,社团,shètuán,N,
 L4-1536,攝影,摄影,shèyǐng,Vi,
 L4-1537,設置,设置,shèzhì,V,
@@ -3997,7 +3997,7 @@ L4-1596,首先,首先,shǒuxiān,Adv,
 L4-1597,束,束,shù,M,
 L4-1598,數,数,shù,N,
 L4-1599,屬,属,shǔ,Vst,
-L4-1600,鼠/老鼠,鼠/老鼠,shǔ/lǎoshǔ,N,"[[""鼠"", ""shǔ""], [""老鼠"", ""lǎoshǔ""]]"
+L4-1600,鼠/老鼠,鼠/老鼠,shǔ/lǎoshǔ,N,"[{""Traditional"": ""鼠"", ""Simplified"": ""鼠"", ""Pinyin"": ""shǔ""}, {""Traditional"": ""老鼠"", ""Simplified"": ""老鼠"", ""Pinyin"": ""lǎoshǔ""}]"
 L4-1601,耍,耍,shuǎ,V,
 L4-1602,甩,甩,shuǎi,V,
 L4-1603,摔,摔,shuāi,V,
@@ -4008,7 +4008,7 @@ L4-1607,雙方,双方,shuāngfāng,N,
 L4-1608,輸出,输出,shūchū,V,
 L4-1609,疏忽,疏忽,shūhū,Vp,
 L4-1610,稅,税,shuì,N,
-L4-1611,水分/水份,水分/水份,shuǐfèn,N,"[[""水分"", ""shuǐfèn""], [""水份"", ""shuǐfèn""]]"
+L4-1611,水分/水份,水分/水份,shuǐfèn,N,"[{""Traditional"": ""水分"", ""Simplified"": ""水分"", ""Pinyin"": ""shuǐfèn""}, {""Traditional"": ""水份"", ""Simplified"": ""水份"", ""Pinyin"": ""shuǐfèn""}]"
 L4-1612,說服,说服,shuìfú,V,
 L4-1613,睡眠,睡眠,shuìmián,N,
 L4-1614,水災,水灾,shuǐzāi,N,
@@ -4058,7 +4058,7 @@ L4-1657,縮,缩,suō,V,
 L4-1658,縮短,缩短,suōduǎn,V,
 L4-1659,縮水,缩水,suōshuǐ,Vp,
 L4-1660,素食,素食,sùshí,N,
-L4-1661,牠,牠,tā,N,
+L4-1661,牠,它,tā,N,
 L4-1662,踏,踏,tà,V,
 L4-1663,塌,塌,tā,Vp,
 L4-1664,太極拳,太极拳,tàijíquán,N,
@@ -4082,7 +4082,7 @@ L4-1681,掏,掏,tāo,V,
 L4-1682,逃避,逃避,táobì,V,
 L4-1683,陶瓷,陶瓷,táocí,N,
 L4-1684,淘氣,淘气,táoqì,Vs,
-L4-1685,桃(子),桃(子),táo(zi),N,"[[""桃"", ""táo""], [""桃子"", ""táozi""]]"
+L4-1685,桃(子),桃(子),táo(zi),N,"[{""Traditional"": ""桃子"", ""Simplified"": ""桃子"", ""Pinyin"": ""táozi""}, {""Traditional"": ""桃"", ""Simplified"": ""桃"", ""Pinyin"": ""táo""}]"
 L4-1686,逃走,逃走,táozǒu,Vp,
 L4-1687,特別,特别,tèbié,Adv,
 L4-1688,特點,特点,tèdiǎn,N,
@@ -4126,7 +4126,7 @@ L4-1725,同志,同志,tóngzhì,N,
 L4-1726,統治,统治,tǒngzhì,V,
 L4-1727,頭,头,tóu,M,
 L4-1728,透,透,tòu,Vs,
-L4-1729,偷/偷偷,偷/偷偷,tōu/tōutōu,Adv,"[[""偷"", ""tōu""], [""偷偷"", ""tōutōu""]]"
+L4-1729,偷/偷偷,偷/偷偷,tōu/tōutōu,Adv,"[{""Traditional"": ""偷"", ""Simplified"": ""偷"", ""Pinyin"": ""tōu""}, {""Traditional"": ""偷偷"", ""Simplified"": ""偷偷"", ""Pinyin"": ""tōutōu""}]"
 L4-1730,透過,透过,tòuguò,Prep,
 L4-1731,頭腦,头脑,tóunǎo,N,
 L4-1732,投票,投票,tóupiào,V-sep,
@@ -4181,7 +4181,7 @@ L4-1780,完整,完整,wánzhěng,Vs,
 L4-1781,瓦斯,瓦斯,wǎsī,N,
 L4-1782,圍,围,wéi,V,
 L4-1783,未,未,wèi,Adv,
-L4-1784,尾巴/尾,尾巴/尾,wěibā/wěi,N,"[[""尾巴"", ""wěibā""], [""尾"", ""wěi""]]"
+L4-1784,尾巴/尾,尾巴/尾,wěibā/wěi,N,"[{""Traditional"": ""尾巴"", ""Simplified"": ""尾巴"", ""Pinyin"": ""wěibā""}, {""Traditional"": ""尾"", ""Simplified"": ""尾"", ""Pinyin"": ""wěi""}]"
 L4-1785,違反,违反,wéifǎn,Vst,
 L4-1786,為何,为何,wèihé,Adv,
 L4-1787,維護,维护,wéihù,V,
@@ -4222,7 +4222,7 @@ L4-1821,武器,武器,wǔqì,N,
 L4-1822,無情,无情,wúqíng,Vs,
 L4-1823,無數,无数,wúshù,Det,
 L4-1824,武術,武术,wǔshù,N,
-L4-1825,舞台/舞臺,舞台/舞台,wǔtái,N,"[[""舞台"", ""wǔtái""], [""舞臺"", ""wǔtái""]]"
+L4-1825,舞台/舞臺,舞台,wǔtái,N,"[{""Traditional"": ""舞台"", ""Simplified"": ""舞台"", ""Pinyin"": ""wǔtái""}, {""Traditional"": ""舞臺"", ""Simplified"": ""舞台"", ""Pinyin"": ""wǔtái""}]"
 L4-1826,舞廳,舞厅,wǔtīng,N,
 L4-1827,無限,无限,wúxiàn,Vs,
 L4-1828,無意,无意,wúyì,Vs,
@@ -4230,7 +4230,7 @@ L4-1829,物質,物质,wùzhí,N,
 L4-1830,系,系,xì,N,
 L4-1831,吸,吸,xī,V,
 L4-1832,瞎,瞎,xiā,Vp,
-L4-1833,蝦(子),虾(子),xiā(zi),N,"[[""蝦"", ""xiā""], [""蝦子"", ""xiāzi""]]"
+L4-1833,蝦(子),虾(子),xiā(zi),N,"[{""Traditional"": ""蝦子"", ""Simplified"": ""虾子"", ""Pinyin"": ""xiāzi""}, {""Traditional"": ""蝦"", ""Simplified"": ""虾"", ""Pinyin"": ""xiā""}]"
 L4-1834,下巴,下巴,xiàbā,N,
 L4-1835,下降,下降,xiàjiàng,Vp,
 L4-1836,下來,下来,xiàlái,N,
@@ -4243,8 +4243,8 @@ L4-1842,現場,现场,xiànchǎng,N,
 L4-1843,現成,现成,xiànchéng,Vs-attr,
 L4-1844,顯得,显得,xiǎnde,Vs,
 L4-1845,相,相,xiāng,Adv,
-L4-1846,巷(子),巷(子),xiàng(zi),N,"[[""巷"", ""xiàng""], [""巷子"", ""xiàngzi""]]"
-L4-1847,象/大象,象/大象,xiàng/dàxiàng,N,"[[""象"", ""xiàng""], [""大象"", ""dàxiàng""]]"
+L4-1846,巷(子),巷(子),xiàng(zi),N,"[{""Traditional"": ""巷子"", ""Simplified"": ""巷子"", ""Pinyin"": ""xiàngzi""}, {""Traditional"": ""巷"", ""Simplified"": ""巷"", ""Pinyin"": ""xiàng""}]"
+L4-1847,象/大象,象/大象,xiàng/dàxiàng,N,"[{""Traditional"": ""象"", ""Simplified"": ""象"", ""Pinyin"": ""xiàng""}, {""Traditional"": ""大象"", ""Simplified"": ""大象"", ""Pinyin"": ""dàxiàng""}]"
 L4-1848,想不到,想不到,xiǎngbùdào,,
 L4-1849,香腸,香肠,xiāngcháng,N,
 L4-1850,相處,相处,xiāngchǔ,Vi,
@@ -4288,7 +4288,7 @@ L4-1887,笑容,笑容,xiàoróng,N,
 L4-1888,消失,消失,xiāoshī,Vp,
 L4-1889,銷售,销售,xiāoshòu,V,
 L4-1890,小腿,小腿,xiǎotuǐ,N,
-L4-1891,消夜/宵夜,消夜/宵夜,xiāoyè,N,"[[""消夜"", ""xiāoyè""], [""宵夜"", ""xiāoyè""]]"
+L4-1891,消夜/宵夜,消夜/宵夜,xiāoyè,N,"[{""Traditional"": ""消夜"", ""Simplified"": ""消夜"", ""Pinyin"": ""xiāoyè""}, {""Traditional"": ""宵夜"", ""Simplified"": ""宵夜"", ""Pinyin"": ""xiāoyè""}]"
 L4-1892,校友,校友,xiàoyǒu,N,
 L4-1893,小子,小子,xiǎozi,N,
 L4-1894,下棋,下棋,xiàqí,V-sep,
@@ -4342,10 +4342,10 @@ L4-1941,吸菸,吸烟,xīyān,V-sep,
 L4-1942,西裝,西装,xīzhuāng,N,
 L4-1943,許,许,xǔ,V,
 L4-1944,懸,悬,xuán,V,
-L4-1945,宣布/宣佈,宣布/宣布,xuānbù,V,"[[""宣布"", ""xuānbù""], [""宣佈"", ""xuānbù""]]"
+L4-1945,宣布/宣佈,宣布,xuānbù,V,"[{""Traditional"": ""宣布"", ""Simplified"": ""宣布"", ""Pinyin"": ""xuānbù""}, {""Traditional"": ""宣佈"", ""Simplified"": ""宣布"", ""Pinyin"": ""xuānbù""}]"
 L4-1946,宣傳,宣传,xuānchuán,N/V,
 L4-1947,選手,选手,xuǎnshǒu,N,
-L4-1948,靴(子),靴(子),xuē(zi),N,"[[""靴"", ""xuē""], [""靴子"", ""xuēzi""]]"
+L4-1948,靴(子),靴(子),xuē(zi),N,"[{""Traditional"": ""靴子"", ""Simplified"": ""靴子"", ""Pinyin"": ""xuēzi""}, {""Traditional"": ""靴"", ""Simplified"": ""靴"", ""Pinyin"": ""xuē""}]"
 L4-1949,雪花,雪花,xuěhuā,N,
 L4-1950,學會,学会,xuéhuì,N,
 L4-1951,削減,削减,xuèjiǎn,V,
@@ -4361,7 +4361,7 @@ L4-1960,許願,许愿,xǔyuàn,V-sep,
 L4-1961,須知,须知,xūzhī,N,
 L4-1962,壓,压,yā,V,
 L4-1963,壓力,压力,yālì,N,
-L4-1964,煙/菸,烟/烟,yān,N,"[[""煙"", ""yān""], [""菸"", ""yān""]]"
+L4-1964,煙/菸,烟,yān,N,"[{""Traditional"": ""煙"", ""Simplified"": ""烟"", ""Pinyin"": ""yān""}, {""Traditional"": ""菸"", ""Simplified"": ""烟"", ""Pinyin"": ""yān""}]"
 L4-1965,沿,沿,yán,Prep,
 L4-1966,嚴,严,yán,Vs,
 L4-1967,鹽巴,盐巴,yánbā,N,
@@ -4390,7 +4390,7 @@ L4-1989,搖頭,摇头,yáotóu,V-sep,
 L4-1990,藥物,药物,yàowù,N,
 L4-1991,壓迫,压迫,yāpò,V,
 L4-1992,野,野,yě,Vs,
-L4-1993,葉(子),叶(子),yè(zi),M/N,"[[""葉"", ""yè""], [""葉子"", ""yèzi""]]"
+L4-1993,葉(子),叶(子),yè(zi),M/N,"[{""Traditional"": ""葉"", ""Simplified"": ""叶"", ""Pinyin"": ""yè""}, {""Traditional"": ""葉子"", ""Simplified"": ""叶子"", ""Pinyin"": ""yèzi""}]"
 L4-1994,夜景,夜景,yèjǐng,N,
 L4-1995,野獸,野兽,yěshòu,N,
 L4-1996,業務,业务,yèwù,N,
@@ -4420,7 +4420,7 @@ L4-2019,飲,饮,yǐn,V,
 L4-2020,因而,因而,yīn'ér,Conj,
 L4-2021,引發,引发,yǐnfā,V,
 L4-2022,硬,硬,yìng,Vs,
-L4-2023,影(子),影(子),yǐng(zi),N,"[[""影"", ""yǐng""], [""影子"", ""yǐngzi""]]"
+L4-2023,影(子),影(子),yǐng(zi),N,"[{""Traditional"": ""影子"", ""Simplified"": ""影子"", ""Pinyin"": ""yǐngzi""}, {""Traditional"": ""影"", ""Simplified"": ""影"", ""Pinyin"": ""yǐng""}]"
 L4-2024,影本,影本,yǐngběn,N,
 L4-2025,應當,应当,yīngdāng,Adv,
 L4-2026,贏得,赢得,yíngdé,Vpt,
@@ -4518,7 +4518,7 @@ L4-2117,運轉,运转,yùnzhuǎn,Vi,
 L4-2118,與其,与其,yǔqí,Conj,
 L4-2119,語氣,语气,yǔqì,N,
 L4-2120,預算,预算,yùsuàn,N,
-L4-2121,預先/預,预先/预,yùxiān/yù,Adv,"[[""預先"", ""yùxiān""], [""預"", ""yù""]]"
+L4-2121,預先/預,预先/预,yùxiān/yù,Adv,"[{""Traditional"": ""預先"", ""Simplified"": ""预先"", ""Pinyin"": ""yùxiān""}, {""Traditional"": ""預"", ""Simplified"": ""预"", ""Pinyin"": ""yù""}]"
 L4-2122,語音,语音,yǔyīn,N,
 L4-2123,砸,砸,zá,V,
 L4-2124,雜,杂,zá,Vs,
@@ -4551,7 +4551,7 @@ L4-2150,贈品,赠品,zèngpǐn,N,
 L4-2151,贈送,赠送,zèngsòng,V,
 L4-2152,增長,增长,zēngzhǎng,Vst,
 L4-2153,窄,窄,zhǎi,Vs,
-L4-2154,占/佔,占/占,zhàn,V/Vst,"[[""占"", ""zhàn""], [""佔"", ""zhàn""]]"
+L4-2154,占/佔,占,zhàn,V/Vst,"[{""Traditional"": ""占"", ""Simplified"": ""占"", ""Pinyin"": ""zhàn""}, {""Traditional"": ""佔"", ""Simplified"": ""占"", ""Pinyin"": ""zhàn""}]"
 L4-2155,戰場,战场,zhànchǎng,N,
 L4-2156,展出,展出,zhǎnchū,V,
 L4-2157,漲,涨,zhǎng,Vp,
@@ -4566,7 +4566,7 @@ L4-2165,掌聲,掌声,zhǎngshēng,N,
 L4-2166,展開,展开,zhǎnkāi,V,
 L4-2167,展覽,展览,zhǎnlǎn,N/V,
 L4-2168,展示,展示,zhǎnshì,V,
-L4-2169,占有/佔有,占有/占有,zhànyǒu,Vst,"[[""占有"", ""zhànyǒu""], [""佔有"", ""zhànyǒu""]]"
+L4-2169,占有/佔有,占有,zhànyǒu,Vst,"[{""Traditional"": ""占有"", ""Simplified"": ""占有"", ""Pinyin"": ""zhànyǒu""}, {""Traditional"": ""佔有"", ""Simplified"": ""占有"", ""Pinyin"": ""zhànyǒu""}]"
 L4-2170,站住,站住,zhànzhù,Vi,
 L4-2171,照,照,zhào,Adv,
 L4-2172,照常,照常,zhàocháng,Vs,
@@ -4622,7 +4622,7 @@ L4-2221,支持,支持,zhīchí,V,
 L4-2222,指出,指出,zhǐchū,Vpt,
 L4-2223,支出,支出,zhīchū,Vpt,
 L4-2224,指導,指导,zhǐdǎo,V,
-L4-2225,制定/制訂,制定/制订,zhìdìng,V,"[[""制定"", ""zhìdìng""], [""制訂"", ""zhìdìng""]]"
+L4-2225,制定/制訂,制定/制订,zhìdìng,V,"[{""Traditional"": ""制定"", ""Simplified"": ""制定"", ""Pinyin"": ""zhìdìng""}, {""Traditional"": ""制訂"", ""Simplified"": ""制订"", ""Pinyin"": ""zhìdìng""}]"
 L4-2226,指定,指定,zhǐdìng,V,
 L4-2227,之間,之间,zhījiān,N,
 L4-2228,之類,之类,zhīlèi,N,
@@ -4636,7 +4636,7 @@ L4-2235,執行,执行,zhíxíng,V,
 L4-2236,秩序,秩序,zhìxù,N,
 L4-2237,志願,志愿,zhìyuàn,N,
 L4-2238,支援,支援,zhīyuán,V,
-L4-2239,製造/製,制造/制,zhìzào/zhì,V,"[[""製造"", ""zhìzào""], [""製"", ""zhì""]]"
+L4-2239,製造/製,制造/制,zhìzào/zhì,V,"[{""Traditional"": ""製造"", ""Simplified"": ""制造"", ""Pinyin"": ""zhìzào""}, {""Traditional"": ""製"", ""Simplified"": ""制"", ""Pinyin"": ""zhì""}]"
 L4-2240,指責,指责,zhǐzé,V,
 L4-2241,紙張,纸张,zhǐzhāng,N,
 L4-2242,制止,制止,zhìzhǐ,V,
@@ -4663,7 +4663,7 @@ L4-2262,周,周,zhōu,M,
 L4-2263,週,周,zhōu,M,
 L4-2264,粥,粥,zhōu,N,
 L4-2265,周到,周到,zhōudào,Vs,
-L4-2266,竹(子),竹(子),zhú(zi),N,"[[""竹"", ""zhú""], [""竹子"", ""zhúzi""]]"
+L4-2266,竹(子),竹(子),zhú(zi),N,"[{""Traditional"": ""竹子"", ""Simplified"": ""竹子"", ""Pinyin"": ""zhúzi""}, {""Traditional"": ""竹"", ""Simplified"": ""竹"", ""Pinyin"": ""zhú""}]"
 L4-2267,賺,赚,zhuàn,V,
 L4-2268,轉,转,zhuǎn,V/Vp,
 L4-2269,轉變,转变,zhuǎnbiàn,Vpt,
@@ -4693,7 +4693,7 @@ L4-2292,逐漸,逐渐,zhújiàn,Adv,
 L4-2293,主角,主角,zhǔjué,N,
 L4-2294,准,准,zhǔn,V,
 L4-2295,準,准,zhǔn,Vs,
-L4-2296,准考證/准考証,准考证/准考证,zhǔnkǎozhèng,N,"[[""准考證"", ""zhǔnkǎozhèng""], [""准考証"", ""zhǔnkǎozhèng""]]"
+L4-2296,准考證/准考証,准考证,zhǔnkǎozhèng,N,"[{""Traditional"": ""准考證"", ""Simplified"": ""准考证"", ""Pinyin"": ""zhǔnkǎozhèng""}, {""Traditional"": ""准考証"", ""Simplified"": ""准考证"", ""Pinyin"": ""zhǔnkǎozhèng""}]"
 L4-2297,準確,准确,zhǔnquè,Vs,
 L4-2298,捉,捉,zhuō,V,
 L4-2299,桌,桌,zhuō,M,
@@ -4734,7 +4734,7 @@ L4-2333,最少,最少,zuìshǎo,Adv,
 L4-2334,遵守,遵守,zūnshǒu,Vst,
 L4-2335,尊重,尊重,zūnzhòng,Vst,
 L4-2336,作家,作家,zuòjiā,N,
-L4-2337,做客/作客,做客/作客,zuòkè,Vi,"[[""做客"", ""zuòkè""], [""作客"", ""zuòkè""]]"
+L4-2337,做客/作客,做客/作客,zuòkè,Vi,"[{""Traditional"": ""做客"", ""Simplified"": ""做客"", ""Pinyin"": ""zuòkè""}, {""Traditional"": ""作客"", ""Simplified"": ""作客"", ""Pinyin"": ""zuòkè""}]"
 L4-2338,作為,作为,zuòwéi,Vst/N,
 L4-2339,作用,作用,zuòyòng,N,
 L4-2340,足以,足以,zúyǐ,Vaux,
@@ -4763,7 +4763,7 @@ L5-0020,把持,把持,bǎchí,V,
 L5-0021,把手,把手,bǎshǒu,N,
 L5-0022,白皮書,白皮书,báipíshū,N,
 L5-0023,拜會,拜会,bàihuì,V,
-L5-0024,頒發/頒,颁发/颁,bānfā/bān,V,"[[""頒發"", ""bānfā""], [""頒"", ""bān""]]"
+L5-0024,頒發/頒,颁发/颁,bānfā/bān,V,"[{""Traditional"": ""頒發"", ""Simplified"": ""颁发"", ""Pinyin"": ""bānfā""}, {""Traditional"": ""頒"", ""Simplified"": ""颁"", ""Pinyin"": ""bān""}]"
 L5-0025,頒獎,颁奖,bānjiǎng,V-sep,
 L5-0026,辦案,办案,bàn'àn,V-sep,
 L5-0027,半島,半岛,bàndǎo,N,
@@ -4896,7 +4896,7 @@ L5-0153,不懈,不懈,bùxiè,Vs,
 L5-0154,不再,不再,bùzài,Vs-pred,
 L5-0155,不致,不致,bùzhì,Adv,
 L5-0156,不知不覺,不知不觉,bùzhībùjué,Adv,
-L5-0157,不至於/不致於,不至于/不致于,bùzhìyú,Adv,"[[""不至於"", ""bùzhìyú""], [""不致於"", ""bùzhìyú""]]"
+L5-0157,不至於/不致於,不至于/不致于,bùzhìyú,Adv,"[{""Traditional"": ""不至於"", ""Simplified"": ""不至于"", ""Pinyin"": ""bùzhìyú""}, {""Traditional"": ""不致於"", ""Simplified"": ""不致于"", ""Pinyin"": ""bùzhìyú""}]"
 L5-0158,部落,部落,bùluò,N,
 L5-0159,部署,部署,bùshù,V,
 L5-0160,步調,步调,bùdiào,N,
@@ -4929,7 +4929,7 @@ L5-0186,草叢,草丛,cǎocóng,N,
 L5-0187,草率,草率,cǎoshuài,Vs,
 L5-0188,草藥,草药,cǎoyào,N,
 L5-0189,測,测,cè,V,
-L5-0190,策畫/策劃,策画/策划,cèhuà,V,"[[""策畫"", ""cèhuà""], [""策劃"", ""cèhuà""]]"
+L5-0190,策畫/策劃,策画/策划,cèhuà,V,"[{""Traditional"": ""策畫"", ""Simplified"": ""策画"", ""Pinyin"": ""cèhuà""}, {""Traditional"": ""策劃"", ""Simplified"": ""策划"", ""Pinyin"": ""cèhuà""}]"
 L5-0191,差額,差额,chā'é,N,
 L5-0192,插曲,插曲,chāqǔ,N,
 L5-0193,插嘴,插嘴,chāzuǐ,V-sep,
@@ -4940,7 +4940,7 @@ L5-0197,蟬,蝉,chán,N,
 L5-0198,饞,馋,chán,Vs,
 L5-0199,潺潺,潺潺,chánchán,Vs,
 L5-0200,猖獗,猖獗,chāngjué,Vs,
-L5-0201,腸(子),肠(子),cháng(zi),N,"[[""腸"", ""cháng""], [""腸子"", ""chángzi""]]"
+L5-0201,腸(子),肠(子),cháng(zi),N,"[{""Traditional"": ""腸子"", ""Simplified"": ""肠子"", ""Pinyin"": ""chángzi""}, {""Traditional"": ""腸"", ""Simplified"": ""肠"", ""Pinyin"": ""cháng""}]"
 L5-0202,長遠,长远,chángyuǎn,Vs,
 L5-0203,場次,场次,chǎngcì,N,
 L5-0204,場面,场面,chǎngmiàn,N,
@@ -4957,9 +4957,9 @@ L5-0214,車輛,车辆,chēliàng,N,
 L5-0215,車廂,车厢,chēxiāng,N,
 L5-0216,撤回,撤回,chèhuí,V,
 L5-0217,撤銷,撤销,chèxiāo,V,
-L5-0218,沉默/沈默,沉默/沉默,chénmò,Vs,"[[""沉默"", ""chénmò""], [""沈默"", ""chénmò""]]"
+L5-0218,沉默/沈默,沉默,chénmò,Vs,"[{""Traditional"": ""沉默"", ""Simplified"": ""沉默"", ""Pinyin"": ""chénmò""}, {""Traditional"": ""沈默"", ""Simplified"": ""沉默"", ""Pinyin"": ""chénmò""}]"
 L5-0219,沉思,沉思,chénsī,Vi,
-L5-0220,沉重/沈重,沉重/沈重,chénzhòng,Vs,"[[""沉重"", ""chénzhòng""], [""沈重"", ""chénzhòng""]]"
+L5-0220,沉重/沈重,沉重/沈重,chénzhòng,Vs,"[{""Traditional"": ""沉重"", ""Simplified"": ""沉重"", ""Pinyin"": ""chénzhòng""}, {""Traditional"": ""沈重"", ""Simplified"": ""沈重"", ""Pinyin"": ""chénzhòng""}]"
 L5-0221,塵土,尘土,chéntǔ,N,
 L5-0222,呈,呈,chéng,Vst,
 L5-0223,乘,乘,chéng,Vst,
@@ -4990,7 +4990,7 @@ L5-0247,吃力,吃力,chīlì,Vs,
 L5-0248,持,持,chí,V,
 L5-0249,持久,持久,chíjiǔ,Vs,
 L5-0250,持平,持平,chípíng,Vs,
-L5-0251,池(子),池(子),chí(zi),N,"[[""池"", ""chí""], [""池子"", ""chízi""]]"
+L5-0251,池(子),池(子),chí(zi),N,"[{""Traditional"": ""池子"", ""Simplified"": ""池子"", ""Pinyin"": ""chízi""}, {""Traditional"": ""池"", ""Simplified"": ""池"", ""Pinyin"": ""chí""}]"
 L5-0252,遲鈍,迟钝,chídùn,Vs,
 L5-0253,充斥,充斥,chōngchì,Vst,
 L5-0254,充裕,充裕,chōngyù,Vs,
@@ -5195,7 +5195,7 @@ L5-0452,鬥志,斗志,dòuzhì,N,
 L5-0453,督促,督促,dūcù,V,
 L5-0454,獨創,独创,dúchuàng,V,
 L5-0455,獨到,独到,dúdào,Vs,
-L5-0456,獨占/獨佔,独占/独占,dúzhàn,V,"[[""獨占"", ""dúzhàn""], [""獨佔"", ""dúzhàn""]]"
+L5-0456,獨占/獨佔,独占,dúzhàn,V,"[{""Traditional"": ""獨占"", ""Simplified"": ""独占"", ""Pinyin"": ""dúzhàn""}, {""Traditional"": ""獨佔"", ""Simplified"": ""独占"", ""Pinyin"": ""dúzhàn""}]"
 L5-0457,讀物,读物,dúwù,N,
 L5-0458,堵,堵,dǔ,V,
 L5-0459,堵塞,堵塞,dǔsè,Vst,
@@ -5255,7 +5255,7 @@ L5-0512,翻新,翻新,fānxīn,V,
 L5-0513,繁多,繁多,fánduō,Vs,
 L5-0514,繁體,繁体,fántǐ,N,
 L5-0515,藩籬,藩篱,fánlí,N,
-L5-0516,凡/凡是,凡/凡是,fán/fánshì,Conj,"[[""凡"", ""fán""], [""凡是"", ""fánshì""]]"
+L5-0516,凡/凡是,凡/凡是,fán/fánshì,Conj,"[{""Traditional"": ""凡"", ""Simplified"": ""凡"", ""Pinyin"": ""fán""}, {""Traditional"": ""凡是"", ""Simplified"": ""凡是"", ""Pinyin"": ""fánshì""}]"
 L5-0517,返,返,fǎn,V,
 L5-0518,反擊,反击,fǎnjí,V,
 L5-0519,反射,反射,fǎnshè,Vi,
@@ -5312,7 +5312,7 @@ L5-0569,分離,分离,fēnlí,Vs,
 L5-0570,分裂,分裂,fēnliè,Vp,
 L5-0571,分泌,分泌,fēnmì,V,
 L5-0572,分子,分子,fēnzǐ,N,
-L5-0573,墳墓/墳/墓,坟墓/坟/墓,fénmù/fén/mù,N,"[[""墳墓"", ""fénmù""], [""墳"", ""fén""], [""墓"", ""mù""]]"
+L5-0573,墳墓/墳/墓,坟墓/坟/墓,fénmù/fén/mù,N,"[{""Traditional"": ""墳墓"", ""Simplified"": ""坟墓"", ""Pinyin"": ""fénmù""}, {""Traditional"": ""墳"", ""Simplified"": ""坟"", ""Pinyin"": ""fén""}, {""Traditional"": ""墓"", ""Simplified"": ""墓"", ""Pinyin"": ""mù""}]"
 L5-0574,粉刷,粉刷,fěnshuā,V,
 L5-0575,分量,分量,fènliàng,N,
 L5-0576,糞,粪,fèn,N,
@@ -5347,7 +5347,7 @@ L5-0604,服刑,服刑,fúxíng,V-sep,
 L5-0605,幅度,幅度,fúdù,N,
 L5-0606,福氣,福气,fúqì,N,
 L5-0607,輻射,辐射,fúshè,N,
-L5-0608,斧頭/斧,斧头/斧,fǔtou/fǔ,N,"[[""斧頭"", ""fǔtou""], [""斧"", ""fǔ""]]"
+L5-0608,斧頭/斧,斧头/斧,fǔtou/fǔ,N,"[{""Traditional"": ""斧頭"", ""Simplified"": ""斧头"", ""Pinyin"": ""fǔtou""}, {""Traditional"": ""斧"", ""Simplified"": ""斧"", ""Pinyin"": ""fǔ""}]"
 L5-0609,撫養,抚养,fǔyǎng,V,
 L5-0610,撫育,抚育,fǔyù,V,
 L5-0611,腐爛,腐烂,fǔlàn,Vp,
@@ -5391,7 +5391,7 @@ L5-0648,告狀,告状,gàozhuàng,V-sep,
 L5-0649,胳膊,胳膊,gēbó,N,
 L5-0650,歌頌,歌颂,gēsòng,V,
 L5-0651,疙瘩,疙瘩,gēda,N,
-L5-0652,鴿(子),鸽(子),gē(zi),N,"[[""鴿"", ""gē""], [""鴿子"", ""gēzi""]]"
+L5-0652,鴿(子),鸽(子),gē(zi),N,"[{""Traditional"": ""鴿子"", ""Simplified"": ""鸽子"", ""Pinyin"": ""gēzi""}, {""Traditional"": ""鴿"", ""Simplified"": ""鸽"", ""Pinyin"": ""gē""}]"
 L5-0653,隔閡,隔阂,géhé,N,
 L5-0654,隔天,隔天,gétiān,N,
 L5-0655,格局,格局,géjú,N,
@@ -5453,8 +5453,8 @@ L5-0710,股市,股市,gǔshì,N,
 L5-0711,鼓吹,鼓吹,gǔchuī,V,
 L5-0712,鼓動,鼓动,gǔdòng,V,
 L5-0713,故,故,gù,Conj,
-L5-0714,雇/僱,雇/雇,gù,V,"[[""雇"", ""gù""], [""僱"", ""gù""]]"
-L5-0715,雇用/僱用,雇用/雇用,gùyòng,V,"[[""雇用"", ""gùyòng""], [""僱用"", ""gùyòng""]]"
+L5-0714,雇/僱,雇,gù,V,"[{""Traditional"": ""雇"", ""Simplified"": ""雇"", ""Pinyin"": ""gù""}, {""Traditional"": ""僱"", ""Simplified"": ""雇"", ""Pinyin"": ""gù""}]"
+L5-0715,雇用/僱用,雇用,gùyòng,V,"[{""Traditional"": ""雇用"", ""Simplified"": ""雇用"", ""Pinyin"": ""gùyòng""}, {""Traditional"": ""僱用"", ""Simplified"": ""雇用"", ""Pinyin"": ""gùyòng""}]"
 L5-0716,固然,固然,gùrán,Conj,
 L5-0717,固體,固体,gùtǐ,N,
 L5-0718,固有,固有,gùyǒu,Vs-attr,
@@ -5465,7 +5465,7 @@ L5-0722,寡婦,寡妇,guǎfù,N,
 L5-0723,拐,拐,guǎi,V,
 L5-0724,官,官,guān,N,
 L5-0725,官司,官司,guānsī,N,
-L5-0726,棺材/棺,棺材/棺,guāncái/guān,N,"[[""棺材"", ""guāncái""], [""棺"", ""guān""]]"
+L5-0726,棺材/棺,棺材/棺,guāncái/guān,N,"[{""Traditional"": ""棺材"", ""Simplified"": ""棺材"", ""Pinyin"": ""guāncái""}, {""Traditional"": ""棺"", ""Simplified"": ""棺"", ""Pinyin"": ""guān""}]"
 L5-0727,觀,观,guàn,V,
 L5-0728,觀測,观测,guāncè,V,
 L5-0729,觀感,观感,guāngǎn,N,
@@ -5481,7 +5481,7 @@ L5-0738,關照,关照,guānzhào,Vst,
 L5-0739,管教,管教,guǎnjiào,V,
 L5-0740,管理,管理,guǎnlǐ,N,
 L5-0741,管線,管线,guǎnxiàn,N,
-L5-0742,管(子),管(子),guǎn(zi),N,"[[""管"", ""guǎn""], [""管子"", ""guǎnzi""]]"
+L5-0742,管(子),管(子),guǎn(zi),N,"[{""Traditional"": ""管子"", ""Simplified"": ""管子"", ""Pinyin"": ""guǎnzi""}, {""Traditional"": ""管"", ""Simplified"": ""管"", ""Pinyin"": ""guǎn""}]"
 L5-0743,貫徹,贯彻,guànchè,Vst,
 L5-0744,灌,灌,guàn,V,
 L5-0745,灌溉,灌溉,guàngài,V,
@@ -5500,7 +5500,7 @@ L5-0757,軌道,轨道,guǐdào,N,
 L5-0758,鬼怪,鬼怪,guǐguài,N,
 L5-0759,貴,贵,guì,Det,
 L5-0760,貴賓,贵宾,guìbīn,N,
-L5-0761,棍(子),棍(子),gùn(zi),N,"[[""棍"", ""gùn""], [""棍子"", ""gùnzi""]]"
+L5-0761,棍(子),棍(子),gùn(zi),N,"[{""Traditional"": ""棍子"", ""Simplified"": ""棍子"", ""Pinyin"": ""gùnzi""}, {""Traditional"": ""棍"", ""Simplified"": ""棍"", ""Pinyin"": ""gùn""}]"
 L5-0762,國產,国产,guóchǎn,Vs-attr,
 L5-0763,國防,国防,guófáng,N,
 L5-0764,國境,国境,guójìng,N,
@@ -5532,7 +5532,7 @@ L5-0789,好比,好比,hǎobǐ,Vst,
 L5-0790,好手,好手,hǎoshǒu,N,
 L5-0791,好受,好受,hǎoshòu,Vs,
 L5-0792,號,号,hào,Vst,
-L5-0793,號子/證券行,号子/证券行,hàozi/zhèngquànháng,N,"[[""號子"", ""hàozi""], [""證券行"", ""zhèngquànháng""]]"
+L5-0793,號子/證券行,号子/证券行,hàozi/zhèngquànháng,N,"[{""Traditional"": ""號子"", ""Simplified"": ""号子"", ""Pinyin"": ""hàozi""}, {""Traditional"": ""證券行"", ""Simplified"": ""证券行"", ""Pinyin"": ""zhèngquànháng""}]"
 L5-0794,合併,合并,hébìng,V,
 L5-0795,合同,合同,hétóng,N,
 L5-0796,合意,合意,héyì,Vs,
@@ -5598,7 +5598,7 @@ L5-0855,輝煌,辉煌,huīhuáng,Vs,
 L5-0856,回合,回合,huíhé,N,
 L5-0857,回絕,回绝,huíjué,V,
 L5-0858,回升,回升,huíshēng,Vp,
-L5-0859,迴響/回響,回响/回响,huíxiǎng,N,"[[""迴響"", ""huíxiǎng""], [""回響"", ""huíxiǎng""]]"
+L5-0859,迴響/回響,回响,huíxiǎng,N,"[{""Traditional"": ""迴響"", ""Simplified"": ""回响"", ""Pinyin"": ""huíxiǎng""}, {""Traditional"": ""回響"", ""Simplified"": ""回响"", ""Pinyin"": ""huíxiǎng""}]"
 L5-0860,毀,毁,huǐ,V,
 L5-0861,毀損,毁损,huǐsǔn,V,
 L5-0862,悔恨,悔恨,huǐhèn,Vs,
@@ -5615,13 +5615,13 @@ L5-0872,渾身,浑身,húnshēn,N,
 L5-0873,混,混,hùn,Vs,
 L5-0874,混淆,混淆,hùnyáo,Vs,
 L5-0875,混濁,混浊,hùnzhuó,Vs,
-L5-0876,活/活兒,活/活儿,huó/huór,N,"[[""活"", ""huó""], [""活兒"", ""huór""]]"
+L5-0876,活/活兒,活/活儿,huó/huór,N,"[{""Traditional"": ""活"", ""Simplified"": ""活"", ""Pinyin"": ""huó""}, {""Traditional"": ""活兒"", ""Simplified"": ""活儿"", ""Pinyin"": ""huór""}]"
 L5-0877,活期,活期,huóqí,Vs-attr,
 L5-0878,火箭,火箭,huǒjiàn,N,
 L5-0879,火力,火力,huǒlì,N,
 L5-0880,火焰,火焰,huǒyàn,N,
 L5-0881,火藥,火药,huǒyào,N,
-L5-0882,伙伴/夥伴,伙伴/伙伴,huǒbàn,N,"[[""伙伴"", ""huǒbàn""], [""夥伴"", ""huǒbàn""]]"
+L5-0882,伙伴/夥伴,伙伴,huǒbàn,N,"[{""Traditional"": ""伙伴"", ""Simplified"": ""伙伴"", ""Pinyin"": ""huǒbàn""}, {""Traditional"": ""夥伴"", ""Simplified"": ""伙伴"", ""Pinyin"": ""huǒbàn""}]"
 L5-0883,貨幣,货币,huòbì,N,
 L5-0884,貨品,货品,huòpǐn,N,
 L5-0885,豁達,豁达,huòdá,Vs,
@@ -5637,7 +5637,7 @@ L5-0894,機密,机密,jīmì,N,
 L5-0895,機器人,机器人,jīqìrén,N,
 L5-0896,機制,机制,jīzhì,N,
 L5-0897,肌膚,肌肤,jīfū,N,
-L5-0898,飢餓/饑餓,饥饿/饥饿,jī'è,Vs,"[[""飢餓"", ""jī'è""], [""饑餓"", ""jī'è""]]"
+L5-0898,飢餓/饑餓,饥饿,jī'è,Vs,"[{""Traditional"": ""飢餓"", ""Simplified"": ""饥饿"", ""Pinyin"": ""jī'è""}, {""Traditional"": ""饑餓"", ""Simplified"": ""饥饿"", ""Pinyin"": ""jī'è""}]"
 L5-0899,畸形,畸形,jīxíng,Vs,
 L5-0900,激增,激增,jīzēng,Vs,
 L5-0901,及早,及早,jízǎo,Adv,
@@ -5684,7 +5684,7 @@ L5-0941,假,假,jiǎ,Prep,
 L5-0942,假若,假若,jiǎruò,Conj,
 L5-0943,假使,假使,jiǎshǐ,Conj,
 L5-0944,假象,假象,jiǎxiàng,N,
-L5-0945,架/架(子),架/架(子),jià/jià(zi),V/N,"[[""架"", ""jià"", ""V""], [""架子"", ""jiàzi"", ""N""]]"
+L5-0945,架/架(子),架/架(子),jià/jià(zi),V/N,"[{""Traditional"": ""架"", ""Simplified"": ""架"", ""Pinyin"": ""jià"", ""POS"": ""V""}, {""Traditional"": ""架子"", ""Simplified"": ""架子"", ""Pinyin"": ""jiàzi"", ""POS"": ""N""}]"
 L5-0946,架構,架构,jiàgòu,N,
 L5-0947,監督,监督,jiāndū,V,
 L5-0948,尖端,尖端,jiānduān,Vs-attr,
@@ -5732,7 +5732,7 @@ L5-0989,轎車,轿车,jiàochē,N,
 L5-0990,叫好,叫好,jiàohǎo,Vi,
 L5-0991,教官,教官,jiàoguān,N,
 L5-0992,教化,教化,jiàohuà,V,
-L5-0993,教誨,教诲,jiàohuǐ,N,
+L5-0993,教誨,教诲,jiàohuì,N,
 L5-0994,教徒,教徒,jiàotú,N,
 L5-0995,教學,教学,jiàoxué,N,
 L5-0996,教員,教员,jiàoyuán,N,
@@ -5776,7 +5776,7 @@ L5-1033,緊密,紧密,jǐnmì,Vs,
 L5-1034,緊縮,紧缩,jǐnsuō,Vi,
 L5-1035,謹慎,谨慎,jǐnshèn,Vs,
 L5-1036,近,近,jìn,Det,
-L5-1037,勁/勁兒,劲/劲儿,jìn/jìnr,N,"[[""勁"", ""jìn""], [""勁兒"", ""jìnr""]]"
+L5-1037,勁/勁兒,劲/劲儿,jìn/jìnr,N,"[{""Traditional"": ""勁"", ""Simplified"": ""劲"", ""Pinyin"": ""jìn""}, {""Traditional"": ""勁兒"", ""Simplified"": ""劲儿"", ""Pinyin"": ""jìnr""}]"
 L5-1038,進場,进场,jìnchǎng,Vi,
 L5-1039,進度,进度,jìndù,N,
 L5-1040,進而,进而,jìn'ér,Conj,
@@ -5864,7 +5864,7 @@ L5-1121,開幕,开幕,kāimù,Vp,
 L5-1122,開盤,开盘,kāipán,Vp,
 L5-1123,開闢,开辟,kāipì,V,
 L5-1124,開啟,开启,kāiqǐ,Vpt,
-L5-1125,開頭/開頭兒,开头/开头儿,kāitóu/kāitóur,N,"[[""開頭"", ""kāitóu""], [""開頭兒"", ""kāitóur""]]"
+L5-1125,開頭/開頭兒,开头/开头儿,kāitóu/kāitóur,N,"[{""Traditional"": ""開頭"", ""Simplified"": ""开头"", ""Pinyin"": ""kāitóu""}, {""Traditional"": ""開頭兒"", ""Simplified"": ""开头儿"", ""Pinyin"": ""kāitóur""}]"
 L5-1126,開銷,开销,kāixiāo,N,
 L5-1127,開業,开业,kāiyè,Vp,
 L5-1128,開展,开展,kāizhǎn,V,
@@ -5883,7 +5883,7 @@ L5-1140,考生,考生,kǎoshēng,N,
 L5-1141,考驗,考验,kǎoyàn,V,
 L5-1142,烤肉,烤肉,kǎoròu,N,
 L5-1143,靠,靠,kào,Vst,
-L5-1144,刻畫/刻劃,刻画/刻划,kèhuà,Vi,"[[""刻畫"", ""kèhuà""], [""刻劃"", ""kèhuà""]]"
+L5-1144,刻畫/刻劃,刻画/刻划,kèhuà,Vi,"[{""Traditional"": ""刻畫"", ""Simplified"": ""刻画"", ""Pinyin"": ""kèhuà""}, {""Traditional"": ""刻劃"", ""Simplified"": ""刻划"", ""Pinyin"": ""kèhuà""}]"
 L5-1145,科幻,科幻,kēhuàn,Vs,
 L5-1146,苛責,苛责,kēzé,V,
 L5-1147,殼,壳,ké,N,
@@ -5949,7 +5949,7 @@ L5-1206,勞改,劳改,láogǎi,Vi,
 L5-1207,勞累,劳累,láolèi,Vs,
 L5-1208,老人家,老人家,lǎorénjia,N,
 L5-1209,老天爺,老天爷,lǎotiānyé,N,
-L5-1210,老頭兒/老頭(子),老头儿/老头(子),lǎotóur/lǎotóu(zi),N,"[[""老頭兒"", ""lǎotóur""], [""老頭"", ""lǎotóu""], [""老頭子"", ""lǎotóuzi""]]"
+L5-1210,老頭兒/老頭(子),老头儿/老头(子),lǎotóur/lǎotóu(zi),N,"[{""Traditional"": ""老頭兒"", ""Simplified"": ""老头儿"", ""Pinyin"": ""lǎotóur""}, {""Traditional"": ""老頭子"", ""Simplified"": ""老头子"", ""Pinyin"": ""lǎotóuzi""}, {""Traditional"": ""老頭"", ""Simplified"": ""老头"", ""Pinyin"": ""lǎotóu""}]"
 L5-1211,老鄉,老乡,lǎoxiāng,N,
 L5-1212,老子,老子,lǎozi,N,
 L5-1213,雷,雷,léi,N,
@@ -5988,10 +5988,10 @@ L5-1245,歷來,历来,lìlái,N,
 L5-1246,歷年,历年,lìnián,N,
 L5-1247,聯,联,lián,N/V,
 L5-1248,聯盟,联盟,liánméng,N,
-L5-1249,聯繫/連繫,联系/连系,liánxì,V,"[[""聯繫"", ""liánxì""], [""連繫"", ""liánxì""]]"
+L5-1249,聯繫/連繫,联系/连系,liánxì,V,"[{""Traditional"": ""聯繫"", ""Simplified"": ""联系"", ""Pinyin"": ""liánxì""}, {""Traditional"": ""連繫"", ""Simplified"": ""连系"", ""Pinyin"": ""liánxì""}]"
 L5-1250,聯想,联想,liánxiǎng,V,
 L5-1251,連帶,连带,liándài,Vs-attr,
-L5-1252,連結/聯結,连结/联结,liánjié,V,"[[""連結"", ""liánjié""], [""聯結"", ""liánjié""]]"
+L5-1252,連結/聯結,连结/联结,liánjié,V,"[{""Traditional"": ""連結"", ""Simplified"": ""连结"", ""Pinyin"": ""liánjié""}, {""Traditional"": ""聯結"", ""Simplified"": ""联结"", ""Pinyin"": ""liánjié""}]"
 L5-1253,連任,连任,liánrèn,Vst,
 L5-1254,連線,连线,liánxiàn,V-sep,
 L5-1255,廉價,廉价,liánjià,Vs,
@@ -6030,12 +6030,12 @@ L5-1287,流通,流通,liútōng,Vi,
 L5-1288,流星,流星,liúxīng,N,
 L5-1289,流域,流域,liúyù,N,
 L5-1290,柳樹,柳树,liǔshù,N,
-L5-1291,籠(子),笼(子),lóng(zi),N,"[[""籠"", ""lóng""], [""籠子"", ""lóngzi""]]"
+L5-1291,籠(子),笼(子),lóng(zi),N,"[{""Traditional"": ""籠子"", ""Simplified"": ""笼子"", ""Pinyin"": ""lóngzi""}, {""Traditional"": ""籠"", ""Simplified"": ""笼"", ""Pinyin"": ""lóng""}]"
 L5-1292,籠罩,笼罩,lóngzhào,Vs,
 L5-1293,壟斷,垄断,lǒngduàn,V,
 L5-1294,樓房,楼房,lóufáng,N,
 L5-1295,漏,漏,lòu,Vpt,
-L5-1296,爐(子),炉(子),lú(zi),N,"[[""爐"", ""lú""], [""爐子"", ""lúzi""]]"
+L5-1296,爐(子),炉(子),lú(zi),N,"[{""Traditional"": ""爐子"", ""Simplified"": ""炉子"", ""Pinyin"": ""lúzi""}, {""Traditional"": ""爐"", ""Simplified"": ""炉"", ""Pinyin"": ""lú""}]"
 L5-1297,陸地,陆地,lùdì,N,
 L5-1298,路過,路过,lùguò,V,
 L5-1299,露天,露天,lùtiān,N,
@@ -6046,7 +6046,7 @@ L5-1303,倫理,伦理,lúnlǐ,N,
 L5-1304,淪陷,沦陷,lúnxiàn,Vp,
 L5-1305,論點,论点,lùndiǎn,N,
 L5-1306,卵,卵,luǎn,N,
-L5-1307,囉嗦/囉唆,啰嗦/啰唆,luōsuō,Vs,"[[""囉嗦"", ""luōsuō""], [""囉唆"", ""luōsuō""]]"
+L5-1307,囉嗦/囉唆,啰嗦/啰唆,luōsuō,Vs,"[{""Traditional"": ""囉嗦"", ""Simplified"": ""啰嗦"", ""Pinyin"": ""luōsuō""}, {""Traditional"": ""囉唆"", ""Simplified"": ""啰唆"", ""Pinyin"": ""luōsuō""}]"
 L5-1308,鑼,锣,luó,N,
 L5-1309,邏輯,逻辑,luójí,N,
 L5-1310,落得,落得,luòdé,Vst,
@@ -6067,7 +6067,7 @@ L5-1324,買賣,买卖,mǎimài,N,
 L5-1325,買主,买主,mǎizhǔ,N,
 L5-1326,邁,迈,mài,V,
 L5-1327,邁進,迈进,màijìn,Vi,
-L5-1328,麥(子),麦(子),mài(zi),N,"[[""麥"", ""mài""], [""麥子"", ""màizi""]]"
+L5-1328,麥(子),麦(子),mài(zi),N,"[{""Traditional"": ""麥子"", ""Simplified"": ""麦子"", ""Pinyin"": ""màizi""}, {""Traditional"": ""麥"", ""Simplified"": ""麦"", ""Pinyin"": ""mài""}]"
 L5-1329,瞞,瞒,mán,V,
 L5-1330,蠻橫,蛮横,mánhèng,Vs,
 L5-1331,滿懷,满怀,mǎnhuái,Vst,
@@ -6080,7 +6080,7 @@ L5-1337,毛毯,毛毯,máotǎn,N,
 L5-1338,茂密,茂密,màomì,Vs,
 L5-1339,冒險,冒险,màoxiǎn,Vi,
 L5-1340,枚,枚,méi,M,
-L5-1341,眉毛/眉,眉毛/眉,méimáo/méi,N,"[[""眉毛"", ""méimáo""], [""眉"", ""méi""]]"
+L5-1341,眉毛/眉,眉毛/眉,méimáo/méi,N,"[{""Traditional"": ""眉毛"", ""Simplified"": ""眉毛"", ""Pinyin"": ""méimáo""}, {""Traditional"": ""眉"", ""Simplified"": ""眉"", ""Pinyin"": ""méi""}]"
 L5-1342,眉頭,眉头,méitóu,N,
 L5-1343,每每,每每,měiměi,Adv,
 L5-1344,美滿,美满,měimǎn,Vs,
@@ -6133,7 +6133,7 @@ L5-1390,末期,末期,mòqí,N,
 L5-1391,墨,墨,mò,N,
 L5-1392,沒落,没落,mòluò,Vs,
 L5-1393,沒收,没收,mòshōu,V,
-L5-1394,默默/默,默默/默,mòmò,Adv,"[[""默默"", ""mòmò""], [""默"", ""mò""]]"
+L5-1394,默默/默,默默/默,mòmò,Adv,"[{""Traditional"": ""默默"", ""Simplified"": ""默默"", ""Pinyin"": ""mòmò""}, {""Traditional"": ""默"", ""Simplified"": ""默"", ""Pinyin"": ""mò""}]"
 L5-1395,默契,默契,mòqì,N,
 L5-1396,漠視,漠视,mòshì,V,
 L5-1397,謀生,谋生,móushēng,Vi,
@@ -6154,7 +6154,7 @@ L5-1411,拿,拿,ná,Prep,
 L5-1412,納悶,纳闷,nàmèn,Vs,
 L5-1413,納入,纳入,nàrù,V,
 L5-1414,納稅,纳税,nàshuì,V-sep,
-L5-1415,乃/乃是,乃/乃是,nǎi/nǎishì,Adv,"[[""乃"", ""nǎi""], [""乃是"", ""nǎishì""]]"
+L5-1415,乃/乃是,乃/乃是,nǎi/nǎishì,Adv,"[{""Traditional"": ""乃"", ""Simplified"": ""乃"", ""Pinyin"": ""nǎi""}, {""Traditional"": ""乃是"", ""Simplified"": ""乃是"", ""Pinyin"": ""nǎishì""}]"
 L5-1416,耐,耐,nài,Vs-pred,
 L5-1417,耐力,耐力,nàilì,N,
 L5-1418,男方,男方,nánfāng,N,
@@ -6228,7 +6228,7 @@ L5-1485,批發,批发,pīfā,V,
 L5-1486,批准,批准,pīzhǔn,Vpt,
 L5-1487,疲憊,疲惫,píbèi,Vs,
 L5-1488,匹,匹,pǐ,M,
-L5-1489,譬如/譬如說,譬如/譬如说,pìrú/pìrúshuō,Prep,"[[""譬如"", ""pìrú""], [""譬如說"", ""pìrúshuō""]]"
+L5-1489,譬如/譬如說,譬如/譬如说,pìrú/pìrúshuō,Prep,"[{""Traditional"": ""譬如"", ""Simplified"": ""譬如"", ""Pinyin"": ""pìrú""}, {""Traditional"": ""譬如說"", ""Simplified"": ""譬如说"", ""Pinyin"": ""pìrúshuō""}]"
 L5-1490,偏差,偏差,piānchā,N,
 L5-1491,便宜,便宜,piányí,N/Vst,
 L5-1492,片刻,片刻,piànkè,N,
@@ -6312,7 +6312,7 @@ L5-1569,強求,强求,qiǎngqiú,V,
 L5-1570,強權,强权,qiángquán,N,
 L5-1571,強壯,强壮,qiángzhuàng,Vs,
 L5-1572,瞧不起,瞧不起,qiáobùqǐ,Vst,
-L5-1573,橋樑/橋梁,桥梁/桥梁,qiáoliáng,N,"[[""橋樑"", ""qiáoliáng""], [""橋梁"", ""qiáoliáng""]]"
+L5-1573,橋樑/橋梁,桥梁,qiáoliáng,N,"[{""Traditional"": ""橋樑"", ""Simplified"": ""桥梁"", ""Pinyin"": ""qiáoliáng""}, {""Traditional"": ""橋梁"", ""Simplified"": ""桥梁"", ""Pinyin"": ""qiáoliáng""}]"
 L5-1574,巧合,巧合,qiǎohé,Vs,
 L5-1575,俏,俏,qiào,Vs,
 L5-1576,翹,翘,qiào,Vs,
@@ -6435,14 +6435,14 @@ L5-1692,撒,撒,sǎ,V,
 L5-1693,灑,洒,sǎ,V,
 L5-1694,賽,赛,sài,V,
 L5-1695,散文,散文,sǎnwén,N,
-L5-1696,散布/散佈,散布/散布,sànbù,V,"[[""散布"", ""sànbù""], [""散佈"", ""sànbù""]]"
+L5-1696,散布/散佈,散布,sànbù,V,"[{""Traditional"": ""散布"", ""Simplified"": ""散布"", ""Pinyin"": ""sànbù""}, {""Traditional"": ""散佈"", ""Simplified"": ""散布"", ""Pinyin"": ""sànbù""}]"
 L5-1697,喪事,丧事,sāngshì,N,
 L5-1698,嗓子,嗓子,sǎngzi,N,
 L5-1699,喪生,丧生,sàngshēng,Vp,
 L5-1700,騷動,骚动,sāodòng,Vi,
 L5-1701,嫂子,嫂子,sǎozi,N,
 L5-1702,色澤,色泽,sèzé,N,
-L5-1703,剎車/煞車,刹车/煞车,shāchē,V-sep,"[[""剎車"", ""shāchē""], [""煞車"", ""shāchē""]]"
+L5-1703,剎車/煞車,刹车/煞车,shāchē,V-sep,"[{""Traditional"": ""剎車"", ""Simplified"": ""刹车"", ""Pinyin"": ""shāchē""}, {""Traditional"": ""煞車"", ""Simplified"": ""煞车"", ""Pinyin"": ""shāchē""}]"
 L5-1704,沙啞,沙哑,shāyǎ,Vs,
 L5-1705,傻瓜,傻瓜,shǎguā,N,
 L5-1706,山峰,山峰,shānfēng,N,
@@ -6644,8 +6644,8 @@ L5-1901,司令,司令,sīlìng,N,
 L5-1902,斯文,斯文,sīwén,Vs,
 L5-1903,私心,私心,sīxīn,N,
 L5-1904,賜,赐,sì,V,
-L5-1905,似的/似地,似的/似地,sìde,,"[[""似的"", ""sìde""], [""似地"", ""sìde""]]"
-L5-1906,松樹/松,松树/松,sōngshù/sōng,N,"[[""松樹"", ""sōngshù""], [""松"", ""sōng""]]"
+L5-1905,似的/似地,似的/似地,sìde,,"[{""Traditional"": ""似的"", ""Simplified"": ""似的"", ""Pinyin"": ""sìde""}, {""Traditional"": ""似地"", ""Simplified"": ""似地"", ""Pinyin"": ""sìde""}]"
+L5-1906,松樹/松,松树/松,sōngshù/sōng,N,"[{""Traditional"": ""松樹"", ""Simplified"": ""松树"", ""Pinyin"": ""sōngshù""}, {""Traditional"": ""松"", ""Simplified"": ""松"", ""Pinyin"": ""sōng""}]"
 L5-1907,慫恿,怂恿,sǒngyǒng,V,
 L5-1908,搜集,搜集,sōují,V,
 L5-1909,俗稱,俗称,súchēng,Vst,
@@ -6710,7 +6710,7 @@ L5-1967,提倡,提倡,tíchàng,V,
 L5-1968,提出,提出,tíchū,Vpt,
 L5-1969,提及,提及,tíjí,V,
 L5-1970,提名,提名,tímíng,V,
-L5-1971,提升/提昇,提升/提升,tíshēng,V,"[[""提升"", ""tíshēng""], [""提昇"", ""tíshēng""]]"
+L5-1971,提升/提昇,提升,tíshēng,V,"[{""Traditional"": ""提升"", ""Simplified"": ""提升"", ""Pinyin"": ""tíshēng""}, {""Traditional"": ""提昇"", ""Simplified"": ""提升"", ""Pinyin"": ""tíshēng""}]"
 L5-1972,提議,提议,tíyì,V,
 L5-1973,體操,体操,tǐcāo,N,
 L5-1974,體格,体格,tǐgé,N,
@@ -6843,7 +6843,7 @@ L5-2100,穩健,稳健,wěnjiàn,Vs,
 L5-2101,紊亂,紊乱,wènluàn,Vs,
 L5-2102,問世,问世,wènshì,Vp,
 L5-2103,臥,卧,wò,Vi,
-L5-2104,烏龜/龜,乌龟/龟,wūguī/guī,N,"[[""烏龜"", ""wūguī""], [""龜"", ""guī""]]"
+L5-2104,烏龜/龜,乌龟/龟,wūguī/guī,N,"[{""Traditional"": ""烏龜"", ""Simplified"": ""乌龟"", ""Pinyin"": ""wūguī""}, {""Traditional"": ""龜"", ""Simplified"": ""龟"", ""Pinyin"": ""guī""}]"
 L5-2105,烏鴉,乌鸦,wūyā,N,
 L5-2106,汙染,污染,wūrǎn,N,
 L5-2107,無比,无比,wúbǐ,Vs,
@@ -6894,7 +6894,7 @@ L5-2151,先進,先进,xiānjìn,N,
 L5-2152,先驅,先驱,xiānqū,N,
 L5-2153,先天,先天,xiāntiān,Vs-attr,
 L5-2154,鮮明,鲜明,xiānmíng,Vs,
-L5-2155,鮮艶/鮮豔,鲜艶/鲜艳,xiānyàn,Vs,"[[""鮮艶"", ""xiānyàn""], [""鮮豔"", ""xiānyàn""]]"
+L5-2155,鮮艶/鮮豔,鲜艳,xiānyàn,Vs,"[{""Traditional"": ""鮮艶"", ""Simplified"": ""鲜艳"", ""Pinyin"": ""xiānyàn""}, {""Traditional"": ""鮮豔"", ""Simplified"": ""鲜艳"", ""Pinyin"": ""xiānyàn""}]"
 L5-2156,纖維,纤维,xiānwéi,N,
 L5-2157,嫌疑,嫌疑,xiányí,N,
 L5-2158,顯現,显现,xiǎnxiàn,Vst,
@@ -6926,7 +6926,7 @@ L5-2183,消耗,消耗,xiāohào,V,
 L5-2184,消遣,消遣,xiāoqiǎn,N/V,
 L5-2185,瀟灑,潇洒,xiāosǎ,Vs,
 L5-2186,逍遙,逍遥,xiāoyáo,Vs,
-L5-2187,小伙子/小夥子,小伙子/小伙子,xiǎohuǒzi,N,"[[""小伙子"", ""xiǎohuǒzi""], [""小夥子"", ""xiǎohuǒzi""]]"
+L5-2187,小伙子/小夥子,小伙子,xiǎohuǒzi,N,"[{""Traditional"": ""小伙子"", ""Simplified"": ""小伙子"", ""Pinyin"": ""xiǎohuǒzi""}, {""Traditional"": ""小夥子"", ""Simplified"": ""小伙子"", ""Pinyin"": ""xiǎohuǒzi""}]"
 L5-2188,效法,效法,xiàofǎ,V,
 L5-2189,效勞,效劳,xiàoláo,Vi,
 L5-2190,效力,效力,xiàolì,N,
@@ -7007,7 +7007,7 @@ L5-2264,宣揚,宣扬,xuānyáng,V,
 L5-2265,旋律,旋律,xuánlǜ,N,
 L5-2266,旋轉,旋转,xuánzhuǎn,Vi,
 L5-2267,懸殊,悬殊,xuánshū,Vs,
-L5-2268,懸崖/崖,悬崖/崖,xuányái/yái,N,"[[""懸崖"", ""xuányái""], [""崖"", ""yái""]]"
+L5-2268,懸崖/崖,悬崖/崖,xuányái/yái,N,"[{""Traditional"": ""懸崖"", ""Simplified"": ""悬崖"", ""Pinyin"": ""xuányái""}, {""Traditional"": ""崖"", ""Simplified"": ""崖"", ""Pinyin"": ""yái""}]"
 L5-2269,選拔,选拔,xuǎnbá,V,
 L5-2270,選購,选购,xuǎngòu,V,
 L5-2271,選民,选民,xuǎnmín,N,
@@ -7059,11 +7059,11 @@ L5-2316,眼界,眼界,yǎnjiè,N,
 L5-2317,眼看,眼看,yǎnkàn,V,
 L5-2318,衍生,衍生,yǎnshēng,V,
 L5-2319,燕窩,燕窝,yànwō,N,
-L5-2320,燕(子),燕(子),yàn(zi),N,"[[""燕"", ""yàn""], [""燕子"", ""yànzi""]]"
+L5-2320,燕(子),燕(子),yàn(zi),N,"[{""Traditional"": ""燕子"", ""Simplified"": ""燕子"", ""Pinyin"": ""yànzi""}, {""Traditional"": ""燕"", ""Simplified"": ""燕"", ""Pinyin"": ""yàn""}]"
 L5-2321,央求,央求,yāngqiú,V,
 L5-2322,仰,仰,yǎng,V,
 L5-2323,仰慕,仰慕,yǎngmù,Vst,
-L5-2324,養分/養份,养分/养份,yǎngfèn,N,"[[""養分"", ""yǎngfèn""], [""養份"", ""yǎngfèn""]]"
+L5-2324,養分/養份,养分/养份,yǎngfèn,N,"[{""Traditional"": ""養分"", ""Simplified"": ""养分"", ""Pinyin"": ""yǎngfèn""}, {""Traditional"": ""養份"", ""Simplified"": ""养份"", ""Pinyin"": ""yǎngfèn""}]"
 L5-2325,養老,养老,yǎnglǎo,Vs,
 L5-2326,養育,养育,yǎngyù,V,
 L5-2327,邀,邀,yāo,V,
@@ -7104,7 +7104,7 @@ L5-2361,遺址,遗址,yízhǐ,N,
 L5-2362,疑慮,疑虑,yílǜ,N,
 L5-2363,移植,移植,yízhí,V,
 L5-2364,倚,倚,yǐ,V,
-L5-2365,以至/以致/以至於/以致於,以至/以致/以至于/以致于,yǐzhì/yǐzhìyú,Conj,"[[""以至"", ""yǐzhì""], [""以致"", ""yǐzhì""], [""以至於"", ""yǐzhìyú""], [""以致於"", ""yǐzhìyú""]]"
+L5-2365,以至/以致/以至於/以致於,以至/以致/以至于/以致于,yǐzhì/yǐzhìyú,Conj,"[{""Traditional"": ""以至"", ""Simplified"": ""以至"", ""Pinyin"": ""yǐzhì""}, {""Traditional"": ""以致"", ""Simplified"": ""以致"", ""Pinyin"": ""yǐzhì""}, {""Traditional"": ""以至於"", ""Simplified"": ""以至于"", ""Pinyin"": ""yǐzhìyú""}, {""Traditional"": ""以致於"", ""Simplified"": ""以致于"", ""Pinyin"": ""yǐzhìyú""}]"
 L5-2366,亦,亦,yì,Adv/Conj,
 L5-2367,一連串,一连串,yīliánchuàn,Vs-attr,
 L5-2368,一流,一流,yīliú,Vs,
@@ -7141,7 +7141,7 @@ L5-2398,印證,印证,yìnzhèng,V,
 L5-2399,櫻桃,樱桃,yīngtáo,N,
 L5-2400,英勇,英勇,yīngyǒng,Vs,
 L5-2401,應,应,yìng,Prep/V,
-L5-2402,鷹/老鷹,鹰/老鹰,yīng/lǎoyīng,N,"[[""鷹"", ""yīng""], [""老鷹"", ""lǎoyīng""]]"
+L5-2402,鷹/老鷹,鹰/老鹰,yīng/lǎoyīng,N,"[{""Traditional"": ""鷹"", ""Simplified"": ""鹰"", ""Pinyin"": ""yīng""}, {""Traditional"": ""老鷹"", ""Simplified"": ""老鹰"", ""Pinyin"": ""lǎoyīng""}]"
 L5-2403,營地,营地,yíngdì,N,
 L5-2404,營造,营造,yíngzào,V,
 L5-2405,迎,迎,yíng,V,
@@ -7236,7 +7236,7 @@ L5-2493,在座,在座,zàizuò,Vi,
 L5-2494,再生,再生,zàishēng,Vs-attr,
 L5-2495,咱,咱,zán,N,
 L5-2496,贊助,赞助,zànzhù,V,
-L5-2497,讚嘆/讚歎,赞叹/赞叹,zàntàn,Vi,"[[""讚嘆"", ""zàntàn""], [""讚歎"", ""zàntàn""]]"
+L5-2497,讚嘆/讚歎,赞叹,zàntàn,Vi,"[{""Traditional"": ""讚嘆"", ""Simplified"": ""赞叹"", ""Pinyin"": ""zàntàn""}, {""Traditional"": ""讚歎"", ""Simplified"": ""赞叹"", ""Pinyin"": ""zàntàn""}]"
 L5-2498,贓物,赃物,zāngwù,N,
 L5-2499,遭,遭,zāo,M/Prep/Vst,
 L5-2500,遭遇,遭遇,zāoyù,Vst,
@@ -7255,8 +7255,8 @@ L5-2512,盞,盏,zhǎn,M,
 L5-2513,展望,展望,zhǎnwàng,Vst,
 L5-2514,展現,展现,zhǎnxiàn,V,
 L5-2515,嶄新,崭新,zhǎnxīn,Vs-attr,
-L5-2516,占據/佔據,占据/占据,zhànjù,V,"[[""占據"", ""zhànjù""], [""佔據"", ""zhànjù""]]"
-L5-2517,占領/佔領,占领/占领,zhànlǐng,V,"[[""占領"", ""zhànlǐng""], [""佔領"", ""zhànlǐng""]]"
+L5-2516,占據/佔據,占据,zhànjù,V,"[{""Traditional"": ""占據"", ""Simplified"": ""占据"", ""Pinyin"": ""zhànjù""}, {""Traditional"": ""佔據"", ""Simplified"": ""占据"", ""Pinyin"": ""zhànjù""}]"
+L5-2517,占領/佔領,占领,zhànlǐng,V,"[{""Traditional"": ""占領"", ""Simplified"": ""占领"", ""Pinyin"": ""zhànlǐng""}, {""Traditional"": ""佔領"", ""Simplified"": ""占领"", ""Pinyin"": ""zhànlǐng""}]"
 L5-2518,顫抖,颤抖,zhàndǒu,Vi,
 L5-2519,戰火,战火,zhànhuǒ,N,
 L5-2520,戰機,战机,zhànjī,N,
@@ -7409,12 +7409,12 @@ L5-2666,主旨,主旨,zhǔzhǐ,N,
 L5-2667,主軸,主轴,zhǔzhóu,N,
 L5-2668,囑咐,嘱咐,zhǔfù,V,
 L5-2669,矚目,瞩目,zhǔmù,Vi,
-L5-2670,注定/註定,注定/注定,zhùdìng,Vaux,"[[""注定"", ""zhùdìng""], [""註定"", ""zhùdìng""]]"
+L5-2670,注定/註定,注定,zhùdìng,Vaux,"[{""Traditional"": ""注定"", ""Simplified"": ""注定"", ""Pinyin"": ""zhùdìng""}, {""Traditional"": ""註定"", ""Simplified"": ""注定"", ""Pinyin"": ""zhùdìng""}]"
 L5-2671,注目,注目,zhùmù,Vi,
 L5-2672,注視,注视,zhùshì,V,
 L5-2673,注重,注重,zhùzhòng,Vst,
 L5-2674,住宿,住宿,zhùsù,Vi,
-L5-2675,柱(子),柱(子),zhù(zi),N,"[[""柱"", ""zhù""], [""柱子"", ""zhùzi""]]"
+L5-2675,柱(子),柱(子),zhù(zi),N,"[{""Traditional"": ""柱子"", ""Simplified"": ""柱子"", ""Pinyin"": ""zhùzi""}, {""Traditional"": ""柱"", ""Simplified"": ""柱"", ""Pinyin"": ""zhù""}]"
 L5-2676,助教,助教,zhùjiào,N,
 L5-2677,助手,助手,zhùshǒu,N,
 L5-2678,佇立,伫立,zhùlì,Vi,
@@ -7477,7 +7477,7 @@ L5-2734,自制,自制,zìzhì,Vi,
 L5-2735,自治,自治,zìzhì,Vi,
 L5-2736,自傳,自传,zìzhuàn,N,
 L5-2737,字體,字体,zìtǐ,N,
-L5-2738,字眼/字眼兒,字眼/字眼儿,zìyǎn/zìyǎnr,N,"[[""字眼"", ""zìyǎn""], [""字眼兒"", ""zìyǎnr""]]"
+L5-2738,字眼/字眼兒,字眼/字眼儿,zìyǎn/zìyǎnr,N,"[{""Traditional"": ""字眼"", ""Simplified"": ""字眼"", ""Pinyin"": ""zìyǎn""}, {""Traditional"": ""字眼兒"", ""Simplified"": ""字眼儿"", ""Pinyin"": ""zìyǎnr""}]"
 L5-2739,字樣,字样,zìyàng,N,
 L5-2740,宗旨,宗旨,zōngzhǐ,N,
 L5-2741,總裁,总裁,zǒngcái,N,
@@ -7500,7 +7500,7 @@ L5-2757,阻撓,阻挠,zǔnáo,V,
 L5-2758,阻塞,阻塞,zǔsè,Vs,
 L5-2759,組裝,组装,zǔzhuāng,V,
 L5-2760,鑽研,钻研,zuānyán,V,
-L5-2761,嘴唇/嘴脣/唇/脣,嘴唇/嘴唇/唇/唇,zuǐchún/chún,N,"[[""嘴唇"", ""zuǐchún""], [""嘴脣"", ""zuǐchún""], [""唇"", ""chún""], [""脣"", ""chún""]]"
+L5-2761,嘴唇/嘴脣/唇/脣,嘴唇/嘴唇/唇/唇,zuǐchún/chún,N,"[{""Traditional"": ""嘴唇"", ""Simplified"": ""嘴唇"", ""Pinyin"": ""zuǐchún""}, {""Traditional"": ""嘴脣"", ""Simplified"": ""嘴唇"", ""Pinyin"": ""zuǐchún""}, {""Traditional"": ""唇"", ""Simplified"": ""唇"", ""Pinyin"": ""chún""}, {""Traditional"": ""脣"", ""Simplified"": ""唇"", ""Pinyin"": ""chún""}]"
 L5-2762,罪惡,罪恶,zuì'è,N,
 L5-2763,罪名,罪名,zuìmíng,N,
 L5-2764,罪行,罪行,zuìxìng,N,
@@ -7511,7 +7511,7 @@ L5-2768,作風,作风,zuòfēng,N,
 L5-2769,作怪,作怪,zuòguài,Vi,
 L5-2770,作物,作物,zuòwù,N,
 L5-2771,作戰,作战,zuòzhàn,Vi,
-L5-2772,作證/做證,作证/做证,zuòzhèng,V-sep,"[[""作證"", ""zuòzhèng""], [""做證"", ""zuòzhèng""]]"
+L5-2772,作證/做證,作证/做证,zuòzhèng,V-sep,"[{""Traditional"": ""作證"", ""Simplified"": ""作证"", ""Pinyin"": ""zuòzhèng""}, {""Traditional"": ""做證"", ""Simplified"": ""做证"", ""Pinyin"": ""zuòzhèng""}]"
 L5-2773,坐牢,坐牢,zuòláo,V-sep,
 L5-2774,坐鎮,坐镇,zuòzhèn,Vi,
 L5-2775,座談,座谈,zuòtán,Vi,

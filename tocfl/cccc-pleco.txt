@@ -1,0 +1,1347 @@
+//CCCC 2022/Level 1 (pre-A1)
+人[人]	rén	(N) person [CCCC1]
+你[你]	nǐ	(Pron) you [CCCC1]
+我[我]	wǒ	(Pron) I, me [CCCC1]
+他[他]	tā	他/她 [tā](Pron) he/she, him/her [CCCC1]
+她[她]	tā	他/她 [tā](Pron) he/she, him/her [CCCC1]
+您[您]	nín	(Pron) (polite form of address) you [CCCC1]
+们[們]	men	(Affix) plural affix [CCCC1]
+大家[大家]	dàjiā	(N) everyone [CCCC1]
+谁[誰]	shéi	(N) who, someone [CCCC1]
+名字[名字]	míngzì	名字 [míngzì/míngzi](N) name [CCCC1]
+名字[名字]	míngzi	名字 [míngzì/míngzi](N) name [CCCC1]
+先生[先生]	xiānsheng	先生 [xiānsheng/xiānshēng](N) Mr. [CCCC1]
+先生[先生]	xiānshēng	先生 [xiānsheng/xiānshēng](N) Mr. [CCCC1]
+小姐[小姐]	xiǎojiě	(N) Miss [CCCC1]
+太太[太太]	tàitai	(N) Mrs. [CCCC1]
+女生[女生]	nǚshēng	女(生)/女孩 [nǚ(shēng)/nǚhái](N) girl [CCCC1]
+女[女]	nǚ	女(生)/女孩 [nǚ(shēng)/nǚhái](N) girl [CCCC1]
+女孩[女孩]	nǚhái	女(生)/女孩 [nǚ(shēng)/nǚhái](N) girl [CCCC1]
+男生[男生]	nánshēng	男(生)/男孩 [nán(shēng)/nánhái](N) boy [CCCC1]
+男[男]	nán	男(生)/男孩 [nán(shēng)/nánhái](N) boy [CCCC1]
+男孩[男孩]	nánhái	男(生)/男孩 [nán(shēng)/nánhái](N) boy [CCCC1]
+朋友[朋友]	péngyǒu	朋友 [péngyǒu/péngyou](N) friend [CCCC1]
+朋友[朋友]	péngyou	朋友 [péngyǒu/péngyou](N) friend [CCCC1]
+家人[家人]	jiārén	(N) family members [CCCC1]
+哥哥[哥哥]	gēge	哥(哥) [gē(ge)](N) elder brother [CCCC1]
+哥[哥]	gē	哥(哥) [gē(ge)](N) elder brother [CCCC1]
+姊姊[姊姊]	jiějie	姊(姊) [jiě(jie)](N) elder sister [CCCC1]
+姊[姊]	jiě	姊(姊) [jiě(jie)](N) elder sister [CCCC1]
+弟弟[弟弟]	dìdi	弟(弟) [dì(di)](N) younger brother [CCCC1]
+弟[弟]	dì	弟(弟) [dì(di)](N) younger brother [CCCC1]
+妹妹[妹妹]	mèimei	妹(妹) [mèi(mei)](N) younger sister [CCCC1]
+妹[妹]	mèi	妹(妹) [mèi(mei)](N) younger sister [CCCC1]
+爸爸[爸爸]	bàba	爸(爸) [bà(ba)](N) father [CCCC1]
+爸[爸]	bà	爸(爸) [bà(ba)](N) father [CCCC1]
+妈妈[媽媽]	māma	媽(媽) [mā(ma)](N) mother [CCCC1]
+妈[媽]	mā	媽(媽) [mā(ma)](N) mother [CCCC1]
+爷爷[爺爺]	yéye	(N) grandfather [CCCC1]
+奶奶[奶奶]	nǎinai	(N) grandmother [CCCC1]
+阿姨[阿姨]	āyí	(N) aunt [CCCC1]
+儿子[兒子]	érzi	兒(子) [ér(zi)](N) son [CCCC1]
+儿[兒]	ér	兒(子) [ér(zi)](N) son [CCCC1]
+女儿[女兒]	nǚ'ér	(N) daughter [CCCC1]
+娃娃[娃娃]	wáwa	娃(娃) [wá(wa)](N) baby; doll [CCCC1]
+娃[娃]	wá	娃(娃) [wá(wa)](N) baby; doll [CCCC1]
+大人[大人]	dàrén	大人 [dàrén/dàren](N) adult [CCCC1]
+大人[大人]	dàren	大人 [dàrén/dàren](N) adult [CCCC1]
+小孩子[小孩子]	xiǎoháizi	(N) child, kid [CCCC1]
+小朋友[小朋友]	xiǎopéngyǒu	(N) child, kid [CCCC1]
+身体[身體]	shēntǐ	(N) body [CCCC1]
+头[頭]	tóu	(N) head [CCCC1]
+头发[頭髮]	tóufǎ	頭髮 [tóufǎ/toufa](N) hair [CCCC1]
+头发[頭髮]	toufa	頭髮 [tóufǎ/toufa](N) hair [CCCC1]
+毛[毛]	máo	(N) hair; fur [CCCC1]
+脸[臉]	liǎn	(N) face [CCCC1]
+眼睛[眼睛]	yǎnjing	(N) eye [CCCC1]
+耳朵[耳朵]	ěrduo	(N) ear [CCCC1]
+鼻子[鼻子]	bízi	鼻(子) [bí(zi)](N) nose [CCCC1]
+鼻[鼻]	bí	鼻(子) [bí(zi)](N) nose [CCCC1]
+口[口]	kǒu	(N/M) mouth; measure word for a bite [CCCC1]
+嘴巴[嘴巴]	zuǐba	嘴(巴) [zuǐ(ba)](N) mouth [CCCC1]
+嘴[嘴]	zuǐ	嘴(巴) [zuǐ(ba)](N) mouth [CCCC1]
+牙齿[牙齒]	yáchǐ	牙(齒) [yá(chǐ)](N) tooth [CCCC1]
+牙[牙]	yá	牙(齒) [yá(chǐ)](N) tooth [CCCC1]
+肚子[肚子]	dùzi	肚(子) [dù(zi)](N) belly [CCCC1]
+肚[肚]	dù	肚(子) [dù(zi)](N) belly [CCCC1]
+手[手]	shǒu	(N) hand [CCCC1]
+手指[手指]	shǒuzhǐ	(N) finger [CCCC1]
+脚[腳]	jiǎo	(N) foot, leg [CCCC1]
+腿[腿]	tuǐ	(N) leg [CCCC1]
+大便[大便]	dàbiàn	(N/V) (to) poo [CCCC1]
+洗澡[洗澡]	xǐzǎo	(V) to take a bath [CCCC1]
+爬[爬]	pá	(V) to crawl; to climb [CCCC1]
+睡[睡]	shuì	睡/睡覺 [shuì/shuìjiào](V) to sleep [CCCC1]
+睡觉[睡覺]	shuìjiào	睡/睡覺 [shuì/shuìjiào](V) to sleep [CCCC1]
+拿[拿]	ná	(V) to take [CCCC1]
+放[放]	fàng	(V) to put [CCCC1]
+打[打]	dǎ	(V) to hit; to play (sports and drums) [CCCC1]
+拍[拍]	pāi	(V) to clap; to pat; to bounce [CCCC1]
+做[做]	zuò	(V) to make, to do [CCCC1]
+站[站]	zhàn	(V) to stand [CCCC1]
+坐[坐]	zuò	(V) to sit; to travel by (bus, etc.) [CCCC1]
+走[走]	zǒu	(V) to walk [CCCC1]
+跑[跑]	pǎo	(V) to run [CCCC1]
+看见[看見]	kànjian	看(見) [kàn(jian)](V) to see, to look at, to watch [CCCC1]
+看[看]	kàn	看(見) [kàn(jian)](V) to see, to look at, to watch [CCCC1]
+说[說]	shuō	(V) to speak, to talk, to say [CCCC1]
+听见[聽見]	tīngjiàn	聽(見) [tīng(jiàn)](V) to listen, to hear [CCCC1]
+听[聽]	tīng	聽(見) [tīng(jiàn)](V) to listen, to hear [CCCC1]
+叫[叫]	jiào	(V) to call; to ask [CCCC1]
+问[問]	wèn	(V) to ask [CCCC1]
+哈[哈]	hā	(Ptc) particle used for imitating laughters [CCCC1]
+笑[笑]	xiào	(V) to smile, to laugh [CCCC1]
+哭[哭]	kū	(V) to cry, to weep [CCCC1]
+快乐[快樂]	kuàilè	(Vs) happy [CCCC1]
+害怕[害怕]	hàipà	(Vs) afraid, scared [CCCC1]
+可怕[可怕]	kěpà	(Vs) horrible [CCCC1]
+累[累]	lèi	(Vs) tired, weary [CCCC1]
+痛[痛]	tòng	(Vs) to ache [CCCC1]
+怕[怕]	pà	(Vs) afraid, scared [CCCC1]
+爱[愛]	ài	(Vs/N) to love [CCCC1]
+喜欢[喜歡]	xǐhuān	喜歡 [xǐhuān/xǐhuan](Vs) to like [CCCC1]
+喜欢[喜歡]	xǐhuan	喜歡 [xǐhuān/xǐhuan](Vs) to like [CCCC1]
+讨厌[討厭]	tǎoyàn	(Vs) to hate [CCCC1]
+觉得[覺得]	juéde	(V) to feel [CCCC1]
+想[想]	xiǎng	(V) to think [CCCC1]
+知道[知道]	zhīdao	(V) to know [CCCC1]
+意思[意思]	yìsi	(N) meaning [CCCC1]
+胖[胖]	pàng	(Vs) fat [CCCC1]
+瘦[瘦]	shòu	(Vs) thin [CCCC1]
+老[老]	lǎo	(Vs) old [CCCC1]
+美[美]	měi	(Vs) beautiful, pretty [CCCC1]
+乖[乖]	guāi	(Vs) well-behaved [CCCC1]
+可爱[可愛]	kě'ài	(Vs) cute, lovely [CCCC1]
+漂亮[漂亮]	piàoliang	(Vs) beautiful, pretty [CCCC1]
+好像[好像]	hǎoxiàng	(Adv) seem, be like [CCCC1]
+工人[工人]	gōngrén	(N) worker [CCCC1]
+老师[老師]	lǎoshī	(N) teacher [CCCC1]
+学生[學生]	xuéshēng	(N) student [CCCC1]
+医生[醫生]	yīshēng	(N) doctor [CCCC1]
+警察[警察]	jǐngchá	(N) police officer [CCCC1]
+护士[護士]	hùshì	護士 [hùshì/hùshi](N) nurse [CCCC1]
+护士[護士]	hùshi	護士 [hùshì/hùshi](N) nurse [CCCC1]
+上班[上班]	shàngbān	(V) to go to work [CCCC1]
+工作[工作]	gōngzuò	(V/N) (to) work [CCCC1]
+忙[忙]	máng	(Vs) hurry, hasten [CCCC1]
+零[零]	líng	(Num) zero [CCCC1]
+一[一]	yī	(Num) one [CCCC1]
+二[二]	èr	(Num) two [CCCC1]
+两[兩]	liǎng	(Num) two [CCCC1]
+三[三]	sān	(Num) three [CCCC1]
+四[四]	sì	(Num) four [CCCC1]
+五[五]	wǔ	(Num) five [CCCC1]
+六[六]	liù	(Num) six [CCCC1]
+七[七]	qī	(Num) seven [CCCC1]
+八[八]	bā	(Num) eight [CCCC1]
+九[九]	jiǔ	(Num) nine [CCCC1]
+十[十]	shí	(Num) ten [CCCC1]
+百[百]	bǎi	(Num) hundred [CCCC1]
+每[每]	měi	(Det) every [CCCC1]
+多[多]	duō	(Vs) a lot [CCCC1]
+少[少]	shǎo	(Vs) few, little [CCCC1]
+数[數]	shǔ	(V) to count [CCCC1]
+剩下[剩下]	shèngxià	(V) to remain [CCCC1]
+岁[歲]	suì	(N) age, year old [CCCC1]
+一起[一起]	yīqǐ	(Adv) together [CCCC1]
+本[本]	běn	(M) individual measure word for books or magazines, etc. [CCCC1]
+页[頁]	yè	(N/M) page; partial measure word for one side of a book or magazine [CCCC1]
+次[次]	cì	(M) measure word for the number of repetitions in a given period of time [CCCC1]
+种[種]	zhǒng	種 [zhǒng/zhòng](M/V) collective measure word for things of the same kind; to grow (plants) [CCCC1]
+种[種]	zhòng	種 [zhǒng/zhòng](M/V) collective measure word for things of the same kind; to grow (plants) [CCCC1]
+朵[朵]	duǒ	(M) individual measure word for flowers or clouds [CCCC1]
+块[塊]	kuài	(M) partial measure word for lumps of foodstuff, for regular-shaped products, and for chinese currency [CCCC1]
+个[個]	ge	(M) general measure word for individuals [CCCC1]
+只[隻]	zhī	(M) measre word for one of the symetrical limbs or organs of people or animals and for insects or animals [CCCC1]
+元[元]	yuán	(N) dollar [CCCC1]
+钱[錢]	qián	(N) money [CCCC1]
+买[買]	mǎi	(V) to buy [CCCC1]
+多少[多少]	duōshǎo	(N) how much [CCCC1]
+最[最]	zuì	(Adv) most [CCCC1]
+好[好]	hǎo	(Adv/Vs) very, quite; good [CCCC1]
+太[太]	tài	(Adv) too, extremely, very [CCCC1]
+很[很]	hěn	(Adv) very, quite, awfully [CCCC1]
+真[真]	zhēn	(Adv) really, truly [CCCC1]
+非常[非常]	fēicháng	(Adv) specially, very, extremely [CCCC1]
+一样[一樣]	yīyàng	(Adv) same [CCCC1]
+年[年]	nián	(N) year [CCCC1]
+月[月]	yuè	(N) month [CCCC1]
+日[日]	rì	(N) day [CCCC1]
+号[號]	hào	(N) number [CCCC1]
+天[天]	tiān	(N) day [CCCC1]
+星期[星期]	xīngqí	星期 [xīngqí/xīngqī](N) week [CCCC1]
+星期[星期]	xīngqī	星期 [xīngqí/xīngqī](N) week [CCCC1]
+星期天[星期天]	xīngqítiān	星期天/星期日 [xīngqítiān/xīngqītiān/xīngqírì/xīngqīrì](N/Adv) Sunday [CCCC1]
+星期天[星期天]	xīngqītiān	星期天/星期日 [xīngqítiān/xīngqītiān/xīngqírì/xīngqīrì](N/Adv) Sunday [CCCC1]
+星期日[星期日]	xīngqírì	星期天/星期日 [xīngqítiān/xīngqītiān/xīngqírì/xīngqīrì](N/Adv) Sunday [CCCC1]
+星期日[星期日]	xīngqīrì	星期天/星期日 [xīngqítiān/xīngqītiān/xīngqírì/xīngqīrì](N/Adv) Sunday [CCCC1]
+今天[今天]	jīntiān	(N/Adv) today [CCCC1]
+明天[明天]	míngtiān	(N/Adv) tomorrow [CCCC1]
+昨天[昨天]	zuótiān	(N/Adv) yesterday [CCCC1]
+假日[假日]	jiàrì	(N) holiday [CCCC1]
+早[早]	zǎo	(Vs/Adv) early [CCCC1]
+先[先]	xiān	(Adv) earlier, before [CCCC1]
+早上[早上]	zǎoshang	(N/Adv) morning [CCCC1]
+上午[上午]	shàngwǔ	(N/Adv) morning [CCCC1]
+中午[中午]	zhōngwǔ	(N/Adv) noon [CCCC1]
+下午[下午]	xiàwǔ	(N/Adv) afternoon [CCCC1]
+晚上[晚上]	wǎnshang	(N/Adv) evening, night [CCCC1]
+现在[現在]	xiànzài	(Adv) now [CCCC1]
+开始[開始]	kāishǐ	(V) to begin, to start [CCCC1]
+几[幾]	jǐ	(Det) several [CCCC1]
+点[點]	diǎn	(N) o'clock [CCCC1]
+分[分]	fēn	(N) minute [CCCC1]
+半[半]	bàn	(N) half an hour [CCCC1]
+一下子[一下子]	yīxiàzi	(Adv) in a short while [CCCC1]
+再[再]	zài	(Conj/Adv) again [CCCC1]
+就[就]	jiù	(Conj/Adv) then (refers to both time and cause-effect relationship) [CCCC1]
+等[等]	děng	(V) to wait [CCCC1]
+快[快]	kuài	(Vs) soon, quick, fast [CCCC1]
+着[著]	zhe	(Asp) aspect marker used to indicate events that are durative [CCCC1]
+了[了]	le	(Asp) aspect marker used to indicate events undergone a certain change of state [CCCC1]
+颜色[顏色]	yánsè	(N) color [CCCC1]
+白色[白色]	báisè	(N) white [CCCC1]
+黄色[黃色]	huángsè	(N) yellow [CCCC1]
+黑色[黑色]	hēisè	(N) black [CCCC1]
+绿色[綠色]	lǜsè	(N) green [CCCC1]
+蓝色[藍色]	lánsè	(N) blue [CCCC1]
+红色[紅色]	hóngsè	(N) red [CCCC1]
+亮[亮]	liàng	(Vs) bright [CCCC1]
+小[小]	xiǎo	(Vs) small, little [CCCC1]
+大[大]	dà	(Vs) big [CCCC1]
+长[長]	cháng	長 [cháng/zhǎng](Vs/V) long; to grow [CCCC1]
+长[長]	zhǎng	長 [cháng/zhǎng](Vs/V) long; to grow [CCCC1]
+高[高]	gāo	(Vs) high [CCCC1]
+短[短]	duǎn	(Vs) short, brief [CCCC1]
+矮[矮]	ǎi	(Vs) short [CCCC1]
+圆[圓]	yuán	圓/圓形 [yuán/yuánxíng](Vs/N) round; circle [CCCC1]
+圆形[圓形]	yuánxíng	圓/圓形 [yuán/yuánxíng](Vs/N) round; circle [CCCC1]
+三角形[三角形]	sānjiǎoxíng	(N) triangle [CCCC1]
+正方形[正方形]	zhèngfāngxíng	(N) square [CCCC1]
+长方形[長方形]	chángfāngxíng	(N) rectangle [CCCC1]
+衣服[衣服]	yīfu	(N) clothes [CCCC1]
+帽子[帽子]	màozi	帽(子) [mào(zi)](N) hat [CCCC1]
+帽[帽]	mào	帽(子) [mào(zi)](N) hat [CCCC1]
+毛衣[毛衣]	máoyī	(N) sweater [CCCC1]
+外套[外套]	wàitào	(N) coat [CCCC1]
+裙子[裙子]	qúnzi	裙(子) [qún(zi)](N) skirt, petticoat [CCCC1]
+裙[裙]	qún	裙(子) [qún(zi)](N) skirt, petticoat [CCCC1]
+裤子[褲子]	kùzi	褲(子) [kù(zi)](N) pants [CCCC1]
+裤[褲]	kù	褲(子) [kù(zi)](N) pants [CCCC1]
+鞋子[鞋子]	xiézi	鞋(子) [xié(zi)](N) shoes [CCCC1]
+鞋[鞋]	xié	鞋(子) [xié(zi)](N) shoes [CCCC1]
+袜子[襪子]	wàzi	襪(子) [wà(zi)](N) socks [CCCC1]
+袜[襪]	wà	襪(子) [wà(zi)](N) socks [CCCC1]
+皮包[皮包]	píbāo	(N) leather handbag [CCCC1]
+穿[穿]	chuān	(V) to wear, to put on [CCCC1]
+戴[戴]	dài	(V) to wear, to put on [CCCC1]
+门[門]	mén	(N) door [CCCC1]
+窗[窗]	chuāng	窗/窗戶 [chuāng/chuānghu](N) window [CCCC1]
+窗户[窗戶]	chuānghu	窗/窗戶 [chuāng/chuānghu](N) window [CCCC1]
+衣柜[衣櫃]	yīguì	(N) closet [CCCC1]
+柜子[櫃子]	guìzi	櫃(子) [guì(zi)](N) cabinet [CCCC1]
+柜[櫃]	guì	櫃(子) [guì(zi)](N) cabinet [CCCC1]
+床[床]	chuáng	(N) bed [CCCC1]
+灯[燈]	dēng	(N) lamp [CCCC1]
+桌子[桌子]	zhuōzi	桌(子) [zhuō(zi)](N) table [CCCC1]
+桌[桌]	zhuō	桌(子) [zhuō(zi)](N) table [CCCC1]
+椅子[椅子]	yǐzi	椅(子) [yǐ(zi)](N) chair [CCCC1]
+椅[椅]	yǐ	椅(子) [yǐ(zi)](N) chair [CCCC1]
+冷气[冷氣]	lěngqì	(N) air conditioner [CCCC1]
+冰箱[冰箱]	bīngxiāng	(N) refrigerator [CCCC1]
+棉被[棉被]	miánbèi	(N) quilt [CCCC1]
+电话[電話]	diànhuà	(N) telephone [CCCC1]
+电视[電視]	diànshì	(N) television, TV [CCCC1]
+电脑[電腦]	diànnǎo	(N) computer [CCCC1]
+洗衣机[洗衣機]	xǐyījī	(N) washing machine [CCCC1]
+刀子[刀子]	dāozi	刀(子) [dāo(zi)](N) knife [CCCC1]
+刀[刀]	dāo	刀(子) [dāo(zi)](N) knife [CCCC1]
+叉子[叉子]	chāzi	(N) fork [CCCC1]
+杯[杯]	bēi	杯(子) [bēi(zi)](N/M) cup, glass; a cup of [CCCC1]
+杯子[杯子]	bēizi	杯(子) [bēi(zi)](N/M) cup, glass; a cup of [CCCC1]
+筷子[筷子]	kuàizi	筷(子) [kuài(zi)](N) chopsticks [CCCC1]
+筷[筷]	kuài	筷(子) [kuài(zi)](N) chopsticks [CCCC1]
+碗[碗]	wǎn	(N) bowl; measure word for servings of food [CCCC1]
+水壶[水壺]	shuǐhú	(N) pitcher, kettle, canteen, water bottle [CCCC1]
+花瓶[花瓶]	huāpíng	(N) vase [CCCC1]
+手表[手錶]	shǒubiǎo	(N) watch [CCCC1]
+钟[鐘]	zhōng	(N) bell, clock [CCCC1]
+伞[傘]	sǎn	傘/雨傘 [sǎn/yǔsǎn](N) umbrella [CCCC1]
+雨伞[雨傘]	yǔsǎn	傘/雨傘 [sǎn/yǔsǎn](N) umbrella [CCCC1]
+照片[照片]	zhàopiàn	(N) photo, picture [CCCC1]
+照相机[照相機]	zhàoxiàngjī	照相機/照像機 [zhàoxiàngjī](N) camera [CCCC1]
+照像机[照像機]	zhàoxiàngjī	照相機/照像機 [zhàoxiàngjī](N) camera [CCCC1]
+新[新]	xīn	(Vs) new [CCCC1]
+脏[髒]	zāng	(Vs) dirty [CCCC1]
+破[破]	pò	(Vs) to break apart [CCCC1]
+洗[洗]	xǐ	(V) to wash [CCCC1]
+开[開]	kāi	開/打開 [kāi/dǎkāi](V) to open [CCCC1]
+打开[打開]	dǎkāi	開/打開 [kāi/dǎkāi](V) to open [CCCC1]
+起床[起床]	qǐchuáng	(V) to get up [CCCC1]
+照相[照相]	zhàoxiàng	照相/照像 [zhàoxiàng](V) to take a picture, to take a photograph [CCCC1]
+照像[照像]	zhàoxiàng	照相/照像 [zhàoxiàng](V) to take a picture, to take a photograph [CCCC1]
+肉[肉]	ròu	(N) meat [CCCC1]
+菜[菜]	cài	(N) dish; vegetable [CCCC1]
+蛋[蛋]	dàn	(N) egg [CCCC1]
+面[麵]	miàn	(N) noodles [CCCC1]
+米饭[米飯]	mǐfàn	(米)飯 [(mǐ) fàn](N) rice [CCCC1]
+饭[飯]	fàn	(米)飯 [(mǐ) fàn](N) rice [CCCC1]
+饺子[餃子]	jiǎozi	餃(子) [jiǎo(zi)](N) dumplings [CCCC1]
+饺[餃]	jiǎo	餃(子) [jiǎo(zi)](N) dumplings [CCCC1]
+汤[湯]	tāng	(N) soup [CCCC1]
+汉堡[漢堡]	hànbǎo	(N) hamburger [CCCC1]
+热狗[熱狗]	règǒu	(N) hot dog [CCCC1]
+饼干[餅乾]	bǐnggān	(N) biscuit, cracker, cookie [CCCC1]
+蛋糕[蛋糕]	dàngāo	(N) cake [CCCC1]
+面包[麵包]	miànbāo	(N) bread [CCCC1]
+三明治[三明治]	sānmíngzhì	(N) sandwich [CCCC1]
+冰淇淋[冰淇淋]	bīngqílín	(N) ice cream [CCCC1]
+餐[餐]	cān	(N) meal [CCCC1]
+饮料[飲料]	yǐnliào	(N) drink, beverage [CCCC1]
+茶[茶]	chá	(N) tea [CCCC1]
+牛奶[牛奶]	niúnǎi	(N) milk [CCCC1]
+可乐[可樂]	kělè	(N) coke [CCCC1]
+汽水[汽水]	qìshuǐ	(N) soft drink [CCCC1]
+果汁[果汁]	guǒzhī	(N) juice [CCCC1]
+水果[水果]	shuǐguǒ	(N) fruit [CCCC1]
+橘子[橘子]	júzi	橘(子) [jú(zi)](N) tangerine [CCCC1]
+橘[橘]	jú	橘(子) [jú(zi)](N) tangerine [CCCC1]
+西瓜[西瓜]	xīguā	(N) watermelon [CCCC1]
+柳橙[柳橙]	liǔchéng	(N) orange [CCCC1]
+香蕉[香蕉]	xiāngjiāo	(N) banana [CCCC1]
+草莓[草莓]	cǎoméi	(N) strawberry [CCCC1]
+番茄[番茄]	fānqié	番茄/蕃茄 [fānqié](N) tomato [CCCC1]
+蕃茄[蕃茄]	fānqié	番茄/蕃茄 [fānqié](N) tomato [CCCC1]
+苹果[蘋果]	píngguǒ	(N) apple [CCCC1]
+糖[糖]	táng	(N) sugar, candy [CCCC1]
+甜[甜]	tián	(Vs) sweet [CCCC1]
+饿[餓]	è	(Vs) hungry [CCCC1]
+吃[吃]	chī	(V) to eat [CCCC1]
+喝[喝]	hē	(V) to drink [CCCC1]
+给[給]	gěi	(V) to give [CCCC1]
+同学[同學]	tóngxué	(N) classmate [CCCC1]
+上课[上課]	shàngkè	(V) to go to class [CCCC1]
+下课[下課]	xiàkè	(V) to dismiss [CCCC1]
+上学[上學]	shàngxué	(V) to go to school [CCCC1]
+放假[放假]	fàngjià	(V) to have day off [CCCC1]
+放学[放學]	fàngxué	(V) to finish classes (for the day) [CCCC1]
+游戏[遊戲]	yóuxì	(N) game [CCCC1]
+图[圖]	tú	(N) picture, drawing [CCCC1]
+字[字]	zì	(N) character, word [CCCC1]
+书[書]	shū	(N) book [CCCC1]
+书包[書包]	shūbāo	(N) schoolbag [CCCC1]
+课[課]	kè	(N) course, class [CCCC1]
+课本[課本]	kèběn	(N) textbook [CCCC1]
+作业[作業]	zuòyè	(N) homework [CCCC1]
+问题[問題]	wèntí	(N) question, problem [CCCC1]
+考试[考試]	kǎoshì	(N/V) (to) exam, (to) test [CCCC1]
+写[寫]	xiě	(V) to write [CCCC1]
+学[學]	xué	(V) to study, to learn [CCCC1]
+读[讀]	dú	(V) to read [CCCC1]
+念[念]	niàn	(V) to read out loud [CCCC1]
+黑板[黑板]	hēibǎn	(N) blackboard [CCCC1]
+文具[文具]	wénjù	(N) stationery [CCCC1]
+纸[紙]	zhǐ	(N) paper [CCCC1]
+笔[筆]	bǐ	(N) pen [CCCC1]
+铅笔[鉛筆]	qiānbǐ	(N) pencil [CCCC1]
+彩色笔[彩色筆]	cǎisèbǐ	(N) color pen [CCCC1]
+尺[尺]	chǐ	(N) ruler [CCCC1]
+橡皮[橡皮]	xiàngpí	橡皮/橡皮擦 [xiàngpí/xiàngpícā](N) eraser [CCCC1]
+橡皮擦[橡皮擦]	xiàngpícā	橡皮/橡皮擦 [xiàngpí/xiàngpícā](N) eraser [CCCC1]
+剪刀[剪刀]	jiǎndāo	(N) scissors [CCCC1]
+剪[剪]	jiǎn	(V) to cut [CCCC1]
+贴[貼]	tiē	(V) to paste [CCCC1]
+玩[玩]	wán	(V) to play [CCCC1]
+追[追]	zhuī	(V) to chase after, to pursue [CCCC1]
+跳舞[跳舞]	tiàowǔ	(V) to dance [CCCC1]
+踢[踢]	tī	(V) to kick [CCCC1]
+游[游]	yóu	游/游泳 [yóu/yóuyǒng](V) to swim [CCCC1]
+游泳[游泳]	yóuyǒng	游/游泳 [yóu/yóuyǒng](V) to swim [CCCC1]
+玩具[玩具]	wánjù	(N) toy [CCCC1]
+运动[運動]	yùndòng	運動 [yùndòng/yùndong](N/V) sport, (to) exercise [CCCC1]
+运动[運動]	yùndong	運動 [yùndòng/yùndong](N/V) sport, (to) exercise [CCCC1]
+球[球]	qiú	(N) ball [CCCC1]
+气球[氣球]	qìqiú	(N) balloon [CCCC1]
+皮球[皮球]	píqiú	(N) ruber ball [CCCC1]
+足球[足球]	zúqiú	(N) soccer, football [CCCC1]
+棒球[棒球]	bàngqiú	(N) baseball [CCCC1]
+篮球[籃球]	lánqiú	(N) basketball [CCCC1]
+下棋[下棋]	xiàqí	(V) to play chess [CCCC1]
+画[畫]	huà	畫/畫兒 [huà/huàr](V/N) to draw, to paint; picture, drawing, painting [CCCC1]
+画儿[畫兒]	huàr	畫/畫兒 [huà/huàr](V/N) to draw, to paint; picture, drawing, painting [CCCC1]
+电影[電影]	diànyǐng	(N) film, movie [CCCC1]
+音乐[音樂]	yīnyuè	(N) music [CCCC1]
+钢琴[鋼琴]	gāngqín	(N) piano [CCCC1]
+唱[唱]	chàng	(V) to sing [CCCC1]
+弹[彈]	tán	(V) to play (musical instruments) [CCCC1]
+歌[歌]	gē	(N) song [CCCC1]
+养[養]	yǎng	(V) to raise [CCCC1]
+送[送]	sòng	(V) to send, to give [CCCC1]
+生日[生日]	shēngrì	(N) birthday [CCCC1]
+礼物[禮物]	lǐwù	(N) gift, present [CCCC1]
+新年[新年]	xīnnián	(N) New Year [CCCC1]
+过年[過年]	guònián	(N/V) to celebrate or spend New Year [CCCC1]
+生病[生病]	shēngbìng	(V) to be sick [CCCC1]
+感冒[感冒]	gǎnmào	(V) to catch a cold [CCCC1]
+打针[打針]	dǎzhēn	(V) to have an injection [CCCC1]
+药[藥]	yào	(N) medicine, drug [CCCC1]
+车子[車子]	chēzi	車(子) [chē(zi)](N) car [CCCC1]
+车[車]	chē	車(子) [chē(zi)](N) car [CCCC1]
+船[船]	chuán	(N) boat, ship [CCCC1]
+火车[火車]	huǒchē	(N) train [CCCC1]
+汽车[汽車]	qìchē	(N) car [CCCC1]
+飞机[飛機]	fēijī	(N) airplane [CCCC1]
+公车[公車]	gōngchē	公車/公共汽車 [gōngchē/gōnggòngqìchē](N) bus [CCCC1]
+公共汽车[公共汽車]	gōnggòngqìchē	公車/公共汽車 [gōngchē/gōnggòngqìchē](N) bus [CCCC1]
+脚踏车[腳踏車]	jiǎotàchē	腳踏車/自行車 [jiǎotàchē/zìxíngchē](N) bicycle [CCCC1]
+自行车[自行車]	zìxíngchē	腳踏車/自行車 [jiǎotàchē/zìxíngchē](N) bicycle [CCCC1]
+到[到]	dào	(V) to arrive, to reach, to go to [CCCC1]
+骑[騎]	qí	(V) to ride [CCCC1]
+过[過]	guò	(V/Asp) to pass; aspect marker for indicating experience for something [CCCC1]
+飞[飛]	fēi	(V) to fly [CCCC1]
+雨[雨]	yǔ	(N) rain [CCCC1]
+风[風]	fēng	(N) wind [CCCC1]
+雪[雪]	xuě	(N) snow [CCCC1]
+云[雲]	yún	(N) cloud [CCCC1]
+太阳[太陽]	tàiyáng	(N) sun [CCCC1]
+月亮[月亮]	yuèliàng	月亮 [yuèliàng/yuèliang](N) moon [CCCC1]
+月亮[月亮]	yuèliang	月亮 [yuèliàng/yuèliang](N) moon [CCCC1]
+星星[星星]	xīngxing	星(星) [xīng(xing)](N) star [CCCC1]
+星[星]	xīng	星(星) [xīng(xing)](N) star [CCCC1]
+火[火]	huǒ	(N) fire [CCCC1]
+水[水]	shuǐ	(N) water [CCCC1]
+冰[冰]	bīng	(N/Vs) ice [CCCC1]
+春[春]	chūn	春/春天 [chūn/chūntiān](N) spring [CCCC1]
+春天[春天]	chūntiān	春/春天 [chūn/chūntiān](N) spring [CCCC1]
+夏[夏]	xià	夏/夏天 [xià/xiàtiān](N) summer [CCCC1]
+夏天[夏天]	xiàtiān	夏/夏天 [xià/xiàtiān](N) summer [CCCC1]
+秋[秋]	qiū	秋/秋天 [qiū/qiūtiān](N) autumn, fall [CCCC1]
+秋天[秋天]	qiūtiān	秋/秋天 [qiū/qiūtiān](N) autumn, fall [CCCC1]
+冬[冬]	dōng	冬/冬天 [dōng/dōngtiān](N) winter [CCCC1]
+冬天[冬天]	dōngtiān	冬/冬天 [dōng/dōngtiān](N) winter [CCCC1]
+天气[天氣]	tiānqì	(N) weather [CCCC1]
+冷[冷]	lěng	(Vs) cold [CCCC1]
+热[熱]	rè	(Vs) hot [CCCC1]
+阴天[陰天]	yīntiān	(N) cloudy [CCCC1]
+晴天[晴天]	qíngtiān	(N) sunny [CCCC1]
+下雨[下雨]	xiàyǔ	(V) to rain [CCCC1]
+下雪[下雪]	xiàxuě	(V) to snow [CCCC1]
+花[花]	huā	(N) flower [CCCC1]
+草[草]	cǎo	(N) grass [CCCC1]
+树[樹]	shù	(N) tree [CCCC1]
+木[木]	mù	木/木頭 [mù/mùtou](N) wood [CCCC1]
+木头[木頭]	mùtou	木/木頭 [mù/mùtou](N) wood [CCCC1]
+叶子[葉子]	yèzi	葉(子) [yè(zi)](N) leaf [CCCC1]
+叶[葉]	yè	葉(子) [yè(zi)](N) leaf [CCCC1]
+动物[動物]	dòngwù	(N) animal [CCCC1]
+老虎[老虎]	lǎohǔ	(老)虎 [(lǎo) hǔ](N) tiger [CCCC1]
+虎[虎]	hǔ	(老)虎 [(lǎo) hǔ](N) tiger [CCCC1]
+猴子[猴子]	hóuzi	猴(子) [hóu(zi)](N) monkey [CCCC1]
+猴[猴]	hóu	猴(子) [hóu(zi)](N) monkey [CCCC1]
+马[馬]	mǎ	(N) horse [CCCC1]
+牛[牛]	niú	(N) cow [CCCC1]
+羊[羊]	yáng	(N) sheep [CCCC1]
+猪[豬]	zhū	(N) pig [CCCC1]
+狗[狗]	gǒu	(N) dog [CCCC1]
+猫[貓]	māo	(N) cat [CCCC1]
+老鼠[老鼠]	lǎoshǔ	(老)鼠 [(lǎo) shǔ](N) mouse, rat [CCCC1]
+鼠[鼠]	shǔ	(老)鼠 [(lǎo) shǔ](N) mouse, rat [CCCC1]
+兔子[兔子]	tùzi	兔(子) [tù(zi)](N) rabbit,hare [CCCC1]
+兔[兔]	tù	兔(子) [tù(zi)](N) rabbit,hare [CCCC1]
+鸟[鳥]	niǎo	(N) bird [CCCC1]
+鸡[雞]	jī	(N) chicken [CCCC1]
+鸭子[鴨子]	yāzi	鴨(子) [yā(zi)](N) duck [CCCC1]
+鸭[鴨]	yā	鴨(子) [yā(zi)](N) duck [CCCC1]
+鱼[魚]	yú	(N) fish [CCCC1]
+山[山]	shān	(N) mountain [CCCC1]
+地[地]	dì	(N) ground [CCCC1]
+天空[天空]	tiānkōng	(N) sky [CCCC1]
+大海[大海]	dàhǎi	(大)海 [(dà) hǎi](N) sea [CCCC1]
+海[海]	hǎi	(大)海 [(dà) hǎi](N) sea [CCCC1]
+海边[海邊]	hǎibiān	(N) seashore, sea beach, alongside the sea, coast [CCCC1]
+上面[上面]	shàngmiàn	上(面) [shàng(miàn)](N) up; on top of [CCCC1]
+上[上]	shàng	上(面) [shàng(miàn)](N) up; on top of [CCCC1]
+下面[下面]	xiàmiàn	下(面) [xià(miàn)](N) down; under [CCCC1]
+下[下]	xià	下(面) [xià(miàn)](N) down; under [CCCC1]
+前面[前面]	qiánmiàn	前(面) [qián(miàn)](N) front [CCCC1]
+前[前]	qián	前(面) [qián(miàn)](N) front [CCCC1]
+后面[後面]	hòumiàn	後(面) [hòu(miàn)](N) back [CCCC1]
+后[後]	hòu	後(面) [hòu(miàn)](N) back [CCCC1]
+里面[裡面]	lǐmiàn	裡(面) [lǐ(miàn)](N) inside [CCCC1]
+里[裡]	lǐ	裡(面) [lǐ(miàn)](N) inside [CCCC1]
+外面[外面]	wàimiàn	外(面) [wài(miàn)](N) outside [CCCC1]
+外[外]	wài	外(面) [wài(miàn)](N) outside [CCCC1]
+中间[中間]	zhōngjiān	(N) center, middle [CCCC1]
+在[在]	zài	(Prep/Asp) in, at, on, etc.; progressive aspect marker [CCCC1]
+来[來]	lái	(V) to come [CCCC1]
+去[去]	qù	(V) to go [CCCC1]
+回[回]	huí	(V) to go back to [CCCC1]
+进[進]	jìn	(V) to enter [CCCC1]
+出[出]	chū	(V) to go out [CCCC1]
+住[住]	zhù	(V) to live [CCCC1]
+哪[哪]	nǎ	(N) which [CCCC1]
+哪里[哪裡]	nǎlǐ	哪裡/哪兒 [nǎlǐ/nǎr](N) where [CCCC1]
+哪儿[哪兒]	nǎr	哪裡/哪兒 [nǎlǐ/nǎr](N) where [CCCC1]
+这里[這裡]	zhèlǐ	這裡/這兒 [zhèlǐ/zhèr](Adv) here [CCCC1]
+这儿[這兒]	zhèr	這裡/這兒 [zhèlǐ/zhèr](Adv) here [CCCC1]
+那里[那裡]	nàlǐ	那裡/那兒 [nàlǐ/nàr](Adv) there [CCCC1]
+那儿[那兒]	nàr	那裡/那兒 [nàlǐ/nàr](Adv) there [CCCC1]
+路[路]	lù	(N) road [CCCC1]
+这[這]	zhè	這/這些 [zhè/zhèixiē](Det) this; these [CCCC1]
+这些[這些]	zhèixiē	這/這些 [zhè/zhèixiē](Det) this; these [CCCC1]
+那[那]	nà	那/那些 [nà/nèixiē](Det) that; those [CCCC1]
+那些[那些]	nèixiē	那/那些 [nà/nèixiē](Det) that; those [CCCC1]
+家[家]	jiā	(N) home [CCCC1]
+房子[房子]	fángzi	房(子) [fáng(zi)](N) house [CCCC1]
+房[房]	fáng	房(子) [fáng(zi)](N) house [CCCC1]
+房间[房間]	fángjiān	(N) room [CCCC1]
+学校[學校]	xuéxiào	(N) school [CCCC1]
+餐厅[餐廳]	cāntīng	(N) restaurant, dining room [CCCC1]
+医院[醫院]	yīyuàn	(N) hospital [CCCC1]
+公园[公園]	gōngyuán	(N) park [CCCC1]
+花园[花園]	huāyuán	(N) garden [CCCC1]
+动物园[動物園]	dòngwùyuán	(N) zoo [CCCC1]
+车站[車站]	chēzhàn	(N) station [CCCC1]
+市场[市場]	shìchǎng	(N) market [CCCC1]
+店[店]	diàn	(N) shop, store [CCCC1]
+商店[商店]	shāngdiàn	(N) shop, store [CCCC1]
+百货公司[百貨公司]	bǎihuògōngsī	(N) department store [CCCC1]
+楼[樓]	lóu	(N) floor [CCCC1]
+国家[國家]	guójiā	國(家) [guó(jiā)](N) country, state, nation [CCCC1]
+国[國]	guó	國(家) [guó(jiā)](N) country, state, nation [CCCC1]
+中国[中國]	zhōngguó	(N) China [CCCC1]
+台湾[台灣]	táiwān	(N) Taiwan [CCCC1]
+美国[美國]	měiguó	(N) the United States [CCCC1]
+汉语[漢語]	hànyǔ	(N) Chinese/Sinitic language(s) [CCCC1]
+英语[英語]	yīngyǔ	英語/英文 [yīngyǔ/yīngwén](N) English (language) [CCCC1]
+英文[英文]	yīngwén	英語/英文 [yīngyǔ/yīngwén](N) English (language) [CCCC1]
+华语[華語]	huáyǔ	華語/華文 [huáyǔ/huáwén](N) Chinese (language) [CCCC1]
+华文[華文]	huáwén	華語/華文 [huáyǔ/huáwén](N) Chinese (language) [CCCC1]
+请[請]	qǐng	(V) please [CCCC1]
+谢谢[謝謝]	xièxie	謝(謝) [xiè(xie)](V) to thank [CCCC1]
+谢[謝]	xiè	謝(謝) [xiè(xie)](V) to thank [CCCC1]
+再见[再見]	zàijiàn	(V) Goodbye, or see you again. [CCCC1]
+不客气[不客氣]	búkèqì	(V) You are welcome. [CCCC1]
+没关系[沒關係]	méiguānxi	(V) Never mind. [CCCC1]
+对不起[對不起]	duìbuqǐ	(V) sorry [CCCC1]
+祝[祝]	zhù	(V) to bless, to wish [CCCC1]
+对[對]	duì	(Vs) right, correct [CCCC1]
+是[是]	shì	(Adv) yes [CCCC1]
+不[不]	bù	(Adv) no, not [CCCC1]
+没[沒]	méi	(Adv) no, not [CCCC1]
+别[別]	bié	(Adv) other; don't [CCCC1]
+没有[沒有]	méiyǒu	(Adv) not have [CCCC1]
+也[也]	yě	(Adv) also, too, as well [CCCC1]
+有[有]	yǒu	(V) to have, to possess [CCCC1]
+要[要]	yào	(V) to want/wish (to), to ask (for), to demand, to request [CCCC1]
+会[會]	huì	(V) will, can, be able to, be good at, be skillful in [CCCC1]
+像[像]	xiàng	(V) to be like, to resemble [CCCC1]
+不用[不用]	búyòng	(V) need not [CCCC1]
+什么[什麼]	shénme	(N) what [CCCC1]
+怎么[怎麼]	zěnme	(N) how [CCCC1]
+为什么[為什麼]	wèishénme	(N) why [CCCC1]
+怎么样[怎麼樣]	zěnmeyàng	(N) how [CCCC1]
+怎么办[怎麼辦]	zěnmebàn	(N) what to do [CCCC1]
+把[把]	bǎ	(BA) marking entities which have undergone a certain change of state [CCCC1]
+可以[可以]	kěyǐ	(Adv) can, may [CCCC1]
+都[都]	dōu	(Adv) all [CCCC1]
+和[和]	hé	和 [hé/hàn](Prep/Conj) with, and [CCCC1]
+和[和]	hàn	和 [hé/hàn](Prep/Conj) with, and [CCCC1]
+跟[跟]	gēn	(Conj/Prep) and, with [CCCC1]
+或[或]	huò	(Conj) or, either or [CCCC1]
+因为[因為]	yīnwèi	(Conj) because [CCCC1]
+的[的]	de	(Ptc) possessive particle; common adj. particle; particle: emphasizing an action [CCCC1]
+吗[嗎]	ma	(Ptc) a question particle [CCCC1]
+呢[呢]	ne	(Ptc) a question particle [CCCC1]
+喂[喂]	wéi	(Ptc) a common telephone or intercom greeting "hello" [CCCC1]
+吧[吧]	ba	(Ptc) particle implying probability [CCCC1]
+//CCCC 2022/Level 2 (A1)
+姓[姓]	xìng	(V/N) surname, family name [CCCC2]
+家庭[家庭]	jiātíng	(N) family [CCCC2]
+客人[客人]	kèrén	(N) guest, visitor [CCCC2]
+伯伯[伯伯]	bóbo	伯(伯) [bó(bo)](N) uncle [CCCC2]
+伯[伯]	bó	伯(伯) [bó(bo)](N) uncle [CCCC2]
+父母[父母]	fùmǔ	(N) parents [CCCC2]
+宝贝[寶貝]	bǎobèi	(N) baby [CCCC2]
+帮[幫]	bāng	(V) to help [CCCC2]
+帮忙[幫忙]	bāngmáng	(V/N) (to) help [CCCC2]
+事[事]	shì	事/事情 [shì/shìqíng/shìqing](N) matter [CCCC2]
+事情[事情]	shìqíng	事/事情 [shì/shìqíng/shìqing](N) matter [CCCC2]
+事情[事情]	shìqing	事/事情 [shì/shìqíng/shìqing](N) matter [CCCC2]
+家事[家事]	jiāshì	(N) housework [CCCC2]
+打扫[打掃]	dǎsǎo	(V) to clean [CCCC2]
+长大[長大]	zhǎngdà	(V) to grow up [CCCC2]
+容易[容易]	róngyì	(Vs) easy [CCCC2]
+简单[簡單]	jiǎndān	(Vs) simple [CCCC2]
+难[難]	nán	(Vs) difficult [CCCC2]
+清楚[清楚]	qīngchǔ	清楚 [qīngchǔ/qīngchu](Vs) clear [CCCC2]
+清楚[清楚]	qīngchu	清楚 [qīngchǔ/qīngchu](Vs) clear [CCCC2]
+心[心]	xīn	(N) heart [CCCC2]
+背[背]	bèi	背 [bèi/bēi](N/V) back of body; to carry sth on the back [CCCC2]
+背[背]	bēi	背 [bèi/bēi](N/V) back of body; to carry sth on the back [CCCC2]
+动[動]	dòng	(V) to move [CCCC2]
+活[活]	huó	(Vs) alive [CCCC2]
+躺[躺]	tǎng	(V) to lie [CCCC2]
+休息[休息]	xiūxí	休息 [xiūxí/xiūxi](V) to rest [CCCC2]
+休息[休息]	xiūxi	休息 [xiūxí/xiūxi](V) to rest [CCCC2]
+拉[拉]	lā	(V) to pull [CCCC2]
+推[推]	tuī	(V) to push [CCCC2]
+接[接]	jiē	(V) to catch; to pick up someone [CCCC2]
+抓[抓]	zhuā	(V) to grab [CCCC2]
+举[舉]	jǔ	(V) to lift [CCCC2]
+弄[弄]	nòng	(V) to play with something [CCCC2]
+挂[掛]	guà	(V) to hang [CCCC2]
+跳[跳]	tiào	(V) to jump [CCCC2]
+香[香]	xiāng	(Vs) fragrant [CCCC2]
+臭[臭]	chòu	(Vs) stink [CCCC2]
+吹[吹]	chuī	(V) to blow [CCCC2]
+说话[說話]	shuōhuà	(V) to speak [CCCC2]
+生气[生氣]	shēngqì	(Vs) angry [CCCC2]
+高兴[高興]	gāoxìng	(Vs) happy [CCCC2]
+开心[開心]	kāixīn	(Vs) happy [CCCC2]
+有趣[有趣]	yǒuqù	(Vs) interesting [CCCC2]
+紧张[緊張]	jǐnzhāng	(Vs) nervous [CCCC2]
+奇怪[奇怪]	qíguài	(Vs) strange [CCCC2]
+疼[疼]	téng	(Vs) hurt [CCCC2]
+梦[夢]	mèng	(N/V) (to) dream [CCCC2]
+做梦[做夢]	zuòmèng	做夢/作夢 [zuòmèng](V) to dream [CCCC2]
+作梦[作夢]	zuòmèng	做夢/作夢 [zuòmèng](V) to dream [CCCC2]
+忘[忘]	wàng	(Vs) to forget [CCCC2]
+想念[想念]	xiǎngniàn	(Vs) to miss [CCCC2]
+懂[懂]	dǒng	(Vs) to understand [CCCC2]
+轻[輕]	qīng	(Vs) light [CCCC2]
+重[重]	zhòng	(Vs) heavy [CCCC2]
+年纪[年紀]	niánjì	(N) age [CCCC2]
+年轻[年輕]	niánqīng	(Vs) young [CCCC2]
+美丽[美麗]	měilì	(Vs) beautiful [CCCC2]
+勇敢[勇敢]	yǒnggǎn	(Vs) brave [CCCC2]
+聪明[聰明]	cōngmíng	(Vs) smart [CCCC2]
+害羞[害羞]	hàixiū	(Vs) shy [CCCC2]
+牙医[牙醫]	yáyī	(N) dentist [CCCC2]
+司机[司機]	sījī	(N) driver [CCCC2]
+老板[老闆]	lǎobǎn	(N) boss [CCCC2]
+画家[畫家]	huàjiā	(N) painter [CCCC2]
+厨师[廚師]	chúshī	(N) cook [CCCC2]
+农夫[農夫]	nóngfū	農夫/農民 [nóngfū/nóngmín](N) farmer [CCCC2]
+农民[農民]	nóngmín	農夫/農民 [nóngfū/nóngmín](N) farmer [CCCC2]
+歌手[歌手]	gēshǒu	歌手/歌星 [gēshǒu/gēxīng](N) singer [CCCC2]
+歌星[歌星]	gēxīng	歌手/歌星 [gēshǒu/gēxīng](N) singer [CCCC2]
+做[做]	zuò	(Vs) to be [CCCC2]
+第[第]	dì	(Det) marker of ordinal numerals [CCCC2]
+千[千]	qiān	(Num) thousand [CCCC2]
+数目[數目]	shùmù	(N) amount [CCCC2]
+全部[全部]	quánbù	(N/Det) all, whole [CCCC2]
+一半[一半]	yībàn	(N/Det) one half, half [CCCC2]
+一些[一些]	yīxiē	(Det) a little bit [CCCC2]
+一点儿[一點兒]	yīdiǎnr	(Det/Adv) a bit, a little [CCCC2]
+完[完]	wán	(V) to use up, to finish, to complete [CCCC2]
+算[算]	suàn	(V) to calculate, to count [CCCC2]
+加[加]	jiā	(V) to add [CCCC2]
+总共[總共]	zǒnggòng	(V) to total [CCCC2]
+只[只]	zhǐ	(Adv) only [CCCC2]
+片[片]	piàn	(M) partial measure word for thin, flat pieces of something and for a vast expanse of something [CCCC2]
+件[件]	jiàn	(M) individual measure word for clothes, etc., for furniture, jewelry, etc., and for affairs, incidents, etc. [CCCC2]
+位[位]	wèi	(M) individual measure word for people [CCCC2]
+支[支]	zhī	支/枝 [zhī](M) individual measure word for flowers, grass and for rod-shaped article [CCCC2]
+枝[枝]	zhī	支/枝 [zhī](M) individual measure word for flowers, grass and for rod-shaped article [CCCC2]
+条[條]	tiáo	(M) individual measure word for long, narrow things, such as rivers, pants, snakes, etc. [CCCC2]
+棵[棵]	kē	(M) individual measure word for plants. [CCCC2]
+颗[顆]	kē	(M) individual measure word for small and roundish things [CCCC2]
+瓶[瓶]	píng	(N/M) bottle; container measure word for bottles of liquid substances [CCCC2]
+张[張]	zhāng	(M) individual measure word for flat things, or things with a surface [CCCC2]
+包[包]	bāo	(V/M) to pack; collective measure word for the things wrapped or tied up and for the things fixed in bundles [CCCC2]
+间[間]	jiān	(M) container measure word for houses or other buildings [CCCC2]
+把[把]	bǎ	(M) individual measure word for a thing with a handle or something like a handle [CCCC2]
+付[付]	fù	(V) to pay [CCCC2]
+收[收]	shōu	(V) to receive [CCCC2]
+卖[賣]	mài	(V) to sell [CCCC2]
+贵[貴]	guì	(Vs) expensive [CCCC2]
+便宜[便宜]	piányi	(Vs) cheap [CCCC2]
+找钱[找錢]	zhǎoqián	(V) to give change [CCCC2]
+钱包[錢包]	qiánbāo	(N) wallet, purse [CCCC2]
+更[更]	gèng	(Adv) more [CCCC2]
+还[還]	hái	(Adv) still [CCCC2]
+这么[這麼]	zhème	(Adv) such [CCCC2]
+那么[那麼]	nàme	(Adv) like that [CCCC2]
+坏[壞]	huài	(Vs) bad [CCCC2]
+棒[棒]	bàng	(Vs) excellent [CCCC2]
+今年[今年]	jīnnián	(N/Adv) this year [CCCC2]
+去年[去年]	qùnian	(N/Adv) last year [CCCC2]
+明年[明年]	míngnián	(N/Adv) next year [CCCC2]
+前天[前天]	qiántiān	(N/Adv) day before yesterday [CCCC2]
+后天[後天]	hòutiān	(N/Adv) day after tomorrow [CCCC2]
+周末[週末]	zhōumò	(N/Adv) weekend [CCCC2]
+以前[以前]	yǐqián	(N/Adv) ealier; before; ago [CCCC2]
+从前[從前]	cóngqián	(N/Adv) long time ago [CCCC2]
+以后[以後]	yǐhòu	(N/Adv) hereafter, afterward, subsequently [CCCC2]
+后来[後來]	hòulái	(N/Adv) subsequently, later [CCCC2]
+正在[正在]	zhèngzài	(Adv) presently [CCCC2]
+一直[一直]	yīzhí	(Adv) continuously, perennially, all along [CCCC2]
+常常[常常]	chángcháng	(Adv) frequently,often [CCCC2]
+忽然[忽然]	hūrán	(Adv) suddenly [CCCC2]
+来得及[來得及]	láidejí	(Adv) be in time [CCCC2]
+一会儿[一會兒]	yīhuǐr	(Adv) a while [CCCC2]
+小时[小時]	xiǎoshí	(N) hour [CCCC2]
+分钟[分鐘]	fēnzhōng	(N) minute [CCCC2]
+时候[時候]	shíhòu	時候 [shíhòu/shíhou](N) time [CCCC2]
+时候[時候]	shíhou	時候 [shíhòu/shíhou](N) time [CCCC2]
+又[又]	yòu	(Conj/Adv) again [CCCC2]
+才[才]	cái	(Conj/Adv) just [CCCC2]
+然后[然後]	ránhòu	(Conj) then [CCCC2]
+慢[慢]	màn	(Vs) slow [CCCC2]
+灰色[灰色]	huīsè	(N) gray [CCCC2]
+紫色[紫色]	zǐsè	(N) purple [CCCC2]
+橘色[橘色]	júsè	(N) orange [CCCC2]
+宽[寬]	kuān	(Vs) wide [CCCC2]
+窄[窄]	zhǎi	(Vs) narrow [CCCC2]
+细[細]	xì	(Vs) thin, fine [CCCC2]
+比较[比較]	bǐjiào	(V) to compare [CCCC2]
+比[比]	bǐ	(V) to compare [CCCC2]
+边[邊]	biān	(N) side, edge [CCCC2]
+上衣[上衣]	shàngyī	(N) top [CCCC2]
+洋装[洋裝]	yángzhuāng	(N) dress [CCCC2]
+内衣[內衣]	nèiyī	(N) underwear [CCCC2]
+内裤[內褲]	nèikù	(N) underpants [CCCC2]
+口袋[口袋]	kǒudài	(N) pocket [CCCC2]
+手帕[手帕]	shǒupà	(N) handkerchief [CCCC2]
+手套[手套]	shǒutào	(N) gloves [CCCC2]
+眼镜[眼鏡]	yǎnjìng	(N) glasses [CCCC2]
+围巾[圍巾]	wéijīn	(N) scarf [CCCC2]
+家具[家具]	jiājù	(N) furniture [CCCC2]
+铃[鈴]	líng	(N) bell [CCCC2]
+屋顶[屋頂]	wūdǐng	(N) roof [CCCC2]
+沙发[沙發]	shāfā	(N) sofa [CCCC2]
+书架[書架]	shūjià	(N) bookshelf [CCCC2]
+书桌[書桌]	shūzhuō	(N) desk [CCCC2]
+镜子[鏡子]	jìngzi	鏡(子) [jìng(zi)](N) mirror [CCCC2]
+镜[鏡]	jìng	鏡(子) [jìng(zi)](N) mirror [CCCC2]
+桶子[桶子]	tǒngzi	桶(子) [tǒng(zi)](N) bucket [CCCC2]
+桶[桶]	tǒng	桶(子) [tǒng(zi)](N) bucket [CCCC2]
+盒[盒]	hé	盒(子) [hé(zi)](N/M) box; container measure word for things in a box [CCCC2]
+盒子[盒子]	hézi	盒(子) [hé(zi)](N/M) box; container measure word for things in a box [CCCC2]
+袋子[袋子]	dàizi	袋(子) [dài(zi)](N) bag [CCCC2]
+袋[袋]	dài	袋(子) [dài(zi)](N) bag [CCCC2]
+毛巾[毛巾]	máojīn	(N) towel [CCCC2]
+牙刷[牙刷]	yáshuā	(N) toothbrush [CCCC2]
+牙膏[牙膏]	yágāo	(N) toothpaste [CCCC2]
+手机[手機]	shǒujī	(N) cell phone, mobile phone [CCCC2]
+垃圾[垃圾]	lèsè	(N) garbage [CCCC2]
+东西[東西]	dōngxi	(N) thing [CCCC2]
+信[信]	xìn	(N) letter, mail [CCCC2]
+邮票[郵票]	yóupiào	(N) stamp [CCCC2]
+卡片[卡片]	kǎpiàn	(N) card [CCCC2]
+报纸[報紙]	bàozhǐ	(N) newspaper [CCCC2]
+汤匙[湯匙]	tāngchí	湯匙/勺子 [tāngchí/sháozi](N) spoon [CCCC2]
+勺子[勺子]	sháozi	湯匙/勺子 [tāngchí/sháozi](N) spoon [CCCC2]
+盘[盤]	pán	盤(子) [pán(zhi)](N/M) plate; individual measure word for plate-shaped things. [CCCC2]
+盘子[盤子]	pánzi	盤(子) [pán(zhi)](N/M) plate; individual measure word for plate-shaped things. [CCCC2]
+茶壶[茶壺]	cháhú	(N) teapot, teakettle [CCCC2]
+旧[舊]	jiù	(Vs) old [CCCC2]
+干净[乾淨]	gānjìng	(Vs) clean [CCCC2]
+乱[亂]	luàn	(Vs) messy [CCCC2]
+整理[整理]	zhěnglǐ	(V) to put in order, to arrange [CCCC2]
+关[關]	guān	(V) to close, to shut, to turn off [CCCC2]
+搬[搬]	bān	(V) to move [CCCC2]
+倒[倒]	dào	(V) to empty [CCCC2]
+用[用]	yòng	(V) to use [CCCC2]
+找[找]	zhǎo	(V) to find, to look for [CCCC2]
+刷[刷]	shuā	(V) to brush [CCCC2]
+寄[寄]	jì	(V) to send, to mail [CCCC2]
+食物[食物]	shíwù	(N) food [CCCC2]
+米[米]	mǐ	(N) rice [CCCC2]
+炒饭[炒飯]	chǎofàn	(N) fried rice [CCCC2]
+粽子[粽子]	zòngzi	粽(子) [zòng(zi)](N) a pyramid-shaped mass of glutinous rice wrapped in leaves [CCCC2]
+粽[粽]	zòng	粽(子) [zòng(zi)](N) a pyramid-shaped mass of glutinous rice wrapped in leaves [CCCC2]
+包子[包子]	bāozi	(N) steamed stuffed bun [CCCC2]
+月饼[月餅]	yuèbǐng	月餅 [yuèbǐng/yuèbing](N) moon cake [CCCC2]
+月饼[月餅]	yuèbing	月餅 [yuèbǐng/yuèbing](N) moon cake [CCCC2]
+牛排[牛排]	niúpái	(N) beefsteak [CCCC2]
+沙拉[沙拉]	shālā	(N) salad [CCCC2]
+咖哩[咖哩]	kālǐ	(N) curry [CCCC2]
+奶油[奶油]	nǎiyóu	(N) cream, butter [CCCC2]
+青菜[青菜]	qīngcài	(N) vegetables [CCCC2]
+南瓜[南瓜]	nánguā	(N) pumpkin [CCCC2]
+玉米[玉米]	yùmǐ	玉米 [yùmǐ/yùmi](N) corn [CCCC2]
+玉米[玉米]	yùmi	玉米 [yùmǐ/yùmi](N) corn [CCCC2]
+洋葱[洋蔥]	yángcōng	(N) onion [CCCC2]
+咖啡[咖啡]	kāfēi	(N) coffee [CCCC2]
+开水[開水]	kāishuǐ	(N) boiling/boiled water [CCCC2]
+奶茶[奶茶]	nǎichá	(N) milk tea [CCCC2]
+炸鸡[炸雞]	zhájī	(N) fried chicken [CCCC2]
+薯条[薯條]	shǔtiáo	(N) French fries [CCCC2]
+鸡块[雞塊]	jīkuài	(N) Chicken nugget [CCCC2]
+披萨[披薩]	pīsà	披薩/比薩 [pīsà/bǐsà](N) pizza [CCCC2]
+比萨[比薩]	bǐsà	披薩/比薩 [pīsà/bǐsà](N) pizza [CCCC2]
+点心[點心]	diǎnxīn	點心 [diǎnxīn/diǎnxin](N) snack [CCCC2]
+点心[點心]	diǎnxin	點心 [diǎnxīn/diǎnxin](N) snack [CCCC2]
+巧克力[巧克力]	qiǎokèlì	(N) chocolate [CCCC2]
+葡萄[葡萄]	pútao	(N) grape [CCCC2]
+饱[飽]	bǎo	(Vs) full [CCCC2]
+渴[渴]	kě	(Vs) thirsty [CCCC2]
+烤[烤]	kǎo	(V) to roast, to barbecue, to bake [CCCC2]
+做菜[做菜]	zuòcài	(V) to cook [CCCC2]
+菜单[菜單]	càidān	(N) menu [CCCC2]
+点菜[點菜]	diǎncài	(V) to order dishes [CCCC2]
+年级[年級]	niánjí	(N) grade [CCCC2]
+班级[班級]	bānjí	(N) class [CCCC2]
+小学[小學]	xiǎoxué	(N) primary school, elementary school [CCCC2]
+中学[中學]	zhōngxué	(N) middle school [CCCC2]
+校长[校長]	xiàozhǎng	(N) principal [CCCC2]
+寒假[寒假]	hánjià	(N) winter vacation [CCCC2]
+暑假[暑假]	shǔjià	(N) summer vacation [CCCC2]
+请假[請假]	qǐngjià	(V) to ask for leave [CCCC2]
+小学生[小學生]	xiǎoxuéshēng	(N) an elementary school student [CCCC2]
+句子[句子]	jùzi	句(子) [jù(zi)](N) sentence [CCCC2]
+句[句]	jù	句(子) [jù(zi)](N) sentence [CCCC2]
+故事[故事]	gùshi	(N) story, tale [CCCC2]
+作文[作文]	zuòwén	(N) composition [CCCC2]
+图片[圖片]	túpiàn	(N) picture, photograph [CCCC2]
+科学[科學]	kēxué	(N) science [CCCC2]
+美术[美術]	měishù	(N) art [CCCC2]
+数学[數學]	shùxué	(N) math [CCCC2]
+体育[體育]	tǐyù	(N) physical education [CCCC2]
+功课[功課]	gōngkè	(N) homework [CCCC2]
+本子[本子]	běnzi	(N) book, notebook [CCCC2]
+运动会[運動會]	yùndònghuì	(N) sports day [CCCC2]
+练习[練習]	liànxí	(N/V) (to) practice [CCCC2]
+准备[準備]	zhǔnbèi	(N/V) to prepare, preparation [CCCC2]
+加油[加油]	jiāyóu	(V) to cheer on [CCCC2]
+赛跑[賽跑]	sàipǎo	(N/V) (to) race [CCCC2]
+比赛[比賽]	bǐsài	(N/V) match, competition; to compete [CCCC2]
+参加[參加]	cānjiā	(V) to join, to attend [CCCC2]
+排队[排隊]	páiduì	(V) to stand in line [CCCC2]
+胶水[膠水]	jiāoshuǐ	(N) glue [CCCC2]
+蜡笔[蠟筆]	làbǐ	(N) wax crayon [CCCC2]
+交[交]	jiāo	交/交給 [jiāo/jiāogěi](V) to hand over, to deliver [CCCC2]
+交给[交給]	jiāogěi	交/交給 [jiāo/jiāogěi](V) to hand over, to deliver [CCCC2]
+带[帶]	dài	(V) to take, to bring [CCCC2]
+翻[翻]	fān	(V) to turn over, to turn around [CCCC2]
+教[教]	jiāo	(V) to teach [CCCC2]
+打架[打架]	dǎjià	(V) to fight [CCCC2]
+走路[走路]	zǒulù	(V/N) (to) walk [CCCC2]
+跑步[跑步]	pǎobù	(V/N) (to) jog [CCCC2]
+舞蹈[舞蹈]	wǔdào	(N) dance [CCCC2]
+滑雪[滑雪]	huáxuě	(V/N) (to) ski [CCCC2]
+逛[逛]	guàng	(V) to window-shop [CCCC2]
+散步[散步]	sànbù	(V/N) (to) take a walk [CCCC2]
+旅行[旅行]	lǚxíng	(V/N) (to) travel, journey, tour [CCCC2]
+溜滑梯[溜滑梯]	liūhuátī	(N) slide [CCCC2]
+网球[網球]	wǎngqiú	(N) tennis [CCCC2]
+羽毛球[羽毛球]	yǔmáoqiú	(N) badminton [CCCC2]
+乒乓球[乒乓球]	pīngpāngqiú	乒乓球/桌球 [pīngpāngqiú/zhuōqiú](N) ping-pong/table tennis [CCCC2]
+桌球[桌球]	zhuōqiú	乒乓球/桌球 [pīngpāngqiú/zhuōqiú](N) ping-pong/table tennis [CCCC2]
+收集[收集]	shōují	(V/N) to gather, to collect [CCCC2]
+卡通[卡通]	kǎtōng	(N) cartoon [CCCC2]
+漫画[漫畫]	mànhuà	(N) comic book [CCCC2]
+上网[上網]	shàngwǎng	(V) to surf the internet [CCCC2]
+鼓[鼓]	gǔ	(N) drum [CCCC2]
+吉他[吉他]	jítā	(N) guitar [CCCC2]
+小提琴[小提琴]	xiǎotíqín	(N) violin [CCCC2]
+拜年[拜年]	bàinián	(V) to pay a New Year call [CCCC2]
+红包[紅包]	hóngbāo	(N) red envelope with gift money [CCCC2]
+压岁钱[壓歲錢]	yāsuìqián	(N) money given to children as a lunar New Year gift [CCCC2]
+节[節]	jié	(N) festival [CCCC2]
+端午节[端午節]	duānwǔjié	(N) the Dragon Boat Festival (falling on the fifth day of the fifth lunar month) [CCCC2]
+中秋节[中秋節]	zhōngqiūjié	(N) the Moon Festival or the Mid-Autumn Festival(on the 15th day of the 8th lunar month) [CCCC2]
+圣诞节[聖誕節]	shèngdànjié	(N) Christmas [CCCC2]
+健康[健康]	jiànkāng	(Vs/N) healthy, health [CCCC2]
+咳嗽[咳嗽]	késòu	咳嗽 [késòu/késou](V) to cough [CCCC2]
+咳嗽[咳嗽]	késou	咳嗽 [késòu/késou](V) to cough [CCCC2]
+发烧[發燒]	fāshāo	(V) to have a fever [CCCC2]
+口罩[口罩]	kǒuzhào	(N) a gauze mask [CCCC2]
+蛀牙[蛀牙]	zhùyá	(V/N) decayed tooth, dental caries [CCCC2]
+跌倒[跌倒]	diédǎo	(V) to fall over [CCCC2]
+住院[住院]	zhùyuàn	(V) to be in hospital [CCCC2]
+受伤[受傷]	shòushāng	(Vs/N) be injured/wounded; injury, wound [CCCC2]
+小心[小心]	xiǎoxīn	(Vs) careful [CCCC2]
+卡车[卡車]	kǎchē	(N) truck [CCCC2]
+计程车[計程車]	jìchéngchē	(N) taxi [CCCC2]
+消防车[消防車]	xiāofángchē	(N) fire truck [CCCC2]
+救护车[救護車]	jiùhùchē	(N) ambulance [CCCC2]
+摩托车[摩托車]	mótuōchē	(N) motorcycle, scooter [CCCC2]
+票[票]	piào	(N) ticket [CCCC2]
+开车[開車]	kāichē	(V) to drive a car [CCCC2]
+停[停]	tíng	(V) to park, to stop [CCCC2]
+迷路[迷路]	mílù	(V) to get lost [CCCC2]
+搭[搭]	dā	(V) to travel by or take (a conveyance) [CCCC2]
+危险[危險]	wéixiǎn	(Vs) dangerous [CCCC2]
+安全[安全]	ānquán	(Vs) safe [CCCC2]
+雷[雷]	léi	(N) thunder [CCCC2]
+电[電]	diàn	(N) electricity [CCCC2]
+声音[聲音]	shēngyīn	(N) sound, voice [CCCC2]
+闪电[閃電]	shǎndiàn	(N/V) lightning [CCCC2]
+彩虹[彩虹]	cǎihóng	(N) rainbow [CCCC2]
+季节[季節]	jìjié	(N) season [CCCC2]
+凉[涼]	liáng	涼/涼快 [liáng/liángkuài](Vs) cool [CCCC2]
+凉快[涼快]	liángkuài	涼/涼快 [liáng/liángkuài](Vs) cool [CCCC2]
+寒冷[寒冷]	hánlěng	(Vs) cold [CCCC2]
+温暖[溫暖]	wēnnuǎn	(Vs) warm [CCCC2]
+干[乾]	gān	(Vs) dry [CCCC2]
+玫瑰[玫瑰]	méigui	(N) rose [CCCC2]
+狮子[獅子]	shīzi	獅(子) [shī(zi)](N) lion [CCCC2]
+狮[獅]	shī	獅(子) [shī(zi)](N) lion [CCCC2]
+狼[狼]	láng	(N) wolf [CCCC2]
+象[象]	xiàng	(N) elephant [CCCC2]
+青蛙[青蛙]	qīngwā	(N) frog [CCCC2]
+蛇[蛇]	shé	(N) snake [CCCC2]
+虫[蟲]	chóng	(N) worm, insect [CCCC2]
+蚊子[蚊子]	wénzi	蚊(子) [wén(zi)](N) mosquito [CCCC2]
+蚊[蚊]	wén	蚊(子) [wén(zi)](N) mosquito [CCCC2]
+蜘蛛[蜘蛛]	zhīzhū	(N) spider [CCCC2]
+蝴蝶[蝴蝶]	húdié	(N) butterfly [CCCC2]
+蜜蜂[蜜蜂]	mìfēng	(N) bee [CCCC2]
+蚂蚁[螞蟻]	mǎyǐ	(N) ant [CCCC2]
+蜗牛[蝸牛]	wōniú	(N) snail [CCCC2]
+鹅[鵝]	é	(N) goose [CCCC2]
+宠物[寵物]	chǒngwù	(N) pet [CCCC2]
+石[石]	shí	石/石頭 [shí/shítou](N) stone, rock [CCCC2]
+石头[石頭]	shítou	石/石頭 [shí/shítou](N) stone, rock [CCCC2]
+沙[沙]	shā	(N) sand [CCCC2]
+河[河]	hé	(N) river [CCCC2]
+森林[森林]	sēnlín	(N) forest [CCCC2]
+池塘[池塘]	chítáng	(N) pond [CCCC2]
+北边[北邊]	běibiān	(N) north [CCCC2]
+西边[西邊]	xībiān	(N) west [CCCC2]
+东边[東邊]	dōngbiān	(N) east [CCCC2]
+南边[南邊]	nánbiān	(N) south [CCCC2]
+右边[右邊]	yòubiān	右邊/右手邊 [yòubiān/yòushǒubiān](N) right side [CCCC2]
+右手边[右手邊]	yòushǒubiān	右邊/右手邊 [yòubiān/yòushǒubiān](N) right side [CCCC2]
+左边[左邊]	zuǒbiān	左邊/左手邊 [zuǒbiān/zuǒshǒubiān](N) left side [CCCC2]
+左手边[左手邊]	zuǒshǒubiān	左邊/左手邊 [zuǒbiān/zuǒshǒubiān](N) left side [CCCC2]
+旁边[旁邊]	pángbiān	旁(邊) [páng(biān)](N) by the side of [CCCC2]
+旁[旁]	páng	旁(邊) [páng(biān)](N) by the side of [CCCC2]
+往[往]	wǎng	(Prep) toward [CCCC2]
+从[從]	cóng	(Prep) from, since, through [CCCC2]
+近[近]	jìn	(Vs) close, near [CCCC2]
+远[遠]	yuǎn	(Vs) far [CCCC2]
+对面[對面]	duìmiàn	(N) across [CCCC2]
+地方[地方]	dìfāng	地方 [dìfāng/dìfang](N) place [CCCC2]
+地方[地方]	dìfang	地方 [dìfāng/dìfang](N) place [CCCC2]
+客厅[客廳]	kètīng	(N) living room [CCCC2]
+浴室[浴室]	yùshì	(N) bathroom [CCCC2]
+院子[院子]	yuànzi	(N) courtyard [CCCC2]
+厕所[廁所]	cèsuǒ	(N) toilet [CCCC2]
+饭厅[飯廳]	fàntīng	(N) dining room [CCCC2]
+厨房[廚房]	chúfáng	(N) kitchen [CCCC2]
+教室[教室]	jiàoshì	(N) classroom [CCCC2]
+操场[操場]	cāochǎng	(N) playground [CCCC2]
+游泳池[游泳池]	yóuyǒngchí	(N) swimming pool [CCCC2]
+夜市[夜市]	yèshì	(N) night market [CCCC2]
+教堂[教堂]	jiàotáng	(N) church [CCCC2]
+邮局[郵局]	yóujú	(N) post office [CCCC2]
+银行[銀行]	yínháng	(N) bank [CCCC2]
+警察局[警察局]	jǐngchájú	(N) police office [CCCC2]
+电影院[電影院]	diànyǐngyuàn	(N) movie theater [CCCC2]
+办公室[辦公室]	bàngōngshì	(N) office [CCCC2]
+饭店[飯店]	fàndiàn	飯店/酒店 [fàndiàn/jiǔdiàn](N) hotel [CCCC2]
+酒店[酒店]	jiǔdiàn	飯店/酒店 [fàndiàn/jiǔdiàn](N) hotel [CCCC2]
+公寓[公寓]	gōngyù	(N) apartment [CCCC2]
+大楼[大樓]	dàlóu	(N) multi-storied building [CCCC2]
+电梯[電梯]	diàntī	(N) elevator [CCCC2]
+楼梯[樓梯]	lóutī	(N) stairs [CCCC2]
+屋子[屋子]	wūzi	屋(子) [wū(zi)](N) house [CCCC2]
+屋[屋]	wū	屋(子) [wū(zi)](N) house [CCCC2]
+农田[農田]	nóngtián	(N) farm [CCCC2]
+街[街]	jiē	(N) street [CCCC2]
+马路[馬路]	mǎlù	馬路/道路 [mǎlù/dàolù](N) road [CCCC2]
+道路[道路]	dàolù	馬路/道路 [mǎlù/dàolù](N) road [CCCC2]
+高速公路[高速公路]	gāosùgōnglù	(N) freeway, highway [CCCC2]
+热闹[熱鬧]	rènao	(Vs) boisterous, bustling [CCCC2]
+泰国[泰國]	tàiguó	(N) Thailand [CCCC2]
+韩国[韓國]	hánguó	(N) Korea [CCCC2]
+日本[日本]	rìběn	(N) Japan [CCCC2]
+早安[早安]	zǎo'ān	(V) Good morning. [CCCC2]
+晚安[晚安]	wǎn'ān	(V) Good night. [CCCC2]
+欢迎[歡迎]	huānyíng	(V) to welcome, to greet [CCCC2]
+没问题[沒問題]	méiwèntí	(V) No problem. [CCCC2]
+差不多[差不多]	chàbuduō	(V) almost the same [CCCC2]
+不好意思[不好意思]	bùhǎoyìsi	(V) to feel embarrassed [CCCC2]
+祝福[祝福]	zhùfú	(V/N) to bless, to wish [CCCC2]
+进步[進步]	jìnbù	(N/V) to improve, improvement [CCCC2]
+成功[成功]	chénggōng	(N/V) success, to succeed [CCCC2]
+错[錯]	cuò	(Vs) wrong [CCCC2]
+能[能]	néng	(V) can [CCCC2]
+行[行]	xíng	(V) okay [CCCC2]
+可能[可能]	kěnéng	(Adv) maybe, perhaps [CCCC2]
+当然[當然]	dāngrán	(Adv) certainly, of course [CCCC2]
+一定[一定]	yīdìng	(Adv) definitely [CCCC2]
+还是[還是]	háishì	(Conj) or; still [CCCC2]
+所以[所以]	suǒyǐ	(Conj) so [CCCC2]
+如果[如果]	rúguǒ	(Conj) if [CCCC2]
+但是[但是]	dànshì	(Conj) but [CCCC2]
+得[得]	de	得 [de/dé](Ptc/V) particle(de): verbs which are marked by de are followed by complements to show the resultive state of the action; Verb(dé): to get; Verb(děi):must, have to [CCCC2]
+得[得]	dé	得 [de/dé](Ptc/V) particle(de): verbs which are marked by de are followed by complements to show the resultive state of the action; Verb(dé): to get; Verb(děi):must, have to [CCCC2]
+//CCCC 2022/Level 3 (A2)
+它[它]	tā	(N) it [CCCC3]
+自己[自己]	zìjǐ	(N) oneself [CCCC3]
+介绍[介紹]	jièshào	(V/N) to introduce, introduction [CCCC3]
+儿童[兒童]	értóng	(N) children [CCCC3]
+兄弟姊妹[兄弟姊妹]	xiōngdìjiěmèi	(N) siblings [CCCC3]
+叔叔[叔叔]	shúshu	叔(叔) [shú(shu)](N) uncle [CCCC3]
+叔[叔]	shú	叔(叔) [shú(shu)](N) uncle [CCCC3]
+孙子[孫子]	sūnzi	孫子/孫女 [sūnzi/sūnnǚ](N) grandson; granddaughter [CCCC3]
+孙女[孫女]	sūnnǚ	孫子/孫女 [sūnzi/sūnnǚ](N) grandson; granddaughter [CCCC3]
+邻居[鄰居]	línjū	(N) neighbor [CCCC3]
+照顾[照顧]	zhàogù	(V) to look after [CCCC3]
+办法[辦法]	bànfǎ	(N) way, means, measure, regulation [CCCC3]
+方法[方法]	fāngfǎ	(N) method, way, means [CCCC3]
+习惯[習慣]	xíguàn	(N/V) habit; to be used to [CCCC3]
+幸福[幸福]	xìngfú	(N) happiness [CCCC3]
+眉[眉]	méi	(N) eyebrow [CCCC3]
+胡子[鬍子]	húzi	鬍(子) [hú(zi)](N) beard [CCCC3]
+胡[鬍]	hú	鬍(子) [hú(zi)](N) beard [CCCC3]
+手臂[手臂]	shǒubì	(N) arm [CCCC3]
+肩膀[肩膀]	jiānbǎng	(N) shoulder [CCCC3]
+脖子[脖子]	bózi	脖(子) [bó(zi)](N) neck [CCCC3]
+脖[脖]	bó	脖(子) [bó(zi)](N) neck [CCCC3]
+皮肤[皮膚]	pífū	(N) skin [CCCC3]
+眼泪[眼淚]	yǎnlèi	(N) tears [CCCC3]
+死[死]	sǐ	(Vs) to die [CCCC3]
+靠[靠]	kào	(V) to lean against; to depend on [CCCC3]
+陪[陪]	péi	(V) to accompany [CCCC3]
+醒[醒]	xǐng	(Vs) awake [CCCC3]
+抱[抱]	bào	(V) to hug [CCCC3]
+按[按]	àn	(V) to press [CCCC3]
+捉[捉]	zhuō	(V) to catch [CCCC3]
+换[換]	huàn	(V) to exchange [CCCC3]
+擦[擦]	cā	(V) to wipe [CCCC3]
+偷[偷]	tōu	(V) to steal [CCCC3]
+丢[丟]	diū	(V) to throw; to lose something [CCCC3]
+掉[掉]	diào	(V) to drop [CCCC3]
+见[見]	jiàn	(V) to see; to meet [CCCC3]
+闻[聞]	wén	(V) to smell [CCCC3]
+咬[咬]	yǎo	(V) to bite [CCCC3]
+讲话[講話]	jiǎnghuà	講(話) [jiǎng(huà)](V) to talk [CCCC3]
+讲[講]	jiǎng	講(話) [jiǎng(huà)](V) to talk [CCCC3]
+告诉[告訴]	gàosu	(V) to tell [CCCC3]
+亲[親]	qīn	(V) to kiss [CCCC3]
+听说[聽說]	tīngshuō	(V) to hear [CCCC3]
+尝[嚐]	cháng	(V) to taste [CCCC3]
+吵[吵]	chǎo	(Vs) noisy [CCCC3]
+猜[猜]	cāi	(V) to guess [CCCC3]
+烦恼[煩惱]	fánnǎo	(N/V) (to) worry [CCCC3]
+麻烦[麻煩]	máfan	(N/V) (to) trouble [CCCC3]
+无聊[無聊]	wúliáo	(Vs) boring, bored [CCCC3]
+愉快[愉快]	yúkuài	(Vs) delightful [CCCC3]
+决定[決定]	juédìng	(V/N) to decide, decision [CCCC3]
+相信[相信]	xiāngxìn	(V) to believe [CCCC3]
+发现[發現]	fāxiàn	(V) to discover [CCCC3]
+希望[希望]	xīwàng	(V) to hope [CCCC3]
+记得[記得]	jìde	(V) to remember [CCCC3]
+感觉[感覺]	gǎnjué	(N/Vs) feeling, to feel [CCCC3]
+了解[了解]	liǎojiě	(V) to understand [CCCC3]
+以为[以為]	yǐwéi	(Vs) to think, to consider [CCCC3]
+认识[認識]	rènshì	(Vs) to know [CCCC3]
+着急[著急]	zhāojí	(Vs) anxious [CCCC3]
+伤心[傷心]	shāngxīn	(Vs) heart-broken [CCCC3]
+担心[擔心]	dānxīn	(Vs) worried [CCCC3]
+舒服[舒服]	shūfu	(Vs) comfortable [CCCC3]
+壮[壯]	zhuàng	(Vs) strong [CCCC3]
+肥[肥]	féi	(Vs) fat [CCCC3]
+懒[懶]	lǎn	(Vs) lazy [CCCC3]
+丑[醜]	chǒu	(Vs) ugly [CCCC3]
+活泼[活潑]	huópō	(Vs) vivacious [CCCC3]
+认真[認真]	rènzhēn	(Vs) serious, earnest [CCCC3]
+可怜[可憐]	kělián	(Vs) pitiful, poor [CCCC3]
+幸运[幸運]	xìngyùn	(Vs) lucky [CCCC3]
+商人[商人]	shāngrén	(N) merchant [CCCC3]
+作家[作家]	zuòjiā	(N) writer [CCCC3]
+记者[記者]	jìzhě	(N) reporter [CCCC3]
+演员[演員]	yǎnyuán	(N) actor [CCCC3]
+机会[機會]	jīhuì	(N) chance [CCCC3]
+做事[做事]	zuòshì	(V) to work [CCCC3]
+成为[成為]	chéngwéi	(Vs) to become [CCCC3]
+辛苦[辛苦]	xīnkǔ	(Vs) to work hard [CCCC3]
+梦想[夢想]	mèngxiǎng	(N) dream [CCCC3]
+各[各]	gè	(Det) each [CCCC3]
+群[群]	qún	(M) collective measure word for a number of people gathering together, for animals of the same kind, and for lots of close islands [CCCC3]
+封[封]	fēng	(M) measure word for letters, telegrams, etc. [CCCC3]
+度[度]	dù	(M) measure word for temperature [CCCC3]
+段[段]	duàn	(M) measure word for a part of something, for example part of an essay, part of a journey, etc., and for part of some time period. [CCCC3]
+盆[盆]	pén	(M) container measure word for the things in a basin. [CCCC3]
+顶[頂]	dǐng	(M) individual measure word for things that have a cap, cover, etc. [CCCC3]
+幅[幅]	fú	(M) individual measure word for calligraphy, painting, etc. [CCCC3]
+遍[遍]	biàn	(M) measure word for the course of an action from the beginning to the end. [CCCC3]
+篇[篇]	piān	(M) measure word for writings, etc. [CCCC3]
+辆[輛]	liàng	(M) measure word for any conveyance, etc. [CCCC3]
+双[雙]	shuāng	(M) measure word for two things of the same kind to be used together. [CCCC3]
+根[根]	gēn	(M) individual measure word for long things and for soft and slender things, such as a banana, a lock of hair, etc. [CCCC3]
+万[萬]	wàn	(Num) ten thousand [CCCC3]
+号码[號碼]	hàomǎ	(N) number [CCCC3]
+数字[數字]	shùzì	(N) numeral [CCCC3]
+任何[任何]	rènhé	(Det) any [CCCC3]
+其他[其他]	qítā	(Det) other [CCCC3]
+所有[所有]	suǒyǒu	(Det) all [CCCC3]
+许多[許多]	xǔduō	(Det) many, a lot of [CCCC3]
+有点儿[有點兒]	yǒudiǎnr	(Adv) a little [CCCC3]
+穷[窮]	qióng	(Vs) poor [CCCC3]
+零用钱[零用錢]	língyòngqián	(N) allowance [CCCC3]
+够[夠]	gòu	(Adv) enough [CCCC3]
+不错[不錯]	búcuò	(Vs) not bad [CCCC3]
+弱[弱]	ruò	(Vs) weak [CCCC3]
+强[強]	qiáng	(Vs) strong [CCCC3]
+淡[淡]	dàn	(Vs) thin [CCCC3]
+浓[濃]	nóng	(Vs) thick [CCCC3]
+一模一样[一模一樣]	yīmóyīyàng	exactly the same [CCCC3]
+重要[重要]	zhòngyào	(Vs) important [CCCC3]
+特别[特別]	tèbié	(Vs) special [CCCC3]
+日期[日期]	rìqí	(N) date [CCCC3]
+时间[時間]	shíjiān	(N) time [CCCC3]
+傍晚[傍晚]	bāngwǎn	(N/Adv) evening [CCCC3]
+半夜[半夜]	bànyè	(N/Adv) midnight [CCCC3]
+有时[有時]	yǒushí	有時/有時候 [yǒushí/yǒushíhòu/yǒushíhou](Adv) sometimes [CCCC3]
+有时候[有時候]	yǒushíhòu	有時/有時候 [yǒushí/yǒushíhòu/yǒushíhou](Adv) sometimes [CCCC3]
+有时候[有時候]	yǒushíhou	有時/有時候 [yǒushí/yǒushíhòu/yǒushíhou](Adv) sometimes [CCCC3]
+刚才[剛才]	gāngcái	(Adv) just [CCCC3]
+马上[馬上]	mǎshàng	(Adv) immediately [CCCC3]
+经常[經常]	jīngcháng	(Adv) often [CCCC3]
+总是[總是]	zǒngshì	(Adv) always [CCCC3]
+从不[從不]	cóngbù	(Adv) never [CCCC3]
+当[當]	dāng	(Conj) when [CCCC3]
+久[久]	jiǔ	(Vs) for a long time [CCCC3]
+已经[已經]	yǐjīng	(Adv) already [CCCC3]
+永远[永遠]	yǒngyuǎn	(Adv) forever [CCCC3]
+过去[過去]	guòqù	(Adv) past [CCCC3]
+最后[最後]	zuìhòu	(Adv) last [CCCC3]
+赶[趕]	gǎn	(Vs) to rush [CCCC3]
+赶快[趕快]	gǎnkuài	(Adv) hurry [CCCC3]
+金色[金色]	jīnsè	(N) gold [CCCC3]
+银色[銀色]	yínsè	(N) silver [CCCC3]
+低[低]	dī	(Vs) low [CCCC3]
+直[直]	zhí	(Vs) straight [CCCC3]
+扁[扁]	biǎn	(Vs) flat [CCCC3]
+弯[彎]	wān	(Vs) curved; to bend [CCCC3]
+卷[捲]	juǎn	(Vs) curl [CCCC3]
+服装[服裝]	fúzhuāng	(N) costume [CCCC3]
+西装[西裝]	xīzhuāng	(N) suit [CCCC3]
+衬衫[襯衫]	chènshān	(N) shirt [CCCC3]
+领带[領帶]	lǐngdài	(N) tie [CCCC3]
+皮带[皮帶]	pídài	(N) belt [CCCC3]
+制服[制服]	zhìfú	(N) uniform [CCCC3]
+牛仔裤[牛仔褲]	niúzǎikù	(N) jeans [CCCC3]
+戒指[戒指]	jièzhǐ	(N) ring [CCCC3]
+耳环[耳環]	ěrhuán	(N) ear ring [CCCC3]
+项链[項鍊]	xiàngliàn	(N) necklace [CCCC3]
+针[針]	zhēn	(N) needle [CCCC3]
+线[線]	xiàn	(N) thread [CCCC3]
+背包[背包]	bēibāo	(N) backpack [CCCC3]
+打扮[打扮]	dǎbàn	打扮 [dǎbàn/dǎban](V) to dress up, to make up [CCCC3]
+打扮[打扮]	dǎban	打扮 [dǎbàn/dǎban](V) to dress up, to make up [CCCC3]
+流行[流行]	liúxíng	(Vs) fashionable, widespread [CCCC3]
+生活[生活]	shēnghuó	(N) life [CCCC3]
+响[響]	xiǎng	(Vs) to make a sound [CCCC3]
+地板[地板]	dìbǎn	(N) floor [CCCC3]
+工具[工具]	gōngjù	(N) tool [CCCC3]
+布[布]	bù	(N) cloth [CCCC3]
+梳子[梳子]	shūzi	(N) comb [CCCC3]
+玻璃[玻璃]	bōli	(N) glass [CCCC3]
+浴缸[浴缸]	yùgāng	(N) tub [CCCC3]
+卫生纸[衛生紙]	wèishēngzhǐ	(N) toilet paper [CCCC3]
+电风扇[電風扇]	diànfēngshàn	(N) fan [CCCC3]
+钥匙[鑰匙]	yàoshi	(N) key [CCCC3]
+收音机[收音機]	shōuyīnjī	(N) radio [CCCC3]
+随身听[隨身聽]	suíshēntīng	(N) a type of small cassette or cd player with headphones that you can carry with you [CCCC3]
+广播[廣播]	guǎngbò	廣播 [guǎngbò/guǎngbō](N/V) (to) broadcast [CCCC3]
+广播[廣播]	guǎngbō	廣播 [guǎngbò/guǎngbō](N/V) (to) broadcast [CCCC3]
+新闻[新聞]	xīnwén	(N) news [CCCC3]
+节目[節目]	jiémù	(N) show [CCCC3]
+消息[消息]	xiāoxi	(N) news [CCCC3]
+网站[網站]	wǎngzhàn	(N) website [CCCC3]
+电子邮件[電子郵件]	diànzǐyóujiàn	(N) e-mail [CCCC3]
+萤幕[螢幕]	yíngmù	(N) screen [CCCC3]
+杂志[雜誌]	zázhì	(N) magazine [CCCC3]
+留言[留言]	liúyán	(N/V) message, to leave a message [CCCC3]
+整齐[整齊]	zhěngqí	(Vs) tidy [CCCC3]
+乱七八糟[亂七八糟]	luànqībāzāo	(Vs) messy [CCCC3]
+馒头[饅頭]	mántou	(N) steamed bun [CCCC3]
+泡面[泡麵]	pàomiàn	(N) instant noodles [CCCC3]
+火锅[火鍋]	huǒguō	(N) hotpot [CCCC3]
+豆腐[豆腐]	dòufu	(N) tofu [CCCC3]
+香肠[香腸]	xiāngcháng	(N) sausage [CCCC3]
+蔬菜[蔬菜]	shūcài	(N) vegetable [CCCC3]
+萝卜[蘿蔔]	luóbo	(N) carrot [CCCC3]
+马铃薯[馬鈴薯]	mǎlíngshǔ	(N) potato [CCCC3]
+果酱[果醬]	guǒjiàng	(N) jam [CCCC3]
+蜂蜜[蜂蜜]	fēngmì	(N) honey [CCCC3]
+糖果[糖果]	tángguǒ	(N) candy [CCCC3]
+野餐[野餐]	yěcān	(N/V) (to) picnic [CCCC3]
+胡椒粉[胡椒粉]	hújiāofěn	(N) pepper [CCCC3]
+酒[酒]	jiǔ	(N) wine [CCCC3]
+凤梨[鳳梨]	fènglí	(N) pineapple [CCCC3]
+柠檬[檸檬]	níngméng	(N) lemon [CCCC3]
+椰子[椰子]	yézi	椰(子) [yé(zi)](N) coconut [CCCC3]
+椰[椰]	yé	椰(子) [yé(zi)](N) coconut [CCCC3]
+梨子[梨子]	lízi	梨(子) [lí(zi)](N) pear [CCCC3]
+梨[梨]	lí	梨(子) [lí(zi)](N) pear [CCCC3]
+味道[味道]	wèidao	(N) taste [CCCC3]
+咸[鹹]	xián	(Vs) salty [CCCC3]
+盐[鹽]	yán	(N) salt [CCCC3]
+辣[辣]	là	(Vs) spicy [CCCC3]
+酸[酸]	suān	(Vs) sour [CCCC3]
+煮[煮]	zhǔ	(V) to cook [CCCC3]
+煎[煎]	jiān	(V) to fry [CCCC3]
+新鲜[新鮮]	xīnxian	(Vs) fresh [CCCC3]
+毕业[畢業]	bìyè	(V) to graduate [CCCC3]
+讨论[討論]	tǎolùn	(V) to discuss [CCCC3]
+迟到[遲到]	chídào	(Vs) late [CCCC3]
+安静[安靜]	ānjìng	(Vs) quiet [CCCC3]
+吵架[吵架]	chǎojià	(V) to argue [CCCC3]
+夏令营[夏令營]	xiàlìngyíng	(N) summer camp [CCCC3]
+举行[舉行]	jǔxíng	(V) to hold [CCCC3]
+活动[活動]	huódòng	(N) activity [CCCC3]
+书法[書法]	shūfǎ	(N) chinese calligraphy [CCCC3]
+兴趣[興趣]	xìngqù	(N) interest, hobby [CCCC3]
+文章[文章]	wénzhāng	(N) article, essay [CCCC3]
+日记[日記]	rìjì	(N) diary [CCCC3]
+字典[字典]	zìdiǎn	(N) dictionary [CCCC3]
+历史[歷史]	lìshǐ	(N) history [CCCC3]
+地理[地理]	dìlǐ	(N) geography [CCCC3]
+戏剧[戲劇]	xìjù	(N) drama [CCCC3]
+回答[回答]	huídá	(V/N) to answer [CCCC3]
+答案[答案]	dá'àn	(N) answer [CCCC3]
+通知[通知]	tōngzhī	(V/N) to inform [CCCC3]
+复习[複習]	fùxí	(V) to review [CCCC3]
+学习[學習]	xuéxí	(V) to learn [CCCC3]
+选择[選擇]	xuǎnzé	(V/N) to choose; choice [CCCC3]
+借[借]	jiè	(V) to borrow [CCCC3]
+替[替]	tì	(V) on behalf of [CCCC3]
+试[試]	shì	(V) to try [CCCC3]
+输[輸]	shū	(V) to lose [CCCC3]
+赢[贏]	yíng	(V) to win [CCCC3]
+毛笔[毛筆]	máobǐ	(N) writing brush [CCCC3]
+水彩[水彩]	shuǐcǎi	(N) watercolor [CCCC3]
+堆[堆]	duī	(V/M) (to) stack, (to) pile; collective measure word for a mass of things in piles [CCCC3]
+积木[積木]	jīmù	(N) brick [CCCC3]
+划船[划船]	huáchuán	(V) to row a boat [CCCC3]
+溜冰[溜冰]	liūbīng	(V) to skate [CCCC3]
+跳绳[跳繩]	tiàoshéng	(V/N) rope-skipping [CCCC3]
+钓鱼[釣魚]	diàoyú	(V/N) fishing [CCCC3]
+旅游[旅遊]	lǚyóu	(V/N) to travel [CCCC3]
+参观[參觀]	cānguān	(V) to visit [CCCC3]
+露营[露營]	lùyíng	(V/N) camping [CCCC3]
+聊天[聊天]	liáotiān	(V) to chat [CCCC3]
+电动玩具[電動玩具]	diàndòngwánjù	電動玩具/電玩 [diàndòngwánjù/diànwán](N) video game [CCCC3]
+电玩[電玩]	diànwán	電動玩具/電玩 [diàndòngwánjù/diànwán](N) video game [CCCC3]
+风筝[風箏]	fēngzhēng	(N) kite [CCCC3]
+计划[計畫]	jìhuà	(V/N) (to) plan [CCCC3]
+打算[打算]	dǎsuàn	(V) to plan, to intend [CCCC3]
+网路[網路]	wǎnglù	(N) internet [CCCC3]
+油画[油畫]	yóuhuà	(N) oil painting [CCCC3]
+影片[影片]	yǐngpiàn	(N) film [CCCC3]
+小说[小說]	xiǎoshuō	(N) novel [CCCC3]
+乐器[樂器]	yuèqì	(N) musical instruments [CCCC3]
+喇叭[喇叭]	lǎba	(N) trumpet [CCCC3]
+笛子[笛子]	dízi	笛(子) [dí(zi)](N) flute [CCCC3]
+笛[笛]	dí	笛(子) [dí(zi)](N) flute [CCCC3]
+合唱团[合唱團]	héchàngtuán	(N) chorus, choir [CCCC3]
+捉迷藏[捉迷藏]	zhuōmícáng	(N) hide-and-seek [CCCC3]
+躲[躲]	duǒ	(V) to hide [CCCC3]
+表演[表演]	biǎoyǎn	(N/V) performance, to perform [CCCC3]
+结婚[結婚]	jiéhūn	(V) to marry [CCCC3]
+庆祝[慶祝]	qìngzhù	(N/V) to celebrate [CCCC3]
+纪念[紀念]	jìniàn	(V) to remember, to commemorate [CCCC3]
+血[血]	xiě	(N) blood [CCCC3]
+痒[癢]	yǎng	(Vs) itchy [CCCC3]
+注意[注意]	zhùyì	(V) to notice; to watch out [CCCC3]
+传染[傳染]	chuánrǎn	(V) to be contagious, to infect [CCCC3]
+昏倒[昏倒]	hūndǎo	(Vs) to faint [CCCC3]
+近视[近視]	jìnshì	(N/Vs) nearsighted [CCCC3]
+转[轉]	zhuǎn	(V) to turn [CCCC3]
+遇[遇]	yù	(V) to encounter, to come across [CCCC3]
+出发[出發]	chūfā	(V) to set off, to depart [CCCC3]
+发生[發生]	fāshēng	(V) to happen [CCCC3]
+离开[離開]	líkāi	(V) to leave [CCCC3]
+车祸[車禍]	chēhuò	(N) car accident [CCCC3]
+地铁[地鐵]	dìtiě	(N) subway, underground [CCCC3]
+安全带[安全帶]	ānquándài	(N) seat belt [CCCC3]
+红绿灯[紅綠燈]	hónglǜdēng	(N) traffic light [CCCC3]
+方便[方便]	fāngbiàn	(Vs) convenient [CCCC3]
+雾[霧]	wù	(N) fog [CCCC3]
+刮[刮]	guā	(V) to blow (wind) [CCCC3]
+台风[颱風]	táifēng	(N) typhoon [CCCC3]
+空气[空氣]	kōngqì	(N) air [CCCC3]
+光[光]	guāng	(N) light [CCCC3]
+地震[地震]	dìzhèn	(N) earthquake [CCCC3]
+灾[災]	zāi	災(火災,水災) [zāi(huǒzāi, shuǐzāi)](N) disaster [CCCC3]
+火灾[火災]	huǒzāi	災(火災,水災) [zāi(huǒzāi, shuǐzāi)](N) disaster [CCCC3]
+水灾[水災]	shuǐzāi	災(火災,水災) [zāi(huǒzāi, shuǐzāi)](N) disaster [CCCC3]
+变[變]	biàn	(V) to become, to turn into [CCCC3]
+温度[溫度]	wēndù	(N) temperature [CCCC3]
+湿[濕]	shī	(Vs) humid; wet [CCCC3]
+晴朗[晴朗]	qínglǎng	(Vs) sunny [CCCC3]
+植物[植物]	zhíwù	(N) plant [CCCC3]
+它[牠]	tā	(N) it [CCCC3]
+熊[熊]	xióng	(N) bear [CCCC3]
+猫熊[貓熊]	māoxióng	貓熊/熊貓 [māoxióng/xióngmāo](N) panda [CCCC3]
+熊猫[熊貓]	xióngmāo	貓熊/熊貓 [māoxióng/xióngmāo](N) panda [CCCC3]
+长颈鹿[長頸鹿]	chángjǐnglù	(N) giraffe [CCCC3]
+龙[龍]	lóng	(N) dragon [CCCC3]
+恐龙[恐龍]	kǒnglóng	(N) dinosaur [CCCC3]
+蟑螂[蟑螂]	zhāngláng	(N) cockroach [CCCC3]
+虾[蝦]	xiā	(N) shrimp [CCCC3]
+鲸鱼[鯨魚]	jīngyú	(N) whale [CCCC3]
+企鹅[企鵝]	qì'é	(N) penguin [CCCC3]
+乌龟[烏龜]	wūguī	(N) turtle [CCCC3]
+老鹰[老鷹]	lǎoyīng	(N) eagle [CCCC3]
+尾巴[尾巴]	wěiba	(N) tail [CCCC3]
+属[屬]	shǔ	(V) to belong to [CCCC3]
+岛[島]	dǎo	(N) island [CCCC3]
+湖[湖]	hú	(N) lake [CCCC3]
+地球[地球]	dìqiú	(N) earth [CCCC3]
+贝壳[貝殼]	bèiké	(N) shell [CCCC3]
+海滩[海灘]	hǎitān	(N) beach [CCCC3]
+洞[洞]	dòng	(N) hole [CCCC3]
+地图[地圖]	dìtú	(N) map [CCCC3]
+出现[出現]	chūxiàn	(V) to appear [CCCC3]
+离[離]	lí	(Vs) to be distant from [CCCC3]
+向[向]	xiàng	(Prep) to, towards [CCCC3]
+附近[附近]	fùjìn	(Adv) nearby [CCCC3]
+到处[到處]	dàochù	(Adv) everywhere [CCCC3]
+卧房[臥房]	wòfáng	(N) bedroom [CCCC3]
+阳台[陽台]	yángtái	(N) balcony [CCCC3]
+美术馆[美術館]	měishùguǎn	(N) art gallery [CCCC3]
+飞机场[飛機場]	fēijīchǎng	(N) airport [CCCC3]
+停车场[停車場]	tíngchēchǎng	(N) parking lot [CCCC3]
+博物馆[博物館]	bówùguǎn	(N) museum [CCCC3]
+补习班[補習班]	bǔxíbān	(N) cram school [CCCC3]
+游乐园[遊樂園]	yóulèyuán	(N) amusement park [CCCC3]
+图书馆[圖書館]	túshūguǎn	(N) library [CCCC3]
+超级市场[超級市場]	chāojíshìchǎng	(N) supermarket [CCCC3]
+药房[藥房]	yàofáng	藥房/藥局 [yàofáng/yàojú](N) pharmacy [CCCC3]
+药局[藥局]	yàojú	藥房/藥局 [yàofáng/yàojú](N) pharmacy [CCCC3]
+工厂[工廠]	gōngchǎng	(N) factory [CCCC3]
+庙[廟]	miào	(N) temple [CCCC3]
+公司[公司]	gōngsī	(N) company [CCCC3]
+十字路口[十字路口]	shízìlùkǒu	(N) crossroad [CCCC3]
+斑马线[斑馬線]	bānmǎxiàn	(N) pedestrian crossing [CCCC3]
+桥[橋]	qiáo	(N) bridge [CCCC3]
+墙[牆]	qiáng	(N) wall [CCCC3]
+风景[風景]	fēngjǐng	(N) landscape, scenery [CCCC3]
+乡村[鄉村]	xiāngcūn	(N) countryside [CCCC3]
+城市[城市]	chéngshì	(N) city [CCCC3]
+国旗[國旗]	guóqí	(N) flag [CCCC3]
+世界[世界]	shìjiè	(N) world [CCCC3]
+文字[文字]	wénzì	(N) character, word [CCCC3]
+文化[文化]	wénhuà	(N) culture [CCCC3]
+语言[語言]	yǔyán	(N) language [CCCC3]
+汉字[漢字]	hànzì	(N) chinese character [CCCC3]
+打招呼[打招呼]	dǎzhāohū	(V) to greet, to say hello [CCCC3]
+怎么[怎麼]	zěnme	(N) why [CCCC3]
+也许[也許]	yěxǔ	(Adv) maybe [CCCC3]
+原来[原來]	yuánlái	(Adv) originally [CCCC3]
+本来[本來]	běnlái	(Adv) originally [CCCC3]
+应该[應該]	yīnggāi	(V) should [CCCC3]
+让[讓]	ràng	(V) to let [CCCC3]
+必须[必須]	bìxū	(V) must [CCCC3]
+需要[需要]	xūyào	(V/N) (to) need [CCCC3]
+被[被]	bèi	(Bei) a passive voice marker [CCCC3]
+为[為]	wèi	(Prep) for [CCCC3]
+为了[為了]	wèile	(Prep) in order to [CCCC3]
+可是[可是]	kěshì	(Conj) but [CCCC3]
+虽然[雖然]	suīrán	(Conj) although [CCCC3]
+连[連]	lián	(Conj) even; and [CCCC3]
+与[與]	yǔ	(Conj) and [CCCC3]
+除了[除了]	chúle	(Conj) unless, besides, except [CCCC3]
+而且[而且]	érqiě	(Conj) moreover [CCCC3]
+不但[不但]	búdàn	(Conj/Adv) not only [CCCC3]
+啊[啊]	a	(Ptc) ah, an exclamation [CCCC3]

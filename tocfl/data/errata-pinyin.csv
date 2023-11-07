@@ -1,4 +1,4 @@
-# Manual corrections to pinyin in TOCFL lists
+# Manual corrections to pinyin in TOCFL/CCCC lists
 # 國立/過節 - swapped entries
 Traditional,Pinyin,Corrected
 國立,guòjié,guólì
@@ -7,10 +7,23 @@ Traditional,Pinyin,Corrected
 供給,gōnjǐ,gōngjǐ
 情況,qǐngjià,qíngkuàng
 木刻,mùkē,mùkè
+教誨,jiàohuǐ,jiàohuì
+#
 # Incorrect diacritic positions in pinyin:
 漂亮,piàolìang,piàoliàng
 比方說,bǐfāngshūo,bǐfāngshuō
 熟悉,shoúxī,shóuxī
+#
+# TOCFL 2018
+一會兒,yīhuǐér,yīhuǐr
+骯髒,āngzhāng,āngzāng
+#
+# CCCC: [shéme] a possible variant, but rare/unorthodox
+# https://dict.revised.moe.edu.tw/dictView.jsp?ID=131338&q=1&word=%E4%BB%80%E9%BA%BC
+# https://dict.concised.moe.edu.tw/dictView.jsp?ID=34679&q=1
+什麼,shéme,shénme
+為什麼,wèishéme,wèishénme
+#
 # Missing apostrophes (TOCFL lists erroneously do not have any):
 女兒,nǚér,nǚ'ér
 可愛,kěài,kě'ài
@@ -67,3 +80,31 @@ Traditional,Pinyin,Corrected
 治安,zhìān,zhì'ān
 總額,zǒngé,zǒng'é
 罪惡,zuìè,zuì'è
+早安,zǎoān,zǎo'ān
+晚安,wǎnān,wǎn'ān
+企鵝,qìé,qì'é
+飢餓,jīè,jī'è
+偶而,ǒuér,ǒu'ér
+#
+# Undo tone changes for consistency (CCCC, TOCFL 2018)
+一會兒,yìhuǐēr,yīhuǐr
+一起,yìqǐ,yīqǐ
+一樣,yíyàng,yīyàng
+一下子,yíxiàzi,yīxiàzi
+一半,yíbàn,yībàn
+一些,yìxiē,yīxiē
+一點兒,yìdiǎnr,yīdiǎnr
+一直,yìzhí,yīzhí
+一定,yídìng,yīdìng
+一模一樣,yìmóyíyàng,yīmóyīyàng
+進一步,jìnyíbù,jìnyībù
+嚇一跳,xiàyítiào,xiàyītiào
+一塊兒,yíkuàir,yīkuàir
+一般來說,yìbānláishuō,yībānláishuō
+一點,yìdiǎn,yīdiǎn
+一點兒,yìdiǎnr,yīdiǎnr
+一方面,yìfāngmiàn,yīfāngmiàn
+一連,yìlián,yīlián
+一生,yìshēng,yīshēng
+一時,yìshí,yīshí
+一同,yìtóng,yītóng

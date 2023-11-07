@@ -1,1345 +1,1345 @@
 ID,Traditional,Simplified,Pinyin,POS,Meaning,Category,Subcategory
-L0-001,人,人,rén,N,person,人物,人物
-L0-002,你,你,nǐ,Pron,you,人物,人物
-L0-003,我,我,wǒ,Pron,"I, me",人物,人物
-L0-004,他,他,tā,Pron,"he/she, him/her",人物,人物
-L0-004,她,她,tā,Pron,"he/she, him/her",人物,人物
-L0-005,您,您,nín,Pron,(polite form of address) you,人物,人物
-L0-006,們,们,men,Affix,plural affix,人物,人物
-L0-007,大家,大家,dàjiā,N,everyone,人物,人物
-L0-008,誰,谁,shéi,N,"who, someone",人物,人物
-L0-009,名字,名字,míngzì,N,name,人物,人物
-L0-009,名字,名字,míngzi,N,name,人物,人物
-L0-010,先生,先生,xiānsheng,N,Mr.,人物,人物
-L0-010,先生,先生,xiānshēng,N,Mr.,人物,人物
-L0-011,小姐,小姐,xiǎojiě,N,Miss,人物,人物
-L0-012,太太,太太,tàitai,N,Mrs.,人物,人物
-L0-013,女,女,nǚ,N,girl,人物,人物
-L0-013,女生,女生,nǚshēng,N,girl,人物,人物
-L0-013,女孩,女孩,nǚhái,N,girl,人物,人物
-L0-014,男,男,nán,N,boy,人物,人物
-L0-014,男生,男生,nánshēng,N,boy,人物,人物
-L0-014,男孩,男孩,nánhái,N,boy,人物,人物
-L0-015,朋友,朋友,péngyǒu,N,friend,人物,人物
-L0-015,朋友,朋友,péngyou,N,friend,人物,人物
-L0-016,家人,家人,jiārén,N,family members,人物,家庭
-L0-017,哥,哥,gē,N,elder brother,人物,家庭
-L0-017,哥哥,哥哥,gēge,N,elder brother,人物,家庭
-L0-018,姊,姊,jiě,N,elder sister,人物,家庭
-L0-018,姊姊,姊姊,jiějie,N,elder sister,人物,家庭
-L0-019,弟,弟,dì,N,younger brother,人物,家庭
-L0-019,弟弟,弟弟,dìdi,N,younger brother,人物,家庭
-L0-020,妹,妹,mèi,N,younger sister,人物,家庭
-L0-020,妹妹,妹妹,mèimei,N,younger sister,人物,家庭
-L0-021,爸,爸,bà,N,father,人物,家庭
-L0-021,爸爸,爸爸,bàba,N,father,人物,家庭
-L0-022,媽,妈,mā,N,mother,人物,家庭
-L0-022,媽媽,妈妈,māma,N,mother,人物,家庭
-L0-023,爺爺,爷爷,yéye,N,grandfather,人物,家庭
-L0-024,奶奶,奶奶,nǎinai,N,grandmother,人物,家庭
-L0-025,阿姨,阿姨,āyí,N,aunt,人物,家庭
-L0-026,兒,儿,ér,N,son,人物,家庭
-L0-026,兒子,儿子,érzi,N,son,人物,家庭
-L0-027,女兒,女儿,nǚ'ér,N,daughter,人物,家庭
-L0-028,娃,娃,wá,N,baby; doll,人物,家庭
-L0-028,娃娃,娃娃,wáwa,N,baby; doll,人物,家庭
-L0-029,大人,大人,dàrén,N,adult,人物,家庭
-L0-029,大人,大人,dàren,N,adult,人物,家庭
-L0-030,小孩子,小孩子,xiǎoháizi,N,"child, kid",人物,家庭
-L0-031,小朋友,小朋友,xiǎopéngyǒu,N,"child, kid",人物,家庭
-L0-032,身體,身体,shēntǐ,N,body,人物,身體部位
-L0-033,頭,头,tóu,N,head,人物,身體部位
-L0-034,頭髮,头发,tóufǎ,N,hair,人物,身體部位
-L0-034,頭髮,头发,toufa,N,hair,人物,身體部位
-L0-035,毛,毛,máo,N,hair; fur,人物,身體部位
-L0-036,臉,脸,liǎn,N,face,人物,身體部位
-L0-037,眼睛,眼睛,yǎnjing,N,eye,人物,身體部位
-L0-038,耳朵,耳朵,ěrduo,N,ear,人物,身體部位
-L0-039,鼻,鼻,bí,N,nose,人物,身體部位
-L0-039,鼻子,鼻子,bízi,N,nose,人物,身體部位
-L0-040,口,口,kǒu,N/M,mouth;  measure word for a bite,人物,身體部位
-L0-041,嘴,嘴,zuǐ,N,mouth,人物,身體部位
-L0-041,嘴巴,嘴巴,zuǐba,N,mouth,人物,身體部位
-L0-042,牙,牙,yá,N,tooth,人物,身體部位
-L0-042,牙齒,牙齿,yáchǐ,N,tooth,人物,身體部位
-L0-043,肚,肚,dù,N,belly,人物,身體部位
-L0-043,肚子,肚子,dùzi,N,belly,人物,身體部位
-L0-044,手,手,shǒu,N,hand,人物,身體部位
-L0-045,手指,手指,shǒuzhǐ,N,finger,人物,身體部位
-L0-046,腳,脚,jiǎo,N,"foot, leg",人物,身體部位
-L0-047,腿,腿,tuǐ,N,leg,人物,身體部位
-L0-048,大便,大便,dàbiàn,N/V,(to) poo,人物,身體動作
-L0-049,洗澡,洗澡,xǐzǎo,V,to take a bath,人物,身體動作
-L0-050,爬,爬,pá,V,to crawl; to climb,人物,身體動作
-L0-051,睡,睡,shuì,V,to sleep,人物,身體動作
-L0-051,睡覺,睡觉,shuìjiào,V,to sleep,人物,身體動作
-L0-052,拿,拿,ná,V,to take,人物,手部動作
-L0-053,放,放,fàng,V,to put,人物,手部動作
-L0-054,打,打,dǎ,V,to hit; to play (sports and drums),人物,手部動作
-L0-055,拍,拍,pāi,V,to clap; to pat; to bounce,人物,手部動作
-L0-056,做,做,zuò,V,"to make, to do",人物,手部動作
-L0-057,站,站,zhàn,V,to stand,人物,腳部動作
-L0-058,坐,坐,zuò,V,"to sit; to travel by (bus, etc.)",人物,腳部動作
-L0-059,走,走,zǒu,V,to walk,人物,腳部動作
-L0-060,跑,跑,pǎo,V,to run,人物,腳部動作
-L0-061,看,看,kàn,V,"to see, to look at, to watch",人物,眼部動作
-L0-061,看見,看见,kànjian,V,"to see, to look at, to watch",人物,眼部動作
-L0-062,說,说,shuō,V,"to speak, to talk, to say",人物,口部動作
-L0-063,聽,听,tīng,V,"to listen, to hear",人物,口部動作
-L0-063,聽見,听见,tīngjiàn,V,"to listen, to hear",人物,口部動作
-L0-064,叫,叫,jiào,V,to call; to ask,人物,口部動作
-L0-065,問,问,wèn,V,to ask,人物,口部動作
-L0-066,哈,哈,hā,Ptc,particle used for imitating laughters,人物,口部動作
-L0-067,笑,笑,xiào,V,"to smile, to laugh",人物,心理活動
-L0-068,哭,哭,kū,V,"to cry, to weep",人物,心理活動
-L0-069,快樂,快乐,kuàilè,Vs,happy,人物,心理活動
-L0-070,害怕,害怕,hàipà,Vs,"afraid, scared",人物,心理活動
-L0-071,可怕,可怕,kěpà,Vs,horrible,人物,心理活動
-L0-072,累,累,lèi,Vs,"tired, weary",人物,心理活動
-L0-073,痛,痛,tòng,Vs,to ache,人物,心理活動
-L0-074,怕,怕,pà,Vs,"afraid, scared",人物,心理活動
-L0-075,愛,爱,ài,Vs/N,to love,人物,心理活動
-L0-076,喜歡,喜欢,xǐhuān,Vs,to like,人物,心理活動
-L0-076,喜歡,喜欢,xǐhuan,Vs,to like,人物,心理活動
-L0-077,討厭,讨厌,tǎoyàn,Vs,to hate,人物,心理活動
-L0-078,覺得,觉得,juéde,V,to feel,人物,心理活動
-L0-079,想,想,xiǎng,V,to think,人物,心理活動
-L0-080,知道,知道,zhīdao,V,to know,人物,心理活動
-L0-081,意思,意思,yìsi,N,meaning,人物,心理活動
-L0-082,胖,胖,pàng,Vs,fat,人物,人格特質
-L0-083,瘦,瘦,shòu,Vs,thin,人物,人格特質
-L0-084,老,老,lǎo,Vs,old,人物,人格特質
-L0-085,美,美,měi,Vs,"beautiful, pretty",人物,人格特質
-L0-086,乖,乖,guāi,Vs,well-behaved,人物,人格特質
-L0-087,可愛,可爱,kě'ài,Vs,"cute, lovely",人物,人格特質
-L0-088,漂亮,漂亮,piàoliang,Vs,"beautiful, pretty",人物,人格特質
-L0-089,好像,好像,hǎoxiàng,Adv,"seem, be like",人物,人格特質
-L0-090,工人,工人,gōngrén,N,worker,人物,職業
-L0-091,老師,老师,lǎoshī,N,teacher,人物,職業
-L0-092,學生,学生,xuéshēng,N,student,人物,職業
-L0-093,醫生,医生,yīshēng,N,doctor,人物,職業
-L0-094,警察,警察,jǐngchá,N,police officer,人物,職業
-L0-095,護士,护士,hùshì,N,nurse,人物,職業
-L0-095,護士,护士,hùshi,N,nurse,人物,職業
-L0-096,上班,上班,shàngbān,V,to go to work,人物,職業
-L0-097,工作,工作,gōngzuò,V/N,(to) work,人物,職業
-L0-098,忙,忙,máng,Vs,"hurry, hasten",人物,職業
-L0-100,零,零,líng,Num,zero,數量,數字
-L0-101,一,一,yī,Num,one,數量,數字
-L0-102,二,二,èr,Num,two,數量,數字
-L0-103,兩,两,liǎng,Num,two,數量,數字
-L0-104,三,三,sān,Num,three,數量,數字
-L0-105,四,四,sì,Num,four,數量,數字
-L0-106,五,五,wǔ,Num,five,數量,數字
-L0-107,六,六,liù,Num,six,數量,數字
-L0-108,七,七,qī,Num,seven,數量,數字
-L0-109,八,八,bā,Num,eight,數量,數字
-L0-110,九,九,jiǔ,Num,nine,數量,數字
-L0-111,十,十,shí,Num,ten,數量,數字
-L0-112,百,百,bǎi,Num,hundred,數量,數字
-L0-113,每,每,měi,Det,every,數量,數量
-L0-114,多,多,duō,Vs,a lot,數量,數量
-L0-115,少,少,shǎo,Vs,"few, little",數量,數量
-L0-116,數,数,shǔ,V,to count,數量,數量
-L0-117,剩下,剩下,shèngxià,V,to remain,數量,數量
-L0-118,歲,岁,suì,N,"age, year old",數量,數量
-L0-119,一起,一起,yìqǐ,Adv,together,數量,數量
-L0-120,本,本,běn,M,"individual measure word for books or magazines, etc.",數量,數量
-L0-121,頁,页,yè,N/M,page; partial measure word for one side of a book or magazine,數量,數量
-L0-122,次,次,cì,M,measure word for the number of repetitions in a given period of time,數量,數量
-L0-123,種,种,zhǒng,M/V,collective measure word for things of the same kind; to grow (plants),數量,數量
-L0-123,種,种,zhòng,M/V,collective measure word for things of the same kind; to grow (plants),數量,數量
-L0-124,朵,朵,duǒ,M,individual measure word for flowers or clouds,數量,數量
-L0-125,塊,块,kuài,M,"partial measure word for lumps of foodstuff, for regular-shaped products, and for chinese currency",數量,數量
-L0-126,個,个,ge,M,general measure word for individuals,數量,數量
-L0-127,隻,只,zhī,M,measre word for one of the symetrical limbs or organs of people or animals and for insects or animals,數量,數量
-L0-128,元,元,yuán,N,dollar,數量,金錢
-L0-129,錢,钱,qián,N,money,數量,金錢
-L0-130,買,买,mǎi,V,to buy,數量,金錢
-L0-131,多少,多少,duōshǎo,N,how much,數量,金錢
-L0-133,最,最,zuì,Adv,most,程度,程度
-L0-134,好,好,hǎo,Adv/Vs,"very, quite; good",程度,程度
-L0-135,太,太,tài,Adv,"too, extremely, very",程度,程度
-L0-136,很,很,hěn,Adv,"very, quite, awfully",程度,程度
-L0-137,真,真,zhēn,Adv,"really, truly",程度,程度
-L0-138,非常,非常,fēicháng,Adv,"specially, very, extremely",程度,程度
-L0-139,一樣,一样,yíyàng,Adv,same,程度,程度
-L0-141,年,年,nián,N,year,時間,年月日星期
-L0-142,月,月,yuè,N,month,時間,年月日星期
-L0-143,日,日,rì,N,day,時間,年月日星期
-L0-144,號,号,hào,N,number,時間,年月日星期
-L0-145,天,天,tiān,N,day,時間,年月日星期
-L0-146,星期,星期,xīngqí,N,week,時間,年月日星期
-L0-146,星期,星期,xīngqī,N,week,時間,年月日星期
-L0-147,星期天,星期天,xīngqítiān,N/Adv,Sunday,時間,年月日星期
-L0-147,星期天,星期天,xīngqītiān,N/Adv,Sunday,時間,年月日星期
-L0-147,星期日,星期日,xīngqírì,N/Adv,Sunday,時間,年月日星期
-L0-147,星期日,星期日,xīngqīrì,N/Adv,Sunday,時間,年月日星期
-L0-148,今天,今天,jīntiān,N/Adv,today,時間,年月日星期
-L0-149,明天,明天,míngtiān,N/Adv,tomorrow,時間,年月日星期
-L0-150,昨天,昨天,zuótiān,N/Adv,yesterday,時間,年月日星期
-L0-151,假日,假日,jiàrì,N,holiday,時間,年月日星期
-L0-152,早,早,zǎo,Vs/Adv,early,時間,時間
-L0-153,先,先,xiān,Adv,"earlier, before",時間,時間
-L0-154,早上,早上,zǎoshang,N/Adv,morning,時間,時間
-L0-155,上午,上午,shàngwǔ,N/Adv,morning,時間,時間
-L0-156,中午,中午,zhōngwǔ,N/Adv,noon,時間,時間
-L0-157,下午,下午,xiàwǔ,N/Adv,afternoon,時間,時間
-L0-158,晚上,晚上,wǎnshang,N/Adv,"evening, night",時間,時間
-L0-159,現在,现在,xiànzài,Adv,now,時間,時間
-L0-160,開始,开始,kāishǐ,V,"to begin, to start",時間,時間
-L0-161,幾,几,jǐ,Det,several,時間,時間
-L0-162,點,点,diǎn,N,o'clock,時間,時間
-L0-163,分,分,fēn,N,minute,時間,時間
-L0-164,半,半,bàn,N,half an hour,時間,時間
-L0-165,一下子,一下子,yíxiàzi,Adv,in a short while,時間,時間
-L0-166,再,再,zài,Conj/Adv,again,時間,時間
-L0-167,就,就,jiù,Conj/Adv,then (refers to both time and cause-effect relationship),時間,時間
-L0-168,等,等,děng,V,to wait,時間,時間
-L0-169,快,快,kuài,Vs,"soon, quick, fast",時間,時間
-L0-170,著,着,zhe,Asp,aspect marker used to indicate events that are durative,時間,時間
-L0-171,了,了,le,Asp,aspect marker used to indicate events undergone a certain change of state,時間,時間
-L0-173,顏色,颜色,yánsè,N,color,形色,顏色
-L0-174,白色,白色,báisè,N,white,形色,顏色
-L0-175,黃色,黄色,huángsè,N,yellow,形色,顏色
-L0-176,黑色,黑色,hēisè,N,black,形色,顏色
-L0-177,綠色,绿色,lǜsè,N,green,形色,顏色
-L0-178,藍色,蓝色,lánsè,N,blue,形色,顏色
-L0-179,紅色,红色,hóngsè,N,red,形色,顏色
-L0-180,亮,亮,liàng,Vs,bright,形色,顏色
-L0-181,小,小,xiǎo,Vs,"small, little",形色,尺寸
-L0-182,大,大,dà,Vs,big,形色,尺寸
-L0-183,長,长,cháng,Vs/V,long; to grow,形色,尺寸
-L0-183,長,长,zhǎng,Vs/V,long; to grow,形色,尺寸
-L0-184,高,高,gāo,Vs,high,形色,尺寸
-L0-185,短,短,duǎn,Vs,"short, brief",形色,尺寸
-L0-186,矮,矮,ǎi,Vs,short,形色,尺寸
-L0-187,圓,圆,yuán,Vs/N,round; circle,形色,形狀
-L0-187,圓形,圆形,yuánxíng,Vs/N,round; circle,形色,形狀
-L0-188,三角形,三角形,sānjiǎoxíng,N,triangle,形色,形狀
-L0-189,正方形,正方形,zhèngfāngxíng,N,square,形色,形狀
-L0-190,長方形,长方形,chángfāngxíng,N,rectangle,形色,形狀
-L0-192,衣服,衣服,yīfu,N,clothes,生活,衣物飾品
-L0-193,帽,帽,mào,N,hat,生活,衣物飾品
-L0-193,帽子,帽子,màozi,N,hat,生活,衣物飾品
-L0-194,毛衣,毛衣,máoyī,N,sweater,生活,衣物飾品
-L0-195,外套,外套,wàitào,N,coat,生活,衣物飾品
-L0-196,裙,裙,qún,N,"skirt, petticoat",生活,衣物飾品
-L0-196,裙子,裙子,qúnzi,N,"skirt, petticoat",生活,衣物飾品
-L0-197,褲,裤,kù,N,pants,生活,衣物飾品
-L0-197,褲子,裤子,kùzi,N,pants,生活,衣物飾品
-L0-198,鞋,鞋,xié,N,shoes,生活,衣物飾品
-L0-198,鞋子,鞋子,xiézi,N,shoes,生活,衣物飾品
-L0-199,襪,袜,wà,N,socks,生活,衣物飾品
-L0-199,襪子,袜子,wàzi,N,socks,生活,衣物飾品
-L0-200,皮包,皮包,píbāo,N,leather handbag,生活,衣物飾品
-L0-201,穿,穿,chuān,V,"to wear, to put on",生活,衣物飾品
-L0-202,戴,戴,dài,V,"to wear, to put on",生活,衣物飾品
-L0-203,門,门,mén,N,door,生活,居家用品
-L0-204,窗,窗,chuāng,N,window,生活,居家用品
-L0-204,窗戶,窗户,chuānghu,N,window,生活,居家用品
-L0-205,衣櫃,衣柜,yīguì,N,closet,生活,居家用品
-L0-206,櫃,柜,guì,N,cabinet,生活,居家用品
-L0-206,櫃子,柜子,guìzi,N,cabinet,生活,居家用品
-L0-207,床,床,chuáng,N,bed,生活,居家用品
-L0-208,燈,灯,dēng,N,lamp,生活,居家用品
-L0-209,桌,桌,zhuō,N,table,生活,居家用品
-L0-209,桌子,桌子,zhuōzi,N,table,生活,居家用品
-L0-210,椅,椅,yǐ,N,chair,生活,居家用品
-L0-210,椅子,椅子,yǐzi,N,chair,生活,居家用品
-L0-211,冷氣,冷气,lěngqì,N,air conditioner,生活,居家用品
-L0-212,冰箱,冰箱,bīngxiāng,N,refrigerator,生活,居家用品
-L0-213,棉被,棉被,miánbèi,N,quilt,生活,居家用品
-L0-214,電話,电话,diànhuà,N,telephone,生活,居家用品
-L0-215,電視,电视,diànshì,N,"television, TV",生活,居家用品
-L0-216,電腦,电脑,diànnǎo,N,computer,生活,居家用品
-L0-217,洗衣機,洗衣机,xǐyījī,N,washing machine,生活,居家用品
-L0-218,刀,刀,dāo,N,knife,生活,居家用品
-L0-218,刀子,刀子,dāozi,N,knife,生活,居家用品
-L0-219,叉子,叉子,chāzi,N,fork,生活,居家用品
-L0-220,杯,杯,bēi,M,"cup, glass; a cup of",生活,居家用品
-L0-220,杯子,杯子,bēizi,N,"cup, glass; a cup of",生活,居家用品
-L0-221,筷,筷,kuài,N,chopsticks,生活,居家用品
-L0-221,筷子,筷子,kuàizi,N,chopsticks,生活,居家用品
-L0-222,碗,碗,wǎn,N,bowl; measure word for servings of food,生活,居家用品
-L0-223,水壺,水壶,shuǐhú,N,"pitcher, kettle, canteen, water bottle",生活,居家用品
-L0-224,花瓶,花瓶,huāpíng,N,vase,生活,居家用品
-L0-225,手錶,手表,shǒubiǎo,N,watch,生活,居家用品
-L0-226,鐘,钟,zhōng,N,"bell, clock",生活,居家用品
-L0-227,傘,伞,sǎn,N,umbrella,生活,居家用品
-L0-227,雨傘,雨伞,yǔsǎn,N,umbrella,生活,居家用品
-L0-228,照片,照片,zhàopiàn,N,"photo, picture",生活,居家用品
-L0-229,照相機,照相机,zhàoxiàngjī,N,camera,生活,居家用品
-L0-229,照像機,照像机,zhàoxiàngjī,N,camera,生活,居家用品
-L0-230,新,新,xīn,Vs,new,生活,居家活動
-L0-231,髒,脏,zāng,Vs,dirty,生活,居家活動
-L0-232,破,破,pò,Vs,to break apart,生活,居家活動
-L0-233,洗,洗,xǐ,V,to wash,生活,居家活動
-L0-234,開,开,kāi,V,to open,生活,居家活動
-L0-234,打開,打开,dǎkāi,V,to open,生活,居家活動
-L0-235,起床,起床,qǐchuáng,V,to get up,生活,居家活動
-L0-236,照相,照相,zhàoxiàng,V,"to take a picture, to take a photograph",生活,居家活動
-L0-236,照像,照像,zhàoxiàng,V,"to take a picture, to take a photograph",生活,居家活動
-L0-237,肉,肉,ròu,N,meat,生活,飲食
-L0-238,菜,菜,cài,N,dish; vegetable,生活,飲食
-L0-239,蛋,蛋,dàn,N,egg,生活,飲食
-L0-240,麵,面,miàn,N,noodles,生活,飲食
-L0-241,飯,饭,fàn,N,rice,生活,飲食
-L0-241,米,米,mǐfàn,N,rice,生活,飲食
-L0-242,餃,饺,jiǎo,N,dumplings,生活,飲食
-L0-242,餃子,饺子,jiǎozi,N,dumplings,生活,飲食
-L0-243,湯,汤,tāng,N,soup,生活,飲食
-L0-244,漢堡,汉堡,hànbǎo,N,hamburger,生活,飲食
-L0-245,熱狗,热狗,règǒu,N,hot dog,生活,飲食
-L0-246,餅乾,饼干,bǐnggān,N,"biscuit, cracker, cookie",生活,飲食
-L0-247,蛋糕,蛋糕,dàngāo,N,cake,生活,飲食
-L0-248,麵包,面包,miànbāo,N,bread,生活,飲食
-L0-249,三明治,三明治,sānmíngzhì,N,sandwich,生活,飲食
-L0-250,冰淇淋,冰淇淋,bīngqílín,N,ice cream,生活,飲食
-L0-251,餐,餐,cān,N,meal,生活,飲食
-L0-252,飲料,饮料,yǐnliào,N,"drink, beverage",生活,飲食
-L0-253,茶,茶,chá,N,tea,生活,飲食
-L0-254,牛奶,牛奶,niúnǎi,N,milk,生活,飲食
-L0-255,可樂,可乐,kělè,N,coke,生活,飲食
-L0-256,汽水,汽水,qìshuǐ,N,soft drink,生活,飲食
-L0-257,果汁,果汁,guǒzhī,N,juice,生活,飲食
-L0-258,水果,水果,shuǐguǒ,N,fruit,生活,飲食
-L0-259,橘,橘,jú,N,tangerine,生活,飲食
-L0-259,橘子,橘子,júzi,N,tangerine,生活,飲食
-L0-260,西瓜,西瓜,xīguā,N,watermelon,生活,飲食
-L0-261,柳橙,柳橙,liǔchéng,N,orange,生活,飲食
-L0-262,香蕉,香蕉,xiāngjiāo,N,banana,生活,飲食
-L0-263,草莓,草莓,cǎoméi,N,strawberry,生活,飲食
-L0-264,番茄,番茄,fānqié,N,tomato,生活,飲食
-L0-264,蕃茄,蕃茄,fānqié,N,tomato,生活,飲食
-L0-265,蘋果,苹果,píngguǒ,N,apple,生活,飲食
-L0-266,糖,糖,táng,N,"sugar, candy",生活,飲食
-L0-267,甜,甜,tián,Vs,sweet,生活,飲食
-L0-268,餓,饿,è,Vs,hungry,生活,飲食
-L0-269,吃,吃,chī,V,to eat,生活,飲食
-L0-270,喝,喝,hē,V,to drink,生活,飲食
-L0-271,給,给,gěi,V,to give,生活,飲食
-L0-272,同學,同学,tóngxué,N,classmate,生活,學校
-L0-273,上課,上课,shàngkè,V,to go to class,生活,學校
-L0-274,下課,下课,xiàkè,V,to dismiss,生活,學校
-L0-275,上學,上学,shàngxué,V,to go to school,生活,學校
-L0-276,放假,放假,fàngjià,V,to have day off,生活,學校
-L0-277,放學,放学,fàngxué,V,to finish classes (for the day),生活,學校
-L0-278,遊戲,游戏,yóuxì,N,game,生活,學校
-L0-279,圖,图,tú,N,"picture, drawing",生活,學校
-L0-280,字,字,zì,N,"character, word",生活,學校
-L0-281,書,书,shū,N,book,生活,學校
-L0-282,書包,书包,shūbāo,N,schoolbag,生活,學校
-L0-283,課,课,kè,N,"course, class",生活,學校
-L0-284,課本,课本,kèběn,N,textbook,生活,學校
-L0-285,作業,作业,zuòyè,N,homework,生活,學校
-L0-286,問題,问题,wèntí,N,"question, problem",生活,學校
-L0-287,考試,考试,kǎoshì,N/V,"(to) exam, (to) test",生活,學校
-L0-288,寫,写,xiě,V,to write,生活,學校
-L0-289,學,学,xué,V,"to study, to learn",生活,學校
-L0-290,讀,读,dú,V,to read,生活,學校
-L0-291,念,念,niàn,V,to read out loud,生活,學校
-L0-292,黑板,黑板,hēibǎn,N,blackboard,生活,學校
-L0-293,文具,文具,wénjù,N,stationery,生活,學校
-L0-294,紙,纸,zhǐ,N,paper,生活,學校
-L0-295,筆,笔,bǐ,N,pen,生活,學校
-L0-296,鉛筆,铅笔,qiānbǐ,N,pencil,生活,學校
-L0-297,彩色筆,彩色笔,cǎisèbǐ,N,color pen,生活,學校
-L0-298,尺,尺,chǐ,N,ruler,生活,學校
-L0-299,橡皮,橡皮,xiàngpí,N,eraser,生活,學校
-L0-299,橡皮擦,橡皮擦,xiàngpícā,N,eraser,生活,學校
-L0-300,剪刀,剪刀,jiǎndāo,N,scissors,生活,學校
-L0-301,剪,剪,jiǎn,V,to cut,生活,學校
-L0-302,貼,贴,tiē,V,to paste,生活,學校
-L0-303,玩,玩,wán,V,to play,生活,休閒活動
-L0-304,追,追,zhuī,V,"to chase after, to pursue",生活,休閒活動
-L0-305,跳舞,跳舞,tiàowǔ,V,to dance,生活,休閒活動
-L0-306,踢,踢,tī,V,to kick,生活,休閒活動
-L0-307,游,游,yóu,V,to swim,生活,休閒活動
-L0-307,游泳,游泳,yóuyǒng,V,to swim,生活,休閒活動
-L0-308,玩具,玩具,wánjù,N,toy,生活,休閒活動
-L0-309,運動,运动,yùndòng,N/V,"sport, (to) exercise",生活,休閒活動
-L0-309,運動,运动,yùndong,N/V,"sport, (to) exercise",生活,休閒活動
-L0-310,球,球,qiú,N,ball,生活,休閒活動
-L0-311,氣球,气球,qìqiú,N,balloon,生活,休閒活動
-L0-312,皮球,皮球,píqiú,N,ruber ball,生活,休閒活動
-L0-313,足球,足球,zúqiú,N,"soccer, football",生活,休閒活動
-L0-314,棒球,棒球,bàngqiú,N,baseball,生活,休閒活動
-L0-315,籃球,篮球,lánqiú,N,basketball,生活,休閒活動
-L0-316,下棋,下棋,xiàqí,V,to play chess,生活,休閒活動
-L0-317,畫,画,huà,V/N,"to draw, to paint; picture, drawing, painting",生活,休閒活動
-L0-317,畫兒,画儿,huàr,V/N,"to draw, to paint; picture, drawing, painting",生活,休閒活動
-L0-318,電影,电影,diànyǐng,N,"film, movie",生活,休閒活動
-L0-319,音樂,音乐,yīnyuè,N,music,生活,休閒活動
-L0-320,鋼琴,钢琴,gāngqín,N,piano,生活,休閒活動
-L0-321,唱,唱,chàng,V,to sing,生活,休閒活動
-L0-322,彈,弹,tán,V,to play (musical instruments),生活,休閒活動
-L0-323,歌,歌,gē,N,song,生活,休閒活動
-L0-324,養,养,yǎng,V,to raise,生活,休閒活動
-L0-325,送,送,sòng,V,"to send, to give",生活,休閒活動
-L0-326,生日,生日,shēngrì,N,birthday,生活,休閒活動
-L0-327,禮物,礼物,lǐwù,N,"gift, present",生活,休閒活動
-L0-328,新年,新年,xīnnián,N,New Year,生活,休閒活動
-L0-329,過年,过年,guònián,N/V,to celebrate or spend New Year,生活,休閒活動
-L0-330,生病,生病,shēngbìng,V,to be sick,生活,健康
-L0-331,感冒,感冒,gǎnmào,V,to catch a cold,生活,健康
-L0-332,打針,打针,dǎzhēn,V,to have an injection,生活,健康
-L0-333,藥,药,yào,N,"medicine, drug",生活,健康
-L0-335,車,车,chē,N,car,交通,交通工具
-L0-335,車子,车子,chēzi,N,car,交通,交通工具
-L0-336,船,船,chuán,N,"boat, ship",交通,交通工具
-L0-337,火車,火车,huǒchē,N,train,交通,交通工具
-L0-338,汽車,汽车,qìchē,N,car,交通,交通工具
-L0-339,飛機,飞机,fēijī,N,airplane,交通,交通工具
-L0-340,公車,公车,gōngchē,N,bus,交通,交通工具
-L0-340,公共汽車,公共汽车,gōnggòngqìchē,N,bus,交通,交通工具
-L0-341,腳踏車,脚踏车,jiǎotàchē,N,bicycle,交通,交通工具
-L0-341,自行車,自行车,zìxíngchē,N,bicycle,交通,交通工具
-L0-342,到,到,dào,V,"to arrive, to reach, to go to",交通,交通工具
-L0-343,騎,骑,qí,V,to ride,交通,交通工具
-L0-344,過,过,guò,V/Asp,to pass; aspect marker for indicating experience for something,交通,交通工具
-L0-345,飛,飞,fēi,V,to fly,交通,交通工具
-L0-347,雨,雨,yǔ,N,rain,自然,現象
-L0-348,風,风,fēng,N,wind,自然,現象
-L0-349,雪,雪,xuě,N,snow,自然,現象
-L0-350,雲,云,yún,N,cloud,自然,現象
-L0-351,太陽,太阳,tàiyáng,N,sun,自然,現象
-L0-352,月亮,月亮,yuèliàng,N,moon,自然,現象
-L0-352,月亮,月亮,yuèliang,N,moon,自然,現象
-L0-353,星,星,xīng,N,star,自然,現象
-L0-353,星星,星星,xīngxing,N,star,自然,現象
-L0-354,火,火,huǒ,N,fire,自然,現象
-L0-355,水,水,shuǐ,N,water,自然,現象
-L0-356,冰,冰,bīng,N/Vs,ice,自然,現象
-L0-357,春,春,chūn,N,spring,自然,季節
-L0-357,春天,春天,chūntiān,N,spring,自然,季節
-L0-358,夏,夏,xià,N,summer,自然,季節
-L0-358,夏天,夏天,xiàtiān,N,summer,自然,季節
-L0-359,秋,秋,qiū,N,"autumn, fall",自然,季節
-L0-359,秋天,秋天,qiūtiān,N,"autumn, fall",自然,季節
-L0-360,冬,冬,dōng,N,winter,自然,季節
-L0-360,冬天,冬天,dōngtiān,N,winter,自然,季節
-L0-361,天氣,天气,tiānqì,N,weather,自然,天氣
-L0-362,冷,冷,lěng,Vs,cold,自然,天氣
-L0-363,熱,热,rè,Vs,hot,自然,天氣
-L0-364,陰天,阴天,yīntiān,N,cloudy,自然,天氣
-L0-365,晴天,晴天,qíngtiān,N,sunny,自然,天氣
-L0-366,下雨,下雨,xiàyǔ,V,to rain,自然,天氣
-L0-367,下雪,下雪,xiàxuě,V,to snow,自然,天氣
-L0-368,花,花,huā,N,flower,自然,植物
-L0-369,草,草,cǎo,N,grass,自然,植物
-L0-370,樹,树,shù,N,tree,自然,植物
-L0-371,木,木,mù,N,wood,自然,植物
-L0-371,木頭,木头,mùtou,N,wood,自然,植物
-L0-372,葉,叶,yè,N,leaf,自然,植物
-L0-372,葉子,叶子,yèzi,N,leaf,自然,植物
-L0-373,動物,动物,dòngwù,N,animal,自然,動物
-L0-374,虎,虎,hǔ,N,tiger,自然,動物
-L0-374,老,老,lǎohǔ,N,tiger,自然,動物
-L0-375,猴,猴,hóu,N,monkey,自然,動物
-L0-375,猴子,猴子,hóuzi,N,monkey,自然,動物
-L0-376,馬,马,mǎ,N,horse,自然,動物
-L0-377,牛,牛,niú,N,cow,自然,動物
-L0-378,羊,羊,yáng,N,sheep,自然,動物
-L0-379,豬,猪,zhū,N,pig,自然,動物
-L0-380,狗,狗,gǒu,N,dog,自然,動物
-L0-381,貓,猫,māo,N,cat,自然,動物
-L0-382,鼠,鼠,shǔ,N,"mouse, rat",自然,動物
-L0-382,老,老,lǎoshǔ,N,"mouse, rat",自然,動物
-L0-383,兔,兔,tù,N,"rabbit,hare",自然,動物
-L0-383,兔子,兔子,tùzi,N,"rabbit,hare",自然,動物
-L0-384,鳥,鸟,niǎo,N,bird,自然,動物
-L0-385,雞,鸡,jī,N,chicken,自然,動物
-L0-386,鴨,鸭,yā,N,duck,自然,動物
-L0-386,鴨子,鸭子,yāzi,N,duck,自然,動物
-L0-387,魚,鱼,yú,N,fish,自然,動物
-L0-388,山,山,shān,N,mountain,自然,自然環境
-L0-389,地,地,dì,N,ground,自然,自然環境
-L0-390,天空,天空,tiānkōng,N,sky,自然,自然環境
-L0-391,海,海,hǎi,N,sea,自然,自然環境
-L0-391,大,大,dàhǎi,N,sea,自然,自然環境
-L0-392,海邊,海边,hǎibiān,N,"seashore, sea beach, alongside the sea, coast",自然,自然環境
-L0-394,上,上,shàng,N,up; on top of,地方,方位
-L0-394,上面,上面,shàngmiàn,N,up; on top of,地方,方位
-L0-395,下,下,xià,N,down; under,地方,方位
-L0-395,下面,下面,xiàmiàn,N,down; under,地方,方位
-L0-396,前,前,qián,N,front,地方,方位
-L0-396,前面,前面,qiánmiàn,N,front,地方,方位
-L0-397,後,后,hòu,N,back,地方,方位
-L0-397,後面,后面,hòumiàn,N,back,地方,方位
-L0-398,裡,里,lǐ,N,inside,地方,方位
-L0-398,裡面,里面,lǐmiàn,N,inside,地方,方位
-L0-399,外,外,wài,N,outside,地方,方位
-L0-399,外面,外面,wàimiàn,N,outside,地方,方位
-L0-400,中間,中间,zhōngjiān,N,"center, middle",地方,方位
-L0-401,在,在,zài,Prep/Asp,"in, at, on, etc.; progressive aspect marker",地方,方位
-L0-402,來,来,lái,V,to come,地方,方位
-L0-403,去,去,qù,V,to go,地方,方位
-L0-404,回,回,huí,V,to go back to,地方,方位
-L0-405,進,进,jìn,V,to enter,地方,方位
-L0-406,出,出,chū,V,to go out,地方,方位
-L0-407,住,住,zhù,V,to live,地方,方位
-L0-408,哪,哪,nǎ,N,which,地方,方位
-L0-409,哪裡,哪里,nǎlǐ,N,where,地方,方位
-L0-409,哪兒,哪儿,nǎr,N,where,地方,方位
-L0-410,這裡,这里,zhèlǐ,Adv,here,地方,方位
-L0-410,這兒,这儿,zhèr,Adv,here,地方,方位
-L0-411,那裡,那里,nàlǐ,Adv,there,地方,方位
-L0-411,那兒,那儿,nàr,Adv,there,地方,方位
-L0-412,路,路,lù,N,road,地方,方位
-L0-413,這,这,zhè,Det,this; these,地方,方位
-L0-413,這些,这些,zhèixiē,Det,this; these,地方,方位
-L0-414,那,那,nà,Det,that; those,地方,方位
-L0-414,那些,那些,nèixiē,Det,that; those,地方,方位
-L0-415,家,家,jiā,N,home,地方,處所
-L0-416,房,房,fáng,N,house,地方,處所
-L0-416,房子,房子,fángzi,N,house,地方,處所
-L0-417,房間,房间,fángjiān,N,room,地方,處所
-L0-418,學校,学校,xuéxiào,N,school,地方,處所
-L0-419,餐廳,餐厅,cāntīng,N,"restaurant, dining room",地方,處所
-L0-420,醫院,医院,yīyuàn,N,hospital,地方,處所
-L0-421,公園,公园,gōngyuán,N,park,地方,處所
-L0-422,花園,花园,huāyuán,N,garden,地方,處所
-L0-423,動物園,动物园,dòngwùyuán,N,zoo,地方,處所
-L0-424,車站,车站,chēzhàn,N,station,地方,處所
-L0-425,市場,市场,shìchǎng,N,market,地方,處所
-L0-426,店,店,diàn,N,"shop, store",地方,處所
-L0-427,商店,商店,shāngdiàn,N,"shop, store",地方,處所
-L0-428,百貨公司,百货公司,bǎihuògōngsī,N,department store,地方,處所
-L0-429,樓,楼,lóu,N,floor,地方,處所
-L0-430,國,国,guó,N,"country, state, nation",地方,國家
-L0-430,國家,国家,guójiā,N,"country, state, nation",地方,國家
-L0-431,中國,中国,zhōngguó,N,China,地方,國家
-L0-432,台灣,台湾,táiwān,N,Taiwan,地方,國家
-L0-433,美國,美国,měiguó,N,the United States,地方,國家
-L0-434,漢語,汉语,hànyǔ,N,Chinese/Sinitic language(s),地方,語言
-L0-435,英語,英语,yīngyǔ,N,English (language),地方,語言
-L0-435,英文,英文,yīngwén,N,English (language),地方,語言
-L0-436,華語,华语,huáyǔ,N,Chinese (language),地方,語言
-L0-436,華文,华文,huáwén,N,Chinese (language),地方,語言
-L0-438,請,请,qǐng,V,please,常用語,一般
-L0-439,謝,谢,xiè,V,to thank,常用語,一般
-L0-439,謝謝,谢谢,xièxie,V,to thank,常用語,一般
-L0-440,再見,再见,zàijiàn,V,"Goodbye, or see you again.",常用語,一般
-L0-441,不客氣,不客气,búkèqì,V,You are welcome.,常用語,一般
-L0-442,沒關係,没关系,méiguānxi,V,Never mind.,常用語,一般
-L0-443,對不起,对不起,duìbuqǐ,V,sorry,常用語,一般
-L0-444,祝,祝,zhù,V,"to bless, to wish",常用語,祝福
-L0-446,對,对,duì,Vs,"right, correct",功能詞,功能詞
-L0-447,是,是,shì,Adv,yes,功能詞,功能詞
-L0-448,不,不,bù,Adv,"no, not",功能詞,功能詞
-L0-449,沒,没,méi,Adv,"no, not",功能詞,功能詞
-L0-450,別,别,bié,Adv,other; don't,功能詞,功能詞
-L0-451,沒有,没有,méiyǒu,Adv,not have,功能詞,功能詞
-L0-452,也,也,yě,Adv,"also, too, as well",功能詞,功能詞
-L0-453,有,有,yǒu,V,"to have, to possess",功能詞,功能詞
-L0-454,要,要,yào,V,"to want/wish (to), to ask (for), to demand, to request",功能詞,功能詞
-L0-455,會,会,huì,V,"will, can, be able to, be good at, be skillful in",功能詞,功能詞
-L0-456,像,像,xiàng,V,"to be like, to resemble",功能詞,功能詞
-L0-457,不用,不用,búyòng,V,need not,功能詞,功能詞
-L0-458,什麼,什么,shéme,N,what,功能詞,功能詞
-L0-459,怎麼,怎么,zěnme,N,how,功能詞,功能詞
-L0-460,為什麼,为什么,wèishéme,N,why,功能詞,功能詞
-L0-461,怎麼樣,怎么样,zěnmeyàng,N,how,功能詞,功能詞
-L0-462,怎麼辦,怎么办,zěnmebàn,N,what to do,功能詞,功能詞
-L0-463,把,把,bǎ,BA,marking entities which have undergone a certain change of state,功能詞,功能詞
-L0-464,可以,可以,kěyǐ,Adv,"can, may",功能詞,功能詞
-L0-465,都,都,dōu,Adv,all,功能詞,功能詞
-L0-466,和,和,hé,Prep/Conj,"with, and",功能詞,功能詞
-L0-466,和,和,hàn,Prep/Conj,"with, and",功能詞,功能詞
-L0-467,跟,跟,gēn,Conj/Prep,"and, with",功能詞,功能詞
-L0-468,或,或,huò,Conj,"or, either or",功能詞,功能詞
-L0-469,因為,因为,yīnwèi,Conj,because,功能詞,功能詞
-L0-470,的,的,de,Ptc,possessive particle; common adj. particle; particle: emphasizing an action,功能詞,功能詞
-L0-471,嗎,吗,ma,Ptc,a question particle,功能詞,功能詞
-L0-472,呢,呢,ne,Ptc,a question particle,功能詞,功能詞
-L0-473,喂,喂,wéi,Ptc,"a common telephone or intercom greeting ""hello""",功能詞,功能詞
-L0-474,吧,吧,ba,Ptc,particle implying probability,功能詞,功能詞
-L1-001,姓,姓,xìng,V/N,"surname, family name",人物,人物
-L1-002,家庭,家庭,jiātíng,N,family,人物,家庭
-L1-003,客人,客人,kèrén,N,"guest, visitor",人物,家庭
-L1-004,伯,伯,bó,N,uncle,人物,家庭
-L1-004,伯伯,伯伯,bóbo,N,uncle,人物,家庭
-L1-005,父母,父母,fùmǔ,N,parents,人物,家庭
-L1-006,寶貝,宝贝,bǎobèi,N,baby,人物,家庭
-L1-007,幫,帮,bāng,V,to help,人物,家庭
-L1-008,幫忙,帮忙,bāngmáng,V/N,(to) help,人物,家庭
-L1-009,事,事,shì,N,matter,人物,家庭
-L1-009,事情,事情,shìqíng,N,matter,人物,家庭
-L1-009,事情,事情,shìqing,N,matter,人物,家庭
-L1-010,家事,家事,jiāshì,N,housework,人物,家庭
-L1-011,打掃,打扫,dǎsǎo,V,to clean,人物,家庭
-L1-012,長大,长大,zhǎngdà,V,to grow up,人物,家庭
-L1-013,容易,容易,róngyì,Vs,easy,人物,家庭
-L1-014,簡單,简单,jiǎndān,Vs,simple,人物,家庭
-L1-015,難,难,nán,Vs,difficult,人物,家庭
-L1-016,清楚,清楚,qīngchǔ,Vs,clear,人物,家庭
-L1-016,清楚,清楚,qīngchu,Vs,clear,人物,家庭
-L1-017,心,心,xīn,N,heart,人物,身體部位
-L1-018,背,背,bèi,N/V,back of body; to carry sth on the back,人物,身體部位
-L1-018,背,背,bēi,N/V,back of body; to carry sth on the back,人物,身體部位
-L1-019,動,动,dòng,V,to move,人物,身體動作
-L1-020,活,活,huó,Vs,alive,人物,身體動作
-L1-021,躺,躺,tǎng,V,to lie,人物,身體動作
-L1-022,休息,休息,xiūxí,V,to rest,人物,身體動作
-L1-022,休息,休息,xiūxi,V,to rest,人物,身體動作
-L1-023,拉,拉,lā,V,to pull,人物,手部動作
-L1-024,推,推,tuī,V,to push,人物,手部動作
-L1-025,接,接,jiē,V,to catch; to pick up someone,人物,手部動作
-L1-026,抓,抓,zhuā,V,to grab,人物,手部動作
-L1-027,舉,举,jǔ,V,to lift,人物,手部動作
-L1-028,弄,弄,nòng,V,to play with something,人物,手部動作
-L1-029,掛,挂,guà,V,to hang,人物,手部動作
-L1-030,跳,跳,tiào,V,to jump,人物,腳部動作
-L1-031,香,香,xiāng,Vs,fragrant,人物,鼻子動作
-L1-032,臭,臭,chòu,Vs,stink,人物,口部動作
-L1-033,吹,吹,chuī,V,to blow,人物,口部動作
-L1-034,說話,说话,shuōhuà,V,to speak,人物,口部動作
-L1-035,生氣,生气,shēngqì,Vs,angry,人物,心理活動
-L1-036,高興,高兴,gāoxìng,Vs,happy,人物,心理活動
-L1-037,開心,开心,kāixīn,Vs,happy,人物,心理活動
-L1-038,有趣,有趣,yǒuqù,Vs,interesting,人物,心理活動
-L1-039,緊張,紧张,jǐnzhāng,Vs,nervous,人物,心理活動
-L1-040,奇怪,奇怪,qíguài,Vs,strange,人物,心理活動
-L1-041,疼,疼,téng,Vs,hurt,人物,心理活動
-L1-042,夢,梦,mèng,N/V,(to) dream,人物,心理活動
-L1-043,做夢,做梦,zuòmèng,V,to dream,人物,心理活動
-L1-043,作夢,作梦,zuòmèng,V,to dream,人物,心理活動
-L1-044,忘,忘,wàng,Vs,to forget,人物,心理活動
-L1-045,想念,想念,xiǎngniàn,Vs,to miss,人物,心理活動
-L1-046,懂,懂,dǒng,Vs,to understand,人物,心理活動
-L1-047,輕,轻,qīng,Vs,light,人物,人格特質
-L1-048,重,重,zhòng,Vs,heavy,人物,人格特質
-L1-049,年紀,年纪,niánjì,N,age,人物,人格特質
-L1-050,年輕,年轻,niánqīng,Vs,young,人物,人格特質
-L1-051,美麗,美丽,měilì,Vs,beautiful,人物,人格特質
-L1-052,勇敢,勇敢,yǒnggǎn,Vs,brave,人物,人格特質
-L1-053,聰明,聪明,cōngmíng,Vs,smart,人物,人格特質
-L1-054,害羞,害羞,hàixiū,Vs,shy,人物,人格特質
-L1-055,牙醫,牙医,yáyī,N,dentist,人物,職業
-L1-056,司機,司机,sījī,N,driver,人物,職業
-L1-057,老闆,老板,lǎobǎn,N,boss,人物,職業
-L1-058,畫家,画家,huàjiā,N,painter,人物,職業
-L1-059,廚師,厨师,chúshī,N,cook,人物,職業
-L1-060,農夫,农夫,nóngfū,N,farmer,人物,職業
-L1-060,農民,农民,nóngmín,N,farmer,人物,職業
-L1-061,歌手,歌手,gēshǒu,N,singer,人物,職業
-L1-061,歌星,歌星,gēxīng,N,singer,人物,職業
-L1-062,做,做,zuò,Vs,to be,人物,職業
-L1-064,第,第,dì,Det,marker of ordinal numerals,數量,數字
-L1-065,千,千,qiān,Num,thousand,數量,數字
-L1-066,數目,数目,shùmù,N,amount,數量,數字
-L1-067,全部,全部,quánbù,N/Det,"all, whole",數量,數字
-L1-068,一半,一半,yíbàn,N/Det,"one half, half",數量,數字
-L1-069,一些,一些,yìxiē,Det,a little bit,數量,數字
-L1-070,一點兒,一点儿,yìdiǎnr,Det/Adv,"a bit, a little",數量,數字
-L1-071,完,完,wán,V,"to use up, to finish, to complete",數量,數字
-L1-072,算,算,suàn,V,"to calculate, to count",數量,數字
-L1-073,加,加,jiā,V,to add,數量,數字
-L1-074,總共,总共,zǒnggòng,V,to total,數量,數字
-L1-075,只,只,zhǐ,Adv,only,數量,數字
-L1-076,片,片,piàn,M,"partial measure word for thin, flat pieces of something and for a vast expanse of something",數量,數字
-L1-077,件,件,jiàn,M,"individual measure word for clothes, etc., for furniture, jewelry, etc., and for affairs, incidents, etc.",數量,數量
-L1-078,位,位,wèi,M,individual measure word for people,數量,數量
-L1-079,支,支,zhī,M,"individual measure word for flowers, grass and for rod-shaped article",數量,數量
-L1-079,枝,枝,zhī,M,"individual measure word for flowers, grass and for rod-shaped article",數量,數量
-L1-080,條,条,tiáo,M,"individual measure word for long, narrow things, such as rivers, pants, snakes, etc.",數量,數量
-L1-081,棵,棵,kē,M,individual measure word for plants.,數量,數量
-L1-082,顆,颗,kē,M,individual measure word for small and roundish things,數量,數量
-L1-083,瓶,瓶,píng,N/M,bottle; container measure word for bottles of liquid substances,數量,數量
-L1-084,張,张,zhāng,M,"individual measure word for flat things, or things with a surface",數量,數量
-L1-085,包,包,bāo,V/M,to pack; collective measure word for the things wrapped or tied up and for the things fixed in bundles,數量,數量
-L1-086,間,间,jiān,M,container measure word for houses or other buildings,數量,數量
-L1-087,把,把,bǎ,M,individual measure word for a thing with a handle or something like a handle,數量,數量
-L1-088,付,付,fù,V,to pay,數量,金錢
-L1-089,收,收,shōu,V,to receive,數量,金錢
-L1-090,賣,卖,mài,V,to sell,數量,金錢
-L1-091,貴,贵,guì,Vs,expensive,數量,金錢
-L1-092,便宜,便宜,piányi,Vs,cheap,數量,金錢
-L1-093,找錢,找钱,zhǎoqián,V,to give change,數量,金錢
-L1-094,錢包,钱包,qiánbāo,N,"wallet, purse",數量,金錢
-L1-096,更,更,gèng,Adv,more,程度,程度
-L1-097,還,还,hái,Adv,still,程度,程度
-L1-098,這麼,这么,zhème,Adv,such,程度,程度
-L1-099,那麼,那么,nàme,Adv,like that,程度,程度
-L1-100,壞,坏,huài,Vs,bad,程度,程度
-L1-101,棒,棒,bàng,Vs,excellent,程度,程度
-L1-103,今年,今年,jīnnián,N/Adv,this year,時間,年月日星期
-L1-104,去年,去年,qùnian,N/Adv,last year,時間,年月日星期
-L1-105,明年,明年,míngnián,N/Adv,next year,時間,年月日星期
-L1-106,前天,前天,qiántiān,N/Adv,day before yesterday,時間,年月日星期
-L1-107,後天,后天,hòutiān,N/Adv,day after tomorrow,時間,年月日星期
-L1-108,週末,周末,zhōumò,N/Adv,weekend,時間,年月日星期
-L1-109,以前,以前,yǐqián,N/Adv,ealier; before; ago,時間,時間
-L1-110,從前,从前,cóngqián,N/Adv,long time ago,時間,時間
-L1-111,以後,以后,yǐhòu,N/Adv,"hereafter, afterward, subsequently",時間,時間
-L1-112,後來,后来,hòulái,N/Adv,"subsequently, later",時間,時間
-L1-113,正在,正在,zhèngzài,Adv,presently,時間,時間
-L1-114,一直,一直,yìzhí,Adv,"continuously, perennially, all along",時間,時間
-L1-115,常常,常常,chángcháng,Adv,"frequently,often",時間,時間
-L1-116,忽然,忽然,hūrán,Adv,suddenly,時間,時間
-L1-117,來得及,来得及,láidejí,Adv,be in time,時間,時間
-L1-118,一會兒,一会儿,yìhuǐēr,Adv,a while,時間,時間
-L1-119,小時,小时,xiǎoshí,N,hour,時間,時間
-L1-120,分鐘,分钟,fēnzhōng,N,minute,時間,時間
-L1-121,時候,时候,shíhòu,N,time,時間,時間
-L1-121,時候,时候,shíhou,N,time,時間,時間
-L1-122,又,又,yòu,Conj/Adv,again,時間,時間
-L1-123,才,才,cái,Conj/Adv,just,時間,時間
-L1-124,然後,然后,ránhòu,Conj,then,時間,時間
-L1-125,慢,慢,màn,Vs,slow,時間,時間
-L1-127,灰色,灰色,huīsè,N,gray,形色,顏色
-L1-128,紫色,紫色,zǐsè,N,purple,形色,顏色
-L1-129,橘色,橘色,júsè,N,orange,形色,顏色
-L1-130,寬,宽,kuān,Vs,wide,形色,尺寸
-L1-131,窄,窄,zhǎi,Vs,narrow,形色,尺寸
-L1-132,細,细,xì,Vs,"thin, fine",形色,尺寸
-L1-133,比較,比较,bǐjiào,V,to compare,形色,尺寸
-L1-134,比,比,bǐ,V,to compare,形色,尺寸
-L1-135,邊,边,biān,N,"side, edge",形色,形狀
-L1-137,上衣,上衣,shàngyī,N,top,生活,衣物飾品
-L1-138,洋裝,洋装,yángzhuāng,N,dress,生活,衣物飾品
-L1-139,內衣,内衣,nèiyī,N,underwear,生活,衣物飾品
-L1-140,內褲,内裤,nèikù,N,underpants,生活,衣物飾品
-L1-141,口袋,口袋,kǒudài,N,pocket,生活,衣物飾品
-L1-142,手帕,手帕,shǒupà,N,handkerchief,生活,衣物飾品
-L1-143,手套,手套,shǒutào,N,gloves,生活,衣物飾品
-L1-144,眼鏡,眼镜,yǎnjìng,N,glasses,生活,衣物飾品
-L1-145,圍巾,围巾,wéijīn,N,scarf,生活,衣物飾品
-L1-146,家具,家具,jiājù,N,furniture,生活,居家用品
-L1-147,鈴,铃,líng,N,bell,生活,居家用品
-L1-148,屋頂,屋顶,wūdǐng,N,roof,生活,居家用品
-L1-149,沙發,沙发,shāfā,N,sofa,生活,居家用品
-L1-150,書架,书架,shūjià,N,bookshelf,生活,居家用品
-L1-151,書桌,书桌,shūzhuō,N,desk,生活,居家用品
-L1-152,鏡,镜,jìng,N,mirror,生活,居家用品
-L1-152,鏡子,镜子,jìngzi,N,mirror,生活,居家用品
-L1-153,桶,桶,tǒng,N,bucket,生活,居家用品
-L1-153,桶子,桶子,tǒngzi,N,bucket,生活,居家用品
-L1-154,盒,盒,hé,M,box; container measure word for things in a box,生活,居家用品
-L1-154,盒子,盒子,hézi,N,box; container measure word for things in a box,生活,居家用品
-L1-155,袋,袋,dài,N,bag,生活,居家用品
-L1-155,袋子,袋子,dàizi,N,bag,生活,居家用品
-L1-156,毛巾,毛巾,máojīn,N,towel,生活,居家用品
-L1-157,牙刷,牙刷,yáshuā,N,toothbrush,生活,居家用品
-L1-158,牙膏,牙膏,yágāo,N,toothpaste,生活,居家用品
-L1-159,手機,手机,shǒujī,N,"cell phone, mobile phone",生活,居家用品
-L1-160,垃圾,垃圾,lèsè,N,garbage,生活,居家用品
-L1-161,東西,东西,dōngxi,N,thing,生活,居家用品
-L1-162,信,信,xìn,N,"letter, mail",生活,居家用品
-L1-163,郵票,邮票,yóupiào,N,stamp,生活,居家用品
-L1-164,卡片,卡片,kǎpiàn,N,card,生活,居家用品
-L1-165,報紙,报纸,bàozhǐ,N,newspaper,生活,居家用品
-L1-166,湯匙,汤匙,tāngchí,N,spoon,生活,居家用品
-L1-166,勺子,勺子,sháozi,N,spoon,生活,居家用品
-L1-167,盤,盘,pán,M,plate; individual measure word for plate-shaped things.,生活,居家用品
-L1-167,盤子,盘子,pánzi,N,plate; individual measure word for plate-shaped things.,生活,居家用品
-L1-168,茶壺,茶壶,cháhú,N,"teapot, teakettle",生活,居家用品
-L1-169,舊,旧,jiù,Vs,old,生活,居家用品
-L1-170,乾淨,干净,gānjìng,Vs,clean,生活,居家用品
-L1-171,亂,乱,luàn,Vs,messy,生活,居家用品
-L1-172,整理,整理,zhěnglǐ,V,"to put in order, to arrange",生活,居家用品
-L1-173,關,关,guān,V,"to close, to shut, to turn off",生活,居家用品
-L1-174,搬,搬,bān,V,to move,生活,居家用品
-L1-175,倒,倒,dào,V,to empty,生活,居家活動
-L1-176,用,用,yòng,V,to use,生活,居家活動
-L1-177,找,找,zhǎo,V,"to find, to look for",生活,居家活動
-L1-178,刷,刷,shuā,V,to brush,生活,居家活動
-L1-179,寄,寄,jì,V,"to send, to mail",生活,居家活動
-L1-180,食物,食物,shíwù,N,food,生活,飲食
-L1-181,米,米,mǐ,N,rice,生活,飲食
-L1-182,炒飯,炒饭,chǎofàn,N,fried rice,生活,飲食
-L1-183,粽,粽,zòng,N,a pyramid-shaped mass of glutinous rice wrapped in leaves,生活,飲食
-L1-183,粽子,粽子,zòngzi,N,a pyramid-shaped mass of glutinous rice wrapped in leaves,生活,飲食
-L1-184,包子,包子,bāozi,N,steamed stuffed bun,生活,飲食
-L1-185,月餅,月饼,yuèbǐng,N,moon cake,生活,飲食
-L1-185,月餅,月饼,yuèbing,N,moon cake,生活,飲食
-L1-186,牛排,牛排,niúpái,N,beefsteak,生活,飲食
-L1-187,沙拉,沙拉,shālā,N,salad,生活,飲食
-L1-188,咖哩,咖哩,kālǐ,N,curry,生活,飲食
-L1-189,奶油,奶油,nǎiyóu,N,"cream, butter",生活,飲食
-L1-190,青菜,青菜,qīngcài,N,vegetables,生活,飲食
-L1-191,南瓜,南瓜,nánguā,N,pumpkin,生活,飲食
-L1-192,玉米,玉米,yùmǐ,N,corn,生活,飲食
-L1-192,玉米,玉米,yùmi,N,corn,生活,飲食
-L1-193,洋蔥,洋葱,yángcōng,N,onion,生活,飲食
-L1-194,咖啡,咖啡,kāfēi,N,coffee,生活,飲食
-L1-195,開水,开水,kāishuǐ,N,boiling/boiled water,生活,飲食
-L1-196,奶茶,奶茶,nǎichá,N,milk tea,生活,飲食
-L1-197,炸雞,炸鸡,zhájī,N,fried chicken,生活,飲食
-L1-198,薯條,薯条,shǔtiáo,N,French fries,生活,飲食
-L1-199,雞塊,鸡块,jīkuài,N,Chicken nugget,生活,飲食
-L1-200,披薩,披萨,pīsà,N,pizza,生活,飲食
-L1-200,比薩,比萨,bǐsà,N,pizza,生活,飲食
-L1-201,點心,点心,diǎnxīn,N,snack,生活,飲食
-L1-201,點心,点心,diǎnxin,N,snack,生活,飲食
-L1-202,巧克力,巧克力,qiǎokèlì,N,chocolate,生活,飲食
-L1-203,葡萄,葡萄,pútao,N,grape,生活,飲食
-L1-204,飽,饱,bǎo,Vs,full,生活,飲食
-L1-205,渴,渴,kě,Vs,thirsty,生活,飲食
-L1-206,烤,烤,kǎo,V,"to roast, to barbecue, to bake",生活,飲食
-L1-207,做菜,做菜,zuòcài,V,to cook,生活,飲食
-L1-208,菜單,菜单,càidān,N,menu,生活,飲食
-L1-209,點菜,点菜,diǎncài,V,to order dishes,生活,飲食
-L1-210,年級,年级,niánjí,N,grade,生活,學校
-L1-211,班級,班级,bānjí,N,class,生活,學校
-L1-212,小學,小学,xiǎoxué,N,"primary school, elementary school",生活,學校
-L1-213,中學,中学,zhōngxué,N,middle school,生活,學校
-L1-214,校長,校长,xiàozhǎng,N,principal,生活,學校
-L1-215,寒假,寒假,hánjià,N,winter vacation,生活,學校
-L1-216,暑假,暑假,shǔjià,N,summer vacation,生活,學校
-L1-217,請假,请假,qǐngjià,V,to ask for leave,生活,學校
-L1-218,小學生,小学生,xiǎoxuéshēng,N,an elementary school student,生活,學校
-L1-219,句,句,jù,N,sentence,生活,學校
-L1-219,句子,句子,jùzi,N,sentence,生活,學校
-L1-220,故事,故事,gùshi,N,"story, tale",生活,學校
-L1-221,作文,作文,zuòwén,N,composition,生活,學校
-L1-222,圖片,图片,túpiàn,N,"picture, photograph",生活,學校
-L1-223,科學,科学,kēxué,N,science,生活,學校
-L1-224,美術,美术,měishù,N,art,生活,學校
-L1-225,數學,数学,shùxué,N,math,生活,學校
-L1-226,體育,体育,tǐyù,N,physical education,生活,學校
-L1-227,功課,功课,gōngkè,N,homework,生活,學校
-L1-228,本子,本子,běnzi,N,"book, notebook",生活,學校
-L1-229,運動會,运动会,yùndònghuì,N,sports day,生活,學校
-L1-230,練習,练习,liànxí,N/V,(to) practice,生活,學校
-L1-231,準備,准备,zhǔnbèi,N/V,"to prepare, preparation",生活,學校
-L1-232,加油,加油,jiāyóu,V,to cheer on,生活,學校
-L1-233,賽跑,赛跑,sàipǎo,N/V,(to) race,生活,學校
-L1-234,比賽,比赛,bǐsài,N/V,"match, competition; to compete",生活,學校
-L1-235,參加,参加,cānjiā,V,"to join, to attend",生活,學校
-L1-236,排隊,排队,páiduì,V,to stand in line,生活,學校
-L1-237,膠水,胶水,jiāoshuǐ,N,glue,生活,學校
-L1-238,蠟筆,蜡笔,làbǐ,N,wax crayon,生活,學校
-L1-239,交,交,jiāo,V,"to hand over, to deliver",生活,學校
-L1-239,交給,交给,jiāogěi,V,"to hand over, to deliver",生活,學校
-L1-240,帶,带,dài,V,"to take, to bring",生活,學校
-L1-241,翻,翻,fān,V,"to turn over, to turn around",生活,學校
-L1-242,教,教,jiāo,V,to teach,生活,學校
-L1-243,打架,打架,dǎjià,V,to fight,生活,學校
-L1-244,走路,走路,zǒulù,V/N,(to) walk,生活,休閒活動
-L1-245,跑步,跑步,pǎobù,V/N,(to) jog,生活,休閒活動
-L1-246,舞蹈,舞蹈,wǔdào,N,dance,生活,休閒活動
-L1-247,滑雪,滑雪,huáxuě,V/N,(to) ski,生活,休閒活動
-L1-248,逛,逛,guàng,V,to window-shop,生活,休閒活動
-L1-249,散步,散步,sànbù,V/N,(to) take a walk,生活,休閒活動
-L1-250,旅行,旅行,lǚxíng,V/N,"(to) travel, journey, tour",生活,休閒活動
-L1-251,溜滑梯,溜滑梯,liūhuátī,N,slide,生活,休閒活動
-L1-252,網球,网球,wǎngqiú,N,tennis,生活,休閒活動
-L1-253,羽毛球,羽毛球,yǔmáoqiú,N,badminton,生活,休閒活動
-L1-254,乒乓球,乒乓球,pīngpāngqiú,N,ping-pong/table tennis,生活,休閒活動
-L1-254,桌球,桌球,zhuōqiú,N,ping-pong/table tennis,生活,休閒活動
-L1-255,收集,收集,shōují,V/N,"to gather, to collect",生活,休閒活動
-L1-256,卡通,卡通,kǎtōng,N,cartoon,生活,休閒活動
-L1-257,漫畫,漫画,mànhuà,N,comic book,生活,休閒活動
-L1-258,上網,上网,shàngwǎng,V,to surf the internet,生活,休閒活動
-L1-259,鼓,鼓,gǔ,N,drum,生活,休閒活動
-L1-260,吉他,吉他,jítā,N,guitar,生活,休閒活動
-L1-261,小提琴,小提琴,xiǎotíqín,N,violin,生活,休閒活動
-L1-262,拜年,拜年,bàinián,V,to pay a New Year call,生活,休閒活動
-L1-263,紅包,红包,hóngbāo,N,red envelope with gift money,生活,休閒活動
-L1-264,壓歲錢,压岁钱,yāsuìqián,N,money given to children as a lunar New Year gift,生活,休閒活動
-L1-265,節,节,jié,N,festival,生活,休閒活動
-L1-266,端午節,端午节,duānwǔjié,N,the Dragon Boat Festival (falling on the fifth day of the fifth lunar month),生活,休閒活動
-L1-267,中秋節,中秋节,zhōngqiūjié,N,the Moon Festival or the Mid-Autumn Festival(on the 15th day of the 8th lunar month),生活,休閒活動
-L1-268,聖誕節,圣诞节,shèngdànjié,N,Christmas,生活,休閒活動
-L1-269,健康,健康,jiànkāng,Vs/N,"healthy, health",生活,健康
-L1-270,咳嗽,咳嗽,késòu,V,to cough,生活,健康
-L1-270,咳嗽,咳嗽,késou,V,to cough,生活,健康
-L1-271,發燒,发烧,fāshāo,V,to have a fever,生活,健康
-L1-272,口罩,口罩,kǒuzhào,N,a gauze mask,生活,健康
-L1-273,蛀牙,蛀牙,zhùyá,V/N,"decayed tooth, dental caries",生活,健康
-L1-274,跌倒,跌倒,diédǎo,V,to fall over,生活,健康
-L1-275,住院,住院,zhùyuàn,V,to be in hospital,生活,健康
-L1-276,受傷,受伤,shòushāng,Vs/N,"be injured/wounded; injury, wound",生活,健康
-L1-277,小心,小心,xiǎoxīn,Vs,careful,生活,健康
-L1-279,卡車,卡车,kǎchē,N,truck,交通,交通工具
-L1-280,計程車,计程车,jìchéngchē,N,taxi,交通,交通工具
-L1-281,消防車,消防车,xiāofángchē,N,fire truck,交通,交通工具
-L1-282,救護車,救护车,jiùhùchē,N,ambulance,交通,交通工具
-L1-283,摩托車,摩托车,mótuōchē,N,"motorcycle, scooter",交通,交通工具
-L1-284,票,票,piào,N,ticket,交通,交通工具
-L1-285,開車,开车,kāichē,V,to drive a car,交通,交通工具
-L1-286,停,停,tíng,V,"to park, to stop",交通,交通工具
-L1-287,迷路,迷路,mílù,V,to get lost,交通,交通工具
-L1-288,搭,搭,dā,V,to travel by or take (a conveyance),交通,交通工具
-L1-289,危險,危险,wéixiǎn,Vs,dangerous,交通,交通工具
-L1-290,安全,安全,ānquán,Vs,safe,交通,交通工具
-L1-292,雷,雷,léi,N,thunder,自然,現象
-L1-293,電,电,diàn,N,electricity,自然,現象
-L1-294,聲音,声音,shēngyīn,N,"sound, voice",自然,現象
-L1-295,閃電,闪电,shǎndiàn,N/V,lightning,自然,現象
-L1-296,彩虹,彩虹,cǎihóng,N,rainbow,自然,現象
-L1-297,季節,季节,jìjié,N,season,自然,季節
-L1-298,涼,凉,liáng,Vs,cool,自然,天氣
-L1-298,涼快,凉快,liángkuài,Vs,cool,自然,天氣
-L1-299,寒冷,寒冷,hánlěng,Vs,cold,自然,天氣
-L1-300,溫暖,温暖,wēnnuǎn,Vs,warm,自然,天氣
-L1-301,乾,干,gān,Vs,dry,自然,天氣
-L1-302,玫瑰,玫瑰,méigui,N,rose,自然,植物
-L1-303,獅,狮,shī,N,lion,自然,動物
-L1-303,獅子,狮子,shīzi,N,lion,自然,動物
-L1-304,狼,狼,láng,N,wolf,自然,動物
-L1-305,象,象,xiàng,N,elephant,自然,動物
-L1-306,青蛙,青蛙,qīngwā,N,frog,自然,動物
-L1-307,蛇,蛇,shé,N,snake,自然,動物
-L1-308,蟲,虫,chóng,N,"worm, insect",自然,動物
-L1-309,蚊,蚊,wén,N,mosquito,自然,動物
-L1-309,蚊子,蚊子,wénzi,N,mosquito,自然,動物
-L1-310,蜘蛛,蜘蛛,zhīzhū,N,spider,自然,動物
-L1-311,蝴蝶,蝴蝶,húdié,N,butterfly,自然,動物
-L1-312,蜜蜂,蜜蜂,mìfēng,N,bee,自然,動物
-L1-313,螞蟻,蚂蚁,mǎyǐ,N,ant,自然,動物
-L1-314,蝸牛,蜗牛,wōniú,N,snail,自然,動物
-L1-315,鵝,鹅,é,N,goose,自然,動物
-L1-316,寵物,宠物,chǒngwù,N,pet,自然,動物
-L1-317,石,石,shí,N,"stone, rock",自然,自然環境
-L1-317,石頭,石头,shítou,N,"stone, rock",自然,自然環境
-L1-318,沙,沙,shā,N,sand,自然,自然環境
-L1-319,河,河,hé,N,river,自然,自然環境
-L1-320,森林,森林,sēnlín,N,forest,自然,自然環境
-L1-321,池塘,池塘,chítáng,N,pond,自然,自然環境
-L1-323,北邊,北边,běibiān,N,north,地方,方位
-L1-324,西邊,西边,xībiān,N,west,地方,方位
-L1-325,東邊,东边,dōngbiān,N,east,地方,方位
-L1-326,南邊,南边,nánbiān,N,south,地方,方位
-L1-327,右邊,右边,yòubiān,N,right side,地方,方位
-L1-327,右手邊,右手边,yòushǒubiān,N,right side,地方,方位
-L1-328,左邊,左边,zuǒbiān,N,left side,地方,方位
-L1-328,左手邊,左手边,zuǒshǒubiān,N,left side,地方,方位
-L1-329,旁,旁,páng,N,by the side of,地方,方位
-L1-329,旁邊,旁边,pángbiān,N,by the side of,地方,方位
-L1-330,往,往,wǎng,Prep,toward,地方,方位
-L1-331,從,从,cóng,Prep,"from, since, through",地方,方位
-L1-332,近,近,jìn,Vs,"close, near",地方,方位
-L1-333,遠,远,yuǎn,Vs,far,地方,方位
-L1-334,對面,对面,duìmiàn,N,across,地方,方位
-L1-335,地方,地方,dìfāng,N,place,地方,處所
-L1-335,地方,地方,dìfang,N,place,地方,處所
-L1-336,客廳,客厅,kètīng,N,living room,地方,處所
-L1-337,浴室,浴室,yùshì,N,bathroom,地方,處所
-L1-338,院子,院子,yuànzi,N,courtyard,地方,處所
-L1-339,廁所,厕所,cèsuǒ,N,toilet,地方,處所
-L1-340,飯廳,饭厅,fàntīng,N,dining room,地方,處所
-L1-341,廚房,厨房,chúfáng,N,kitchen,地方,處所
-L1-342,教室,教室,jiàoshì,N,classroom,地方,處所
-L1-343,操場,操场,cāochǎng,N,playground,地方,處所
-L1-344,游泳池,游泳池,yóuyǒngchí,N,swimming pool,地方,處所
-L1-345,夜市,夜市,yèshì,N,night market,地方,處所
-L1-346,教堂,教堂,jiàotáng,N,church,地方,處所
-L1-347,郵局,邮局,yóujú,N,post office,地方,處所
-L1-348,銀行,银行,yínháng,N,bank,地方,處所
-L1-349,警察局,警察局,jǐngchájú,N,police office,地方,處所
-L1-350,電影院,电影院,diànyǐngyuàn,N,movie theater,地方,處所
-L1-351,辦公室,办公室,bàngōngshì,N,office,地方,處所
-L1-352,飯店,饭店,fàndiàn,N,hotel,地方,處所
-L1-352,酒店,酒店,jiǔdiàn,N,hotel,地方,處所
-L1-353,公寓,公寓,gōngyù,N,apartment,地方,處所
-L1-354,大樓,大楼,dàlóu,N,multi-storied building,地方,處所
-L1-355,電梯,电梯,diàntī,N,elevator,地方,處所
-L1-356,樓梯,楼梯,lóutī,N,stairs,地方,處所
-L1-357,屋,屋,wū,N,house,地方,處所
-L1-357,屋子,屋子,wūzi,N,house,地方,處所
-L1-358,農田,农田,nóngtián,N,farm,地方,處所
-L1-359,街,街,jiē,N,street,地方,處所
-L1-360,馬路,马路,mǎlù,N,road,地方,處所
-L1-360,道路,道路,dàolù,N,road,地方,處所
-L1-361,高速公路,高速公路,gāosùgōnglù,N,"freeway, highway",地方,處所
-L1-362,熱鬧,热闹,rènao,Vs,"boisterous, bustling",地方,處所
-L1-363,泰國,泰国,tàiguó,N,Thailand,地方,國家
-L1-364,韓國,韩国,hánguó,N,Korea,地方,國家
-L1-365,日本,日本,rìběn,N,Japan,地方,國家
-L1-367,早安,早安,zǎoān,V,Good morning.,常用語,一般
-L1-368,晚安,晚安,wǎnān,V,Good night.,常用語,一般
-L1-369,歡迎,欢迎,huānyíng,V,"to welcome, to greet",常用語,一般
-L1-370,沒問題,没问题,méiwèntí,V,No problem.,常用語,一般
-L1-371,差不多,差不多,chàbuduō,V,almost the same,常用語,一般
-L1-372,不好意思,不好意思,bùhǎoyìsi,V,to feel embarrassed,常用語,一般
-L1-373,祝福,祝福,zhùfú,V/N,"to bless, to wish",常用語,祝福
-L1-374,進步,进步,jìnbù,N/V,"to improve, improvement",常用語,祝福
-L1-375,成功,成功,chénggōng,N/V,"success, to succeed",常用語,祝福
-L1-377,錯,错,cuò,Vs,wrong,功能詞,功能詞
-L1-378,能,能,néng,V,can,功能詞,功能詞
-L1-379,行,行,xíng,V,okay,功能詞,功能詞
-L1-380,可能,可能,kěnéng,Adv,"maybe, perhaps",功能詞,功能詞
-L1-381,當然,当然,dāngrán,Adv,"certainly, of course",功能詞,功能詞
-L1-382,一定,一定,yídìng,Adv,definitely,功能詞,功能詞
-L1-383,還是,还是,háishì,Conj,or; still,功能詞,功能詞
-L1-384,所以,所以,suǒyǐ,Conj,so,功能詞,功能詞
-L1-385,如果,如果,rúguǒ,Conj,if,功能詞,功能詞
-L1-386,但是,但是,dànshì,Conj,but,功能詞,功能詞
-L1-387,得,得,de,Ptc/V,"particle(de): verbs which are marked by de are followed by complements to show the resultive state of the action; Verb(dé): to get; Verb(děi):must, have to",功能詞,功能詞
-L1-387,得,得,dé,Ptc/V,"particle(de): verbs which are marked by de are followed by complements to show the resultive state of the action; Verb(dé): to get; Verb(děi):must, have to",功能詞,功能詞
-L2-001,它,它,tā,N,it,人物,人物
-L2-002,自己,自己,zìjǐ,N,oneself,人物,人物
-L2-003,介紹,介绍,jièshào,V/N,"to introduce, introduction",人物,人物
-L2-004,兒童,儿童,értóng,N,children,人物,人物
-L2-005,兄弟姊妹,兄弟姊妹,xiōngdìjiěmèi,N,siblings,人物,家庭
-L2-006,叔,叔,shú,N,uncle,人物,家庭
-L2-006,叔叔,叔叔,shúshu,N,uncle,人物,家庭
-L2-007,孫子,孙子,sūnzi,N,grandson; granddaughter,人物,家庭
-L2-007,孫女,孙女,sūnnǚ,N,grandson; granddaughter,人物,家庭
-L2-008,鄰居,邻居,línjū,N,neighbor,人物,家庭
-L2-009,照顧,照顾,zhàogù,V,to look after,人物,家庭
-L2-010,辦法,办法,bànfǎ,N,"way, means, measure, regulation",人物,家庭
-L2-011,方法,方法,fāngfǎ,N,"method, way, means",人物,家庭
-L2-012,習慣,习惯,xíguàn,N/V,habit; to be used to,人物,家庭
-L2-013,幸福,幸福,xìngfú,N,happiness,人物,家庭
-L2-014,眉,眉,méi,N,eyebrow,人物,身體部位
-L2-015,鬍,胡,hú,N,beard,人物,身體部位
-L2-015,鬍子,胡子,húzi,N,beard,人物,身體部位
-L2-016,手臂,手臂,shǒubì,N,arm,人物,身體部位
-L2-017,肩膀,肩膀,jiānbǎng,N,shoulder,人物,身體部位
-L2-018,脖,脖,bó,N,neck,人物,身體部位
-L2-018,脖子,脖子,bózi,N,neck,人物,身體部位
-L2-019,皮膚,皮肤,pífū,N,skin,人物,身體部位
-L2-020,眼淚,眼泪,yǎnlèi,N,tears,人物,身體部位
-L2-021,死,死,sǐ,Vs,to die,人物,身體動作
-L2-022,靠,靠,kào,V,to lean against; to depend on,人物,身體動作
-L2-023,陪,陪,péi,V,to accompany,人物,身體動作
-L2-024,醒,醒,xǐng,Vs,awake,人物,身體動作
-L2-025,抱,抱,bào,V,to hug,人物,手部動作
-L2-026,按,按,àn,V,to press,人物,手部動作
-L2-027,捉,捉,zhuō,V,to catch,人物,手部動作
-L2-028,換,换,huàn,V,to exchange,人物,手部動作
-L2-029,擦,擦,cā,V,to wipe,人物,手部動作
-L2-030,偷,偷,tōu,V,to steal,人物,手部動作
-L2-031,丟,丢,diū,V,to throw; to lose something,人物,手部動作
-L2-032,掉,掉,diào,V,to drop,人物,手部動作
-L2-033,見,见,jiàn,V,to see; to meet,人物,眼部動作
-L2-034,聞,闻,wén,V,to smell,人物,鼻子動作
-L2-035,咬,咬,yǎo,V,to bite,人物,口部動作
-L2-036,講,讲,jiǎng,V,to talk,人物,口部動作
-L2-036,講話,讲话,jiǎnghuà,V,to talk,人物,口部動作
-L2-037,告訴,告诉,gàosu,V,to tell,人物,口部動作
-L2-038,親,亲,qīn,V,to kiss,人物,口部動作
-L2-039,聽說,听说,tīngshuō,V,to hear,人物,口部動作
-L2-040,嚐,尝,cháng,V,to taste,人物,口部動作
-L2-041,吵,吵,chǎo,Vs,noisy,人物,口部動作
-L2-042,猜,猜,cāi,V,to guess,人物,心理活動
-L2-043,煩惱,烦恼,fánnǎo,N/V,(to) worry,人物,心理活動
-L2-044,麻煩,麻烦,máfan,N/V,(to) trouble,人物,心理活動
-L2-045,無聊,无聊,wúliáo,Vs,"boring, bored",人物,心理活動
-L2-046,愉快,愉快,yúkuài,Vs,delightful,人物,心理活動
-L2-047,決定,决定,juédìng,V/N,"to decide, decision",人物,心理活動
-L2-048,相信,相信,xiāngxìn,V,to believe,人物,心理活動
-L2-049,發現,发现,fāxiàn,V,to discover,人物,心理活動
-L2-050,希望,希望,xīwàng,V,to hope,人物,心理活動
-L2-051,記得,记得,jìde,V,to remember,人物,心理活動
-L2-052,感覺,感觉,gǎnjué,N/Vs,"feeling, to feel",人物,心理活動
-L2-053,了解,了解,liǎojiě,V,to understand,人物,心理活動
-L2-054,以為,以为,yǐwéi,Vs,"to think, to consider",人物,心理活動
-L2-055,認識,认识,rènshì,Vs,to know,人物,心理活動
-L2-056,著急,着急,zhāojí,Vs,anxious,人物,心理活動
-L2-057,傷心,伤心,shāngxīn,Vs,heart-broken,人物,心理活動
-L2-058,擔心,担心,dānxīn,Vs,worried,人物,心理活動
-L2-059,舒服,舒服,shūfu,Vs,comfortable,人物,心理活動
-L2-060,壯,壮,zhuàng,Vs,strong,人物,人格特質
-L2-061,肥,肥,féi,Vs,fat,人物,人格特質
-L2-062,懶,懒,lǎn,Vs,lazy,人物,人格特質
-L2-063,醜,丑,chǒu,Vs,ugly,人物,人格特質
-L2-064,活潑,活泼,huópō,Vs,vivacious,人物,人格特質
-L2-065,認真,认真,rènzhēn,Vs,"serious, earnest",人物,人格特質
-L2-066,可憐,可怜,kělián,Vs,"pitiful, poor",人物,人格特質
-L2-067,幸運,幸运,xìngyùn,Vs,lucky,人物,人格特質
-L2-068,商人,商人,shāngrén,N,merchant,人物,職業
-L2-069,作家,作家,zuòjiā,N,writer,人物,職業
-L2-070,記者,记者,jìzhě,N,reporter,人物,職業
-L2-071,演員,演员,yǎnyuán,N,actor,人物,職業
-L2-072,機會,机会,jīhuì,N,chance,人物,職業
-L2-073,做事,做事,zuòshì,V,to work,人物,職業
-L2-074,成為,成为,chéngwéi,Vs,to become,人物,職業
-L2-075,辛苦,辛苦,xīnkǔ,Vs,to work hard,人物,職業
-L2-076,夢想,梦想,mèngxiǎng,N,dream,人物,職業
-L2-078,各,各,gè,Det,each,數量,數字
-L2-079,群,群,qún,M,"collective measure word for a number of people gathering together, for animals of the same kind, and for lots of close islands",數量,數字
-L2-080,封,封,fēng,M,"measure word for letters, telegrams, etc.",數量,數字
-L2-081,度,度,dù,M,measure word for temperature,數量,數字
-L2-082,段,段,duàn,M,"measure word for a part of something, for example part of an essay, part of a journey, etc., and for part of some time period.",數量,數字
-L2-083,盆,盆,pén,M,container measure word for the things in a basin.,數量,數字
-L2-084,頂,顶,dǐng,M,"individual measure word for things that have a cap, cover, etc.",數量,數字
-L2-085,幅,幅,fú,M,"individual measure word for calligraphy, painting, etc.",數量,數字
-L2-086,遍,遍,biàn,M,measure word for the course of an action from the beginning to the end.,數量,數字
-L2-087,篇,篇,piān,M,"measure word for writings, etc.",數量,數字
-L2-088,輛,辆,liàng,M,"measure word for any conveyance, etc.",數量,數字
-L2-089,雙,双,shuāng,M,measure word for two things of the same kind to be used together.,數量,數字
-L2-090,根,根,gēn,M,"individual measure word for long things and  for soft and slender things, such as a banana, a lock of hair, etc.",數量,數量
-L2-091,萬,万,wàn,Num,ten thousand,數量,數量
-L2-092,號碼,号码,hàomǎ,N,number,數量,數量
-L2-093,數字,数字,shùzì,N,numeral,數量,數量
-L2-094,任何,任何,rènhé,Det,any,數量,數量
-L2-095,其他,其他,qítā,Det,other,數量,數量
-L2-096,所有,所有,suǒyǒu,Det,all,數量,數量
-L2-097,許多,许多,xǔduō,Det,"many, a lot of",數量,數量
-L2-098,有點兒,有点儿,yǒudiǎnr,Adv,a little,數量,數量
-L2-099,窮,穷,qióng,Vs,poor,數量,金錢
-L2-100,零用錢,零用钱,língyòngqián,N,allowance,數量,金錢
-L2-102,夠,够,gòu,Adv,enough,程度,程度
-L2-103,不錯,不错,búcuò,Vs,not bad,程度,程度
-L2-104,弱,弱,ruò,Vs,weak,程度,程度
-L2-105,強,强,qiáng,Vs,strong,程度,程度
-L2-106,淡,淡,dàn,Vs,thin,程度,程度
-L2-107,濃,浓,nóng,Vs,thick,程度,程度
-L2-108,一模一樣,一模一样,yìmóyíyàng,,exactly the same,程度,程度
-L2-109,重要,重要,zhòngyào,Vs,important,程度,程度
-L2-110,特別,特别,tèbié,Vs,special,程度,程度
-L2-112,日期,日期,rìqí,N,date,時間,年月日星期
-L2-113,時間,时间,shíjiān,N,time,時間,時間
-L2-114,傍晚,傍晚,bāngwǎn,N/Adv,evening,時間,時間
-L2-115,半夜,半夜,bànyè,N/Adv,midnight,時間,時間
-L2-116,有時,有时,yǒushí,Adv,sometimes,時間,時間
-L2-116,有時候,有时候,yǒushíhòu,Adv,sometimes,時間,時間
-L2-116,有時候,有时候,yǒushíhou,Adv,sometimes,時間,時間
-L2-117,剛才,刚才,gāngcái,Adv,just,時間,時間
-L2-118,馬上,马上,mǎshàng,Adv,immediately,時間,時間
-L2-119,經常,经常,jīngcháng,Adv,often,時間,時間
-L2-120,總是,总是,zǒngshì,Adv,always,時間,時間
-L2-121,從不,从不,cóngbù,Adv,never,時間,時間
-L2-122,當,当,dāng,Conj,when,時間,時間
-L2-123,久,久,jiǔ,Vs,for a long time,時間,時間
-L2-124,已經,已经,yǐjīng,Adv,already,時間,時間
-L2-125,永遠,永远,yǒngyuǎn,Adv,forever,時間,時間
-L2-126,過去,过去,guòqù,Adv,past,時間,時間
-L2-127,最後,最后,zuìhòu,Adv,last,時間,時間
-L2-128,趕,赶,gǎn,Vs,to rush,時間,時間
-L2-129,趕快,赶快,gǎnkuài,Adv,hurry,時間,時間
-L2-131,金色,金色,jīnsè,N,gold,形色,顏色
-L2-132,銀色,银色,yínsè,N,silver,形色,顏色
-L2-133,低,低,dī,Vs,low,形色,尺寸
-L2-134,直,直,zhí,Vs,straight,形色,形狀
-L2-135,扁,扁,biǎn,Vs,flat,形色,形狀
-L2-136,彎,弯,wān,Vs,curved; to bend,形色,形狀
-L2-137,捲,卷,juǎn,Vs,curl,形色,形狀
-L2-139,服裝,服装,fúzhuāng,N,costume,生活,衣物飾品
-L2-140,西裝,西装,xīzhuāng,N,suit,生活,衣物飾品
-L2-141,襯衫,衬衫,chènshān,N,shirt,生活,衣物飾品
-L2-142,領帶,领带,lǐngdài,N,tie,生活,衣物飾品
-L2-143,皮帶,皮带,pídài,N,belt,生活,衣物飾品
-L2-144,制服,制服,zhìfú,N,uniform,生活,衣物飾品
-L2-145,牛仔褲,牛仔裤,niúzǎikù,N,jeans,生活,衣物飾品
-L2-146,戒指,戒指,jièzhǐ,N,ring,生活,衣物飾品
-L2-147,耳環,耳环,ěrhuán,N,ear ring,生活,衣物飾品
-L2-148,項鍊,项链,xiàngliàn,N,necklace,生活,衣物飾品
-L2-149,針,针,zhēn,N,needle,生活,衣物飾品
-L2-150,線,线,xiàn,N,thread,生活,衣物飾品
-L2-151,背包,背包,bēibāo,N,backpack,生活,衣物飾品
-L2-152,打扮,打扮,dǎbàn,V,"to dress up, to make up",生活,衣物飾品
-L2-152,打扮,打扮,dǎban,V,"to dress up, to make up",生活,衣物飾品
-L2-153,流行,流行,liúxíng,Vs,"fashionable, widespread",生活,衣物飾品
-L2-154,生活,生活,shēnghuó,N,life,生活,居家用品
-L2-155,響,响,xiǎng,Vs,to make a sound,生活,居家用品
-L2-156,地板,地板,dìbǎn,N,floor,生活,居家用品
-L2-157,工具,工具,gōngjù,N,tool,生活,居家用品
-L2-158,布,布,bù,N,cloth,生活,居家用品
-L2-159,梳子,梳子,shūzi,N,comb,生活,居家用品
-L2-160,玻璃,玻璃,bōli,N,glass,生活,居家用品
-L2-161,浴缸,浴缸,yùgāng,N,tub,生活,居家用品
-L2-162,衛生紙,卫生纸,wèishēngzhǐ,N,toilet paper,生活,居家用品
-L2-163,電風扇,电风扇,diànfēngshàn,N,fan,生活,居家用品
-L2-164,鑰匙,钥匙,yàoshi,N,key,生活,居家用品
-L2-165,收音機,收音机,shōuyīnjī,N,radio,生活,居家用品
-L2-166,隨身聽,随身听,suíshēntīng,N,a type of small cassette or cd player with headphones that you can carry with you,生活,居家用品
-L2-167,廣播,广播,guǎngbò,N/V,(to) broadcast,生活,居家用品
-L2-167,廣播,广播,guǎngbō,N/V,(to) broadcast,生活,居家用品
-L2-168,新聞,新闻,xīnwén,N,news,生活,居家用品
-L2-169,節目,节目,jiémù,N,show,生活,居家用品
-L2-170,消息,消息,xiāoxi,N,news,生活,居家用品
-L2-171,網站,网站,wǎngzhàn,N,website,生活,居家用品
-L2-172,電子郵件,电子邮件,diànzǐyóujiàn,N,e-mail,生活,居家用品
-L2-173,螢幕,萤幕,yíngmù,N,screen,生活,居家用品
-L2-174,雜誌,杂志,zázhì,N,magazine,生活,居家用品
-L2-175,留言,留言,liúyán,N/V,"message, to leave a message",生活,居家用品
-L2-176,整齊,整齐,zhěngqí,Vs,tidy,生活,居家用品
-L2-177,亂七八糟,乱七八糟,luànqībāzāo,Vs,messy,生活,居家用品
-L2-178,饅頭,馒头,mántou,N,steamed bun,生活,飲食
-L2-179,泡麵,泡面,pàomiàn,N,instant noodles,生活,飲食
-L2-180,火鍋,火锅,huǒguō,N,hotpot,生活,飲食
-L2-181,豆腐,豆腐,dòufu,N,tofu,生活,飲食
-L2-182,香腸,香肠,xiāngcháng,N,sausage,生活,飲食
-L2-183,蔬菜,蔬菜,shūcài,N,vegetable,生活,飲食
-L2-184,蘿蔔,萝卜,luóbo,N,carrot,生活,飲食
-L2-185,馬鈴薯,马铃薯,mǎlíngshǔ,N,potato,生活,飲食
-L2-186,果醬,果酱,guǒjiàng,N,jam,生活,飲食
-L2-187,蜂蜜,蜂蜜,fēngmì,N,honey,生活,飲食
-L2-188,糖果,糖果,tángguǒ,N,candy,生活,飲食
-L2-189,野餐,野餐,yěcān,N/V,(to) picnic,生活,飲食
-L2-190,胡椒粉,胡椒粉,hújiāofěn,N,pepper,生活,飲食
-L2-191,酒,酒,jiǔ,N,wine,生活,飲食
-L2-192,鳳梨,凤梨,fènglí,N,pineapple,生活,飲食
-L2-193,檸檬,柠檬,níngméng,N,lemon,生活,飲食
-L2-194,椰,椰,yé,N,coconut,生活,飲食
-L2-194,椰子,椰子,yézi,N,coconut,生活,飲食
-L2-195,梨,梨,lí,N,pear,生活,飲食
-L2-195,梨子,梨子,lízi,N,pear,生活,飲食
-L2-196,味道,味道,wèidao,N,taste,生活,飲食
-L2-197,鹹,咸,xián,Vs,salty,生活,飲食
-L2-198,鹽,盐,yán,N,salt,生活,飲食
-L2-199,辣,辣,là,Vs,spicy,生活,飲食
-L2-200,酸,酸,suān,Vs,sour,生活,飲食
-L2-201,煮,煮,zhǔ,V,to cook,生活,飲食
-L2-202,煎,煎,jiān,V,to fry,生活,飲食
-L2-203,新鮮,新鲜,xīnxian,Vs,fresh,生活,飲食
-L2-204,畢業,毕业,bìyè,V,to graduate,生活,學校
-L2-205,討論,讨论,tǎolùn,V,to discuss,生活,學校
-L2-206,遲到,迟到,chídào,Vs,late,生活,學校
-L2-207,安靜,安静,ānjìng,Vs,quiet,生活,學校
-L2-208,吵架,吵架,chǎojià,V,to argue,生活,學校
-L2-209,夏令營,夏令营,xiàlìngyíng,N,summer camp,生活,學校
-L2-210,舉行,举行,jǔxíng,V,to hold,生活,學校
-L2-211,活動,活动,huódòng,N,activity,生活,學校
-L2-212,書法,书法,shūfǎ,N,chinese calligraphy,生活,學校
-L2-213,興趣,兴趣,xìngqù,N,"interest, hobby",生活,學校
-L2-214,文章,文章,wénzhāng,N,"article, essay",生活,學校
-L2-215,日記,日记,rìjì,N,diary,生活,學校
-L2-216,字典,字典,zìdiǎn,N,dictionary,生活,學校
-L2-217,歷史,历史,lìshǐ,N,history,生活,學校
-L2-218,地理,地理,dìlǐ,N,geography,生活,學校
-L2-219,戲劇,戏剧,xìjù,N,drama,生活,學校
-L2-220,回答,回答,huídá,V/N,to answer,生活,學校
-L2-221,答案,答案,dá'àn,N,answer,生活,學校
-L2-222,通知,通知,tōngzhī,V/N,to inform,生活,學校
-L2-223,複習,复习,fùxí,V,to review,生活,學校
-L2-224,學習,学习,xuéxí,V,to learn,生活,學校
-L2-225,選擇,选择,xuǎnzé,V/N,to choose; choice,生活,學校
-L2-226,借,借,jiè,V,to borrow,生活,學校
-L2-227,替,替,tì,V,on behalf of,生活,學校
-L2-228,試,试,shì,V,to try,生活,學校
-L2-229,輸,输,shū,V,to lose,生活,學校
-L2-230,贏,赢,yíng,V,to win,生活,學校
-L2-231,毛筆,毛笔,máobǐ,N,writing brush,生活,學校
-L2-232,水彩,水彩,shuǐcǎi,N,watercolor,生活,學校
-L2-233,堆,堆,duī,V/M,"(to) stack, (to) pile; collective measure word for a mass of things in piles",生活,休閒活動
-L2-234,積木,积木,jīmù,N,brick,生活,休閒活動
-L2-235,划船,划船,huáchuán,V,to row a boat,生活,休閒活動
-L2-236,溜冰,溜冰,liūbīng,V,to skate,生活,休閒活動
-L2-237,跳繩,跳绳,tiàoshéng,V/N,rope-skipping,生活,休閒活動
-L2-238,釣魚,钓鱼,diàoyú,V/N,fishing,生活,休閒活動
-L2-239,旅遊,旅游,lǚyóu,V/N,to travel,生活,休閒活動
-L2-240,參觀,参观,cānguān,V,to visit,生活,休閒活動
-L2-241,露營,露营,lùyíng,V/N,camping,生活,休閒活動
-L2-242,聊天,聊天,liáotiān,V,to chat,生活,休閒活動
-L2-243,電動玩具,电动玩具,diàndòngwánjù,N,video game,生活,休閒活動
-L2-243,電玩,电玩,diànwán,N,video game,生活,休閒活動
-L2-244,風箏,风筝,fēngzhēng,N,kite,生活,休閒活動
-L2-245,計畫,计划,jìhuà,V/N,(to) plan,生活,休閒活動
-L2-246,打算,打算,dǎsuàn,V,"to plan, to intend",生活,休閒活動
-L2-247,網路,网路,wǎnglù,N,internet,生活,休閒活動
-L2-248,油畫,油画,yóuhuà,N,oil painting,生活,休閒活動
-L2-249,影片,影片,yǐngpiàn,N,film,生活,休閒活動
-L2-250,小說,小说,xiǎoshuō,N,novel,生活,休閒活動
-L2-251,樂器,乐器,yuèqì,N,musical instruments,生活,休閒活動
-L2-252,喇叭,喇叭,lǎba,N,trumpet,生活,休閒活動
-L2-253,笛,笛,dí,N,flute,生活,休閒活動
-L2-253,笛子,笛子,dízi,N,flute,生活,休閒活動
-L2-254,合唱團,合唱团,héchàngtuán,N,"chorus, choir",生活,休閒活動
-L2-255,捉迷藏,捉迷藏,zhuōmícáng,N,hide-and-seek,生活,休閒活動
-L2-256,躲,躲,duǒ,V,to hide,生活,休閒活動
-L2-257,表演,表演,biǎoyǎn,N/V,"performance, to perform",生活,休閒活動
-L2-258,結婚,结婚,jiéhūn,V,to marry,生活,休閒活動
-L2-259,慶祝,庆祝,qìngzhù,N/V,to celebrate,生活,休閒活動
-L2-260,紀念,纪念,jìniàn,V,"to remember, to commemorate",生活,休閒活動
-L2-261,血,血,xiě,N,blood,生活,健康
-L2-262,癢,痒,yǎng,Vs,itchy,生活,健康
-L2-263,注意,注意,zhùyì,V,to notice; to watch out,生活,健康
-L2-264,傳染,传染,chuánrǎn,V,"to be contagious, to infect",生活,健康
-L2-265,昏倒,昏倒,hūndǎo,Vs,to faint,生活,健康
-L2-266,近視,近视,jìnshì,N/Vs,nearsighted,生活,健康
-L2-268,轉,转,zhuǎn,V,to turn,交通,交通工具
-L2-269,遇,遇,yù,V,"to encounter, to come across",交通,交通工具
-L2-270,出發,出发,chūfā,V,"to set off, to depart",交通,交通工具
-L2-271,發生,发生,fāshēng,V,to happen,交通,交通工具
-L2-272,離開,离开,líkāi,V,to leave,交通,交通工具
-L2-273,車禍,车祸,chēhuò,N,car accident,交通,交通工具
-L2-274,地鐵,地铁,dìtiě,N,"subway, underground",交通,交通工具
-L2-275,安全帶,安全带,ānquándài,N,seat belt,交通,交通工具
-L2-276,紅綠燈,红绿灯,hónglǜdēng,N,traffic light,交通,交通工具
-L2-277,方便,方便,fāngbiàn,Vs,convenient,交通,交通工具
-L2-279,霧,雾,wù,N,fog,自然,現象
-L2-280,刮,刮,guā,V,to blow (wind),自然,現象
-L2-281,颱風,台风,táifēng,N,typhoon,自然,現象
-L2-282,空氣,空气,kōngqì,N,air,自然,現象
-L2-283,光,光,guāng,N,light,自然,現象
-L2-284,地震,地震,dìzhèn,N,earthquake,自然,現象
-L2-285,災,灾,zāi,N,disaster,自然,現象
-L2-285,火災,火灾,huǒzāi,N,disaster,自然,現象
-L2-285,水災,水灾,shuǐzāi,N,disaster,自然,現象
-L2-286,變,变,biàn,V,"to become, to turn into",自然,季節
-L2-287,溫度,温度,wēndù,N,temperature,自然,天氣
-L2-288,濕,湿,shī,Vs,humid; wet,自然,天氣
-L2-289,晴朗,晴朗,qínglǎng,Vs,sunny,自然,天氣
-L2-290,植物,植物,zhíwù,N,plant,自然,植物
-L2-291,牠,牠,tā,N,it,自然,動物
-L2-292,熊,熊,xióng,N,bear,自然,動物
-L2-293,貓熊,猫熊,māoxióng,N,panda,自然,動物
-L2-293,熊貓,熊猫,xióngmāo,N,panda,自然,動物
-L2-294,長頸鹿,长颈鹿,chángjǐnglù,N,giraffe,自然,動物
-L2-295,龍,龙,lóng,N,dragon,自然,動物
-L2-296,恐龍,恐龙,kǒnglóng,N,dinosaur,自然,動物
-L2-297,蟑螂,蟑螂,zhāngláng,N,cockroach,自然,動物
-L2-298,蝦,虾,xiā,N,shrimp,自然,動物
-L2-299,鯨魚,鲸鱼,jīngyú,N,whale,自然,動物
-L2-300,企鵝,企鹅,qìé,N,penguin,自然,動物
-L2-301,烏龜,乌龟,wūguī,N,turtle,自然,動物
-L2-302,老鷹,老鹰,lǎoyīng,N,eagle,自然,動物
-L2-303,尾巴,尾巴,wěiba,N,tail,自然,動物
-L2-304,屬,属,shǔ,V,to belong to,自然,動物
-L2-305,島,岛,dǎo,N,island,自然,自然環境
-L2-306,湖,湖,hú,N,lake,自然,自然環境
-L2-307,地球,地球,dìqiú,N,earth,自然,自然環境
-L2-308,貝殼,贝壳,bèiké,N,shell,自然,自然環境
-L2-309,海灘,海滩,hǎitān,N,beach,自然,自然環境
-L2-310,洞,洞,dòng,N,hole,自然,自然環境
-L2-312,地圖,地图,dìtú,N,map,地方,方位
-L2-313,出現,出现,chūxiàn,V,to appear,地方,方位
-L2-314,離,离,lí,Vs,to be distant from,地方,方位
-L2-315,向,向,xiàng,Prep,"to, towards",地方,方位
-L2-316,附近,附近,fùjìn,Adv,nearby,地方,方位
-L2-317,到處,到处,dàochù,Adv,everywhere,地方,方位
-L2-318,臥房,卧房,wòfáng,N,bedroom,地方,處所
-L2-319,陽台,阳台,yángtái,N,balcony,地方,處所
-L2-320,美術館,美术馆,měishùguǎn,N,art gallery,地方,處所
-L2-321,飛機場,飞机场,fēijīchǎng,N,airport,地方,處所
-L2-322,停車場,停车场,tíngchēchǎng,N,parking lot,地方,處所
-L2-323,博物館,博物馆,bówùguǎn,N,museum,地方,處所
-L2-324,補習班,补习班,bǔxíbān,N,cram school,地方,處所
-L2-325,遊樂園,游乐园,yóulèyuán,N,amusement park,地方,處所
-L2-326,圖書館,图书馆,túshūguǎn,N,library,地方,處所
-L2-327,超級市場,超级市场,chāojíshìchǎng,N,supermarket,地方,處所
-L2-328,藥房,药房,yàofáng,N,pharmacy,地方,處所
-L2-328,藥局,药局,yàojú,N,pharmacy,地方,處所
-L2-329,工廠,工厂,gōngchǎng,N,factory,地方,處所
-L2-330,廟,庙,miào,N,temple,地方,處所
-L2-331,公司,公司,gōngsī,N,company,地方,處所
-L2-332,十字路口,十字路口,shízìlùkǒu,N,crossroad,地方,處所
-L2-333,斑馬線,斑马线,bānmǎxiàn,N,pedestrian crossing,地方,處所
-L2-334,橋,桥,qiáo,N,bridge,地方,處所
-L2-335,牆,墙,qiáng,N,wall,地方,處所
-L2-336,風景,风景,fēngjǐng,N,"landscape, scenery",地方,國家
-L2-337,鄉村,乡村,xiāngcūn,N,countryside,地方,國家
-L2-338,城市,城市,chéngshì,N,city,地方,國家
-L2-339,國旗,国旗,guóqí,N,flag,地方,國家
-L2-340,世界,世界,shìjiè,N,world,地方,國家
-L2-341,文字,文字,wénzì,N,"character, word",地方,語言
-L2-342,文化,文化,wénhuà,N,culture,地方,語言
-L2-343,語言,语言,yǔyán,N,language,地方,語言
-L2-344,漢字,汉字,hànzì,N,chinese character,地方,語言
-L2-346,打招呼,打招呼,dǎzhāohū,V,"to greet, to say hello",常用語,一般
-L2-348,怎麼,怎么,zěnme,N,why,功能詞,功能詞
-L2-349,也許,也许,yěxǔ,Adv,maybe,功能詞,功能詞
-L2-350,原來,原来,yuánlái,Adv,originally,功能詞,功能詞
-L2-351,本來,本来,běnlái,Adv,originally,功能詞,功能詞
-L2-352,應該,应该,yīnggāi,V,should,功能詞,功能詞
-L2-353,讓,让,ràng,V,to let,功能詞,功能詞
-L2-354,必須,必须,bìxū,V,must,功能詞,功能詞
-L2-355,需要,需要,xūyào,V/N,(to) need,功能詞,功能詞
-L2-356,被,被,bèi,Bei,a passive voice marker,功能詞,功能詞
-L2-357,為,为,wèi,Prep,for,功能詞,功能詞
-L2-358,為了,为了,wèile,Prep,in order to,功能詞,功能詞
-L2-359,可是,可是,kěshì,Conj,but,功能詞,功能詞
-L2-360,雖然,虽然,suīrán,Conj,although,功能詞,功能詞
-L2-361,連,连,lián,Conj,even; and,功能詞,功能詞
-L2-362,與,与,yǔ,Conj,and,功能詞,功能詞
-L2-363,除了,除了,chúle,Conj,"unless, besides, except",功能詞,功能詞
-L2-364,而且,而且,érqiě,Conj,moreover,功能詞,功能詞
-L2-365,不但,不但,búdàn,Conj/Adv,not only,功能詞,功能詞
-L2-366,啊,啊,a,Ptc,"ah, an exclamation",功能詞,功能詞
+L1-001,人,人,rén,N,person,人物,人物
+L1-002,你,你,nǐ,Pron,you,人物,人物
+L1-003,我,我,wǒ,Pron,"I, me",人物,人物
+L1-004,他,他,tā,Pron,"he/she, him/her",人物,人物
+L1-004,她,她,tā,Pron,"he/she, him/her",人物,人物
+L1-005,您,您,nín,Pron,(polite form of address) you,人物,人物
+L1-006,們,们,men,Affix,plural affix,人物,人物
+L1-007,大家,大家,dàjiā,N,everyone,人物,人物
+L1-008,誰,谁,shéi,N,"who, someone",人物,人物
+L1-009,名字,名字,míngzì,N,name,人物,人物
+L1-009,名字,名字,míngzi,N,name,人物,人物
+L1-010,先生,先生,xiānsheng,N,Mr.,人物,人物
+L1-010,先生,先生,xiānshēng,N,Mr.,人物,人物
+L1-011,小姐,小姐,xiǎojiě,N,Miss,人物,人物
+L1-012,太太,太太,tàitai,N,Mrs.,人物,人物
+L1-013,女生,女生,nǚshēng,N,girl,人物,人物
+L1-013,女,女,nǚ,N,girl,人物,人物
+L1-013,女孩,女孩,nǚhái,N,girl,人物,人物
+L1-014,男生,男生,nánshēng,N,boy,人物,人物
+L1-014,男,男,nán,N,boy,人物,人物
+L1-014,男孩,男孩,nánhái,N,boy,人物,人物
+L1-015,朋友,朋友,péngyǒu,N,friend,人物,人物
+L1-015,朋友,朋友,péngyou,N,friend,人物,人物
+L1-016,家人,家人,jiārén,N,family members,人物,家庭
+L1-017,哥哥,哥哥,gēge,N,elder brother,人物,家庭
+L1-017,哥,哥,gē,N,elder brother,人物,家庭
+L1-018,姊姊,姊姊,jiějie,N,elder sister,人物,家庭
+L1-018,姊,姊,jiě,N,elder sister,人物,家庭
+L1-019,弟弟,弟弟,dìdi,N,younger brother,人物,家庭
+L1-019,弟,弟,dì,N,younger brother,人物,家庭
+L1-020,妹妹,妹妹,mèimei,N,younger sister,人物,家庭
+L1-020,妹,妹,mèi,N,younger sister,人物,家庭
+L1-021,爸爸,爸爸,bàba,N,father,人物,家庭
+L1-021,爸,爸,bà,N,father,人物,家庭
+L1-022,媽媽,妈妈,māma,N,mother,人物,家庭
+L1-022,媽,妈,mā,N,mother,人物,家庭
+L1-023,爺爺,爷爷,yéye,N,grandfather,人物,家庭
+L1-024,奶奶,奶奶,nǎinai,N,grandmother,人物,家庭
+L1-025,阿姨,阿姨,āyí,N,aunt,人物,家庭
+L1-026,兒子,儿子,érzi,N,son,人物,家庭
+L1-026,兒,儿,ér,N,son,人物,家庭
+L1-027,女兒,女儿,nǚ'ér,N,daughter,人物,家庭
+L1-028,娃娃,娃娃,wáwa,N,baby; doll,人物,家庭
+L1-028,娃,娃,wá,N,baby; doll,人物,家庭
+L1-029,大人,大人,dàrén,N,adult,人物,家庭
+L1-029,大人,大人,dàren,N,adult,人物,家庭
+L1-030,小孩子,小孩子,xiǎoháizi,N,"child, kid",人物,家庭
+L1-031,小朋友,小朋友,xiǎopéngyǒu,N,"child, kid",人物,家庭
+L1-032,身體,身体,shēntǐ,N,body,人物,身體部位
+L1-033,頭,头,tóu,N,head,人物,身體部位
+L1-034,頭髮,头发,tóufǎ,N,hair,人物,身體部位
+L1-034,頭髮,头发,toufa,N,hair,人物,身體部位
+L1-035,毛,毛,máo,N,hair; fur,人物,身體部位
+L1-036,臉,脸,liǎn,N,face,人物,身體部位
+L1-037,眼睛,眼睛,yǎnjing,N,eye,人物,身體部位
+L1-038,耳朵,耳朵,ěrduo,N,ear,人物,身體部位
+L1-039,鼻子,鼻子,bízi,N,nose,人物,身體部位
+L1-039,鼻,鼻,bí,N,nose,人物,身體部位
+L1-040,口,口,kǒu,N/M,mouth;  measure word for a bite,人物,身體部位
+L1-041,嘴巴,嘴巴,zuǐba,N,mouth,人物,身體部位
+L1-041,嘴,嘴,zuǐ,N,mouth,人物,身體部位
+L1-042,牙齒,牙齿,yáchǐ,N,tooth,人物,身體部位
+L1-042,牙,牙,yá,N,tooth,人物,身體部位
+L1-043,肚子,肚子,dùzi,N,belly,人物,身體部位
+L1-043,肚,肚,dù,N,belly,人物,身體部位
+L1-044,手,手,shǒu,N,hand,人物,身體部位
+L1-045,手指,手指,shǒuzhǐ,N,finger,人物,身體部位
+L1-046,腳,脚,jiǎo,N,"foot, leg",人物,身體部位
+L1-047,腿,腿,tuǐ,N,leg,人物,身體部位
+L1-048,大便,大便,dàbiàn,N/V,(to) poo,人物,身體動作
+L1-049,洗澡,洗澡,xǐzǎo,V,to take a bath,人物,身體動作
+L1-050,爬,爬,pá,V,to crawl; to climb,人物,身體動作
+L1-051,睡,睡,shuì,V,to sleep,人物,身體動作
+L1-051,睡覺,睡觉,shuìjiào,V,to sleep,人物,身體動作
+L1-052,拿,拿,ná,V,to take,人物,手部動作
+L1-053,放,放,fàng,V,to put,人物,手部動作
+L1-054,打,打,dǎ,V,to hit; to play (sports and drums),人物,手部動作
+L1-055,拍,拍,pāi,V,to clap; to pat; to bounce,人物,手部動作
+L1-056,做,做,zuò,V,"to make, to do",人物,手部動作
+L1-057,站,站,zhàn,V,to stand,人物,腳部動作
+L1-058,坐,坐,zuò,V,"to sit; to travel by (bus, etc.)",人物,腳部動作
+L1-059,走,走,zǒu,V,to walk,人物,腳部動作
+L1-060,跑,跑,pǎo,V,to run,人物,腳部動作
+L1-061,看見,看见,kànjian,V,"to see, to look at, to watch",人物,眼部動作
+L1-061,看,看,kàn,V,"to see, to look at, to watch",人物,眼部動作
+L1-062,說,说,shuō,V,"to speak, to talk, to say",人物,口部動作
+L1-063,聽見,听见,tīngjiàn,V,"to listen, to hear",人物,口部動作
+L1-063,聽,听,tīng,V,"to listen, to hear",人物,口部動作
+L1-064,叫,叫,jiào,V,to call; to ask,人物,口部動作
+L1-065,問,问,wèn,V,to ask,人物,口部動作
+L1-066,哈,哈,hā,Ptc,particle used for imitating laughters,人物,口部動作
+L1-067,笑,笑,xiào,V,"to smile, to laugh",人物,心理活動
+L1-068,哭,哭,kū,V,"to cry, to weep",人物,心理活動
+L1-069,快樂,快乐,kuàilè,Vs,happy,人物,心理活動
+L1-070,害怕,害怕,hàipà,Vs,"afraid, scared",人物,心理活動
+L1-071,可怕,可怕,kěpà,Vs,horrible,人物,心理活動
+L1-072,累,累,lèi,Vs,"tired, weary",人物,心理活動
+L1-073,痛,痛,tòng,Vs,to ache,人物,心理活動
+L1-074,怕,怕,pà,Vs,"afraid, scared",人物,心理活動
+L1-075,愛,爱,ài,Vs/N,to love,人物,心理活動
+L1-076,喜歡,喜欢,xǐhuān,Vs,to like,人物,心理活動
+L1-076,喜歡,喜欢,xǐhuan,Vs,to like,人物,心理活動
+L1-077,討厭,讨厌,tǎoyàn,Vs,to hate,人物,心理活動
+L1-078,覺得,觉得,juéde,V,to feel,人物,心理活動
+L1-079,想,想,xiǎng,V,to think,人物,心理活動
+L1-080,知道,知道,zhīdao,V,to know,人物,心理活動
+L1-081,意思,意思,yìsi,N,meaning,人物,心理活動
+L1-082,胖,胖,pàng,Vs,fat,人物,人格特質
+L1-083,瘦,瘦,shòu,Vs,thin,人物,人格特質
+L1-084,老,老,lǎo,Vs,old,人物,人格特質
+L1-085,美,美,měi,Vs,"beautiful, pretty",人物,人格特質
+L1-086,乖,乖,guāi,Vs,well-behaved,人物,人格特質
+L1-087,可愛,可爱,kě'ài,Vs,"cute, lovely",人物,人格特質
+L1-088,漂亮,漂亮,piàoliang,Vs,"beautiful, pretty",人物,人格特質
+L1-089,好像,好像,hǎoxiàng,Adv,"seem, be like",人物,人格特質
+L1-090,工人,工人,gōngrén,N,worker,人物,職業
+L1-091,老師,老师,lǎoshī,N,teacher,人物,職業
+L1-092,學生,学生,xuéshēng,N,student,人物,職業
+L1-093,醫生,医生,yīshēng,N,doctor,人物,職業
+L1-094,警察,警察,jǐngchá,N,police officer,人物,職業
+L1-095,護士,护士,hùshì,N,nurse,人物,職業
+L1-095,護士,护士,hùshi,N,nurse,人物,職業
+L1-096,上班,上班,shàngbān,V,to go to work,人物,職業
+L1-097,工作,工作,gōngzuò,V/N,(to) work,人物,職業
+L1-098,忙,忙,máng,Vs,"hurry, hasten",人物,職業
+L1-100,零,零,líng,Num,zero,數量,數字
+L1-101,一,一,yī,Num,one,數量,數字
+L1-102,二,二,èr,Num,two,數量,數字
+L1-103,兩,两,liǎng,Num,two,數量,數字
+L1-104,三,三,sān,Num,three,數量,數字
+L1-105,四,四,sì,Num,four,數量,數字
+L1-106,五,五,wǔ,Num,five,數量,數字
+L1-107,六,六,liù,Num,six,數量,數字
+L1-108,七,七,qī,Num,seven,數量,數字
+L1-109,八,八,bā,Num,eight,數量,數字
+L1-110,九,九,jiǔ,Num,nine,數量,數字
+L1-111,十,十,shí,Num,ten,數量,數字
+L1-112,百,百,bǎi,Num,hundred,數量,數字
+L1-113,每,每,měi,Det,every,數量,數量
+L1-114,多,多,duō,Vs,a lot,數量,數量
+L1-115,少,少,shǎo,Vs,"few, little",數量,數量
+L1-116,數,数,shǔ,V,to count,數量,數量
+L1-117,剩下,剩下,shèngxià,V,to remain,數量,數量
+L1-118,歲,岁,suì,N,"age, year old",數量,數量
+L1-119,一起,一起,yīqǐ,Adv,together,數量,數量
+L1-120,本,本,běn,M,"individual measure word for books or magazines, etc.",數量,數量
+L1-121,頁,页,yè,N/M,page; partial measure word for one side of a book or magazine,數量,數量
+L1-122,次,次,cì,M,measure word for the number of repetitions in a given period of time,數量,數量
+L1-123,種,种,zhǒng,M/V,collective measure word for things of the same kind; to grow (plants),數量,數量
+L1-123,種,种,zhòng,M/V,collective measure word for things of the same kind; to grow (plants),數量,數量
+L1-124,朵,朵,duǒ,M,individual measure word for flowers or clouds,數量,數量
+L1-125,塊,块,kuài,M,"partial measure word for lumps of foodstuff, for regular-shaped products, and for chinese currency",數量,數量
+L1-126,個,个,ge,M,general measure word for individuals,數量,數量
+L1-127,隻,只,zhī,M,measre word for one of the symetrical limbs or organs of people or animals and for insects or animals,數量,數量
+L1-128,元,元,yuán,N,dollar,數量,金錢
+L1-129,錢,钱,qián,N,money,數量,金錢
+L1-130,買,买,mǎi,V,to buy,數量,金錢
+L1-131,多少,多少,duōshǎo,N,how much,數量,金錢
+L1-133,最,最,zuì,Adv,most,程度,程度
+L1-134,好,好,hǎo,Adv/Vs,"very, quite; good",程度,程度
+L1-135,太,太,tài,Adv,"too, extremely, very",程度,程度
+L1-136,很,很,hěn,Adv,"very, quite, awfully",程度,程度
+L1-137,真,真,zhēn,Adv,"really, truly",程度,程度
+L1-138,非常,非常,fēicháng,Adv,"specially, very, extremely",程度,程度
+L1-139,一樣,一样,yīyàng,Adv,same,程度,程度
+L1-141,年,年,nián,N,year,時間,年月日星期
+L1-142,月,月,yuè,N,month,時間,年月日星期
+L1-143,日,日,rì,N,day,時間,年月日星期
+L1-144,號,号,hào,N,number,時間,年月日星期
+L1-145,天,天,tiān,N,day,時間,年月日星期
+L1-146,星期,星期,xīngqí,N,week,時間,年月日星期
+L1-146,星期,星期,xīngqī,N,week,時間,年月日星期
+L1-147,星期天,星期天,xīngqítiān,N/Adv,Sunday,時間,年月日星期
+L1-147,星期天,星期天,xīngqītiān,N/Adv,Sunday,時間,年月日星期
+L1-147,星期日,星期日,xīngqírì,N/Adv,Sunday,時間,年月日星期
+L1-147,星期日,星期日,xīngqīrì,N/Adv,Sunday,時間,年月日星期
+L1-148,今天,今天,jīntiān,N/Adv,today,時間,年月日星期
+L1-149,明天,明天,míngtiān,N/Adv,tomorrow,時間,年月日星期
+L1-150,昨天,昨天,zuótiān,N/Adv,yesterday,時間,年月日星期
+L1-151,假日,假日,jiàrì,N,holiday,時間,年月日星期
+L1-152,早,早,zǎo,Vs/Adv,early,時間,時間
+L1-153,先,先,xiān,Adv,"earlier, before",時間,時間
+L1-154,早上,早上,zǎoshang,N/Adv,morning,時間,時間
+L1-155,上午,上午,shàngwǔ,N/Adv,morning,時間,時間
+L1-156,中午,中午,zhōngwǔ,N/Adv,noon,時間,時間
+L1-157,下午,下午,xiàwǔ,N/Adv,afternoon,時間,時間
+L1-158,晚上,晚上,wǎnshang,N/Adv,"evening, night",時間,時間
+L1-159,現在,现在,xiànzài,Adv,now,時間,時間
+L1-160,開始,开始,kāishǐ,V,"to begin, to start",時間,時間
+L1-161,幾,几,jǐ,Det,several,時間,時間
+L1-162,點,点,diǎn,N,o'clock,時間,時間
+L1-163,分,分,fēn,N,minute,時間,時間
+L1-164,半,半,bàn,N,half an hour,時間,時間
+L1-165,一下子,一下子,yīxiàzi,Adv,in a short while,時間,時間
+L1-166,再,再,zài,Conj/Adv,again,時間,時間
+L1-167,就,就,jiù,Conj/Adv,then (refers to both time and cause-effect relationship),時間,時間
+L1-168,等,等,děng,V,to wait,時間,時間
+L1-169,快,快,kuài,Vs,"soon, quick, fast",時間,時間
+L1-170,著,着,zhe,Asp,aspect marker used to indicate events that are durative,時間,時間
+L1-171,了,了,le,Asp,aspect marker used to indicate events undergone a certain change of state,時間,時間
+L1-173,顏色,颜色,yánsè,N,color,形色,顏色
+L1-174,白色,白色,báisè,N,white,形色,顏色
+L1-175,黃色,黄色,huángsè,N,yellow,形色,顏色
+L1-176,黑色,黑色,hēisè,N,black,形色,顏色
+L1-177,綠色,绿色,lǜsè,N,green,形色,顏色
+L1-178,藍色,蓝色,lánsè,N,blue,形色,顏色
+L1-179,紅色,红色,hóngsè,N,red,形色,顏色
+L1-180,亮,亮,liàng,Vs,bright,形色,顏色
+L1-181,小,小,xiǎo,Vs,"small, little",形色,尺寸
+L1-182,大,大,dà,Vs,big,形色,尺寸
+L1-183,長,长,cháng,Vs/V,long; to grow,形色,尺寸
+L1-183,長,长,zhǎng,Vs/V,long; to grow,形色,尺寸
+L1-184,高,高,gāo,Vs,high,形色,尺寸
+L1-185,短,短,duǎn,Vs,"short, brief",形色,尺寸
+L1-186,矮,矮,ǎi,Vs,short,形色,尺寸
+L1-187,圓,圆,yuán,Vs/N,round; circle,形色,形狀
+L1-187,圓形,圆形,yuánxíng,Vs/N,round; circle,形色,形狀
+L1-188,三角形,三角形,sānjiǎoxíng,N,triangle,形色,形狀
+L1-189,正方形,正方形,zhèngfāngxíng,N,square,形色,形狀
+L1-190,長方形,长方形,chángfāngxíng,N,rectangle,形色,形狀
+L1-192,衣服,衣服,yīfu,N,clothes,生活,衣物飾品
+L1-193,帽子,帽子,màozi,N,hat,生活,衣物飾品
+L1-193,帽,帽,mào,N,hat,生活,衣物飾品
+L1-194,毛衣,毛衣,máoyī,N,sweater,生活,衣物飾品
+L1-195,外套,外套,wàitào,N,coat,生活,衣物飾品
+L1-196,裙子,裙子,qúnzi,N,"skirt, petticoat",生活,衣物飾品
+L1-196,裙,裙,qún,N,"skirt, petticoat",生活,衣物飾品
+L1-197,褲子,裤子,kùzi,N,pants,生活,衣物飾品
+L1-197,褲,裤,kù,N,pants,生活,衣物飾品
+L1-198,鞋子,鞋子,xiézi,N,shoes,生活,衣物飾品
+L1-198,鞋,鞋,xié,N,shoes,生活,衣物飾品
+L1-199,襪子,袜子,wàzi,N,socks,生活,衣物飾品
+L1-199,襪,袜,wà,N,socks,生活,衣物飾品
+L1-200,皮包,皮包,píbāo,N,leather handbag,生活,衣物飾品
+L1-201,穿,穿,chuān,V,"to wear, to put on",生活,衣物飾品
+L1-202,戴,戴,dài,V,"to wear, to put on",生活,衣物飾品
+L1-203,門,门,mén,N,door,生活,居家用品
+L1-204,窗,窗,chuāng,N,window,生活,居家用品
+L1-204,窗戶,窗户,chuānghu,N,window,生活,居家用品
+L1-205,衣櫃,衣柜,yīguì,N,closet,生活,居家用品
+L1-206,櫃子,柜子,guìzi,N,cabinet,生活,居家用品
+L1-206,櫃,柜,guì,N,cabinet,生活,居家用品
+L1-207,床,床,chuáng,N,bed,生活,居家用品
+L1-208,燈,灯,dēng,N,lamp,生活,居家用品
+L1-209,桌子,桌子,zhuōzi,N,table,生活,居家用品
+L1-209,桌,桌,zhuō,N,table,生活,居家用品
+L1-210,椅子,椅子,yǐzi,N,chair,生活,居家用品
+L1-210,椅,椅,yǐ,N,chair,生活,居家用品
+L1-211,冷氣,冷气,lěngqì,N,air conditioner,生活,居家用品
+L1-212,冰箱,冰箱,bīngxiāng,N,refrigerator,生活,居家用品
+L1-213,棉被,棉被,miánbèi,N,quilt,生活,居家用品
+L1-214,電話,电话,diànhuà,N,telephone,生活,居家用品
+L1-215,電視,电视,diànshì,N,"television, TV",生活,居家用品
+L1-216,電腦,电脑,diànnǎo,N,computer,生活,居家用品
+L1-217,洗衣機,洗衣机,xǐyījī,N,washing machine,生活,居家用品
+L1-218,刀子,刀子,dāozi,N,knife,生活,居家用品
+L1-218,刀,刀,dāo,N,knife,生活,居家用品
+L1-219,叉子,叉子,chāzi,N,fork,生活,居家用品
+L1-220,杯,杯,bēi,M,"cup, glass; a cup of",生活,居家用品
+L1-220,杯子,杯子,bēizi,N,"cup, glass; a cup of",生活,居家用品
+L1-221,筷子,筷子,kuàizi,N,chopsticks,生活,居家用品
+L1-221,筷,筷,kuài,N,chopsticks,生活,居家用品
+L1-222,碗,碗,wǎn,N,bowl; measure word for servings of food,生活,居家用品
+L1-223,水壺,水壶,shuǐhú,N,"pitcher, kettle, canteen, water bottle",生活,居家用品
+L1-224,花瓶,花瓶,huāpíng,N,vase,生活,居家用品
+L1-225,手錶,手表,shǒubiǎo,N,watch,生活,居家用品
+L1-226,鐘,钟,zhōng,N,"bell, clock",生活,居家用品
+L1-227,傘,伞,sǎn,N,umbrella,生活,居家用品
+L1-227,雨傘,雨伞,yǔsǎn,N,umbrella,生活,居家用品
+L1-228,照片,照片,zhàopiàn,N,"photo, picture",生活,居家用品
+L1-229,照相機,照相机,zhàoxiàngjī,N,camera,生活,居家用品
+L1-229,照像機,照像机,zhàoxiàngjī,N,camera,生活,居家用品
+L1-230,新,新,xīn,Vs,new,生活,居家活動
+L1-231,髒,脏,zāng,Vs,dirty,生活,居家活動
+L1-232,破,破,pò,Vs,to break apart,生活,居家活動
+L1-233,洗,洗,xǐ,V,to wash,生活,居家活動
+L1-234,開,开,kāi,V,to open,生活,居家活動
+L1-234,打開,打开,dǎkāi,V,to open,生活,居家活動
+L1-235,起床,起床,qǐchuáng,V,to get up,生活,居家活動
+L1-236,照相,照相,zhàoxiàng,V,"to take a picture, to take a photograph",生活,居家活動
+L1-236,照像,照像,zhàoxiàng,V,"to take a picture, to take a photograph",生活,居家活動
+L1-237,肉,肉,ròu,N,meat,生活,飲食
+L1-238,菜,菜,cài,N,dish; vegetable,生活,飲食
+L1-239,蛋,蛋,dàn,N,egg,生活,飲食
+L1-240,麵,面,miàn,N,noodles,生活,飲食
+L1-241,米飯,米饭,mǐfàn,N,rice,生活,飲食
+L1-241,飯,饭,fàn,N,rice,生活,飲食
+L1-242,餃子,饺子,jiǎozi,N,dumplings,生活,飲食
+L1-242,餃,饺,jiǎo,N,dumplings,生活,飲食
+L1-243,湯,汤,tāng,N,soup,生活,飲食
+L1-244,漢堡,汉堡,hànbǎo,N,hamburger,生活,飲食
+L1-245,熱狗,热狗,règǒu,N,hot dog,生活,飲食
+L1-246,餅乾,饼干,bǐnggān,N,"biscuit, cracker, cookie",生活,飲食
+L1-247,蛋糕,蛋糕,dàngāo,N,cake,生活,飲食
+L1-248,麵包,面包,miànbāo,N,bread,生活,飲食
+L1-249,三明治,三明治,sānmíngzhì,N,sandwich,生活,飲食
+L1-250,冰淇淋,冰淇淋,bīngqílín,N,ice cream,生活,飲食
+L1-251,餐,餐,cān,N,meal,生活,飲食
+L1-252,飲料,饮料,yǐnliào,N,"drink, beverage",生活,飲食
+L1-253,茶,茶,chá,N,tea,生活,飲食
+L1-254,牛奶,牛奶,niúnǎi,N,milk,生活,飲食
+L1-255,可樂,可乐,kělè,N,coke,生活,飲食
+L1-256,汽水,汽水,qìshuǐ,N,soft drink,生活,飲食
+L1-257,果汁,果汁,guǒzhī,N,juice,生活,飲食
+L1-258,水果,水果,shuǐguǒ,N,fruit,生活,飲食
+L1-259,橘子,橘子,júzi,N,tangerine,生活,飲食
+L1-259,橘,橘,jú,N,tangerine,生活,飲食
+L1-260,西瓜,西瓜,xīguā,N,watermelon,生活,飲食
+L1-261,柳橙,柳橙,liǔchéng,N,orange,生活,飲食
+L1-262,香蕉,香蕉,xiāngjiāo,N,banana,生活,飲食
+L1-263,草莓,草莓,cǎoméi,N,strawberry,生活,飲食
+L1-264,番茄,番茄,fānqié,N,tomato,生活,飲食
+L1-264,蕃茄,蕃茄,fānqié,N,tomato,生活,飲食
+L1-265,蘋果,苹果,píngguǒ,N,apple,生活,飲食
+L1-266,糖,糖,táng,N,"sugar, candy",生活,飲食
+L1-267,甜,甜,tián,Vs,sweet,生活,飲食
+L1-268,餓,饿,è,Vs,hungry,生活,飲食
+L1-269,吃,吃,chī,V,to eat,生活,飲食
+L1-270,喝,喝,hē,V,to drink,生活,飲食
+L1-271,給,给,gěi,V,to give,生活,飲食
+L1-272,同學,同学,tóngxué,N,classmate,生活,學校
+L1-273,上課,上课,shàngkè,V,to go to class,生活,學校
+L1-274,下課,下课,xiàkè,V,to dismiss,生活,學校
+L1-275,上學,上学,shàngxué,V,to go to school,生活,學校
+L1-276,放假,放假,fàngjià,V,to have day off,生活,學校
+L1-277,放學,放学,fàngxué,V,to finish classes (for the day),生活,學校
+L1-278,遊戲,游戏,yóuxì,N,game,生活,學校
+L1-279,圖,图,tú,N,"picture, drawing",生活,學校
+L1-280,字,字,zì,N,"character, word",生活,學校
+L1-281,書,书,shū,N,book,生活,學校
+L1-282,書包,书包,shūbāo,N,schoolbag,生活,學校
+L1-283,課,课,kè,N,"course, class",生活,學校
+L1-284,課本,课本,kèběn,N,textbook,生活,學校
+L1-285,作業,作业,zuòyè,N,homework,生活,學校
+L1-286,問題,问题,wèntí,N,"question, problem",生活,學校
+L1-287,考試,考试,kǎoshì,N/V,"(to) exam, (to) test",生活,學校
+L1-288,寫,写,xiě,V,to write,生活,學校
+L1-289,學,学,xué,V,"to study, to learn",生活,學校
+L1-290,讀,读,dú,V,to read,生活,學校
+L1-291,念,念,niàn,V,to read out loud,生活,學校
+L1-292,黑板,黑板,hēibǎn,N,blackboard,生活,學校
+L1-293,文具,文具,wénjù,N,stationery,生活,學校
+L1-294,紙,纸,zhǐ,N,paper,生活,學校
+L1-295,筆,笔,bǐ,N,pen,生活,學校
+L1-296,鉛筆,铅笔,qiānbǐ,N,pencil,生活,學校
+L1-297,彩色筆,彩色笔,cǎisèbǐ,N,color pen,生活,學校
+L1-298,尺,尺,chǐ,N,ruler,生活,學校
+L1-299,橡皮,橡皮,xiàngpí,N,eraser,生活,學校
+L1-299,橡皮擦,橡皮擦,xiàngpícā,N,eraser,生活,學校
+L1-300,剪刀,剪刀,jiǎndāo,N,scissors,生活,學校
+L1-301,剪,剪,jiǎn,V,to cut,生活,學校
+L1-302,貼,贴,tiē,V,to paste,生活,學校
+L1-303,玩,玩,wán,V,to play,生活,休閒活動
+L1-304,追,追,zhuī,V,"to chase after, to pursue",生活,休閒活動
+L1-305,跳舞,跳舞,tiàowǔ,V,to dance,生活,休閒活動
+L1-306,踢,踢,tī,V,to kick,生活,休閒活動
+L1-307,游,游,yóu,V,to swim,生活,休閒活動
+L1-307,游泳,游泳,yóuyǒng,V,to swim,生活,休閒活動
+L1-308,玩具,玩具,wánjù,N,toy,生活,休閒活動
+L1-309,運動,运动,yùndòng,N/V,"sport, (to) exercise",生活,休閒活動
+L1-309,運動,运动,yùndong,N/V,"sport, (to) exercise",生活,休閒活動
+L1-310,球,球,qiú,N,ball,生活,休閒活動
+L1-311,氣球,气球,qìqiú,N,balloon,生活,休閒活動
+L1-312,皮球,皮球,píqiú,N,ruber ball,生活,休閒活動
+L1-313,足球,足球,zúqiú,N,"soccer, football",生活,休閒活動
+L1-314,棒球,棒球,bàngqiú,N,baseball,生活,休閒活動
+L1-315,籃球,篮球,lánqiú,N,basketball,生活,休閒活動
+L1-316,下棋,下棋,xiàqí,V,to play chess,生活,休閒活動
+L1-317,畫,画,huà,V/N,"to draw, to paint; picture, drawing, painting",生活,休閒活動
+L1-317,畫兒,画儿,huàr,V/N,"to draw, to paint; picture, drawing, painting",生活,休閒活動
+L1-318,電影,电影,diànyǐng,N,"film, movie",生活,休閒活動
+L1-319,音樂,音乐,yīnyuè,N,music,生活,休閒活動
+L1-320,鋼琴,钢琴,gāngqín,N,piano,生活,休閒活動
+L1-321,唱,唱,chàng,V,to sing,生活,休閒活動
+L1-322,彈,弹,tán,V,to play (musical instruments),生活,休閒活動
+L1-323,歌,歌,gē,N,song,生活,休閒活動
+L1-324,養,养,yǎng,V,to raise,生活,休閒活動
+L1-325,送,送,sòng,V,"to send, to give",生活,休閒活動
+L1-326,生日,生日,shēngrì,N,birthday,生活,休閒活動
+L1-327,禮物,礼物,lǐwù,N,"gift, present",生活,休閒活動
+L1-328,新年,新年,xīnnián,N,New Year,生活,休閒活動
+L1-329,過年,过年,guònián,N/V,to celebrate or spend New Year,生活,休閒活動
+L1-330,生病,生病,shēngbìng,V,to be sick,生活,健康
+L1-331,感冒,感冒,gǎnmào,V,to catch a cold,生活,健康
+L1-332,打針,打针,dǎzhēn,V,to have an injection,生活,健康
+L1-333,藥,药,yào,N,"medicine, drug",生活,健康
+L1-335,車子,车子,chēzi,N,car,交通,交通工具
+L1-335,車,车,chē,N,car,交通,交通工具
+L1-336,船,船,chuán,N,"boat, ship",交通,交通工具
+L1-337,火車,火车,huǒchē,N,train,交通,交通工具
+L1-338,汽車,汽车,qìchē,N,car,交通,交通工具
+L1-339,飛機,飞机,fēijī,N,airplane,交通,交通工具
+L1-340,公車,公车,gōngchē,N,bus,交通,交通工具
+L1-340,公共汽車,公共汽车,gōnggòngqìchē,N,bus,交通,交通工具
+L1-341,腳踏車,脚踏车,jiǎotàchē,N,bicycle,交通,交通工具
+L1-341,自行車,自行车,zìxíngchē,N,bicycle,交通,交通工具
+L1-342,到,到,dào,V,"to arrive, to reach, to go to",交通,交通工具
+L1-343,騎,骑,qí,V,to ride,交通,交通工具
+L1-344,過,过,guò,V/Asp,to pass; aspect marker for indicating experience for something,交通,交通工具
+L1-345,飛,飞,fēi,V,to fly,交通,交通工具
+L1-347,雨,雨,yǔ,N,rain,自然,現象
+L1-348,風,风,fēng,N,wind,自然,現象
+L1-349,雪,雪,xuě,N,snow,自然,現象
+L1-350,雲,云,yún,N,cloud,自然,現象
+L1-351,太陽,太阳,tàiyáng,N,sun,自然,現象
+L1-352,月亮,月亮,yuèliàng,N,moon,自然,現象
+L1-352,月亮,月亮,yuèliang,N,moon,自然,現象
+L1-353,星星,星星,xīngxing,N,star,自然,現象
+L1-353,星,星,xīng,N,star,自然,現象
+L1-354,火,火,huǒ,N,fire,自然,現象
+L1-355,水,水,shuǐ,N,water,自然,現象
+L1-356,冰,冰,bīng,N/Vs,ice,自然,現象
+L1-357,春,春,chūn,N,spring,自然,季節
+L1-357,春天,春天,chūntiān,N,spring,自然,季節
+L1-358,夏,夏,xià,N,summer,自然,季節
+L1-358,夏天,夏天,xiàtiān,N,summer,自然,季節
+L1-359,秋,秋,qiū,N,"autumn, fall",自然,季節
+L1-359,秋天,秋天,qiūtiān,N,"autumn, fall",自然,季節
+L1-360,冬,冬,dōng,N,winter,自然,季節
+L1-360,冬天,冬天,dōngtiān,N,winter,自然,季節
+L1-361,天氣,天气,tiānqì,N,weather,自然,天氣
+L1-362,冷,冷,lěng,Vs,cold,自然,天氣
+L1-363,熱,热,rè,Vs,hot,自然,天氣
+L1-364,陰天,阴天,yīntiān,N,cloudy,自然,天氣
+L1-365,晴天,晴天,qíngtiān,N,sunny,自然,天氣
+L1-366,下雨,下雨,xiàyǔ,V,to rain,自然,天氣
+L1-367,下雪,下雪,xiàxuě,V,to snow,自然,天氣
+L1-368,花,花,huā,N,flower,自然,植物
+L1-369,草,草,cǎo,N,grass,自然,植物
+L1-370,樹,树,shù,N,tree,自然,植物
+L1-371,木,木,mù,N,wood,自然,植物
+L1-371,木頭,木头,mùtou,N,wood,自然,植物
+L1-372,葉子,叶子,yèzi,N,leaf,自然,植物
+L1-372,葉,叶,yè,N,leaf,自然,植物
+L1-373,動物,动物,dòngwù,N,animal,自然,動物
+L1-374,老虎,老虎,lǎohǔ,N,tiger,自然,動物
+L1-374,虎,虎,hǔ,N,tiger,自然,動物
+L1-375,猴子,猴子,hóuzi,N,monkey,自然,動物
+L1-375,猴,猴,hóu,N,monkey,自然,動物
+L1-376,馬,马,mǎ,N,horse,自然,動物
+L1-377,牛,牛,niú,N,cow,自然,動物
+L1-378,羊,羊,yáng,N,sheep,自然,動物
+L1-379,豬,猪,zhū,N,pig,自然,動物
+L1-380,狗,狗,gǒu,N,dog,自然,動物
+L1-381,貓,猫,māo,N,cat,自然,動物
+L1-382,老鼠,老鼠,lǎoshǔ,N,"mouse, rat",自然,動物
+L1-382,鼠,鼠,shǔ,N,"mouse, rat",自然,動物
+L1-383,兔子,兔子,tùzi,N,"rabbit,hare",自然,動物
+L1-383,兔,兔,tù,N,"rabbit,hare",自然,動物
+L1-384,鳥,鸟,niǎo,N,bird,自然,動物
+L1-385,雞,鸡,jī,N,chicken,自然,動物
+L1-386,鴨子,鸭子,yāzi,N,duck,自然,動物
+L1-386,鴨,鸭,yā,N,duck,自然,動物
+L1-387,魚,鱼,yú,N,fish,自然,動物
+L1-388,山,山,shān,N,mountain,自然,自然環境
+L1-389,地,地,dì,N,ground,自然,自然環境
+L1-390,天空,天空,tiānkōng,N,sky,自然,自然環境
+L1-391,大海,大海,dàhǎi,N,sea,自然,自然環境
+L1-391,海,海,hǎi,N,sea,自然,自然環境
+L1-392,海邊,海边,hǎibiān,N,"seashore, sea beach, alongside the sea, coast",自然,自然環境
+L1-394,上面,上面,shàngmiàn,N,up; on top of,地方,方位
+L1-394,上,上,shàng,N,up; on top of,地方,方位
+L1-395,下面,下面,xiàmiàn,N,down; under,地方,方位
+L1-395,下,下,xià,N,down; under,地方,方位
+L1-396,前面,前面,qiánmiàn,N,front,地方,方位
+L1-396,前,前,qián,N,front,地方,方位
+L1-397,後面,后面,hòumiàn,N,back,地方,方位
+L1-397,後,后,hòu,N,back,地方,方位
+L1-398,裡面,里面,lǐmiàn,N,inside,地方,方位
+L1-398,裡,里,lǐ,N,inside,地方,方位
+L1-399,外面,外面,wàimiàn,N,outside,地方,方位
+L1-399,外,外,wài,N,outside,地方,方位
+L1-400,中間,中间,zhōngjiān,N,"center, middle",地方,方位
+L1-401,在,在,zài,Prep/Asp,"in, at, on, etc.; progressive aspect marker",地方,方位
+L1-402,來,来,lái,V,to come,地方,方位
+L1-403,去,去,qù,V,to go,地方,方位
+L1-404,回,回,huí,V,to go back to,地方,方位
+L1-405,進,进,jìn,V,to enter,地方,方位
+L1-406,出,出,chū,V,to go out,地方,方位
+L1-407,住,住,zhù,V,to live,地方,方位
+L1-408,哪,哪,nǎ,N,which,地方,方位
+L1-409,哪裡,哪里,nǎlǐ,N,where,地方,方位
+L1-409,哪兒,哪儿,nǎr,N,where,地方,方位
+L1-410,這裡,这里,zhèlǐ,Adv,here,地方,方位
+L1-410,這兒,这儿,zhèr,Adv,here,地方,方位
+L1-411,那裡,那里,nàlǐ,Adv,there,地方,方位
+L1-411,那兒,那儿,nàr,Adv,there,地方,方位
+L1-412,路,路,lù,N,road,地方,方位
+L1-413,這,这,zhè,Det,this; these,地方,方位
+L1-413,這些,这些,zhèixiē,Det,this; these,地方,方位
+L1-414,那,那,nà,Det,that; those,地方,方位
+L1-414,那些,那些,nèixiē,Det,that; those,地方,方位
+L1-415,家,家,jiā,N,home,地方,處所
+L1-416,房子,房子,fángzi,N,house,地方,處所
+L1-416,房,房,fáng,N,house,地方,處所
+L1-417,房間,房间,fángjiān,N,room,地方,處所
+L1-418,學校,学校,xuéxiào,N,school,地方,處所
+L1-419,餐廳,餐厅,cāntīng,N,"restaurant, dining room",地方,處所
+L1-420,醫院,医院,yīyuàn,N,hospital,地方,處所
+L1-421,公園,公园,gōngyuán,N,park,地方,處所
+L1-422,花園,花园,huāyuán,N,garden,地方,處所
+L1-423,動物園,动物园,dòngwùyuán,N,zoo,地方,處所
+L1-424,車站,车站,chēzhàn,N,station,地方,處所
+L1-425,市場,市场,shìchǎng,N,market,地方,處所
+L1-426,店,店,diàn,N,"shop, store",地方,處所
+L1-427,商店,商店,shāngdiàn,N,"shop, store",地方,處所
+L1-428,百貨公司,百货公司,bǎihuògōngsī,N,department store,地方,處所
+L1-429,樓,楼,lóu,N,floor,地方,處所
+L1-430,國家,国家,guójiā,N,"country, state, nation",地方,國家
+L1-430,國,国,guó,N,"country, state, nation",地方,國家
+L1-431,中國,中国,zhōngguó,N,China,地方,國家
+L1-432,台灣,台湾,táiwān,N,Taiwan,地方,國家
+L1-433,美國,美国,měiguó,N,the United States,地方,國家
+L1-434,漢語,汉语,hànyǔ,N,Chinese/Sinitic language(s),地方,語言
+L1-435,英語,英语,yīngyǔ,N,English (language),地方,語言
+L1-435,英文,英文,yīngwén,N,English (language),地方,語言
+L1-436,華語,华语,huáyǔ,N,Chinese (language),地方,語言
+L1-436,華文,华文,huáwén,N,Chinese (language),地方,語言
+L1-438,請,请,qǐng,V,please,常用語,一般
+L1-439,謝謝,谢谢,xièxie,V,to thank,常用語,一般
+L1-439,謝,谢,xiè,V,to thank,常用語,一般
+L1-440,再見,再见,zàijiàn,V,"Goodbye, or see you again.",常用語,一般
+L1-441,不客氣,不客气,búkèqì,V,You are welcome.,常用語,一般
+L1-442,沒關係,没关系,méiguānxi,V,Never mind.,常用語,一般
+L1-443,對不起,对不起,duìbuqǐ,V,sorry,常用語,一般
+L1-444,祝,祝,zhù,V,"to bless, to wish",常用語,祝福
+L1-446,對,对,duì,Vs,"right, correct",功能詞,功能詞
+L1-447,是,是,shì,Adv,yes,功能詞,功能詞
+L1-448,不,不,bù,Adv,"no, not",功能詞,功能詞
+L1-449,沒,没,méi,Adv,"no, not",功能詞,功能詞
+L1-450,別,别,bié,Adv,other; don't,功能詞,功能詞
+L1-451,沒有,没有,méiyǒu,Adv,not have,功能詞,功能詞
+L1-452,也,也,yě,Adv,"also, too, as well",功能詞,功能詞
+L1-453,有,有,yǒu,V,"to have, to possess",功能詞,功能詞
+L1-454,要,要,yào,V,"to want/wish (to), to ask (for), to demand, to request",功能詞,功能詞
+L1-455,會,会,huì,V,"will, can, be able to, be good at, be skillful in",功能詞,功能詞
+L1-456,像,像,xiàng,V,"to be like, to resemble",功能詞,功能詞
+L1-457,不用,不用,búyòng,V,need not,功能詞,功能詞
+L1-458,什麼,什么,shénme,N,what,功能詞,功能詞
+L1-459,怎麼,怎么,zěnme,N,how,功能詞,功能詞
+L1-460,為什麼,为什么,wèishénme,N,why,功能詞,功能詞
+L1-461,怎麼樣,怎么样,zěnmeyàng,N,how,功能詞,功能詞
+L1-462,怎麼辦,怎么办,zěnmebàn,N,what to do,功能詞,功能詞
+L1-463,把,把,bǎ,BA,marking entities which have undergone a certain change of state,功能詞,功能詞
+L1-464,可以,可以,kěyǐ,Adv,"can, may",功能詞,功能詞
+L1-465,都,都,dōu,Adv,all,功能詞,功能詞
+L1-466,和,和,hé,Prep/Conj,"with, and",功能詞,功能詞
+L1-466,和,和,hàn,Prep/Conj,"with, and",功能詞,功能詞
+L1-467,跟,跟,gēn,Conj/Prep,"and, with",功能詞,功能詞
+L1-468,或,或,huò,Conj,"or, either or",功能詞,功能詞
+L1-469,因為,因为,yīnwèi,Conj,because,功能詞,功能詞
+L1-470,的,的,de,Ptc,possessive particle; common adj. particle; particle: emphasizing an action,功能詞,功能詞
+L1-471,嗎,吗,ma,Ptc,a question particle,功能詞,功能詞
+L1-472,呢,呢,ne,Ptc,a question particle,功能詞,功能詞
+L1-473,喂,喂,wéi,Ptc,"a common telephone or intercom greeting ""hello""",功能詞,功能詞
+L1-474,吧,吧,ba,Ptc,particle implying probability,功能詞,功能詞
+L2-001,姓,姓,xìng,V/N,"surname, family name",人物,人物
+L2-002,家庭,家庭,jiātíng,N,family,人物,家庭
+L2-003,客人,客人,kèrén,N,"guest, visitor",人物,家庭
+L2-004,伯伯,伯伯,bóbo,N,uncle,人物,家庭
+L2-004,伯,伯,bó,N,uncle,人物,家庭
+L2-005,父母,父母,fùmǔ,N,parents,人物,家庭
+L2-006,寶貝,宝贝,bǎobèi,N,baby,人物,家庭
+L2-007,幫,帮,bāng,V,to help,人物,家庭
+L2-008,幫忙,帮忙,bāngmáng,V/N,(to) help,人物,家庭
+L2-009,事,事,shì,N,matter,人物,家庭
+L2-009,事情,事情,shìqíng,N,matter,人物,家庭
+L2-009,事情,事情,shìqing,N,matter,人物,家庭
+L2-010,家事,家事,jiāshì,N,housework,人物,家庭
+L2-011,打掃,打扫,dǎsǎo,V,to clean,人物,家庭
+L2-012,長大,长大,zhǎngdà,V,to grow up,人物,家庭
+L2-013,容易,容易,róngyì,Vs,easy,人物,家庭
+L2-014,簡單,简单,jiǎndān,Vs,simple,人物,家庭
+L2-015,難,难,nán,Vs,difficult,人物,家庭
+L2-016,清楚,清楚,qīngchǔ,Vs,clear,人物,家庭
+L2-016,清楚,清楚,qīngchu,Vs,clear,人物,家庭
+L2-017,心,心,xīn,N,heart,人物,身體部位
+L2-018,背,背,bèi,N/V,back of body; to carry sth on the back,人物,身體部位
+L2-018,背,背,bēi,N/V,back of body; to carry sth on the back,人物,身體部位
+L2-019,動,动,dòng,V,to move,人物,身體動作
+L2-020,活,活,huó,Vs,alive,人物,身體動作
+L2-021,躺,躺,tǎng,V,to lie,人物,身體動作
+L2-022,休息,休息,xiūxí,V,to rest,人物,身體動作
+L2-022,休息,休息,xiūxi,V,to rest,人物,身體動作
+L2-023,拉,拉,lā,V,to pull,人物,手部動作
+L2-024,推,推,tuī,V,to push,人物,手部動作
+L2-025,接,接,jiē,V,to catch; to pick up someone,人物,手部動作
+L2-026,抓,抓,zhuā,V,to grab,人物,手部動作
+L2-027,舉,举,jǔ,V,to lift,人物,手部動作
+L2-028,弄,弄,nòng,V,to play with something,人物,手部動作
+L2-029,掛,挂,guà,V,to hang,人物,手部動作
+L2-030,跳,跳,tiào,V,to jump,人物,腳部動作
+L2-031,香,香,xiāng,Vs,fragrant,人物,鼻子動作
+L2-032,臭,臭,chòu,Vs,stink,人物,口部動作
+L2-033,吹,吹,chuī,V,to blow,人物,口部動作
+L2-034,說話,说话,shuōhuà,V,to speak,人物,口部動作
+L2-035,生氣,生气,shēngqì,Vs,angry,人物,心理活動
+L2-036,高興,高兴,gāoxìng,Vs,happy,人物,心理活動
+L2-037,開心,开心,kāixīn,Vs,happy,人物,心理活動
+L2-038,有趣,有趣,yǒuqù,Vs,interesting,人物,心理活動
+L2-039,緊張,紧张,jǐnzhāng,Vs,nervous,人物,心理活動
+L2-040,奇怪,奇怪,qíguài,Vs,strange,人物,心理活動
+L2-041,疼,疼,téng,Vs,hurt,人物,心理活動
+L2-042,夢,梦,mèng,N/V,(to) dream,人物,心理活動
+L2-043,做夢,做梦,zuòmèng,V,to dream,人物,心理活動
+L2-043,作夢,作梦,zuòmèng,V,to dream,人物,心理活動
+L2-044,忘,忘,wàng,Vs,to forget,人物,心理活動
+L2-045,想念,想念,xiǎngniàn,Vs,to miss,人物,心理活動
+L2-046,懂,懂,dǒng,Vs,to understand,人物,心理活動
+L2-047,輕,轻,qīng,Vs,light,人物,人格特質
+L2-048,重,重,zhòng,Vs,heavy,人物,人格特質
+L2-049,年紀,年纪,niánjì,N,age,人物,人格特質
+L2-050,年輕,年轻,niánqīng,Vs,young,人物,人格特質
+L2-051,美麗,美丽,měilì,Vs,beautiful,人物,人格特質
+L2-052,勇敢,勇敢,yǒnggǎn,Vs,brave,人物,人格特質
+L2-053,聰明,聪明,cōngmíng,Vs,smart,人物,人格特質
+L2-054,害羞,害羞,hàixiū,Vs,shy,人物,人格特質
+L2-055,牙醫,牙医,yáyī,N,dentist,人物,職業
+L2-056,司機,司机,sījī,N,driver,人物,職業
+L2-057,老闆,老板,lǎobǎn,N,boss,人物,職業
+L2-058,畫家,画家,huàjiā,N,painter,人物,職業
+L2-059,廚師,厨师,chúshī,N,cook,人物,職業
+L2-060,農夫,农夫,nóngfū,N,farmer,人物,職業
+L2-060,農民,农民,nóngmín,N,farmer,人物,職業
+L2-061,歌手,歌手,gēshǒu,N,singer,人物,職業
+L2-061,歌星,歌星,gēxīng,N,singer,人物,職業
+L2-062,做,做,zuò,Vs,to be,人物,職業
+L2-064,第,第,dì,Det,marker of ordinal numerals,數量,數字
+L2-065,千,千,qiān,Num,thousand,數量,數字
+L2-066,數目,数目,shùmù,N,amount,數量,數字
+L2-067,全部,全部,quánbù,N/Det,"all, whole",數量,數字
+L2-068,一半,一半,yībàn,N/Det,"one half, half",數量,數字
+L2-069,一些,一些,yīxiē,Det,a little bit,數量,數字
+L2-070,一點兒,一点儿,yīdiǎnr,Det/Adv,"a bit, a little",數量,數字
+L2-071,完,完,wán,V,"to use up, to finish, to complete",數量,數字
+L2-072,算,算,suàn,V,"to calculate, to count",數量,數字
+L2-073,加,加,jiā,V,to add,數量,數字
+L2-074,總共,总共,zǒnggòng,V,to total,數量,數字
+L2-075,只,只,zhǐ,Adv,only,數量,數字
+L2-076,片,片,piàn,M,"partial measure word for thin, flat pieces of something and for a vast expanse of something",數量,數字
+L2-077,件,件,jiàn,M,"individual measure word for clothes, etc., for furniture, jewelry, etc., and for affairs, incidents, etc.",數量,數量
+L2-078,位,位,wèi,M,individual measure word for people,數量,數量
+L2-079,支,支,zhī,M,"individual measure word for flowers, grass and for rod-shaped article",數量,數量
+L2-079,枝,枝,zhī,M,"individual measure word for flowers, grass and for rod-shaped article",數量,數量
+L2-080,條,条,tiáo,M,"individual measure word for long, narrow things, such as rivers, pants, snakes, etc.",數量,數量
+L2-081,棵,棵,kē,M,individual measure word for plants.,數量,數量
+L2-082,顆,颗,kē,M,individual measure word for small and roundish things,數量,數量
+L2-083,瓶,瓶,píng,N/M,bottle; container measure word for bottles of liquid substances,數量,數量
+L2-084,張,张,zhāng,M,"individual measure word for flat things, or things with a surface",數量,數量
+L2-085,包,包,bāo,V/M,to pack; collective measure word for the things wrapped or tied up and for the things fixed in bundles,數量,數量
+L2-086,間,间,jiān,M,container measure word for houses or other buildings,數量,數量
+L2-087,把,把,bǎ,M,individual measure word for a thing with a handle or something like a handle,數量,數量
+L2-088,付,付,fù,V,to pay,數量,金錢
+L2-089,收,收,shōu,V,to receive,數量,金錢
+L2-090,賣,卖,mài,V,to sell,數量,金錢
+L2-091,貴,贵,guì,Vs,expensive,數量,金錢
+L2-092,便宜,便宜,piányi,Vs,cheap,數量,金錢
+L2-093,找錢,找钱,zhǎoqián,V,to give change,數量,金錢
+L2-094,錢包,钱包,qiánbāo,N,"wallet, purse",數量,金錢
+L2-096,更,更,gèng,Adv,more,程度,程度
+L2-097,還,还,hái,Adv,still,程度,程度
+L2-098,這麼,这么,zhème,Adv,such,程度,程度
+L2-099,那麼,那么,nàme,Adv,like that,程度,程度
+L2-100,壞,坏,huài,Vs,bad,程度,程度
+L2-101,棒,棒,bàng,Vs,excellent,程度,程度
+L2-103,今年,今年,jīnnián,N/Adv,this year,時間,年月日星期
+L2-104,去年,去年,qùnian,N/Adv,last year,時間,年月日星期
+L2-105,明年,明年,míngnián,N/Adv,next year,時間,年月日星期
+L2-106,前天,前天,qiántiān,N/Adv,day before yesterday,時間,年月日星期
+L2-107,後天,后天,hòutiān,N/Adv,day after tomorrow,時間,年月日星期
+L2-108,週末,周末,zhōumò,N/Adv,weekend,時間,年月日星期
+L2-109,以前,以前,yǐqián,N/Adv,ealier; before; ago,時間,時間
+L2-110,從前,从前,cóngqián,N/Adv,long time ago,時間,時間
+L2-111,以後,以后,yǐhòu,N/Adv,"hereafter, afterward, subsequently",時間,時間
+L2-112,後來,后来,hòulái,N/Adv,"subsequently, later",時間,時間
+L2-113,正在,正在,zhèngzài,Adv,presently,時間,時間
+L2-114,一直,一直,yīzhí,Adv,"continuously, perennially, all along",時間,時間
+L2-115,常常,常常,chángcháng,Adv,"frequently,often",時間,時間
+L2-116,忽然,忽然,hūrán,Adv,suddenly,時間,時間
+L2-117,來得及,来得及,láidejí,Adv,be in time,時間,時間
+L2-118,一會兒,一会儿,yīhuǐr,Adv,a while,時間,時間
+L2-119,小時,小时,xiǎoshí,N,hour,時間,時間
+L2-120,分鐘,分钟,fēnzhōng,N,minute,時間,時間
+L2-121,時候,时候,shíhòu,N,time,時間,時間
+L2-121,時候,时候,shíhou,N,time,時間,時間
+L2-122,又,又,yòu,Conj/Adv,again,時間,時間
+L2-123,才,才,cái,Conj/Adv,just,時間,時間
+L2-124,然後,然后,ránhòu,Conj,then,時間,時間
+L2-125,慢,慢,màn,Vs,slow,時間,時間
+L2-127,灰色,灰色,huīsè,N,gray,形色,顏色
+L2-128,紫色,紫色,zǐsè,N,purple,形色,顏色
+L2-129,橘色,橘色,júsè,N,orange,形色,顏色
+L2-130,寬,宽,kuān,Vs,wide,形色,尺寸
+L2-131,窄,窄,zhǎi,Vs,narrow,形色,尺寸
+L2-132,細,细,xì,Vs,"thin, fine",形色,尺寸
+L2-133,比較,比较,bǐjiào,V,to compare,形色,尺寸
+L2-134,比,比,bǐ,V,to compare,形色,尺寸
+L2-135,邊,边,biān,N,"side, edge",形色,形狀
+L2-137,上衣,上衣,shàngyī,N,top,生活,衣物飾品
+L2-138,洋裝,洋装,yángzhuāng,N,dress,生活,衣物飾品
+L2-139,內衣,内衣,nèiyī,N,underwear,生活,衣物飾品
+L2-140,內褲,内裤,nèikù,N,underpants,生活,衣物飾品
+L2-141,口袋,口袋,kǒudài,N,pocket,生活,衣物飾品
+L2-142,手帕,手帕,shǒupà,N,handkerchief,生活,衣物飾品
+L2-143,手套,手套,shǒutào,N,gloves,生活,衣物飾品
+L2-144,眼鏡,眼镜,yǎnjìng,N,glasses,生活,衣物飾品
+L2-145,圍巾,围巾,wéijīn,N,scarf,生活,衣物飾品
+L2-146,家具,家具,jiājù,N,furniture,生活,居家用品
+L2-147,鈴,铃,líng,N,bell,生活,居家用品
+L2-148,屋頂,屋顶,wūdǐng,N,roof,生活,居家用品
+L2-149,沙發,沙发,shāfā,N,sofa,生活,居家用品
+L2-150,書架,书架,shūjià,N,bookshelf,生活,居家用品
+L2-151,書桌,书桌,shūzhuō,N,desk,生活,居家用品
+L2-152,鏡子,镜子,jìngzi,N,mirror,生活,居家用品
+L2-152,鏡,镜,jìng,N,mirror,生活,居家用品
+L2-153,桶子,桶子,tǒngzi,N,bucket,生活,居家用品
+L2-153,桶,桶,tǒng,N,bucket,生活,居家用品
+L2-154,盒,盒,hé,M,box; container measure word for things in a box,生活,居家用品
+L2-154,盒子,盒子,hézi,N,box; container measure word for things in a box,生活,居家用品
+L2-155,袋子,袋子,dàizi,N,bag,生活,居家用品
+L2-155,袋,袋,dài,N,bag,生活,居家用品
+L2-156,毛巾,毛巾,máojīn,N,towel,生活,居家用品
+L2-157,牙刷,牙刷,yáshuā,N,toothbrush,生活,居家用品
+L2-158,牙膏,牙膏,yágāo,N,toothpaste,生活,居家用品
+L2-159,手機,手机,shǒujī,N,"cell phone, mobile phone",生活,居家用品
+L2-160,垃圾,垃圾,lèsè,N,garbage,生活,居家用品
+L2-161,東西,东西,dōngxi,N,thing,生活,居家用品
+L2-162,信,信,xìn,N,"letter, mail",生活,居家用品
+L2-163,郵票,邮票,yóupiào,N,stamp,生活,居家用品
+L2-164,卡片,卡片,kǎpiàn,N,card,生活,居家用品
+L2-165,報紙,报纸,bàozhǐ,N,newspaper,生活,居家用品
+L2-166,湯匙,汤匙,tāngchí,N,spoon,生活,居家用品
+L2-166,勺子,勺子,sháozi,N,spoon,生活,居家用品
+L2-167,盤,盘,pán,M,plate; individual measure word for plate-shaped things.,生活,居家用品
+L2-167,盤子,盘子,pánzi,N,plate; individual measure word for plate-shaped things.,生活,居家用品
+L2-168,茶壺,茶壶,cháhú,N,"teapot, teakettle",生活,居家用品
+L2-169,舊,旧,jiù,Vs,old,生活,居家用品
+L2-170,乾淨,干净,gānjìng,Vs,clean,生活,居家用品
+L2-171,亂,乱,luàn,Vs,messy,生活,居家用品
+L2-172,整理,整理,zhěnglǐ,V,"to put in order, to arrange",生活,居家用品
+L2-173,關,关,guān,V,"to close, to shut, to turn off",生活,居家用品
+L2-174,搬,搬,bān,V,to move,生活,居家用品
+L2-175,倒,倒,dào,V,to empty,生活,居家活動
+L2-176,用,用,yòng,V,to use,生活,居家活動
+L2-177,找,找,zhǎo,V,"to find, to look for",生活,居家活動
+L2-178,刷,刷,shuā,V,to brush,生活,居家活動
+L2-179,寄,寄,jì,V,"to send, to mail",生活,居家活動
+L2-180,食物,食物,shíwù,N,food,生活,飲食
+L2-181,米,米,mǐ,N,rice,生活,飲食
+L2-182,炒飯,炒饭,chǎofàn,N,fried rice,生活,飲食
+L2-183,粽子,粽子,zòngzi,N,a pyramid-shaped mass of glutinous rice wrapped in leaves,生活,飲食
+L2-183,粽,粽,zòng,N,a pyramid-shaped mass of glutinous rice wrapped in leaves,生活,飲食
+L2-184,包子,包子,bāozi,N,steamed stuffed bun,生活,飲食
+L2-185,月餅,月饼,yuèbǐng,N,moon cake,生活,飲食
+L2-185,月餅,月饼,yuèbing,N,moon cake,生活,飲食
+L2-186,牛排,牛排,niúpái,N,beefsteak,生活,飲食
+L2-187,沙拉,沙拉,shālā,N,salad,生活,飲食
+L2-188,咖哩,咖哩,kālǐ,N,curry,生活,飲食
+L2-189,奶油,奶油,nǎiyóu,N,"cream, butter",生活,飲食
+L2-190,青菜,青菜,qīngcài,N,vegetables,生活,飲食
+L2-191,南瓜,南瓜,nánguā,N,pumpkin,生活,飲食
+L2-192,玉米,玉米,yùmǐ,N,corn,生活,飲食
+L2-192,玉米,玉米,yùmi,N,corn,生活,飲食
+L2-193,洋蔥,洋葱,yángcōng,N,onion,生活,飲食
+L2-194,咖啡,咖啡,kāfēi,N,coffee,生活,飲食
+L2-195,開水,开水,kāishuǐ,N,boiling/boiled water,生活,飲食
+L2-196,奶茶,奶茶,nǎichá,N,milk tea,生活,飲食
+L2-197,炸雞,炸鸡,zhájī,N,fried chicken,生活,飲食
+L2-198,薯條,薯条,shǔtiáo,N,French fries,生活,飲食
+L2-199,雞塊,鸡块,jīkuài,N,Chicken nugget,生活,飲食
+L2-200,披薩,披萨,pīsà,N,pizza,生活,飲食
+L2-200,比薩,比萨,bǐsà,N,pizza,生活,飲食
+L2-201,點心,点心,diǎnxīn,N,snack,生活,飲食
+L2-201,點心,点心,diǎnxin,N,snack,生活,飲食
+L2-202,巧克力,巧克力,qiǎokèlì,N,chocolate,生活,飲食
+L2-203,葡萄,葡萄,pútao,N,grape,生活,飲食
+L2-204,飽,饱,bǎo,Vs,full,生活,飲食
+L2-205,渴,渴,kě,Vs,thirsty,生活,飲食
+L2-206,烤,烤,kǎo,V,"to roast, to barbecue, to bake",生活,飲食
+L2-207,做菜,做菜,zuòcài,V,to cook,生活,飲食
+L2-208,菜單,菜单,càidān,N,menu,生活,飲食
+L2-209,點菜,点菜,diǎncài,V,to order dishes,生活,飲食
+L2-210,年級,年级,niánjí,N,grade,生活,學校
+L2-211,班級,班级,bānjí,N,class,生活,學校
+L2-212,小學,小学,xiǎoxué,N,"primary school, elementary school",生活,學校
+L2-213,中學,中学,zhōngxué,N,middle school,生活,學校
+L2-214,校長,校长,xiàozhǎng,N,principal,生活,學校
+L2-215,寒假,寒假,hánjià,N,winter vacation,生活,學校
+L2-216,暑假,暑假,shǔjià,N,summer vacation,生活,學校
+L2-217,請假,请假,qǐngjià,V,to ask for leave,生活,學校
+L2-218,小學生,小学生,xiǎoxuéshēng,N,an elementary school student,生活,學校
+L2-219,句子,句子,jùzi,N,sentence,生活,學校
+L2-219,句,句,jù,N,sentence,生活,學校
+L2-220,故事,故事,gùshi,N,"story, tale",生活,學校
+L2-221,作文,作文,zuòwén,N,composition,生活,學校
+L2-222,圖片,图片,túpiàn,N,"picture, photograph",生活,學校
+L2-223,科學,科学,kēxué,N,science,生活,學校
+L2-224,美術,美术,měishù,N,art,生活,學校
+L2-225,數學,数学,shùxué,N,math,生活,學校
+L2-226,體育,体育,tǐyù,N,physical education,生活,學校
+L2-227,功課,功课,gōngkè,N,homework,生活,學校
+L2-228,本子,本子,běnzi,N,"book, notebook",生活,學校
+L2-229,運動會,运动会,yùndònghuì,N,sports day,生活,學校
+L2-230,練習,练习,liànxí,N/V,(to) practice,生活,學校
+L2-231,準備,准备,zhǔnbèi,N/V,"to prepare, preparation",生活,學校
+L2-232,加油,加油,jiāyóu,V,to cheer on,生活,學校
+L2-233,賽跑,赛跑,sàipǎo,N/V,(to) race,生活,學校
+L2-234,比賽,比赛,bǐsài,N/V,"match, competition; to compete",生活,學校
+L2-235,參加,参加,cānjiā,V,"to join, to attend",生活,學校
+L2-236,排隊,排队,páiduì,V,to stand in line,生活,學校
+L2-237,膠水,胶水,jiāoshuǐ,N,glue,生活,學校
+L2-238,蠟筆,蜡笔,làbǐ,N,wax crayon,生活,學校
+L2-239,交,交,jiāo,V,"to hand over, to deliver",生活,學校
+L2-239,交給,交给,jiāogěi,V,"to hand over, to deliver",生活,學校
+L2-240,帶,带,dài,V,"to take, to bring",生活,學校
+L2-241,翻,翻,fān,V,"to turn over, to turn around",生活,學校
+L2-242,教,教,jiāo,V,to teach,生活,學校
+L2-243,打架,打架,dǎjià,V,to fight,生活,學校
+L2-244,走路,走路,zǒulù,V/N,(to) walk,生活,休閒活動
+L2-245,跑步,跑步,pǎobù,V/N,(to) jog,生活,休閒活動
+L2-246,舞蹈,舞蹈,wǔdào,N,dance,生活,休閒活動
+L2-247,滑雪,滑雪,huáxuě,V/N,(to) ski,生活,休閒活動
+L2-248,逛,逛,guàng,V,to window-shop,生活,休閒活動
+L2-249,散步,散步,sànbù,V/N,(to) take a walk,生活,休閒活動
+L2-250,旅行,旅行,lǚxíng,V/N,"(to) travel, journey, tour",生活,休閒活動
+L2-251,溜滑梯,溜滑梯,liūhuátī,N,slide,生活,休閒活動
+L2-252,網球,网球,wǎngqiú,N,tennis,生活,休閒活動
+L2-253,羽毛球,羽毛球,yǔmáoqiú,N,badminton,生活,休閒活動
+L2-254,乒乓球,乒乓球,pīngpāngqiú,N,ping-pong/table tennis,生活,休閒活動
+L2-254,桌球,桌球,zhuōqiú,N,ping-pong/table tennis,生活,休閒活動
+L2-255,收集,收集,shōují,V/N,"to gather, to collect",生活,休閒活動
+L2-256,卡通,卡通,kǎtōng,N,cartoon,生活,休閒活動
+L2-257,漫畫,漫画,mànhuà,N,comic book,生活,休閒活動
+L2-258,上網,上网,shàngwǎng,V,to surf the internet,生活,休閒活動
+L2-259,鼓,鼓,gǔ,N,drum,生活,休閒活動
+L2-260,吉他,吉他,jítā,N,guitar,生活,休閒活動
+L2-261,小提琴,小提琴,xiǎotíqín,N,violin,生活,休閒活動
+L2-262,拜年,拜年,bàinián,V,to pay a New Year call,生活,休閒活動
+L2-263,紅包,红包,hóngbāo,N,red envelope with gift money,生活,休閒活動
+L2-264,壓歲錢,压岁钱,yāsuìqián,N,money given to children as a lunar New Year gift,生活,休閒活動
+L2-265,節,节,jié,N,festival,生活,休閒活動
+L2-266,端午節,端午节,duānwǔjié,N,the Dragon Boat Festival (falling on the fifth day of the fifth lunar month),生活,休閒活動
+L2-267,中秋節,中秋节,zhōngqiūjié,N,the Moon Festival or the Mid-Autumn Festival(on the 15th day of the 8th lunar month),生活,休閒活動
+L2-268,聖誕節,圣诞节,shèngdànjié,N,Christmas,生活,休閒活動
+L2-269,健康,健康,jiànkāng,Vs/N,"healthy, health",生活,健康
+L2-270,咳嗽,咳嗽,késòu,V,to cough,生活,健康
+L2-270,咳嗽,咳嗽,késou,V,to cough,生活,健康
+L2-271,發燒,发烧,fāshāo,V,to have a fever,生活,健康
+L2-272,口罩,口罩,kǒuzhào,N,a gauze mask,生活,健康
+L2-273,蛀牙,蛀牙,zhùyá,V/N,"decayed tooth, dental caries",生活,健康
+L2-274,跌倒,跌倒,diédǎo,V,to fall over,生活,健康
+L2-275,住院,住院,zhùyuàn,V,to be in hospital,生活,健康
+L2-276,受傷,受伤,shòushāng,Vs/N,"be injured/wounded; injury, wound",生活,健康
+L2-277,小心,小心,xiǎoxīn,Vs,careful,生活,健康
+L2-279,卡車,卡车,kǎchē,N,truck,交通,交通工具
+L2-280,計程車,计程车,jìchéngchē,N,taxi,交通,交通工具
+L2-281,消防車,消防车,xiāofángchē,N,fire truck,交通,交通工具
+L2-282,救護車,救护车,jiùhùchē,N,ambulance,交通,交通工具
+L2-283,摩托車,摩托车,mótuōchē,N,"motorcycle, scooter",交通,交通工具
+L2-284,票,票,piào,N,ticket,交通,交通工具
+L2-285,開車,开车,kāichē,V,to drive a car,交通,交通工具
+L2-286,停,停,tíng,V,"to park, to stop",交通,交通工具
+L2-287,迷路,迷路,mílù,V,to get lost,交通,交通工具
+L2-288,搭,搭,dā,V,to travel by or take (a conveyance),交通,交通工具
+L2-289,危險,危险,wéixiǎn,Vs,dangerous,交通,交通工具
+L2-290,安全,安全,ānquán,Vs,safe,交通,交通工具
+L2-292,雷,雷,léi,N,thunder,自然,現象
+L2-293,電,电,diàn,N,electricity,自然,現象
+L2-294,聲音,声音,shēngyīn,N,"sound, voice",自然,現象
+L2-295,閃電,闪电,shǎndiàn,N/V,lightning,自然,現象
+L2-296,彩虹,彩虹,cǎihóng,N,rainbow,自然,現象
+L2-297,季節,季节,jìjié,N,season,自然,季節
+L2-298,涼,凉,liáng,Vs,cool,自然,天氣
+L2-298,涼快,凉快,liángkuài,Vs,cool,自然,天氣
+L2-299,寒冷,寒冷,hánlěng,Vs,cold,自然,天氣
+L2-300,溫暖,温暖,wēnnuǎn,Vs,warm,自然,天氣
+L2-301,乾,干,gān,Vs,dry,自然,天氣
+L2-302,玫瑰,玫瑰,méigui,N,rose,自然,植物
+L2-303,獅子,狮子,shīzi,N,lion,自然,動物
+L2-303,獅,狮,shī,N,lion,自然,動物
+L2-304,狼,狼,láng,N,wolf,自然,動物
+L2-305,象,象,xiàng,N,elephant,自然,動物
+L2-306,青蛙,青蛙,qīngwā,N,frog,自然,動物
+L2-307,蛇,蛇,shé,N,snake,自然,動物
+L2-308,蟲,虫,chóng,N,"worm, insect",自然,動物
+L2-309,蚊子,蚊子,wénzi,N,mosquito,自然,動物
+L2-309,蚊,蚊,wén,N,mosquito,自然,動物
+L2-310,蜘蛛,蜘蛛,zhīzhū,N,spider,自然,動物
+L2-311,蝴蝶,蝴蝶,húdié,N,butterfly,自然,動物
+L2-312,蜜蜂,蜜蜂,mìfēng,N,bee,自然,動物
+L2-313,螞蟻,蚂蚁,mǎyǐ,N,ant,自然,動物
+L2-314,蝸牛,蜗牛,wōniú,N,snail,自然,動物
+L2-315,鵝,鹅,é,N,goose,自然,動物
+L2-316,寵物,宠物,chǒngwù,N,pet,自然,動物
+L2-317,石,石,shí,N,"stone, rock",自然,自然環境
+L2-317,石頭,石头,shítou,N,"stone, rock",自然,自然環境
+L2-318,沙,沙,shā,N,sand,自然,自然環境
+L2-319,河,河,hé,N,river,自然,自然環境
+L2-320,森林,森林,sēnlín,N,forest,自然,自然環境
+L2-321,池塘,池塘,chítáng,N,pond,自然,自然環境
+L2-323,北邊,北边,běibiān,N,north,地方,方位
+L2-324,西邊,西边,xībiān,N,west,地方,方位
+L2-325,東邊,东边,dōngbiān,N,east,地方,方位
+L2-326,南邊,南边,nánbiān,N,south,地方,方位
+L2-327,右邊,右边,yòubiān,N,right side,地方,方位
+L2-327,右手邊,右手边,yòushǒubiān,N,right side,地方,方位
+L2-328,左邊,左边,zuǒbiān,N,left side,地方,方位
+L2-328,左手邊,左手边,zuǒshǒubiān,N,left side,地方,方位
+L2-329,旁邊,旁边,pángbiān,N,by the side of,地方,方位
+L2-329,旁,旁,páng,N,by the side of,地方,方位
+L2-330,往,往,wǎng,Prep,toward,地方,方位
+L2-331,從,从,cóng,Prep,"from, since, through",地方,方位
+L2-332,近,近,jìn,Vs,"close, near",地方,方位
+L2-333,遠,远,yuǎn,Vs,far,地方,方位
+L2-334,對面,对面,duìmiàn,N,across,地方,方位
+L2-335,地方,地方,dìfāng,N,place,地方,處所
+L2-335,地方,地方,dìfang,N,place,地方,處所
+L2-336,客廳,客厅,kètīng,N,living room,地方,處所
+L2-337,浴室,浴室,yùshì,N,bathroom,地方,處所
+L2-338,院子,院子,yuànzi,N,courtyard,地方,處所
+L2-339,廁所,厕所,cèsuǒ,N,toilet,地方,處所
+L2-340,飯廳,饭厅,fàntīng,N,dining room,地方,處所
+L2-341,廚房,厨房,chúfáng,N,kitchen,地方,處所
+L2-342,教室,教室,jiàoshì,N,classroom,地方,處所
+L2-343,操場,操场,cāochǎng,N,playground,地方,處所
+L2-344,游泳池,游泳池,yóuyǒngchí,N,swimming pool,地方,處所
+L2-345,夜市,夜市,yèshì,N,night market,地方,處所
+L2-346,教堂,教堂,jiàotáng,N,church,地方,處所
+L2-347,郵局,邮局,yóujú,N,post office,地方,處所
+L2-348,銀行,银行,yínháng,N,bank,地方,處所
+L2-349,警察局,警察局,jǐngchájú,N,police office,地方,處所
+L2-350,電影院,电影院,diànyǐngyuàn,N,movie theater,地方,處所
+L2-351,辦公室,办公室,bàngōngshì,N,office,地方,處所
+L2-352,飯店,饭店,fàndiàn,N,hotel,地方,處所
+L2-352,酒店,酒店,jiǔdiàn,N,hotel,地方,處所
+L2-353,公寓,公寓,gōngyù,N,apartment,地方,處所
+L2-354,大樓,大楼,dàlóu,N,multi-storied building,地方,處所
+L2-355,電梯,电梯,diàntī,N,elevator,地方,處所
+L2-356,樓梯,楼梯,lóutī,N,stairs,地方,處所
+L2-357,屋子,屋子,wūzi,N,house,地方,處所
+L2-357,屋,屋,wū,N,house,地方,處所
+L2-358,農田,农田,nóngtián,N,farm,地方,處所
+L2-359,街,街,jiē,N,street,地方,處所
+L2-360,馬路,马路,mǎlù,N,road,地方,處所
+L2-360,道路,道路,dàolù,N,road,地方,處所
+L2-361,高速公路,高速公路,gāosùgōnglù,N,"freeway, highway",地方,處所
+L2-362,熱鬧,热闹,rènao,Vs,"boisterous, bustling",地方,處所
+L2-363,泰國,泰国,tàiguó,N,Thailand,地方,國家
+L2-364,韓國,韩国,hánguó,N,Korea,地方,國家
+L2-365,日本,日本,rìběn,N,Japan,地方,國家
+L2-367,早安,早安,zǎo'ān,V,Good morning.,常用語,一般
+L2-368,晚安,晚安,wǎn'ān,V,Good night.,常用語,一般
+L2-369,歡迎,欢迎,huānyíng,V,"to welcome, to greet",常用語,一般
+L2-370,沒問題,没问题,méiwèntí,V,No problem.,常用語,一般
+L2-371,差不多,差不多,chàbuduō,V,almost the same,常用語,一般
+L2-372,不好意思,不好意思,bùhǎoyìsi,V,to feel embarrassed,常用語,一般
+L2-373,祝福,祝福,zhùfú,V/N,"to bless, to wish",常用語,祝福
+L2-374,進步,进步,jìnbù,N/V,"to improve, improvement",常用語,祝福
+L2-375,成功,成功,chénggōng,N/V,"success, to succeed",常用語,祝福
+L2-377,錯,错,cuò,Vs,wrong,功能詞,功能詞
+L2-378,能,能,néng,V,can,功能詞,功能詞
+L2-379,行,行,xíng,V,okay,功能詞,功能詞
+L2-380,可能,可能,kěnéng,Adv,"maybe, perhaps",功能詞,功能詞
+L2-381,當然,当然,dāngrán,Adv,"certainly, of course",功能詞,功能詞
+L2-382,一定,一定,yīdìng,Adv,definitely,功能詞,功能詞
+L2-383,還是,还是,háishì,Conj,or; still,功能詞,功能詞
+L2-384,所以,所以,suǒyǐ,Conj,so,功能詞,功能詞
+L2-385,如果,如果,rúguǒ,Conj,if,功能詞,功能詞
+L2-386,但是,但是,dànshì,Conj,but,功能詞,功能詞
+L2-387,得,得,de,Ptc/V,"particle(de): verbs which are marked by de are followed by complements to show the resultive state of the action; Verb(dé): to get; Verb(děi):must, have to",功能詞,功能詞
+L2-387,得,得,dé,Ptc/V,"particle(de): verbs which are marked by de are followed by complements to show the resultive state of the action; Verb(dé): to get; Verb(děi):must, have to",功能詞,功能詞
+L3-001,它,它,tā,N,it,人物,人物
+L3-002,自己,自己,zìjǐ,N,oneself,人物,人物
+L3-003,介紹,介绍,jièshào,V/N,"to introduce, introduction",人物,人物
+L3-004,兒童,儿童,értóng,N,children,人物,人物
+L3-005,兄弟姊妹,兄弟姊妹,xiōngdìjiěmèi,N,siblings,人物,家庭
+L3-006,叔叔,叔叔,shúshu,N,uncle,人物,家庭
+L3-006,叔,叔,shú,N,uncle,人物,家庭
+L3-007,孫子,孙子,sūnzi,N,grandson; granddaughter,人物,家庭
+L3-007,孫女,孙女,sūnnǚ,N,grandson; granddaughter,人物,家庭
+L3-008,鄰居,邻居,línjū,N,neighbor,人物,家庭
+L3-009,照顧,照顾,zhàogù,V,to look after,人物,家庭
+L3-010,辦法,办法,bànfǎ,N,"way, means, measure, regulation",人物,家庭
+L3-011,方法,方法,fāngfǎ,N,"method, way, means",人物,家庭
+L3-012,習慣,习惯,xíguàn,N/V,habit; to be used to,人物,家庭
+L3-013,幸福,幸福,xìngfú,N,happiness,人物,家庭
+L3-014,眉,眉,méi,N,eyebrow,人物,身體部位
+L3-015,鬍子,胡子,húzi,N,beard,人物,身體部位
+L3-015,鬍,胡,hú,N,beard,人物,身體部位
+L3-016,手臂,手臂,shǒubì,N,arm,人物,身體部位
+L3-017,肩膀,肩膀,jiānbǎng,N,shoulder,人物,身體部位
+L3-018,脖子,脖子,bózi,N,neck,人物,身體部位
+L3-018,脖,脖,bó,N,neck,人物,身體部位
+L3-019,皮膚,皮肤,pífū,N,skin,人物,身體部位
+L3-020,眼淚,眼泪,yǎnlèi,N,tears,人物,身體部位
+L3-021,死,死,sǐ,Vs,to die,人物,身體動作
+L3-022,靠,靠,kào,V,to lean against; to depend on,人物,身體動作
+L3-023,陪,陪,péi,V,to accompany,人物,身體動作
+L3-024,醒,醒,xǐng,Vs,awake,人物,身體動作
+L3-025,抱,抱,bào,V,to hug,人物,手部動作
+L3-026,按,按,àn,V,to press,人物,手部動作
+L3-027,捉,捉,zhuō,V,to catch,人物,手部動作
+L3-028,換,换,huàn,V,to exchange,人物,手部動作
+L3-029,擦,擦,cā,V,to wipe,人物,手部動作
+L3-030,偷,偷,tōu,V,to steal,人物,手部動作
+L3-031,丟,丢,diū,V,to throw; to lose something,人物,手部動作
+L3-032,掉,掉,diào,V,to drop,人物,手部動作
+L3-033,見,见,jiàn,V,to see; to meet,人物,眼部動作
+L3-034,聞,闻,wén,V,to smell,人物,鼻子動作
+L3-035,咬,咬,yǎo,V,to bite,人物,口部動作
+L3-036,講話,讲话,jiǎnghuà,V,to talk,人物,口部動作
+L3-036,講,讲,jiǎng,V,to talk,人物,口部動作
+L3-037,告訴,告诉,gàosu,V,to tell,人物,口部動作
+L3-038,親,亲,qīn,V,to kiss,人物,口部動作
+L3-039,聽說,听说,tīngshuō,V,to hear,人物,口部動作
+L3-040,嚐,尝,cháng,V,to taste,人物,口部動作
+L3-041,吵,吵,chǎo,Vs,noisy,人物,口部動作
+L3-042,猜,猜,cāi,V,to guess,人物,心理活動
+L3-043,煩惱,烦恼,fánnǎo,N/V,(to) worry,人物,心理活動
+L3-044,麻煩,麻烦,máfan,N/V,(to) trouble,人物,心理活動
+L3-045,無聊,无聊,wúliáo,Vs,"boring, bored",人物,心理活動
+L3-046,愉快,愉快,yúkuài,Vs,delightful,人物,心理活動
+L3-047,決定,决定,juédìng,V/N,"to decide, decision",人物,心理活動
+L3-048,相信,相信,xiāngxìn,V,to believe,人物,心理活動
+L3-049,發現,发现,fāxiàn,V,to discover,人物,心理活動
+L3-050,希望,希望,xīwàng,V,to hope,人物,心理活動
+L3-051,記得,记得,jìde,V,to remember,人物,心理活動
+L3-052,感覺,感觉,gǎnjué,N/Vs,"feeling, to feel",人物,心理活動
+L3-053,了解,了解,liǎojiě,V,to understand,人物,心理活動
+L3-054,以為,以为,yǐwéi,Vs,"to think, to consider",人物,心理活動
+L3-055,認識,认识,rènshì,Vs,to know,人物,心理活動
+L3-056,著急,着急,zhāojí,Vs,anxious,人物,心理活動
+L3-057,傷心,伤心,shāngxīn,Vs,heart-broken,人物,心理活動
+L3-058,擔心,担心,dānxīn,Vs,worried,人物,心理活動
+L3-059,舒服,舒服,shūfu,Vs,comfortable,人物,心理活動
+L3-060,壯,壮,zhuàng,Vs,strong,人物,人格特質
+L3-061,肥,肥,féi,Vs,fat,人物,人格特質
+L3-062,懶,懒,lǎn,Vs,lazy,人物,人格特質
+L3-063,醜,丑,chǒu,Vs,ugly,人物,人格特質
+L3-064,活潑,活泼,huópō,Vs,vivacious,人物,人格特質
+L3-065,認真,认真,rènzhēn,Vs,"serious, earnest",人物,人格特質
+L3-066,可憐,可怜,kělián,Vs,"pitiful, poor",人物,人格特質
+L3-067,幸運,幸运,xìngyùn,Vs,lucky,人物,人格特質
+L3-068,商人,商人,shāngrén,N,merchant,人物,職業
+L3-069,作家,作家,zuòjiā,N,writer,人物,職業
+L3-070,記者,记者,jìzhě,N,reporter,人物,職業
+L3-071,演員,演员,yǎnyuán,N,actor,人物,職業
+L3-072,機會,机会,jīhuì,N,chance,人物,職業
+L3-073,做事,做事,zuòshì,V,to work,人物,職業
+L3-074,成為,成为,chéngwéi,Vs,to become,人物,職業
+L3-075,辛苦,辛苦,xīnkǔ,Vs,to work hard,人物,職業
+L3-076,夢想,梦想,mèngxiǎng,N,dream,人物,職業
+L3-078,各,各,gè,Det,each,數量,數字
+L3-079,群,群,qún,M,"collective measure word for a number of people gathering together, for animals of the same kind, and for lots of close islands",數量,數字
+L3-080,封,封,fēng,M,"measure word for letters, telegrams, etc.",數量,數字
+L3-081,度,度,dù,M,measure word for temperature,數量,數字
+L3-082,段,段,duàn,M,"measure word for a part of something, for example part of an essay, part of a journey, etc., and for part of some time period.",數量,數字
+L3-083,盆,盆,pén,M,container measure word for the things in a basin.,數量,數字
+L3-084,頂,顶,dǐng,M,"individual measure word for things that have a cap, cover, etc.",數量,數字
+L3-085,幅,幅,fú,M,"individual measure word for calligraphy, painting, etc.",數量,數字
+L3-086,遍,遍,biàn,M,measure word for the course of an action from the beginning to the end.,數量,數字
+L3-087,篇,篇,piān,M,"measure word for writings, etc.",數量,數字
+L3-088,輛,辆,liàng,M,"measure word for any conveyance, etc.",數量,數字
+L3-089,雙,双,shuāng,M,measure word for two things of the same kind to be used together.,數量,數字
+L3-090,根,根,gēn,M,"individual measure word for long things and  for soft and slender things, such as a banana, a lock of hair, etc.",數量,數量
+L3-091,萬,万,wàn,Num,ten thousand,數量,數量
+L3-092,號碼,号码,hàomǎ,N,number,數量,數量
+L3-093,數字,数字,shùzì,N,numeral,數量,數量
+L3-094,任何,任何,rènhé,Det,any,數量,數量
+L3-095,其他,其他,qítā,Det,other,數量,數量
+L3-096,所有,所有,suǒyǒu,Det,all,數量,數量
+L3-097,許多,许多,xǔduō,Det,"many, a lot of",數量,數量
+L3-098,有點兒,有点儿,yǒudiǎnr,Adv,a little,數量,數量
+L3-099,窮,穷,qióng,Vs,poor,數量,金錢
+L3-100,零用錢,零用钱,língyòngqián,N,allowance,數量,金錢
+L3-102,夠,够,gòu,Adv,enough,程度,程度
+L3-103,不錯,不错,búcuò,Vs,not bad,程度,程度
+L3-104,弱,弱,ruò,Vs,weak,程度,程度
+L3-105,強,强,qiáng,Vs,strong,程度,程度
+L3-106,淡,淡,dàn,Vs,thin,程度,程度
+L3-107,濃,浓,nóng,Vs,thick,程度,程度
+L3-108,一模一樣,一模一样,yīmóyīyàng,,exactly the same,程度,程度
+L3-109,重要,重要,zhòngyào,Vs,important,程度,程度
+L3-110,特別,特别,tèbié,Vs,special,程度,程度
+L3-112,日期,日期,rìqí,N,date,時間,年月日星期
+L3-113,時間,时间,shíjiān,N,time,時間,時間
+L3-114,傍晚,傍晚,bāngwǎn,N/Adv,evening,時間,時間
+L3-115,半夜,半夜,bànyè,N/Adv,midnight,時間,時間
+L3-116,有時,有时,yǒushí,Adv,sometimes,時間,時間
+L3-116,有時候,有时候,yǒushíhòu,Adv,sometimes,時間,時間
+L3-116,有時候,有时候,yǒushíhou,Adv,sometimes,時間,時間
+L3-117,剛才,刚才,gāngcái,Adv,just,時間,時間
+L3-118,馬上,马上,mǎshàng,Adv,immediately,時間,時間
+L3-119,經常,经常,jīngcháng,Adv,often,時間,時間
+L3-120,總是,总是,zǒngshì,Adv,always,時間,時間
+L3-121,從不,从不,cóngbù,Adv,never,時間,時間
+L3-122,當,当,dāng,Conj,when,時間,時間
+L3-123,久,久,jiǔ,Vs,for a long time,時間,時間
+L3-124,已經,已经,yǐjīng,Adv,already,時間,時間
+L3-125,永遠,永远,yǒngyuǎn,Adv,forever,時間,時間
+L3-126,過去,过去,guòqù,Adv,past,時間,時間
+L3-127,最後,最后,zuìhòu,Adv,last,時間,時間
+L3-128,趕,赶,gǎn,Vs,to rush,時間,時間
+L3-129,趕快,赶快,gǎnkuài,Adv,hurry,時間,時間
+L3-131,金色,金色,jīnsè,N,gold,形色,顏色
+L3-132,銀色,银色,yínsè,N,silver,形色,顏色
+L3-133,低,低,dī,Vs,low,形色,尺寸
+L3-134,直,直,zhí,Vs,straight,形色,形狀
+L3-135,扁,扁,biǎn,Vs,flat,形色,形狀
+L3-136,彎,弯,wān,Vs,curved; to bend,形色,形狀
+L3-137,捲,卷,juǎn,Vs,curl,形色,形狀
+L3-139,服裝,服装,fúzhuāng,N,costume,生活,衣物飾品
+L3-140,西裝,西装,xīzhuāng,N,suit,生活,衣物飾品
+L3-141,襯衫,衬衫,chènshān,N,shirt,生活,衣物飾品
+L3-142,領帶,领带,lǐngdài,N,tie,生活,衣物飾品
+L3-143,皮帶,皮带,pídài,N,belt,生活,衣物飾品
+L3-144,制服,制服,zhìfú,N,uniform,生活,衣物飾品
+L3-145,牛仔褲,牛仔裤,niúzǎikù,N,jeans,生活,衣物飾品
+L3-146,戒指,戒指,jièzhǐ,N,ring,生活,衣物飾品
+L3-147,耳環,耳环,ěrhuán,N,ear ring,生活,衣物飾品
+L3-148,項鍊,项链,xiàngliàn,N,necklace,生活,衣物飾品
+L3-149,針,针,zhēn,N,needle,生活,衣物飾品
+L3-150,線,线,xiàn,N,thread,生活,衣物飾品
+L3-151,背包,背包,bēibāo,N,backpack,生活,衣物飾品
+L3-152,打扮,打扮,dǎbàn,V,"to dress up, to make up",生活,衣物飾品
+L3-152,打扮,打扮,dǎban,V,"to dress up, to make up",生活,衣物飾品
+L3-153,流行,流行,liúxíng,Vs,"fashionable, widespread",生活,衣物飾品
+L3-154,生活,生活,shēnghuó,N,life,生活,居家用品
+L3-155,響,响,xiǎng,Vs,to make a sound,生活,居家用品
+L3-156,地板,地板,dìbǎn,N,floor,生活,居家用品
+L3-157,工具,工具,gōngjù,N,tool,生活,居家用品
+L3-158,布,布,bù,N,cloth,生活,居家用品
+L3-159,梳子,梳子,shūzi,N,comb,生活,居家用品
+L3-160,玻璃,玻璃,bōli,N,glass,生活,居家用品
+L3-161,浴缸,浴缸,yùgāng,N,tub,生活,居家用品
+L3-162,衛生紙,卫生纸,wèishēngzhǐ,N,toilet paper,生活,居家用品
+L3-163,電風扇,电风扇,diànfēngshàn,N,fan,生活,居家用品
+L3-164,鑰匙,钥匙,yàoshi,N,key,生活,居家用品
+L3-165,收音機,收音机,shōuyīnjī,N,radio,生活,居家用品
+L3-166,隨身聽,随身听,suíshēntīng,N,a type of small cassette or cd player with headphones that you can carry with you,生活,居家用品
+L3-167,廣播,广播,guǎngbò,N/V,(to) broadcast,生活,居家用品
+L3-167,廣播,广播,guǎngbō,N/V,(to) broadcast,生活,居家用品
+L3-168,新聞,新闻,xīnwén,N,news,生活,居家用品
+L3-169,節目,节目,jiémù,N,show,生活,居家用品
+L3-170,消息,消息,xiāoxi,N,news,生活,居家用品
+L3-171,網站,网站,wǎngzhàn,N,website,生活,居家用品
+L3-172,電子郵件,电子邮件,diànzǐyóujiàn,N,e-mail,生活,居家用品
+L3-173,螢幕,萤幕,yíngmù,N,screen,生活,居家用品
+L3-174,雜誌,杂志,zázhì,N,magazine,生活,居家用品
+L3-175,留言,留言,liúyán,N/V,"message, to leave a message",生活,居家用品
+L3-176,整齊,整齐,zhěngqí,Vs,tidy,生活,居家用品
+L3-177,亂七八糟,乱七八糟,luànqībāzāo,Vs,messy,生活,居家用品
+L3-178,饅頭,馒头,mántou,N,steamed bun,生活,飲食
+L3-179,泡麵,泡面,pàomiàn,N,instant noodles,生活,飲食
+L3-180,火鍋,火锅,huǒguō,N,hotpot,生活,飲食
+L3-181,豆腐,豆腐,dòufu,N,tofu,生活,飲食
+L3-182,香腸,香肠,xiāngcháng,N,sausage,生活,飲食
+L3-183,蔬菜,蔬菜,shūcài,N,vegetable,生活,飲食
+L3-184,蘿蔔,萝卜,luóbo,N,carrot,生活,飲食
+L3-185,馬鈴薯,马铃薯,mǎlíngshǔ,N,potato,生活,飲食
+L3-186,果醬,果酱,guǒjiàng,N,jam,生活,飲食
+L3-187,蜂蜜,蜂蜜,fēngmì,N,honey,生活,飲食
+L3-188,糖果,糖果,tángguǒ,N,candy,生活,飲食
+L3-189,野餐,野餐,yěcān,N/V,(to) picnic,生活,飲食
+L3-190,胡椒粉,胡椒粉,hújiāofěn,N,pepper,生活,飲食
+L3-191,酒,酒,jiǔ,N,wine,生活,飲食
+L3-192,鳳梨,凤梨,fènglí,N,pineapple,生活,飲食
+L3-193,檸檬,柠檬,níngméng,N,lemon,生活,飲食
+L3-194,椰子,椰子,yézi,N,coconut,生活,飲食
+L3-194,椰,椰,yé,N,coconut,生活,飲食
+L3-195,梨子,梨子,lízi,N,pear,生活,飲食
+L3-195,梨,梨,lí,N,pear,生活,飲食
+L3-196,味道,味道,wèidao,N,taste,生活,飲食
+L3-197,鹹,咸,xián,Vs,salty,生活,飲食
+L3-198,鹽,盐,yán,N,salt,生活,飲食
+L3-199,辣,辣,là,Vs,spicy,生活,飲食
+L3-200,酸,酸,suān,Vs,sour,生活,飲食
+L3-201,煮,煮,zhǔ,V,to cook,生活,飲食
+L3-202,煎,煎,jiān,V,to fry,生活,飲食
+L3-203,新鮮,新鲜,xīnxian,Vs,fresh,生活,飲食
+L3-204,畢業,毕业,bìyè,V,to graduate,生活,學校
+L3-205,討論,讨论,tǎolùn,V,to discuss,生活,學校
+L3-206,遲到,迟到,chídào,Vs,late,生活,學校
+L3-207,安靜,安静,ānjìng,Vs,quiet,生活,學校
+L3-208,吵架,吵架,chǎojià,V,to argue,生活,學校
+L3-209,夏令營,夏令营,xiàlìngyíng,N,summer camp,生活,學校
+L3-210,舉行,举行,jǔxíng,V,to hold,生活,學校
+L3-211,活動,活动,huódòng,N,activity,生活,學校
+L3-212,書法,书法,shūfǎ,N,chinese calligraphy,生活,學校
+L3-213,興趣,兴趣,xìngqù,N,"interest, hobby",生活,學校
+L3-214,文章,文章,wénzhāng,N,"article, essay",生活,學校
+L3-215,日記,日记,rìjì,N,diary,生活,學校
+L3-216,字典,字典,zìdiǎn,N,dictionary,生活,學校
+L3-217,歷史,历史,lìshǐ,N,history,生活,學校
+L3-218,地理,地理,dìlǐ,N,geography,生活,學校
+L3-219,戲劇,戏剧,xìjù,N,drama,生活,學校
+L3-220,回答,回答,huídá,V/N,to answer,生活,學校
+L3-221,答案,答案,dá'àn,N,answer,生活,學校
+L3-222,通知,通知,tōngzhī,V/N,to inform,生活,學校
+L3-223,複習,复习,fùxí,V,to review,生活,學校
+L3-224,學習,学习,xuéxí,V,to learn,生活,學校
+L3-225,選擇,选择,xuǎnzé,V/N,to choose; choice,生活,學校
+L3-226,借,借,jiè,V,to borrow,生活,學校
+L3-227,替,替,tì,V,on behalf of,生活,學校
+L3-228,試,试,shì,V,to try,生活,學校
+L3-229,輸,输,shū,V,to lose,生活,學校
+L3-230,贏,赢,yíng,V,to win,生活,學校
+L3-231,毛筆,毛笔,máobǐ,N,writing brush,生活,學校
+L3-232,水彩,水彩,shuǐcǎi,N,watercolor,生活,學校
+L3-233,堆,堆,duī,V/M,"(to) stack, (to) pile; collective measure word for a mass of things in piles",生活,休閒活動
+L3-234,積木,积木,jīmù,N,brick,生活,休閒活動
+L3-235,划船,划船,huáchuán,V,to row a boat,生活,休閒活動
+L3-236,溜冰,溜冰,liūbīng,V,to skate,生活,休閒活動
+L3-237,跳繩,跳绳,tiàoshéng,V/N,rope-skipping,生活,休閒活動
+L3-238,釣魚,钓鱼,diàoyú,V/N,fishing,生活,休閒活動
+L3-239,旅遊,旅游,lǚyóu,V/N,to travel,生活,休閒活動
+L3-240,參觀,参观,cānguān,V,to visit,生活,休閒活動
+L3-241,露營,露营,lùyíng,V/N,camping,生活,休閒活動
+L3-242,聊天,聊天,liáotiān,V,to chat,生活,休閒活動
+L3-243,電動玩具,电动玩具,diàndòngwánjù,N,video game,生活,休閒活動
+L3-243,電玩,电玩,diànwán,N,video game,生活,休閒活動
+L3-244,風箏,风筝,fēngzhēng,N,kite,生活,休閒活動
+L3-245,計畫,计划,jìhuà,V/N,(to) plan,生活,休閒活動
+L3-246,打算,打算,dǎsuàn,V,"to plan, to intend",生活,休閒活動
+L3-247,網路,网路,wǎnglù,N,internet,生活,休閒活動
+L3-248,油畫,油画,yóuhuà,N,oil painting,生活,休閒活動
+L3-249,影片,影片,yǐngpiàn,N,film,生活,休閒活動
+L3-250,小說,小说,xiǎoshuō,N,novel,生活,休閒活動
+L3-251,樂器,乐器,yuèqì,N,musical instruments,生活,休閒活動
+L3-252,喇叭,喇叭,lǎba,N,trumpet,生活,休閒活動
+L3-253,笛子,笛子,dízi,N,flute,生活,休閒活動
+L3-253,笛,笛,dí,N,flute,生活,休閒活動
+L3-254,合唱團,合唱团,héchàngtuán,N,"chorus, choir",生活,休閒活動
+L3-255,捉迷藏,捉迷藏,zhuōmícáng,N,hide-and-seek,生活,休閒活動
+L3-256,躲,躲,duǒ,V,to hide,生活,休閒活動
+L3-257,表演,表演,biǎoyǎn,N/V,"performance, to perform",生活,休閒活動
+L3-258,結婚,结婚,jiéhūn,V,to marry,生活,休閒活動
+L3-259,慶祝,庆祝,qìngzhù,N/V,to celebrate,生活,休閒活動
+L3-260,紀念,纪念,jìniàn,V,"to remember, to commemorate",生活,休閒活動
+L3-261,血,血,xiě,N,blood,生活,健康
+L3-262,癢,痒,yǎng,Vs,itchy,生活,健康
+L3-263,注意,注意,zhùyì,V,to notice; to watch out,生活,健康
+L3-264,傳染,传染,chuánrǎn,V,"to be contagious, to infect",生活,健康
+L3-265,昏倒,昏倒,hūndǎo,Vs,to faint,生活,健康
+L3-266,近視,近视,jìnshì,N/Vs,nearsighted,生活,健康
+L3-268,轉,转,zhuǎn,V,to turn,交通,交通工具
+L3-269,遇,遇,yù,V,"to encounter, to come across",交通,交通工具
+L3-270,出發,出发,chūfā,V,"to set off, to depart",交通,交通工具
+L3-271,發生,发生,fāshēng,V,to happen,交通,交通工具
+L3-272,離開,离开,líkāi,V,to leave,交通,交通工具
+L3-273,車禍,车祸,chēhuò,N,car accident,交通,交通工具
+L3-274,地鐵,地铁,dìtiě,N,"subway, underground",交通,交通工具
+L3-275,安全帶,安全带,ānquándài,N,seat belt,交通,交通工具
+L3-276,紅綠燈,红绿灯,hónglǜdēng,N,traffic light,交通,交通工具
+L3-277,方便,方便,fāngbiàn,Vs,convenient,交通,交通工具
+L3-279,霧,雾,wù,N,fog,自然,現象
+L3-280,刮,刮,guā,V,to blow (wind),自然,現象
+L3-281,颱風,台风,táifēng,N,typhoon,自然,現象
+L3-282,空氣,空气,kōngqì,N,air,自然,現象
+L3-283,光,光,guāng,N,light,自然,現象
+L3-284,地震,地震,dìzhèn,N,earthquake,自然,現象
+L3-285,災,灾,zāi,N,disaster,自然,現象
+L3-285,火災,火灾,huǒzāi,N,disaster,自然,現象
+L3-285,水災,水灾,shuǐzāi,N,disaster,自然,現象
+L3-286,變,变,biàn,V,"to become, to turn into",自然,季節
+L3-287,溫度,温度,wēndù,N,temperature,自然,天氣
+L3-288,濕,湿,shī,Vs,humid; wet,自然,天氣
+L3-289,晴朗,晴朗,qínglǎng,Vs,sunny,自然,天氣
+L3-290,植物,植物,zhíwù,N,plant,自然,植物
+L3-291,牠,它,tā,N,it,自然,動物
+L3-292,熊,熊,xióng,N,bear,自然,動物
+L3-293,貓熊,猫熊,māoxióng,N,panda,自然,動物
+L3-293,熊貓,熊猫,xióngmāo,N,panda,自然,動物
+L3-294,長頸鹿,长颈鹿,chángjǐnglù,N,giraffe,自然,動物
+L3-295,龍,龙,lóng,N,dragon,自然,動物
+L3-296,恐龍,恐龙,kǒnglóng,N,dinosaur,自然,動物
+L3-297,蟑螂,蟑螂,zhāngláng,N,cockroach,自然,動物
+L3-298,蝦,虾,xiā,N,shrimp,自然,動物
+L3-299,鯨魚,鲸鱼,jīngyú,N,whale,自然,動物
+L3-300,企鵝,企鹅,qì'é,N,penguin,自然,動物
+L3-301,烏龜,乌龟,wūguī,N,turtle,自然,動物
+L3-302,老鷹,老鹰,lǎoyīng,N,eagle,自然,動物
+L3-303,尾巴,尾巴,wěiba,N,tail,自然,動物
+L3-304,屬,属,shǔ,V,to belong to,自然,動物
+L3-305,島,岛,dǎo,N,island,自然,自然環境
+L3-306,湖,湖,hú,N,lake,自然,自然環境
+L3-307,地球,地球,dìqiú,N,earth,自然,自然環境
+L3-308,貝殼,贝壳,bèiké,N,shell,自然,自然環境
+L3-309,海灘,海滩,hǎitān,N,beach,自然,自然環境
+L3-310,洞,洞,dòng,N,hole,自然,自然環境
+L3-312,地圖,地图,dìtú,N,map,地方,方位
+L3-313,出現,出现,chūxiàn,V,to appear,地方,方位
+L3-314,離,离,lí,Vs,to be distant from,地方,方位
+L3-315,向,向,xiàng,Prep,"to, towards",地方,方位
+L3-316,附近,附近,fùjìn,Adv,nearby,地方,方位
+L3-317,到處,到处,dàochù,Adv,everywhere,地方,方位
+L3-318,臥房,卧房,wòfáng,N,bedroom,地方,處所
+L3-319,陽台,阳台,yángtái,N,balcony,地方,處所
+L3-320,美術館,美术馆,měishùguǎn,N,art gallery,地方,處所
+L3-321,飛機場,飞机场,fēijīchǎng,N,airport,地方,處所
+L3-322,停車場,停车场,tíngchēchǎng,N,parking lot,地方,處所
+L3-323,博物館,博物馆,bówùguǎn,N,museum,地方,處所
+L3-324,補習班,补习班,bǔxíbān,N,cram school,地方,處所
+L3-325,遊樂園,游乐园,yóulèyuán,N,amusement park,地方,處所
+L3-326,圖書館,图书馆,túshūguǎn,N,library,地方,處所
+L3-327,超級市場,超级市场,chāojíshìchǎng,N,supermarket,地方,處所
+L3-328,藥房,药房,yàofáng,N,pharmacy,地方,處所
+L3-328,藥局,药局,yàojú,N,pharmacy,地方,處所
+L3-329,工廠,工厂,gōngchǎng,N,factory,地方,處所
+L3-330,廟,庙,miào,N,temple,地方,處所
+L3-331,公司,公司,gōngsī,N,company,地方,處所
+L3-332,十字路口,十字路口,shízìlùkǒu,N,crossroad,地方,處所
+L3-333,斑馬線,斑马线,bānmǎxiàn,N,pedestrian crossing,地方,處所
+L3-334,橋,桥,qiáo,N,bridge,地方,處所
+L3-335,牆,墙,qiáng,N,wall,地方,處所
+L3-336,風景,风景,fēngjǐng,N,"landscape, scenery",地方,國家
+L3-337,鄉村,乡村,xiāngcūn,N,countryside,地方,國家
+L3-338,城市,城市,chéngshì,N,city,地方,國家
+L3-339,國旗,国旗,guóqí,N,flag,地方,國家
+L3-340,世界,世界,shìjiè,N,world,地方,國家
+L3-341,文字,文字,wénzì,N,"character, word",地方,語言
+L3-342,文化,文化,wénhuà,N,culture,地方,語言
+L3-343,語言,语言,yǔyán,N,language,地方,語言
+L3-344,漢字,汉字,hànzì,N,chinese character,地方,語言
+L3-346,打招呼,打招呼,dǎzhāohū,V,"to greet, to say hello",常用語,一般
+L3-348,怎麼,怎么,zěnme,N,why,功能詞,功能詞
+L3-349,也許,也许,yěxǔ,Adv,maybe,功能詞,功能詞
+L3-350,原來,原来,yuánlái,Adv,originally,功能詞,功能詞
+L3-351,本來,本来,běnlái,Adv,originally,功能詞,功能詞
+L3-352,應該,应该,yīnggāi,V,should,功能詞,功能詞
+L3-353,讓,让,ràng,V,to let,功能詞,功能詞
+L3-354,必須,必须,bìxū,V,must,功能詞,功能詞
+L3-355,需要,需要,xūyào,V/N,(to) need,功能詞,功能詞
+L3-356,被,被,bèi,Bei,a passive voice marker,功能詞,功能詞
+L3-357,為,为,wèi,Prep,for,功能詞,功能詞
+L3-358,為了,为了,wèile,Prep,in order to,功能詞,功能詞
+L3-359,可是,可是,kěshì,Conj,but,功能詞,功能詞
+L3-360,雖然,虽然,suīrán,Conj,although,功能詞,功能詞
+L3-361,連,连,lián,Conj,even; and,功能詞,功能詞
+L3-362,與,与,yǔ,Conj,and,功能詞,功能詞
+L3-363,除了,除了,chúle,Conj,"unless, besides, except",功能詞,功能詞
+L3-364,而且,而且,érqiě,Conj,moreover,功能詞,功能詞
+L3-365,不但,不但,búdàn,Conj/Adv,not only,功能詞,功能詞
+L3-366,啊,啊,a,Ptc,"ah, an exclamation",功能詞,功能詞
