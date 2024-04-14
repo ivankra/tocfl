@@ -1,0 +1,425 @@
+# Corrections to pinyin in upstream wordlists
+Traditional,Pinyin,Corrected
+
+# 國立/過節 - swapped entries
+國立,guòjié,guólì
+過節,guólì,guòjié
+
+# Incorrect pinyin
+供給,gōnjǐ,gōngjǐ
+情況,qǐngjià,qíngkuàng
+木刻,mùkē,mùkè
+教誨,jiàohuǐ,jiàohuì
+受得了,shòudeliao,shòudeliǎo
+# Follow dict.concised.moe.edu.tw
+新鮮,xīnxian,xīnxiān
+白天,báitian,báitiān
+麻煩,máfan,máfán
+多多少少,duōduoshǎoshǎo,duōduōshǎoshǎo
+# 份 is always [fèn], give both variants
+部分/部份,bùfen,bùfen / bùfèn
+# 差 colloquial vs literal pronunciation, give both variants as untoned is plain wrong
+# cha,Vs-pred (inferior, poor) -> chà / chā
+# chā,N (difference) -> unchanged
+差,cha,chà / chā
+#差不多,chabùduō,chàbuduō / chābùduō
+# Follow https://dict.concised.moe.edu.tw/dictView.jsp?ID=31522
+差不多,chabùduō,chābùduō
+# Inconsistent tone change
+要不是,yàobúshì,yàobùshì
+
+# Incorrect diacritic position in pinyin
+漂亮,piàolìang,piàoliàng
+比方說,bǐfāngshūo,bǐfāngshuō
+熟悉,shoúxī,shóuxī
+
+# TOCFL 2018
+一會兒,yīhuǐér,yīhuǐr
+骯髒,āngzhāng,āngzāng
+乒乓球,pīng pāngqiú,pīngpāngqiú
+力量,lìlìang,lìliàng
+交代,jiāodai,jiāodài
+正經,zhèngjing,zhèngjīng
+燈籠,dēnglong,dēnglóng
+見證,jiànzheng,jiànzhèng
+氣派,qìpai,qìpài
+體諒,tǐliang,tǐliàng
+謠言,yáoyan,yáoyán
+部分/份,bùfen,bùfen / bùfèn
+# for consistency; toneless also ok
+走走,zǒuzou,zǒuzǒu
+喉嚨,hóulong,hóulóng
+
+# CCCC
+# [shéme] a possible variant, but rare/unorthodox
+# https://dict.revised.moe.edu.tw/dictView.jsp?ID=131338&q=1&word=%E4%BB%80%E9%BA%BC
+# https://dict.concised.moe.edu.tw/dictView.jsp?ID=34679&q=1
+什麼,shéme,shénme
+為什麼,wèishéme,wèishénme
+去年,qùnian,qùnián
+陰天,yintiān,yīntiān
+背,bèi/bei,bèi/bēi
+盤子,pánzhi,pánzi
+星期天/星期日,xīngqítiān/xīngqītiān/xīngqírì/xīngqīrì,Xīngqítiān/Xīngqītiān/Xīngqírì/Xīngqīrì
+
+# Missing apostrophes (TOCFL lists erroneously do not have any)
+女兒,nǚér,nǚ'ér
+可愛,kěài,kě'ài
+答案,dáàn,dá'àn
+反而,fǎnér,fǎn'ér
+驕傲,jiāoào,jiāo'ào
+戀愛,liànài,liàn'ài
+平安,píngān,píng'ān
+喜愛,xǐài,xǐ'ài
+障礙,zhàngài,zhàng'ài
+總而言之,zǒngéryánzhī,zǒng'éryánzhī
+不安,bùān,bù'ān
+檔案,dǎngàn,dǎng'àn
+對岸,duìàn,duì'àn
+方案,fāngàn,fāng'àn
+感恩,gǎnēn,gǎn'ēn
+黑暗,hēiàn,hēi'àn
+金額,jīné,jīn'é
+敬愛,jìngài,jìng'ài
+親愛,qīnài,qīn'ài
+然而,ránér,rán'ér
+熱愛,rèài,rè'ài
+托兒所,tuōérsuǒ,tuō'érsuǒ
+相親相愛,xiāngqīnxiāngài,xiāngqīnxiāng'ài
+一般而言,yībānéryán,yībān'éryán
+因而,yīnér,yīn'ér
+嬰兒,yīngér,yīng'ér
+阻礙,zǔài,zǔ'ài
+暗暗,ànàn,àn'àn
+辦案,bànàn,bàn'àn
+保安,bǎoān,bǎo'ān
+報案,bàoàn,bào'àn
+悲哀,bēiāi,bēi'āi
+匾額,biǎné,biǎn'é
+草案,cǎoàn,cǎo'àn
+差額,chāé,chā'é
+寵愛,chǒngài,chǒng'ài
+從而,cóngér,cóng'ér
+定額,dìngé,dìng'é
+恩愛,ēnài,ēn'ài
+妨礙,fángài,fáng'ài
+公安,gōngān,gōng'ān
+孤兒,gūér,gū'ér
+飢餓/饑餓,jīè,jī'è
+進而,jìnér,jìn'ér
+名額,míngé,míng'é
+木偶,mùǒu,mù'ǒu
+破案,pòàn,pò'àn
+仁愛,rénài,rén'ài
+深奧,shēnào,shēn'ào
+疼愛,téngài,téng'ài
+心愛,xīnài,xīn'ài
+友愛,yǒuài,yǒu'ài
+治安,zhìān,zhì'ān
+總額,zǒngé,zǒng'é
+罪惡,zuìè,zuì'è
+早安,zǎoān,zǎo'ān
+晚安,wǎnān,wǎn'ān
+企鵝,qìé,qì'é
+飢餓,jīè,jī'è
+偶而,ǒuér,ǒu'ér
+
+# Capitalize proper nouns
+一月,yīyuè,Yīyuè
+三國演義,sānguóyǎnyì,Sānguó Yǎnyì
+上帝,shàngdì,Shàngdì
+中國,zhōngguó,Zhōngguó
+中文,zhōngwén,Zhōngwén
+中華民國,zhōnghuámínguó,Zhōnghuá Mínguó
+中醫,zhōngyī,Zhōngyī
+亞洲,yàzhōu,Yàzhōu
+京劇,jīngjù,Jīngjù
+伊斯蘭教,yīsīlánjiào,Yīsīlánjiào
+佛,fó,Fó
+佛家,fójiā,Fójiā
+佛教,fójiào,Fójiào
+佛經,fójīng,Fójīng
+佛門,fómén,Fómén
+儒家,rújiā,Rújiā
+元旦,yuándàn,Yuándàn
+元朝,yuáncháo,Yuáncháo
+南極洲,nánjízhōu,Nánjízhōu
+可蘭經,kělánjīng,Kělánjīng
+台灣,táiwān,Táiwān
+台灣/臺灣,táiwān,Táiwān
+台語/臺語,táiyǔ,Táiyǔ
+周朝,zhōucháo,Zhōucháo
+唐朝,tángcháo,Tángcháo
+商朝,shāngcháo,Shāngcháo
+四書,sìshū,Sìshū
+回教,huíjiào,Huíjiào
+回教/伊斯蘭教,huíjiào/yīsīlánjiào,Huíjiào/Yīsīlánjiào
+國會,guóhuì,Guóhuì
+國語,guóyǔ,Guóyǔ
+基督,jīdū,Jīdū
+基督教,jīdūjiào,Jīdūjiào
+夏朝,xiàcháo,Xiàcháo
+大內,dànèi,Dànèi
+大同,dàtóng,Dàtóng
+大洋洲,dàyángzhōu,Dàyángzhōu
+大西洋,dàxīyáng,Dàxīyáng
+天主教,tiānzhǔjiào,Tiānzhǔjiào
+太平洋,tàipíngyáng,Tàipíngyáng
+宋朝,sòngcháo,Sòngcháo
+德國,déguó,Déguó
+德文,déwén,Déwén
+攝氏,shèshì,Shèshì
+教育部,jiàoyùbù,Jiàoyùbù
+文藝復興,wényìfùxīng,Wényìfùxīng
+新台幣/新臺幣/台幣/臺幣,xīntáibì/táibì,Xīntáibì/Táibì
+日圓,rìyuán,Rìyuán
+日文,rìwén,Rìwén
+日本,rìběn,Rìběn
+日語,rìyǔ,Rìyǔ
+易經,yìjīng,Yìjīng
+星期一,xīngqíyī,Xīngqíyī
+星期天,xīngqítiān,Xīngqítiān
+星期天,xīngqītiān,Xīngqítiān
+星期天/星期日,xīngqítiān/xīngqírì,Xīngqítiān/Xīngqírì
+星期天/星期日,xīngqītiān/xīngqīrì,Xīngqítiān/Xīngqírì
+星期日,xīngqírì,Xīngqírì
+星期日,xīngqīrì,Xīngqírì
+春節,chūnjié,Chūnjié
+晉朝,jìncháo,Jìncháo
+歐元,ōuyuán,Ōuyuán
+歐洲,ōuzhōu,Ōuzhōu
+正月,zhēngyuè,Zhēngyuè
+民國,mínguó,Mínguó
+法國,fǎguó,Fǎguó
+法文,fǎwén,Fǎwén
+清朝,qīngcháo,Qīngcháo
+港幣,gǎngbì,Gǎngbì
+漢代,hàndài,Hàndài
+漢文,hànwén,Hànwén
+漢朝,hàncháo,Hàncháo
+漢語,hànyǔ,Hànyǔ
+瑞典,ruìdiǎn,Ruìdiǎn
+禪宗,chánzōng,Chánzōng
+禮拜天,lǐbàitiān,Lǐbàitiān
+禮拜日,lǐbàirì,Lǐbàirì
+秦朝,qíncháo,Qíncháo
+納粹,nàcuì,Nàcuì
+美元,měiyuán,Měiyuán
+美國,měiguó,Měiguó
+美洲,měizhōu,Měizhōu
+美金,měijīn,Měijīn
+聖經,shèngjīng,Shèngjīng
+聖誕老人,shèngdànlǎorén,Shèngdàn Lǎorén
+聯合國,liánhéguó,Liánhéguó
+臘月,làyuè,Làyuè
+英國,yīngguó,Yīngguó
+英文,yīngwén,Yīngwén
+英語,yīngyǔ,Yīngyǔ
+英鎊,yīngbàng,Yīngbàng
+菩薩,púsà,Púsà
+華人,huárén,Huárén
+華僑,huáqiáo,Huáqiáo
+華裔,huáyì,Huáyì
+華語,huáyǔ,Huáyǔ
+華語/華文,huáyǔ/huáwén,Huáyǔ/Huáwén
+西方,xīfāng,Xīfāng
+西洋,xīyáng,Xīyáng
+造物主,zàowùzhǔ,Zàowùzhǔ
+週一,zhōuyī,Zhōuyī
+週日,zhōurì,Zhōurì
+道家,dàojiā,Dàojiā
+道教,dàojiào,Dàojiào
+銀河,yínhé,Yínhé
+除夕,chúxì,Chúxì
+隋朝,suícháo,Suícháo
+非洲,fēizhōu,Fēizhōu
+韓國,hánguó,Hánguó
+英語/英文,yīngyǔ/yīngwén,Yīngyǔ/Yīngwén
+
+# phrases / VOO
+打電話,dǎdiànhuà,dǎ diànhuà
+開玩笑,kāiwánxiào,kāi wánxiào
+沒想到,méixiǎngdào,méi xiǎngdào
+拉肚子,lādùzi,lā dùzi
+打招呼,dǎzhāohū,dǎ zhāohū
+嚇一跳,xiàyítiào,xià yī tiào
+
+# Undo tone changes for consistency (pre-2022 TOCFL lists)
+差(一)點/差(一)點兒,chà(yì)diǎn/chà(yì)diǎnr,chà(yī)diǎn/chà(yī)diǎnr
+一,yì,yī
+一下,yíxià,yīxià
+一下子,yíxiàzi,yīxiàzi
+一些,yìxiē,yīxiē
+一共,yígòng,yīgòng
+一再,yízài,yīzài
+一切,yíqiè,yīqiè
+一半,yíbàn,yībàn
+一半兒,yíbànr,yībànr
+一口氣,yìkǒuqì,yīkǒuqì
+一同,yìtóng,yītóng
+一向,yíxiàng,yīxiàng
+一味,yíwèi,yīwèi
+一塊,yíkuài,yīkuài
+一塊兒,yíkuàir,yīkuàir
+一大早,yídàzǎo,yīdàzǎo
+一天到晚,yìtiāndàowǎn,yītiāndàowǎn
+一如,yìrú,yīrú
+一定,yídìng,yīdìng
+一帶,yídài,yīdài
+一度,yídù,yīdù
+一律,yílǜ,yīlǜ
+一心,yìxīn,yīxīn
+一方面,yìfāngmiàn,yīfāngmiàn
+一旁,yìpáng,yīpáng
+一旦,yídàn,yīdàn
+一時,yìshí,yīshí
+一會,yìhuǐ,yīhuǐ
+一會兒,yìhuǐr,yīhuǐr
+一會兒,yìhuǐér,yīhuǐr
+一會兒,yìhuǐēr,yīhuǐr
+一會兒,yíhuìer,yīhuìr
+一會兒,yíhuìér,yīhuìr
+一概,yígài,yīgài
+一模一樣,yìmóyíyàng,yīmóyīyàng
+一樣,yíyàng,yīyàng
+一流,yìliú,yīliú
+一生,yìshēng,yīshēng
+一直,yìzhí,yīzhí
+一致,yízhì,yīzhì
+一般,yìbān,yībān
+一般來說,yìbānláishuō,yībānláishuō
+一貫,yíguàn,yīguàn
+一起,yìqǐ,yīqǐ
+一連,yìlián,yīlián
+一連串,yìliánchuàn,yīliánchuàn
+一道,yídào,yīdào
+一邊,yìbiān,yībiān
+一陣,yízhèn,yīzhèn
+一陣子,yízhènzi,yīzhènzi
+一面,yímiàn,yīmiàn
+一點,yìdiǎn,yīdiǎn
+一點兒,yìdiǎner,yīdiǎnr
+一點兒,yìdiǎnr,yīdiǎnr
+一點兒,yìdiǎnér,yīdiǎnr
+一齊,yìqí,yīqí
+不一定,bùyídìng,bùyīdìng
+不下,búxià,bùxià
+不但,búdàn,bùdàn
+不便,búbiàn,bùbiàn
+不再,búzài,bùzài
+不利,búlì,bùlì
+不到,búdào,bùdào
+不力,búlì,bùlì
+不動產,búdòngchǎn,bùdòngchǎn
+不大,búdà,bùdà
+不客氣,búkèqì,bùkèqì
+不幸,búxìng,bùxìng
+不必,búbì,bùbì
+不懈,búxiè,bùxiè
+不料,búliào,bùliào
+不斷,búduàn,bùduàn
+不用,búyòng,bùyòng
+不用說,búyòngshuō,bùyòngshuō
+不當,búdàng,bùdàng
+不肖,búxiào,bùxiào
+不致,búzhì,bùzhì
+不要,búyào,bùyào
+不要緊,búyàojǐn,bùyàojǐn
+不見,bújiàn,bùjiàn
+不見了,bújiànle,bùjiànle
+不見得,bújiàndé,bùjiàndé
+不論,búlùn,bùlùn
+不過,búguò,bùguò
+不錯,búcuò,bùcuò
+不顧,búgù,bùgù
+動不動,dòngbúdòng,dòngbùdòng
+好久不見,hǎojiǔbújiàn,hǎojiǔbùjiàn
+忍不住,rěnbúzhù,rěnbùzhù
+想不到,xiǎngbúdào,xiǎngbùdào
+有一點,yǒuyìdiǎn,yǒuyīdiǎn
+有一點兒,yǒuyìdiǎnr,yǒuyīdiǎnr
+要不是,yàobúshì,yàobùshì
+說不定,shuōbúdìng,shuōbùdìng
+進一步,jìnyíbù,jìnyībù
+差不多,chàbúduō,chàbùduō
+
+# SC-TOP wordlist corrections
+不,"bú;bù",bù
+不,bú,bù
+一,"yī/yí/yì",yī
+一,yí,yī
+知道,zhī dào,zhīdào
+起來,qǐái,qǐlái
+運動,yúndòng,yùndòng
+年輕,niánjīng,niánqīng
+支,zī,zhī
+洗衣機,xǐyī jī,xǐyījī
+國內,guònèi,guónèi
+國外,guòwài,guówài
+刻,kē,kè
+老婆,hǎopó,lǎopó
+力量,lìlìàng,lìliàng
+沒什麼,méishéme,méishénme
+沒什麼,méisheme,méishénme
+牛仔褲,niǔzǐkù,niúzǎikù
+品質,pǐnzhízhí,pǐnzhí
+普遍,pǔpiàn,pǔbiàn
+起來,qǐái,qǐlái
+補習,bùxí,bǔxí
+出產,chūchāi,chūchǎn
+對付,duìdài,duìfù
+幹什麼,gànshéme,gànshénme
+接到,jiēdài,jiēdào
+考慮,kǎolǘ,kǎolǜ
+跨,kuā,kuà
+利潤,lìlùn,lìrùn
+形狀,xìngzhuàng,xíngzhuàng
+一般而言,yìbānéryán,yībān'éryán
+最少,zuìxiǎo,zuìshǎo
+乾燥,gā zào,gānzào
+關稅,guān shuì,guānshuì
+融洽,róngxiá,róngqià
+早飯,zǎngfàn,zǎofàn
+哪兒,nǎer,nǎr
+那兒,nàer,nàr
+這兒,zhèer,zhèr
+茶館兒,cháguǎner,cháguǎnr
+待會兒,dàihuǐer,dàihuǐr
+多半兒,duōbàner,duōbànr
+飯館兒,fànguǎner,fànguǎnr
+飯館兒,fànguǎnér,fànguǎn'ér
+份兒,fèner,fènr
+個兒,gèer,gèr
+口袋兒,kǒudàier,kǒudàir
+空兒,kònger,kòngr
+人情味兒,rénqíngwèier,rénqíngwèir
+味兒,wèier,wèir
+相片兒,xiàngpiàner,xiàngpiànr
+勁兒,jìner,jìnr
+開頭兒,kāitóuer,kāitóur
+字眼兒,zìyǎner,zìyǎnr
+刻畫,kēhuà,kèhuà
+刻劃,kēhuà,kèhuà
+囉嗦,lōusuō,luōsuō
+乒乓球,pīnpāngqiú,pīngpāngqiú
+蹺課,qiàokè,qiāokè
+耳朵,ěrduō,ěrduo
+鑰匙,yàoshí,yàoshi
+機器,jīqi,jīqì
+季節,jì jié,jìjié
+
+# TBCL
+小朋友,xiǎpéngyǒu,xiǎopéngyǒu
+橘子,jú,júzi
+碰觸/觸碰,pèngchù,pèngchù/chùpèng
+玩意兒,wányèr,wányìr
+親耳,qīněr,qīn'ěr
+壓根兒,yāgēr,yāgēnr
+一點/一點點/一點兒,yīdiǎn/yīdiǎndiǎn/yīdiǎr,yīdiǎn/yīdiǎndiǎn/yīdiǎnr
+蜿蜒,wǎnyán,wānyán
+無妨,wúfāng,wúfáng
+忠告,zhōnggù,zhōnggào
+牢靠,láokao,láokào
+平反,píngfān,píngfǎn
+探頭,tāntóu,tàntóu
+自白,zìbó,zìbái

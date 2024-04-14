@@ -1,1 +1,4 @@
-.ipynb_checkpoints/
+*.apkg
+.ipynb_checkpoints
+downloads
+html/
