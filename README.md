@@ -10,7 +10,7 @@ This repository contains parsed and cleaned up vocabulary wordlists for TOCFL an
 
 ## Wordlists
 
-`tocfl-202307.csv`: current 2022/2023 TOCFL wordlist
+`tocfl-202307.csv`: current 2022/2023 TOCFL wordlist ([html](https://ivankra.github.io/tocfl/tocfl.html), [with definitions](https://ivankra.github.io/tocfl/tocfl-cedict.html))
   * 7517 terms (7849 with variants, 7480 unique)
   * 7 levels (in ID column together with term index):
     * `L0-1nnn` = Novice 1 (準備級一級), pre-A1
@@ -23,13 +23,14 @@ This repository contains parsed and cleaned up vocabulary wordlists for TOCFL an
   * Contains part-of-speech tags for all terms, but no definitions
   * Source: [8000zhuyin_202307.zip](https://tocfl.edu.tw/assets/files/vocabulary/8000zhuyin_202307.zip) / [8000zhuyin_202204.zip](https://tocfl.edu.tw/assets/files/vocabulary/8000zhuyin_202204.zip)
 
-`tocfl-20180419.csv`: 2018 TOCFL wordlist version
+`tocfl-20180419.csv`: 2018 TOCFL wordlist version ([html](https://ivankra.github.io/tocfl/tocfl-20180419.html))
   * 7945 terms (8106 with variants, 7399 unique), 7 levels
   * Source: https://web.archive.org/web/20200227052851/http://www.sc-top.org.tw/download/8000zhuyin.zip
 
-`tocfl-20160215.csv` ... `tocfl-20170324.csv`: older versions of TOCFL wordlist.
+`tocfl-20160215.csv` ... `tocfl-20170324.csv`: older versions of TOCFL wordlists
 
-`top-20100915.csv`, `top-20111208.csv`: 2010/2011 wordlist versions, TOCFL test back then was called SC-TOP
+`top-20100915.csv`, `top-20111208.csv`: 2010/2011 wordlist versions ([html](https://ivankra.github.io/tocfl/top-20111208.html))
+  * TOCFL test back then was simply called SC-TOP
   * 4-5 levels (2010 file has a single level for CEFR A1-A2, L2 here)
   * Terse English definitions for all terms -- useful for looking up the main intended sense or deciphering some more obscure entries on newer lists e.g.
     * `只,zhǐ,M,"Individual measure word for box, watch or ring."`
@@ -37,7 +38,7 @@ This repository contains parsed and cleaned up vocabulary wordlists for TOCFL an
   * Different part-of-speech tags, following PAVC textbooks.
   * Source: [800+800020100915.xls](https://web.archive.org/web/20160116074948/http://www.sc-top.org.tw/download/800+800020100915.xls), [list20111208.xls](https://web.archive.org/web/20140908011551/http://www.sc-top.org.tw/download/L1-L5vocabualry%20list20111208.xls)
 
-`cccc.csv`: CCCC 2022 wordlist
+`cccc.csv`: CCCC 2022 wordlist ([html](https://ivankra.github.io/tocfl/cccc.html))
   * 1197 terms (1344 with variants, 1312 unique)
   * 3 levels ([reference](https://tocfl.edu.tw/assets/files/literature/CCCC_LR_2022.pdf)):
     * `L1-nnn` = 萌芽級, pre-A1
@@ -46,7 +47,7 @@ This repository contains parsed and cleaned up vocabulary wordlists for TOCFL an
   * Part-of-speech and basic English definitions for all terms.
   * Source: https://tocfl.edu.tw/assets/files/vocabulary/CCCC_Vocabulary_2022.xls
 
-`tbcl.csv`: TBCL wordlist
+`tbcl.csv`: TBCL wordlist ([html](https://ivankra.github.io/tocfl/tbcl.html), [with CE-CCDICT definitions](https://ivankra.github.io/tocfl/tbcl-cedict.html))
   * 14425 terms (14868 with variants, 14731 unique)
   * 7 levels
   * Definitions, part-of-speech and examples for ~1500 beginner level (L1-L3) words.
@@ -69,7 +70,7 @@ Columns in .csv files:
   * `ID`: term's level + index (row number in source excel file)
   * `Traditional`: term in traditional characters
     * May contain `()/,` to indicate variants.
-    * See Variants field or expanded/*.csv files to get clean a hanzi.
+    * See Variants field or expanded/\*.csv files to get clean a hanzi.
   * `Simplified`: term converted to simplified characters
   * `Pinyin`: pinyin with diacritics, cleaned up and normalized. Tone changes are not indicated.
   * `POS`: part of speech, /-separated.
@@ -83,6 +84,7 @@ Columns in .csv files:
 
 ## Links
 
-  * https://tocfl.edu.tw/
-  * https://coct.naer.edu.tw/TBCL/
-  * [https://web.archive.org/web/\*/http://www.sc-top.org.tw/download/\*](https://web.archive.org/web/*/http://www.sc-top.org.tw/download/*)
+  * Browsable/linkable HTML versions: [https://ivankra.github.io/tocfl/](https://ivankra.github.io/tocfl/).
+  * TOCFL: [https://tocfl.edu.tw/](https://tocfl.edu.tw/)
+  * TBCL: [https://coct.naer.edu.tw/TBCL/](https://coct.naer.edu.tw/TBCL/)
+  * SC-TOP/TOCFL archive: [https://web.archive.org/web/\*/http://www.sc-top.org.tw/download/\*](https://web.archive.org/web/*/http://www.sc-top.org.tw/download/*)
