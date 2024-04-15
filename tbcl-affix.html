@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>tbcl-affix.csv</title>
+<style>
+html {
+  font-family: 'Roboto', sans-serif;
+  background: #999999;
+}
+.titlediv {
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  background-color: #ffffff;
+  font-size: 22pt;
+  box-shadow: rgba(0, 0, 0, 0.6) 0px 15px 25px;
+  margin-left: auto;
+  margin-right: auto;
+  /*width: fit-content;*/
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+table.datatable {
+  background-color: #ffffff;
+  border-spacing: 0px; border-collapse: separate;
+  box-shadow: rgba(0, 0, 0, 0.6) 0px 15px 25px;
+  border: 1px solid #999999;
+}
+table.datatable th {
+  font-weight: bold;
+  border-style: none;
+  border-width: 1px;
+  color: #000000;
+  background-color: #ffffff;
+  text-align: left;
+  padding: 10px 10px 10px 10px;
+  border-bottom: 1px solid #aaaaaa;
+}
+table.datatable td {
+  padding: 5px 10px 5px 10px;
+  vertical-align: top;
+}
+.CID, .CLe/*vel*/, .CTr/*aditional*/, .CSi/*mplified*/, .CAf/*fix*/ { 
+  white-space: nowrap;
+}
+tr.L0.odd  { background-color: #FFCDD2CC; }  /* red */
+tr.L0.even { background-color: #FFCDD266; }
+tr.L01.odd  { background-color: #FFCDD2CC; }  /* red */
+tr.L01.even { background-color: #FFCDD266; }
+tr.L02.odd  { background-color: #FFCCBCCC; }  /* deep orange */
+tr.L02.even { background-color: #FFCCBC66; }
+tr.L1.odd   { background-color: #FFECB3CC; }  /* amber */
+tr.L1.even  { background-color: #FFECB366; }
+tr.L2.odd   { background-color: #DCEDC8FF; }  /* light green */
+tr.L2.even  { background-color: #DCEDC866; }
+tr.L3.odd   { background-color: #B2DFDBCC; }  /* teal */
+tr.L3.even  { background-color: #B2DFDB66; }
+tr.L4.odd   { background-color: #BBDEFBCC; }  /* blue */
+tr.L4.even  { background-color: #BBDEFB66; }
+tr.L5.odd   { background-color: #D1C4E9CC; }  /* deep purple */
+tr.L5.even  { background-color: #D1C4E966; }
+tr.L6.odd   { background-color: #E1BEE7CC; }  /* purple */
+tr.L6.even  { background-color: #E1BEE766; }
+/*tbody:hover, tr:hover td { background-color: #ffffff; }*/
+</style>
+</head>
+<body>
+<div style="max-width: 90%; width: fit-content; margin-left: auto; margin-right: auto">
+
+<table class="datatable" style="margin-left: auto; margin-right: auto">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Affix</th>
+      <th>Level</th>
+      <th>Explanation</th>
+      <th>Examples</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr class="L0 odd">
+    <td class="CID"><a name="1">1</a></td>
+    <td class="CAf">～人</td>
+    <td class="CLe">1</td>
+    <td class="CEx">具某類型、身分的人</td>
+    <td class="CEx">年輕人、中國人、日本人、一般人、美國人、漢人、猶太人、黑人、現代人、白人、陌生人、當事人、獵人、領導人、外國人、洋人、創辦人、國人、窮人、投資人、族人、英國人、台灣人、機器人、合夥人、主持人、繼承人、巨人、荷蘭人、美人、老年人、有錢人、愛人、負責人、死人、讀書人、候選人、新人、企業人、當地人、正常人、成年人、常人、中年人、怪人、法國人、西方人、德國人、路人、凡人、蒙古人、旅人、盲人、普通人、富人、戀人、接班人、活人、影評人、真人、經紀人、僧人、外星人、俄國人、歐洲人、熟人、發行人、仙人、罪人、希臘人、惡人、仇人、客家人、青年人、製作人、西班牙人、恩人、農人、印度人、生意人、代言人、臺灣人、胡人、創始人、印第安人、牧羊人、代理人、印地安人、機械人、波斯人、鄉下人、羅馬人、被害人、以色列人、日人、義大利人、閩南人</td>
+  </tr>
+  <tr class="L0 even">
+    <td class="CID"><a name="2">2</a></td>
+    <td class="CAf">星期～/禮拜～</td>
+    <td class="CLe">1</td>
+    <td class="CEx">表時間的單位</td>
+    <td class="CEx">星期二、星期五、星期六、星期一、星期四、星期三、禮拜二、禮拜五、禮拜六、禮拜一、禮拜四、禮拜三</td>
+  </tr>
+  <tr class="L0 odd">
+    <td class="CID"><a name="3">3</a></td>
+    <td class="CAf">～月</td>
+    <td class="CLe">1</td>
+    <td class="CEx">計算時間的單位（一年分12個月）</td>
+    <td class="CEx">八月、三月、七月、九月、十月、五月、六月、四月、十二月、十一月、二月、一月</td>
+  </tr>
+  <tr class="L0 even">
+    <td class="CID"><a name="4">4</a></td>
+    <td class="CAf">～面</td>
+    <td class="CLe">1*</td>
+    <td class="CEx">表層/方向</td>
+    <td class="CEx">地面、水面、海面、桌面、路面、湖面、牆面、球面、前面、後面、上面、下面、外面、側面、背面、南面、北面、西面、東面</td>
+  </tr>
+  <tr class="L0 odd">
+    <td class="CID"><a name="5">5</a></td>
+    <td class="CAf">～邊</td>
+    <td class="CLe">1*</td>
+    <td class="CEx">方向/周圍</td>
+    <td class="CEx">左邊、右邊、西邊、東邊、北邊、南邊、外邊、裡邊、側邊、後邊、下邊、上邊、那邊、這邊、周邊、海邊</td>
+  </tr>
+  <tr class="L0 even">
+    <td class="CID"><a name="6">6</a></td>
+    <td class="CAf">～頭</td>
+    <td class="CLe">1*</td>
+    <td class="CEx">表方位的類詞綴</td>
+    <td class="CEx">外頭、上頭、裡頭、裏頭、下頭、後頭、前頭</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="7">7</a></td>
+    <td class="CAf">第～</td>
+    <td class="CLe">2</td>
+    <td class="CEx">次序</td>
+    <td class="CEx">第二、第三、第四、第五、第六、第七、第八、第九、第十、第十一、第十二、第十五、第十三、第十四、第十六、第一線、第十七、第一流、第一手、第十八、第二十、第十九、第二十一、第二十三、第幾、第二十二、第二十五、第五十四</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="8">8</a></td>
+    <td class="CAf">～店</td>
+    <td class="CLe">2</td>
+    <td class="CEx">陳列貨物以出售的地方</td>
+    <td class="CEx">書店、分店、雜貨店、連鎖店、咖啡店、小店、旅店、老店、麵包店、食品店、藥店、專賣店、速食店、洗衣店、麵店、米店、珠寶店、理髮店、服飾店、零售店、鞋店、花店、量販店、糕餅店、服裝店、小吃店</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="9">9</a></td>
+    <td class="CAf">～片¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">扁平的東西</td>
+    <td class="CEx">相片/照片、碎片、圖片、、卡片、明信片、唱片、葉片、紙片、鏡片、麥片、雪片、鱗片、刀片、瓦片、洋芋片、木片、藥片、肉片、尿片、竹片、生魚片、貼片、穀片</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="10">10</a></td>
+    <td class="CAf">～部¹</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">方位/部分</td>
+    <td class="CEx">內部、外部、北部、南部、西部、東部、東北部、中西部、西南部、西北部、中南部、底部、中部、下半部、頂部、背部、臀部、腹部、胸部、臉部、頸部、腰部、肺部、腳部、足部、根部、腿部、面部、胃部、手部、患部、肩部、尾部、腦部、頭部</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="11">11</a></td>
+    <td class="CAf">～館</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">場所/場地</td>
+    <td class="CEx">茶館、咖啡館、體育館、酒館、文物館、紀念館、報館、飯館、殯儀館、餐館、大使館、領事館</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="12">12</a></td>
+    <td class="CAf">週～/周～</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">表時間的單位</td>
+    <td class="CEx">週六、週五、週一、週三、週二、週四、周四</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="13">13</a></td>
+    <td class="CAf">～卡</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">片狀的用品，如卡片、信用卡</td>
+    <td class="CEx">信用卡、謝卡、生日卡、賀卡、萬用卡、電話卡、門卡、會員卡、提款卡、金融卡、邀請卡</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="14">14</a></td>
+    <td class="CAf">～員</td>
+    <td class="CLe">3</td>
+    <td class="CEx">某職業/一份子</td>
+    <td class="CEx">球員、店員、會員、職員、運動員、學員、研究員、隊員、業務員、推銷員、飛行員、黨員、團員、公務員、銷售員、管理員、船員、指導員、服務員、駕駛員、教職員、警員、圖書館員、空服員、收銀員、辦事員、售貨員、參議員</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="15">15</a></td>
+    <td class="CAf">～機</td>
+    <td class="CLe">3</td>
+    <td class="CEx">機器的統稱（含飛機義）</td>
+    <td class="CEx">收音機、攝影機、電視機、軍機、直升機、打字機、洗衣機、主機、計算機、錄音機、照相機、冷氣機、影印機、印表機、錄影機、對講機、客機、打火機、傳真機、答錄機、果汁機、投影機、販賣機、飲水機、吹風機、釘書機</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="16">16</a></td>
+    <td class="CAf">～生</td>
+    <td class="CLe">3</td>
+    <td class="CEx">學生/一群人</td>
+    <td class="CEx">大學生、新生、研究生、服務生、畢業生、眾生、書生、留學生、小學生、高中生、門生、中學生、考生、資優生、國中生、工讀生、高材生</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="17">17</a></td>
+    <td class="CAf">～節</td>
+    <td class="CLe">3</td>
+    <td class="CEx">具特殊意義的日子</td>
+    <td class="CEx">聖誕節、春節、耶誕節、音樂節、感恩節、中秋節、復活節、端午節、萬聖節、清明節、藝術節、情人節、母親節、元宵節</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="18">18</a></td>
+    <td class="CAf">～場</td>
+    <td class="CLe">3</td>
+    <td class="CEx">表場地/空間</td>
+    <td class="CEx">球場、停車場、磁場、賣場、菜市場、運動場、遊樂場、考場、垃圾場、飛機場、會場</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="19">19</a></td>
+    <td class="CAf">～物</td>
+    <td class="CLe">3</td>
+    <td class="CEx">存在於天地間一切人事物的通稱</td>
+    <td class="CEx">人物、事物、食物、動物、禮物、生物、植物、產物、萬物、藥物、衣物、建築物、讀物、怪物、貨物、財物、寵物、寶物、獵物、廢物、刊物、景物、農作物、遺物、雜物、穀物、實物、器物、廢棄物、文物、障礙物、飾物、微生物、化合物、毒物、混合物、礦物、異物、信物、古物、贓物、排泄物、出版物、玩物、添加物、證物、吉祥物、分泌物、失物、萃取物</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="20">20</a></td>
+    <td class="CAf">～方</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">方位/地位的一邊</td>
+    <td class="CEx">西方、東方、北方、南方、前方、後方、上方、下方、東西方、東北方、西南方、東南方、西北方、右方、左方、遠方、我方、軍方、敵方、女方、校方、男方、院方、買方、賣方、己方、甲方、園方、檢方</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="21">21</a></td>
+    <td class="CAf">老～</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">年長的、年紀大的</td>
+    <td class="CEx">老太太、老先生、老太婆、老婦人、老婆婆、老奶奶、老公公、老祖宗、老一輩、老伴、老翁、老前輩</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="22">22</a></td>
+    <td class="CAf">～區</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">地域/範圍</td>
+    <td class="CEx">山區、市區、特區、園區、休息區、校區、住宅區、工業區、禁區、轄區、災區、保護區、遊樂區、行政區、自治區、風景區、都會區、鬧區</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="23">23</a></td>
+    <td class="CAf">～式¹</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">規格/樣式/方式</td>
+    <td class="CEx">美式、新式、老式、開放式、舊式、互動式、日式、西式、制式、法式、中式、英式、自助式、歐式、韓式、義式、泰式</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="24">24</a></td>
+    <td class="CAf">～費</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">表費用</td>
+    <td class="CEx">生活費、稿費、旅費、廣告費、電費、運費、醫藥費、手續費</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="25">25</a></td>
+    <td class="CAf">～季</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">一個固定的時期</td>
+    <td class="CEx">夏季、冬季、秋季、春季、雨季、旺季、球季、折扣季、賽季、淡季、旅遊季、觀光季、花季、賞鳥季、草莓季、鮪魚季</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="26">26</a></td>
+    <td class="CAf">～片²</td>
+    <td class="CLe">4</td>
+    <td class="CEx">影片的類型</td>
+    <td class="CEx">影片、紀錄片、默片、恐怖片、西部片、劇情片、科幻片、歌舞片、外語片、驚悚片、警匪片、短片、武俠片、動作片、文藝片、動畫片</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="27">27</a></td>
+    <td class="CAf">～長</td>
+    <td class="CLe">4</td>
+    <td class="CEx">主管、領導人</td>
+    <td class="CEx">校長、董事長、院長、部長、執行長、社長、會長、所長、市長、局長、州長、船長、隊長、警長、團長、酋長、鎮長、理事長、處長、首長、廠長、秘書長、委員長、縣長、組長、省長、課長、館長、參謀長、班長、議長、科長、營長、站長、村長、族長、教務長、祕書長、店長、署長、警察局長、里長</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="28">28</a></td>
+    <td class="CAf">～度</td>
+    <td class="CLe">4</td>
+    <td class="CEx">達到的程度</td>
+    <td class="CEx">高度、強度、深度、長度、濃度、知名度、難度、敏感度、可信度、滿意度、厚度、寬度、忠誠度、濕度/溼度、熱度、廣度、重度、輕度、接受度、複雜度、中度、準確度、成熟度、亮度、解析度、能見度、柔軟度、硬度、容忍度、甜度</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="29">29</a></td>
+    <td class="CAf">～族</td>
+    <td class="CLe">4</td>
+    <td class="CEx">有共同屬性的人</td>
+    <td class="CEx">漢族、滿族、上班族、退休族、皇族、布農族、阿美族、異族、泰雅族、苗族、平埔族、銀髮族、藏族、回族、蒙古族、鄒族、排灣族、卑南族、魯凱族、賽夏族、賽德克族、達悟族/雅美族、邵族、噶瑪蘭族、太魯閣族、撒奇萊雅族、拉阿魯哇族、卡那卡那富族</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="30">30</a></td>
+    <td class="CAf">～所</td>
+    <td class="CLe">4</td>
+    <td class="CEx">機關機構名</td>
+    <td class="CEx">研究所、事務所、托兒所、交易所、招待所、派出所、避難所、收容所</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="31">31</a></td>
+    <td class="CAf">～客</td>
+    <td class="CLe">4</td>
+    <td class="CEx">從事某活動的人</td>
+    <td class="CEx">遊客、旅客、訪客、政客、觀光客、房客、刺客、駭客、賭客</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="32">32</a></td>
+    <td class="CAf">～系</td>
+    <td class="CLe">4</td>
+    <td class="CEx">學術科別</td>
+    <td class="CEx">心理系、歷史系、中文系、物理系、法律系、哲學系、心理學系、企管系、經濟系、社會學系、教育系、醫學系、數學系、生物系、華語系、電子機械系、資訊工程系、建築系</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="33">33</a></td>
+    <td class="CAf">～力</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">力量/能力</td>
+    <td class="CEx">注意力、創造力、影響力、想像力、人力、智力、兵力、生產力、吸引力、競爭力、全力、生命力、武力、主力、電力、視力、功力、腦力、意志力、效力、聽力、說服力、阻力、記憶力、耐力、肌力、勞力、魔力、財力、國力、抵抗力、判斷力、免疫力、戰力、專注力、觀察力、火力、助力、戰鬥力、獨力、外力、洞察力、行動力、勞動力、作用力、殺傷力、控制力、活動力、適應力、爆發力、眼力、破壞力、風力、執行力、衝擊力、理解力、公權力、自制力、凝聚力、購買力、領導力、反作用力、號召力、公信力、離心力、親和力、水力</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="34">34</a></td>
+    <td class="CAf">～家</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">具某專長/能力的人</td>
+    <td class="CEx">科學家、藝術家、心理學家、企業家、哲學家、物理學家、數學家、政治家、小說家、音樂家、經濟學家、生物學家、思想家、歷史學家、理論家、評論家、資本家、文學家、化學家、天文學家、劇作家、作曲家、史學家、發明家、銀行家、社會學家、教育家、創業家、收藏家、玩家、人類學家、鋼琴家、考古學家、書法家、漫畫家、語言學家、舞蹈家、歌唱家</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="35">35</a></td>
+    <td class="CAf">～室</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">單位/房間</td>
+    <td class="CEx">實驗室、地下室、會議室、工作室、研究室、畫室、休息室、急診室、圖書室、儲藏室、手術室、更衣室、診療室、候診室、接待室、會客室、閱覽室、寢室</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="36">36</a></td>
+    <td class="CAf">～處</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">地方/事物的部分/機構</td>
+    <td class="CEx">深處、何處、遠處、住處、高處、出處、辦事處、暗處、原處、入口處、管理處</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="37">37</a></td>
+    <td class="CAf">～師</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">具專門技藝的人</td>
+    <td class="CEx">工程師、設計師、治療師、建築師、攝影師、心理師、會計師、分析師、魔術師、藥劑師、畫師、樂師、理髮師、諮商師、風水師、裁縫師、護理師、機師</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="38">38</a></td>
+    <td class="CAf">初～</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">陰曆上旬/開頭</td>
+    <td class="CEx">初期、初次、初版、初年、初學、初一、初戀、初生、初稿、初春、初夏、初選</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="39">39</a></td>
+    <td class="CAf">～團</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">有組織的一群人</td>
+    <td class="CEx">樂團、軍團、財團、劇團、合唱團、陪審團、代表團、馬戲團、交響樂團、旅行團</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="40">40</a></td>
+    <td class="CAf">～類</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">相同相似的人事物綜合種別</td>
+    <td class="CEx">鳥類、魚類、肉類、穀類、哺乳類、豆類</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="41">41</a></td>
+    <td class="CAf">～性</td>
+    <td class="CLe">5</td>
+    <td class="CEx">範圍／方式／表程度的</td>
+    <td class="CEx">可能性、重要性、慢性、惡性、創造性、代表性、攻擊性、戲劇性、複雜性、決定性、可塑性、急性、建設性、一致性、危險性、多樣性、一般性、選擇性、關鍵性、自發性、功能性、普遍性、全國性、挑戰性、穩定性、啟發性、毒性、安全性、放射性、破壞性、結構性、習慣性、永久性、批判性、正當性、良性、社會性、革命性、象徵性、技術性、獨特性、嚴重性、關聯性、必要性、歷史性、全球性、自主性、正確性、暫時性、強迫性、娛樂性、全面性、獨立性、國際性、主動性、差異性、相似性、系統性、權威性、防衛性、毀滅性、世界性、可行性、階段性、爭議性、壓倒性、原創性、實用性、學術性、先天性、警覺性、前瞻性、時間性、趣味性、區域性、例行性</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="42">42</a></td>
+    <td class="CAf">～會</td>
+    <td class="CLe">5</td>
+    <td class="CEx">團體／組織／會議活動</td>
+    <td class="CEx">委員會、基金會、總會、研討會、股東會、宴會、董事會、音樂會、舞會、工會、讀書會、公會、晚會、記者會、博覽會、座談會、運動會、演唱會、廟會、奧運會、園遊會</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="43">43</a></td>
+    <td class="CAf">～期</td>
+    <td class="CLe">5</td>
+    <td class="CEx">一段時間</td>
+    <td class="CEx">長期、早期、初期、短期、後期、青春期、中期、末期、晚期、近期、前期、關鍵期、暑期、過渡期</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="44">44</a></td>
+    <td class="CAf">～學</td>
+    <td class="CLe">5</td>
+    <td class="CEx">學科／專門的知識／學說</td>
+    <td class="CEx">心理學、美學、生物學、經濟學、物理學、社會學、佛學、理學、史學、力學、人類學、儒學、語言學、遺傳學、武學、幾何學、神學、統計學、管理學、天文學、國學、政治學、法學、漢學、教育學、考古學、商學</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="45">45</a></td>
+    <td class="CAf">～化</td>
+    <td class="CLe">5</td>
+    <td class="CEx">轉變成某種狀態或性質</td>
+    <td class="CEx">現代化、全球化、合理化、自動化、標準化、僵化、漢化、多元化、戲劇化、個人化、國際化、社會化、多樣化、系統化、工業化、情緒化、軟化、民主化、自由化、數位化、硬化、淡化、暖化、人性化、商業化、女性化、西化、資訊化、本土化、男性化、科學化、商品化、大眾化、合法化、邊緣化、生活化、民營化、簡單化、正常化、高齡化、客製化、企業化、泡沫化、老化、美化、綠化</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="46">46</a></td>
+    <td class="CAf">總～</td>
+    <td class="CLe">5</td>
+    <td class="CEx">統括／全部</td>
+    <td class="CEx">總會、總經理、總部、總司令、總體、總管、總數、總公司、總計、總和、總額、總編輯</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="47">47</a></td>
+    <td class="CAf">～者</td>
+    <td class="CLe">5</td>
+    <td class="CEx">人或事物的代稱</td>
+    <td class="CEx">消費者、業者、譯者、舞者、工作者、長者、弱者、侍者、老者、、智者、強者、肇事者、編者、當事者、帶原者</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="48">48</a></td>
+    <td class="CAf">～權</td>
+    <td class="CLe">5</td>
+    <td class="CEx">權利／權力</td>
+    <td class="CEx">政權、版權、特權、主權、著作權、股權、實權、產權、職權、霸權、所有權、控制權、決定權、選擇權、自主權、女權、隱私權、父權、主導權、發言權、繼承權、投票權、專利權、經營權、選舉權、債權</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="49">49</a></td>
+    <td class="CAf">～量</td>
+    <td class="CLe">5</td>
+    <td class="CEx">數量／數目</td>
+    <td class="CEx">產量、劑量、分量、音量、銷售量、流量、容量、含量、份量、適量、成交量、工作量、需求量、發行量、運動量、生產量、水量、雨量、食量、酒量、庫存量</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="50">50</a></td>
+    <td class="CAf">～感</td>
+    <td class="CLe">5</td>
+    <td class="CEx">自我認知的看法</td>
+    <td class="CEx">安全感、罪惡感、成就感、滿足感、責任感、幽默感、挫折感、使命感、恐懼感、無力感、歸屬感、平衡感、失落感、自卑感、優越感、壓迫感、正義感、方向感、新鮮感、疏離感、真實感、信賴感、危機感、參與感、飽足感、榮譽感、存在感、節奏感</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="51">51</a></td>
+    <td class="CAf">～品</td>
+    <td class="CLe">5</td>
+    <td class="CEx">某類東西的總稱</td>
+    <td class="CEx">毒品、製品、藥品、藝術品、成品、紀念品、祭品、農產品、化妝品、禮品、貨品、必需品、戰利品、出版品、精品、犧牲品、供品、裝飾品、獎品、保養品、樣品、奢侈品、贈品、日用品、乳製品、產品、作品、用品、商品、物品、食品</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="52">52</a></td>
+    <td class="CAf">～部²</td>
+    <td class="CLe">5</td>
+    <td class="CEx">單位／機構</td>
+    <td class="CEx">經濟部、教育部、財政部、國防部、外交部、司令部、內政部、黨部、交通部、編輯部、財務部、農業部</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="53">53</a></td>
+    <td class="CAf">～院</td>
+    <td class="CLe">5</td>
+    <td class="CEx">機關</td>
+    <td class="CEx">研究院、行政院、法院、立法院、國務院、科學院、中研院、參議院、眾議院、監察院、司法院、考試院</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="54">54</a></td>
+    <td class="CAf">～率</td>
+    <td class="CLe">5</td>
+    <td class="CEx">比例中相比的數</td>
+    <td class="CEx">死亡率、佔有率、利率、速率、匯率、成長率、報酬率、成功率、發生率、失誤率、收視率、犯罪率、存活率、離婚率、獲利率、正確率、失業率、稅率、流動率、命中率、費率、自殺率、罹患率、打擊率、市占率、出生率</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="55">55</a></td>
+    <td class="CAf">～社</td>
+    <td class="CLe">5</td>
+    <td class="CEx">為工作、生活或共同目標結合成的組織、團體</td>
+    <td class="CEx">報社、公社、旅行社、合作社、雜誌社、通訊社、新聞社</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="56">56</a></td>
+    <td class="CAf">～界</td>
+    <td class="CLe">5</td>
+    <td class="CEx">特定範圍／領域</td>
+    <td class="CEx">企業界、自然界、學術界、科學界、教育界、醫學界、出版界、新聞界、心理學界、商業界、產業界、工業界、文化界、史學界、藝術界、金融界、工商界、電影界、廣告界、學界、商界、政界</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="57">57</a></td>
+    <td class="CAf">～商</td>
+    <td class="CLe">5</td>
+    <td class="CEx">做生意的人</td>
+    <td class="CEx">供應商、製造商、經銷商、書商、零售商、出版商、外商、台商、廣告商、批發商、代理商、開發商、貿易商、美商、建商、承包商</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="58">58</a></td>
+    <td class="CAf">～科</td>
+    <td class="CLe">5</td>
+    <td class="CEx">類別／項目</td>
+    <td class="CEx">外科、精神科、小兒科、內科、眼科、婦產科、神經科、醫科、文科、婦科、皮膚科、泌尿科、骨科、牙科、心臟科、理科、工科、農科、商科、復健科、耳鼻喉科</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="59">59</a></td>
+    <td class="CAf">副～</td>
+    <td class="CLe">5</td>
+    <td class="CEx">居次／附帶的</td>
+    <td class="CEx">副總裁、副總統、副院長、副主任、副刊、副總經理、副產品、副手、副主席、副部長、副局長、副校長、副董事長、副食品、副業、副總理、副處長、副主教、副秘書長</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="60">60</a></td>
+    <td class="CAf">～觀</td>
+    <td class="CLe">5</td>
+    <td class="CEx">看法</td>
+    <td class="CEx">價值觀、人生觀、宏觀、世界觀、道德觀、史觀、微觀、宇宙觀、審美觀、國際觀</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="61">61</a></td>
+    <td class="CAf">～局</td>
+    <td class="CLe">5</td>
+    <td class="CEx">辦公單位</td>
+    <td class="CEx">警察局、管理局、調查局、警局、新聞局、鐵路局、工業局、健保局、中情局、文化局、情報局、教育局</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="62">62</a></td>
+    <td class="CAf">～業</td>
+    <td class="CLe">5</td>
+    <td class="CEx">工作職務</td>
+    <td class="CEx">製造業、服務業、報業、工商業、漁業、出版業、紡織業、汽車業、零售業、金融業、礦業、手工業、餐飲業、電腦業、糖業、林業、重工業、鹽業、輕工業、科技業、商業、工業、農業、資訊業</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="63">63</a></td>
+    <td class="CAf">～樂</td>
+    <td class="CLe">5</td>
+    <td class="CEx">表某種音樂的總稱</td>
+    <td class="CEx">爵士樂、交響樂、搖滾樂、鄉村樂、古典樂、流行樂、國樂</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="64">64</a></td>
+    <td class="CAf">～式²</td>
+    <td class="CLe">5</td>
+    <td class="CEx">儀式／樣式</td>
+    <td class="CEx">開幕式、告別式、閉幕式</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="65">65</a></td>
+    <td class="CAf">～制</td>
+    <td class="CLe">5</td>
+    <td class="CEx">制度</td>
+    <td class="CEx">稅制、一夫一妻制、內閣制、總統制、共和制、 聯邦制、 邦聯制、徵兵制、募兵制</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="66">66</a></td>
+    <td class="CAf">～心</td>
+    <td class="CLe">5</td>
+    <td class="CEx">思想、意念或感情</td>
+    <td class="CEx">好奇心、同理心、自信心、自尊心、同情心、企圖心、平常心、虛榮心、慈悲心、責任心、公德心、事業心、包容心</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="67">67</a></td>
+    <td class="CAf">～工</td>
+    <td class="CLe">5</td>
+    <td class="CEx">有專門技術或從事勞動生產的人</td>
+    <td class="CEx">木工、女工、社工、技工、礦工、清潔工、臨時工、電工、水電工、搬運工、油漆工、水泥工、建築工、童工</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="68">68</a></td>
+    <td class="CAf">～價</td>
+    <td class="CLe">5</td>
+    <td class="CEx">人、事、物所值的具體金錢數或抽象的地位、身分</td>
+    <td class="CEx">售價、身價、物價、定價、市價、股價、天價、標價、票價、房價、報價、油價、差價</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="69">69</a></td>
+    <td class="CAf">～迷</td>
+    <td class="CLe">5</td>
+    <td class="CEx">心醉於某種事物的人</td>
+    <td class="CEx">球迷、影迷、歌迷、樂迷、電視迷、電影迷、電動迷、鐵道迷、航空迷</td>
+  </tr>
+  <tr class="L5 even">
+    <td class="CID"><a name="70">70</a></td>
+    <td class="CAf">～史</td>
+    <td class="CLe">6</td>
+    <td class="CEx">過去的事跡或其書籍</td>
+    <td class="CEx">清史、正史、野史、近代史、文學史、藝術史、發展史、病史、通史、思想史、現代史、文化史、家族史、人類史、世界史</td>
+  </tr>
+  <tr class="L5 odd">
+    <td class="CID"><a name="71">71</a></td>
+    <td class="CAf">～層</td>
+    <td class="CLe">6</td>
+    <td class="CEx">級／等次／量詞</td>
+    <td class="CEx">深層、底層、雲層、斷層、年齡層、樓層、表層、大氣層、雙層、外層、頂層</td>
+  </tr>
+  <tr class="L5 even">
+    <td class="CID"><a name="72">72</a></td>
+    <td class="CAf">～錄</td>
+    <td class="CLe">6</td>
+    <td class="CEx">記載事物的書籍、簿冊</td>
+    <td class="CEx">實錄、回憶錄、備忘錄、啟示錄、筆錄、型錄、名錄</td>
+  </tr>
+  <tr class="L5 odd">
+    <td class="CID"><a name="73">73</a></td>
+    <td class="CAf">～體</td>
+    <td class="CLe">6</td>
+    <td class="CEx">物體的本質</td>
+    <td class="CEx">共同體、記憶體、有機體、車體</td>
+  </tr>
+  </tbody>
+
+</table>
+</div>
+</html>

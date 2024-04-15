@@ -1,0 +1,3060 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>tbcl-grammar.csv</title>
+<style>
+html {
+  font-family: 'Roboto', sans-serif;
+  background: #999999;
+}
+.titlediv {
+  text-align: center;
+  padding: 10px 20px 10px 20px;
+  background-color: #ffffff;
+  font-size: 22pt;
+  box-shadow: rgba(0, 0, 0, 0.6) 0px 15px 25px;
+  margin-left: auto;
+  margin-right: auto;
+  /*width: fit-content;*/
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+table.datatable {
+  background-color: #ffffff;
+  border-spacing: 0px; border-collapse: separate;
+  box-shadow: rgba(0, 0, 0, 0.6) 0px 15px 25px;
+  border: 1px solid #999999;
+}
+table.datatable th {
+  font-weight: bold;
+  border-style: none;
+  border-width: 1px;
+  color: #000000;
+  background-color: #ffffff;
+  text-align: left;
+  padding: 10px 10px 10px 10px;
+  border-bottom: 1px solid #aaaaaa;
+}
+table.datatable td {
+  padding: 5px 10px 5px 10px;
+  vertical-align: top;
+}
+.CID, .CLe/*vel*/, .CTr/*aditional*/, .CSi/*mplified*/, .CAf/*fix*/ { 
+  white-space: nowrap;
+}
+tr.L0.odd  { background-color: #FFCDD2CC; }  /* red */
+tr.L0.even { background-color: #FFCDD266; }
+tr.L01.odd  { background-color: #FFCDD2CC; }  /* red */
+tr.L01.even { background-color: #FFCDD266; }
+tr.L02.odd  { background-color: #FFCCBCCC; }  /* deep orange */
+tr.L02.even { background-color: #FFCCBC66; }
+tr.L1.odd   { background-color: #FFECB3CC; }  /* amber */
+tr.L1.even  { background-color: #FFECB366; }
+tr.L2.odd   { background-color: #DCEDC8FF; }  /* light green */
+tr.L2.even  { background-color: #DCEDC866; }
+tr.L3.odd   { background-color: #B2DFDBCC; }  /* teal */
+tr.L3.even  { background-color: #B2DFDB66; }
+tr.L4.odd   { background-color: #BBDEFBCC; }  /* blue */
+tr.L4.even  { background-color: #BBDEFB66; }
+tr.L5.odd   { background-color: #D1C4E9CC; }  /* deep purple */
+tr.L5.even  { background-color: #D1C4E966; }
+tr.L6.odd   { background-color: #E1BEE7CC; }  /* purple */
+tr.L6.even  { background-color: #E1BEE766; }
+/*tbody:hover, tr:hover td { background-color: #ffffff; }*/
+</style>
+</head>
+<body>
+<div style="max-width: 90%; width: fit-content; margin-left: auto; margin-right: auto">
+
+<table class="datatable" style="margin-left: auto; margin-right: auto">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Grammar</th>
+      <th>Level</th>
+      <th>Example</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr class="L0 odd">
+    <td class="CID"><a name="1">1</a></td>
+    <td class="CGr">繫動詞</td>
+    <td class="CLe">1</td>
+    <td class="CEx">我是學生。</td>
+  </tr>
+  <tr class="L0 even">
+    <td class="CID"><a name="2">2</a></td>
+    <td class="CGr">表所有「的」</td>
+    <td class="CLe">1</td>
+    <td class="CEx">這是爸爸的鞋子。</td>
+  </tr>
+  <tr class="L0 odd">
+    <td class="CID"><a name="3">3</a></td>
+    <td class="CGr">「的」省略用法</td>
+    <td class="CLe">1</td>
+    <td class="CEx">我_媽媽。</td>
+  </tr>
+  <tr class="L0 even">
+    <td class="CID"><a name="4">4</a></td>
+    <td class="CGr">不</td>
+    <td class="CLe">1</td>
+    <td class="CEx">A：你是學生嗎？B：我不是（學生）。</td>
+  </tr>
+  <tr class="L0 odd">
+    <td class="CID"><a name="5">5</a></td>
+    <td class="CGr">這/那/哪</td>
+    <td class="CLe">1</td>
+    <td class="CEx">1. 這是什麼？2. 那是誰？3. 你是哪國人？</td>
+  </tr>
+  <tr class="L0 even">
+    <td class="CID"><a name="6">6</a></td>
+    <td class="CGr">什麼</td>
+    <td class="CLe">1</td>
+    <td class="CEx">你愛吃什麼？這是什麼？</td>
+  </tr>
+  <tr class="L0 odd">
+    <td class="CID"><a name="7">7</a></td>
+    <td class="CGr">嗎</td>
+    <td class="CLe">1</td>
+    <td class="CEx">你喜歡喝咖啡嗎？</td>
+  </tr>
+  <tr class="L0 even">
+    <td class="CID"><a name="8">8</a></td>
+    <td class="CGr">在¹</td>
+    <td class="CLe">1*</td>
+    <td class="CEx">他在學校。</td>
+  </tr>
+  <tr class="L0 odd">
+    <td class="CID"><a name="9">9</a></td>
+    <td class="CGr">地點表達</td>
+    <td class="CLe">1*</td>
+    <td class="CEx">臺灣臺中中山北路123號</td>
+  </tr>
+  <tr class="L0 even">
+    <td class="CID"><a name="10">10</a></td>
+    <td class="CGr">時間表達</td>
+    <td class="CLe">1*</td>
+    <td class="CEx">他的生日是一九九五年六月十三日。現在是下午兩點三十分。</td>
+  </tr>
+  <tr class="L0 odd">
+    <td class="CID"><a name="11">11</a></td>
+    <td class="CGr">稱數法</td>
+    <td class="CLe">1*</td>
+    <td class="CEx">2   二39  三十九108 一百零八110 一百一（十）1,000 一千1,018 一千零一十八10,000 一萬10,890 一萬零八百九十</td>
+  </tr>
+  <tr class="L0 even">
+    <td class="CID"><a name="12">12</a></td>
+    <td class="CGr">數+量</td>
+    <td class="CLe">1*</td>
+    <td class="CEx">一本書一個人</td>
+  </tr>
+  <tr class="L0 odd">
+    <td class="CID"><a name="13">13</a></td>
+    <td class="CGr">誰</td>
+    <td class="CLe">1*</td>
+    <td class="CEx">你喜歡誰？誰在教室？</td>
+  </tr>
+  <tr class="L0 even">
+    <td class="CID"><a name="14">14</a></td>
+    <td class="CGr">哪（裡/兒）</td>
+    <td class="CLe">1*</td>
+    <td class="CEx">郵局在哪（裡/兒）？</td>
+  </tr>
+  <tr class="L0 odd">
+    <td class="CID"><a name="15">15</a></td>
+    <td class="CGr">A-not-A</td>
+    <td class="CLe">1*</td>
+    <td class="CEx">你喜歡不喜歡喝咖啡？</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="16">16</a></td>
+    <td class="CGr">Vs（的）N</td>
+    <td class="CLe">2</td>
+    <td class="CEx">這是一部很好看的電影。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="17">17</a></td>
+    <td class="CGr">V了¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">我昨天買了很多書。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="18">18</a></td>
+    <td class="CGr">和¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">這間餐廳的點心很棒，大人和小孩都喜歡。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="19">19</a></td>
+    <td class="CGr">沒（有）¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">圖書館附近沒有公園。我沒錢。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="20">20</a></td>
+    <td class="CGr">會¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">你今年會出國嗎？</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="21">21</a></td>
+    <td class="CGr">V著¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">他戴著帽子。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="22">22</a></td>
+    <td class="CGr">序數</td>
+    <td class="CLe">2</td>
+    <td class="CEx">這是我第一次來臺灣。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="23">23</a></td>
+    <td class="CGr">如果</td>
+    <td class="CLe">2</td>
+    <td class="CEx">如果下雨，我就不出門。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="24">24</a></td>
+    <td class="CGr">可以¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">上課不可以吃東西。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="25">25</a></td>
+    <td class="CGr">要²</td>
+    <td class="CLe">2</td>
+    <td class="CEx">你要記得打電話給王老師。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="26">26</a></td>
+    <td class="CGr">要³</td>
+    <td class="CLe">2</td>
+    <td class="CEx">你今天要一起吃飯嗎？</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="27">27</a></td>
+    <td class="CGr">時量補語</td>
+    <td class="CLe">2</td>
+    <td class="CEx">他已經來臺灣一個月了。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="28">28</a></td>
+    <td class="CGr">但是</td>
+    <td class="CLe">2</td>
+    <td class="CEx">這個箱子很大，但是裡面的東西很輕。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="29">29</a></td>
+    <td class="CGr">能¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">他的車能坐七個人。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="30">30</a></td>
+    <td class="CGr">V過¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">我看過這部電影。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="31">31</a></td>
+    <td class="CGr">就¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">你回到家就給我打電話。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="32">32</a></td>
+    <td class="CGr">「的」後接成分省略</td>
+    <td class="CLe">2</td>
+    <td class="CEx">A：你喜歡藍色外套還是黑色外套？B：我喜歡藍的。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="33">33</a></td>
+    <td class="CGr">會²</td>
+    <td class="CLe">2</td>
+    <td class="CEx">你會不會開車？</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="34">34</a></td>
+    <td class="CGr">能²</td>
+    <td class="CLe">2</td>
+    <td class="CEx">他感冒了，今天不能運動。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="35">35</a></td>
+    <td class="CGr">要¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">我要出去了，你有什麼話快一點說吧。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="36">36</a></td>
+    <td class="CGr">賓+被+V</td>
+    <td class="CLe">2</td>
+    <td class="CEx">盒子被打開了。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="37">37</a></td>
+    <td class="CGr">V+Vs</td>
+    <td class="CLe">2</td>
+    <td class="CEx">你吃飽了嗎？</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="38">38</a></td>
+    <td class="CGr">跟²</td>
+    <td class="CLe">2</td>
+    <td class="CEx">他跟我說了一個很有意思的故事。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="39">39</a></td>
+    <td class="CGr">想</td>
+    <td class="CLe">2</td>
+    <td class="CEx">妹妹想吃冰淇淋。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="40">40</a></td>
+    <td class="CGr">和²</td>
+    <td class="CLe">2</td>
+    <td class="CEx">妹妹很喜歡和爸爸聊天。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="41">41</a></td>
+    <td class="CGr">從¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">我從法國來。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="42">42</a></td>
+    <td class="CGr">用</td>
+    <td class="CLe">2</td>
+    <td class="CEx">他會用筷子吃飯。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="43">43</a></td>
+    <td class="CGr">在²/正在V</td>
+    <td class="CLe">2</td>
+    <td class="CEx">學生在踢足球。媽媽正在包餃子。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="44">44</a></td>
+    <td class="CGr">呢¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">他是德國人，你呢？</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="45">45</a></td>
+    <td class="CGr">（雖然），可是</td>
+    <td class="CLe">2</td>
+    <td class="CEx">雖然他不是很有錢，可是他很快樂。我想出國玩，可是錢不夠。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="46">46</a></td>
+    <td class="CGr">N+們</td>
+    <td class="CLe">2</td>
+    <td class="CEx">孩子們都在外面玩。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="47">47</a></td>
+    <td class="CGr">開始V</td>
+    <td class="CLe">2</td>
+    <td class="CEx">我們十點開始上課。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="48">48</a></td>
+    <td class="CGr">怎麼</td>
+    <td class="CLe">2</td>
+    <td class="CEx">從這裡到車站怎麼走？</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="49">49</a></td>
+    <td class="CGr">可以²</td>
+    <td class="CLe">2</td>
+    <td class="CEx">你可以看懂中文菜單嗎？</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="50">50</a></td>
+    <td class="CGr">為什麼</td>
+    <td class="CLe">2</td>
+    <td class="CEx">你為什麼吃不下飯？</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="51">51</a></td>
+    <td class="CGr">給</td>
+    <td class="CLe">2</td>
+    <td class="CEx">他給我一本書。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="52">52</a></td>
+    <td class="CGr">V見</td>
+    <td class="CLe">2</td>
+    <td class="CEx">我看見李明華的腳踏車在樓下。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="53">53</a></td>
+    <td class="CGr">V了²</td>
+    <td class="CLe">2</td>
+    <td class="CEx">天氣變了。天氣冷了。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="54">54</a></td>
+    <td class="CGr">（請）不要</td>
+    <td class="CLe">2</td>
+    <td class="CEx">請不要說話！</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="55">55</a></td>
+    <td class="CGr">數字+幾</td>
+    <td class="CLe">2</td>
+    <td class="CEx">這條路上有十幾間餐廳。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="56">56</a></td>
+    <td class="CGr">請</td>
+    <td class="CLe">2</td>
+    <td class="CEx">請你走過來。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="57">57</a></td>
+    <td class="CGr">V得+補語</td>
+    <td class="CLe">2</td>
+    <td class="CEx">王美美的中文字寫得很漂亮。衣服洗得很乾淨。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="58">58</a></td>
+    <td class="CGr">幫</td>
+    <td class="CLe">2</td>
+    <td class="CEx">你可以幫我去郵局寄信嗎？</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="59">59</a></td>
+    <td class="CGr">以前</td>
+    <td class="CLe">2</td>
+    <td class="CEx">我以前在醫院工作過。他常常睡覺以前看書。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="60">60</a></td>
+    <td class="CGr">V出¹</td>
+    <td class="CLe">2</td>
+    <td class="CEx">王美美一走出餐廳就看見室友。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="61">61</a></td>
+    <td class="CGr">多/少</td>
+    <td class="CLe">2</td>
+    <td class="CEx">你可以多吃一點水果。哥哥應該少喝點啤酒。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="62">62</a></td>
+    <td class="CGr">也</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">他會說中文，也會說日文。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="63">63</a></td>
+    <td class="CGr">在³</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">他在聖誕節的時候去美國。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="64">64</a></td>
+    <td class="CGr">以後</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">吃完早餐以後，他就去上學了。兩個月以後我要去日本。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="65">65</a></td>
+    <td class="CGr">怎麼樣</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">今天天氣怎麼樣？</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="66">66</a></td>
+    <td class="CGr">幾/多少¹</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">從臺北到臺中，坐火車要幾個小時？啤酒一罐多少錢？</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="67">67</a></td>
+    <td class="CGr">怎麼辦</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">我今天忘了帶錢，怎麼辦？</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="68">68</a></td>
+    <td class="CGr">跟¹</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">我跟姐姐一起到圖書館借書。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="69">69</a></td>
+    <td class="CGr">請問</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">請問你叫什麼名字？</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="70">70</a></td>
+    <td class="CGr">好嗎</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">請你再說一次，好嗎？</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="71">71</a></td>
+    <td class="CGr">怎麼了</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">李明華今天沒來上班，他怎麼了？</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="72">72</a></td>
+    <td class="CGr">V到²/在</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">阿姨走到對面的超市去買菜。叔叔一直住在臺北。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="73">73</a></td>
+    <td class="CGr">從……到……¹</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">這間公司的上班時間是從早上八點到下午五點。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="74">74</a></td>
+    <td class="CGr">從……到……²</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">從臺北到南投開車要三個半小時。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="75">75</a></td>
+    <td class="CGr">都¹</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">我們都喜歡慢跑。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="76">76</a></td>
+    <td class="CGr">V來/去¹</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">你的東西我拿來了。他跑去學校了。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="77">77</a></td>
+    <td class="CGr">因為……所以……</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">因為他們沒有錢，所以不能出國旅行。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="78">78</a></td>
+    <td class="CGr">有的……有的……</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">班上的同學有的會說英文，有的會說法文。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="79">79</a></td>
+    <td class="CGr">到……（去/來）+VP</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">你要到哪裡去旅行？他們到臺灣學中文。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="80">80</a></td>
+    <td class="CGr">太Vs了</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">這家飯店太貴了，我不要住。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="81">81</a></td>
+    <td class="CGr">……還是……</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">爸爸今天晚上想吃飯還是吃麵？</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="82">82</a></td>
+    <td class="CGr">又……又……</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">這家餐廳又便宜又有名。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="83">83</a></td>
+    <td class="CGr">有（一）點Vs</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">我有一點累。今天有一點冷。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="84">84</a></td>
+    <td class="CGr">（在） PW 的 N</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">在桌上的電腦是我弟弟的。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="85">85</a></td>
+    <td class="CGr">從²</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">從早上開始，郵局排隊的人就很多。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="86">86</a></td>
+    <td class="CGr">V起來¹</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">他站起來走出房間。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="87">87</a></td>
+    <td class="CGr">Vs一點</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">搬家的時候要小心一點。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="88">88</a></td>
+    <td class="CGr">數詞+多（量詞）</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">他們聊天聊了一個多小時。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="89">89</a></td>
+    <td class="CGr">V到¹</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">王美美今天上課上到下午五點。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="90">90</a></td>
+    <td class="CGr">又¹</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">他又忘了寫功課。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="91">91</a></td>
+    <td class="CGr">又²</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">他去了臺中，又去了高雄。他買了一件衣服，又買了一條褲子。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="92">92</a></td>
+    <td class="CGr">V過來¹/過去</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">小孩笑著向我跑過來。我在這邊停車，你可以先走過去找朋友。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="93">93</a></td>
+    <td class="CGr">V下來/下去¹</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">大家到了可以找地方坐下來休息。你可以從10樓走下去嗎？</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="94">94</a></td>
+    <td class="CGr">A比B ……</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">弟弟比哥哥高。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="95">95</a></td>
+    <td class="CGr">A跟B一樣……</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">這本書跟那本書一樣貴。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="96">96</a></td>
+    <td class="CGr">一……就……</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">他們一下課就回家。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="97">97</a></td>
+    <td class="CGr">（是）……的</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">我是從美國來的。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="98">98</a></td>
+    <td class="CGr">好/難+V</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">這個字很難寫。三明治很好做。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="99">99</a></td>
+    <td class="CGr">了……就……</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">我吃了早飯就去上課。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="100">100</a></td>
+    <td class="CGr">從……往……</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">從學校往圖書館走就到了。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="101">101</a></td>
+    <td class="CGr">A離B……</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">我家離學校走路只要十分鐘。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="102">102</a></td>
+    <td class="CGr">VP 的 N</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">我認識一位會說德文的英文老師。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="103">103</a></td>
+    <td class="CGr">多+Vs？</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">你哥哥多高？</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="104">104</a></td>
+    <td class="CGr">V進/出/上/回+（……）來/去</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">電梯等太久了，我從二樓走上來。你可以從這條路走上去就到了。你說的書我買回來了。照片洗好了，你可以拿回去了。衣服拿進來吧，外面好像快下雨了。我帶回了一個禮物（來）。他走進去書店，買了三本書。李明華走進郵局寄信（去）。弟弟從教室跑出來。老師說先休息十分鐘，大家就跑出去玩了。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="105">105</a></td>
+    <td class="CGr">零代詞</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">他看了菜單後，決定點一份三明治。</td>
+  </tr>
+  <tr class="L1 even">
+    <td class="CID"><a name="106">106</a></td>
+    <td class="CGr">概數</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">A：你吃了幾個餃子？B：十幾個。</td>
+  </tr>
+  <tr class="L1 odd">
+    <td class="CID"><a name="107">107</a></td>
+    <td class="CGr">話題優先</td>
+    <td class="CLe">2*</td>
+    <td class="CEx">筆，幾塊錢一枝呢？</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="108">108</a></td>
+    <td class="CGr">V過²</td>
+    <td class="CLe">3</td>
+    <td class="CEx">我今天早上已經看過電視新聞了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="109">109</a></td>
+    <td class="CGr">V著²</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他們吃著餅乾看電視。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="110">110</a></td>
+    <td class="CGr">V到³</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他找到那家超市了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="111">111</a></td>
+    <td class="CGr">才¹</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他看了報告後才同意醫生的說法。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="112">112</a></td>
+    <td class="CGr">才⁴</td>
+    <td class="CLe">3</td>
+    <td class="CEx">我上次見到你的時候，你才十一歲。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="113">113</a></td>
+    <td class="CGr">讓¹</td>
+    <td class="CLe">3</td>
+    <td class="CEx">睡前喝杯熱牛奶，可以讓我睡得更好。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="114">114</a></td>
+    <td class="CGr">讓²</td>
+    <td class="CLe">3</td>
+    <td class="CEx">能不能讓我在這兒坐著休息一下？</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="115">115</a></td>
+    <td class="CGr">叫¹</td>
+    <td class="CLe">3</td>
+    <td class="CEx">老闆叫我下午跟他一起去開會。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="116">116</a></td>
+    <td class="CGr">叫²</td>
+    <td class="CLe">3</td>
+    <td class="CEx">我叫人去買便當回來。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="117">117</a></td>
+    <td class="CGr">呢²</td>
+    <td class="CLe">3</td>
+    <td class="CEx">你什麼時候可以開始工作呢？</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="118">118</a></td>
+    <td class="CGr">沒（有）²</td>
+    <td class="CLe">3</td>
+    <td class="CEx">你們參觀過校園沒有？</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="119">119</a></td>
+    <td class="CGr">必須</td>
+    <td class="CLe">3</td>
+    <td class="CEx">這場會議很重要，你必須準時參加。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="120">120</a></td>
+    <td class="CGr">到</td>
+    <td class="CLe">3</td>
+    <td class="CEx">三年級到六年級的同學，下課後都要留下來練習跳舞。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="121">121</a></td>
+    <td class="CGr">要是……就……</td>
+    <td class="CLe">3</td>
+    <td class="CEx">你要是發燒，今天就在家休息吧。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="122">122</a></td>
+    <td class="CGr">……的話</td>
+    <td class="CLe">3</td>
+    <td class="CEx">下雨的話，我就不去了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="123">123</a></td>
+    <td class="CGr">A沒有B（這/那麼）……</td>
+    <td class="CLe">3</td>
+    <td class="CEx">事情沒有你想的那麼嚴重。這盤豆腐吃起來沒有炒麵這麼辣。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="124">124</a></td>
+    <td class="CGr">不但……而且……</td>
+    <td class="CLe">3</td>
+    <td class="CEx">這個故事不但容易了解， 而且很有意思。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="125">125</a></td>
+    <td class="CGr">不但……還/也……</td>
+    <td class="CLe">3</td>
+    <td class="CEx">在超商不但可以買東西還可以寄東西。林先生不但是個好老師，也是一位好父親。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="126">126</a></td>
+    <td class="CGr">而且</td>
+    <td class="CLe">3</td>
+    <td class="CEx">臺灣夏天很熱，而且很濕。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="127">127</a></td>
+    <td class="CGr">真Vs</td>
+    <td class="CLe">3</td>
+    <td class="CEx">那個房子真不錯，而且就在學校附近。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="128">128</a></td>
+    <td class="CGr">越……越……</td>
+    <td class="CLe">3</td>
+    <td class="CEx">颱風來了，雨越下越大。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="129">129</a></td>
+    <td class="CGr">越來越……</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他的中文越來越好了。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="130">130</a></td>
+    <td class="CGr">本來</td>
+    <td class="CLe">3</td>
+    <td class="CEx">我們本來不認識，後來聊了一下就熟了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="131">131</a></td>
+    <td class="CGr">然後</td>
+    <td class="CLe">3</td>
+    <td class="CEx">我喜歡先吃菜再吃肉，然後才吃飯。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="132">132</a></td>
+    <td class="CGr">一邊……一邊……</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他一邊吃飯一邊看手機。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="133">133</a></td>
+    <td class="CGr">先……再……</td>
+    <td class="CLe">3</td>
+    <td class="CEx">大家先找位子再點菜。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="134">134</a></td>
+    <td class="CGr">就要……了</td>
+    <td class="CLe">3</td>
+    <td class="CEx">下個星期就要開學了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="135">135</a></td>
+    <td class="CGr">快要……了</td>
+    <td class="CLe">3</td>
+    <td class="CEx">暑假快要結束了。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="136">136</a></td>
+    <td class="CGr">V一下</td>
+    <td class="CLe">3</td>
+    <td class="CEx">我帶你去附近的圖書館參觀一下。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="137">137</a></td>
+    <td class="CGr">（當）……的時候</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他生氣的時候，最好不要跟他開玩笑。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="138">138</a></td>
+    <td class="CGr">V上</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他剛剛又走上樓，不知去拿什麼東西。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="139">139</a></td>
+    <td class="CGr">V下</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他們選了一個離門口最近的位子坐下。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="140">140</a></td>
+    <td class="CGr">V起</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他拿起筆寫下電話和地址。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="141">141</a></td>
+    <td class="CGr">V滿</td>
+    <td class="CLe">3</td>
+    <td class="CEx">公車上站滿了人。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="142">142</a></td>
+    <td class="CGr">（也）……也……</td>
+    <td class="CLe">3</td>
+    <td class="CEx">草莓可以做果汁也可以做蛋糕。這個地點可以做生意也可以租人。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="143">143</a></td>
+    <td class="CGr">有時候……有時候……</td>
+    <td class="CLe">3</td>
+    <td class="CEx">百貨公司的活動有時候是打折，有時候是送禮物。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="144">144</a></td>
+    <td class="CGr">對</td>
+    <td class="CLe">3</td>
+    <td class="CEx">李小姐聽到消息後，開心地對我笑了笑。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="145">145</a></td>
+    <td class="CGr">對……有興趣</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他對畫畫很有興趣，以後想當畫家。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="146">146</a></td>
+    <td class="CGr">替</td>
+    <td class="CLe">3</td>
+    <td class="CEx">你可以替我把禮物包起來嗎？</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="147">147</a></td>
+    <td class="CGr">為了</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他為了學中文到臺灣來。為了賺更多錢，他打了好幾份工。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="148">148</a></td>
+    <td class="CGr">動詞重疊（ABAB）</td>
+    <td class="CLe">3</td>
+    <td class="CEx">寒假要去哪裡玩，我們可以一起討論討論。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="149">149</a></td>
+    <td class="CGr">狀態動詞重疊做謂語AA/AABB</td>
+    <td class="CLe">3</td>
+    <td class="CEx">我的室友眼睛大大的，頭髮長長的。他每天都穿得漂漂亮亮的。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="150">150</a></td>
+    <td class="CGr">狀態動詞重疊做定語</td>
+    <td class="CLe">3</td>
+    <td class="CEx">這間店的蛋糕很有名，總在短短的時間內就賣完了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="151">151</a></td>
+    <td class="CGr">狀態動詞重疊做狀語</td>
+    <td class="CLe">3</td>
+    <td class="CEx">安安靜靜地坐著。好好地休息。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="152">152</a></td>
+    <td class="CGr">VV看</td>
+    <td class="CLe">3</td>
+    <td class="CEx">這個麵包很好吃，你吃吃看。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="153">153</a></td>
+    <td class="CGr">還沒（有）</td>
+    <td class="CLe">3</td>
+    <td class="CEx">我還沒給你剛剛買火車票的錢。我才剛回國，現在還沒有時間跟妹妹見面。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="154">154</a></td>
+    <td class="CGr">不太/不很</td>
+    <td class="CLe">3</td>
+    <td class="CEx">你住的地方不太好找，我花了一點時間才找到。我的位子離老師太遠了，所以聽得不很清楚。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="155">155</a></td>
+    <td class="CGr">不用/不必</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他在外面租了房子，這學期不用再住在學校了。我有一個背包，所以不必帶行李箱。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="156">156</a></td>
+    <td class="CGr">是不是+VP</td>
+    <td class="CLe">3</td>
+    <td class="CEx">你臉色不太好，是不是生病了？</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="157">157</a></td>
+    <td class="CGr">好不好</td>
+    <td class="CLe">3</td>
+    <td class="CEx">我們選個地點，開店做生意好不好？</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="158">158</a></td>
+    <td class="CGr">好+幾/多/些+量詞</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他很喜歡吃餃子，每次都吃好幾盤。我認識他已經有好多年了。爸爸已經出國好些天了，應該快回來了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="159">159</a></td>
+    <td class="CGr">結構助詞「地」</td>
+    <td class="CLe">3</td>
+    <td class="CEx">他慢慢地走。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="160">160</a></td>
+    <td class="CGr">不知道……</td>
+    <td class="CLe">3</td>
+    <td class="CEx">不知道明天早上六點能不能起得來。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="161">161</a></td>
+    <td class="CGr">那麼</td>
+    <td class="CLe">3</td>
+    <td class="CEx">如果你不同意，那麼你建議我們該怎麼做呢？</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="162">162</a></td>
+    <td class="CGr">那</td>
+    <td class="CLe">3</td>
+    <td class="CEx">A：冰箱裡的東西都可以自己拿來吃。B：謝謝，那我就不客氣了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="163">163</a></td>
+    <td class="CGr">（請）別</td>
+    <td class="CLe">3</td>
+    <td class="CEx">下了飛機以後，別忘了打個電話。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="164">164</a></td>
+    <td class="CGr">（請）+VP</td>
+    <td class="CLe">3</td>
+    <td class="CEx">去洗手！來這裡排隊！請小心開車！保持安靜！</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="165">165</a></td>
+    <td class="CGr">還是……吧</td>
+    <td class="CLe">3</td>
+    <td class="CEx">現在排隊的人太多了，我們還是等一下再來吧！</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="166">166</a></td>
+    <td class="CGr">應該¹</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">運動後應該把汗擦乾。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="167">167</a></td>
+    <td class="CGr">應該²</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">作業應該準時交給老師。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="168">168</a></td>
+    <td class="CGr">可以³</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">游泳可以讓身體更健康。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="169">169</a></td>
+    <td class="CGr">V起來²</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他一聽到消息就開心地笑起來。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="170">170</a></td>
+    <td class="CGr">V起來³</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">夏天到了，冬天的衣服可以收起來了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="171">171</a></td>
+    <td class="CGr">V下去²</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">時間到了，我不能再說下去了。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="172">172</a></td>
+    <td class="CGr">才²</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">學語言要多練習，才能學得好。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="173">173</a></td>
+    <td class="CGr">才³</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他才出門，就開始下雨了。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="174">174</a></td>
+    <td class="CGr">就²</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">這條街有很多銀行，光這個路口就有四家。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="175">175</a></td>
+    <td class="CGr">還¹</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">這家餐廳的水比飲料還貴。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="176">176</a></td>
+    <td class="CGr">願意</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">如果有適合的工作，你願意接受嗎？</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="177">177</a></td>
+    <td class="CGr">只要……就……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他只要有空，就會去參加這次的派對。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="178">178</a></td>
+    <td class="CGr">只有……才……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">你只有在學中文的環境才學得好。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="179">179</a></td>
+    <td class="CGr">只好</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">外面下起了大雨，我們只好留在飯店裡。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="180">180</a></td>
+    <td class="CGr">不管……都……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">如果你有問題 ，不管什麼時候都可以打電話給我。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="181">181</a></td>
+    <td class="CGr">一M比一M……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">秋天到了，天氣開始一天比一天冷。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="182">182</a></td>
+    <td class="CGr">Vs得多</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他哥哥的年紀比他大得多。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="183">183</a></td>
+    <td class="CGr">尤其（是）</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">百貨公司常常有很多人，尤其是週末和假日。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="184">184</a></td>
+    <td class="CGr">V 得/不 了</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">這麼多東西你拿得了嗎？我一個人吃不了40個餃子。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="185">185</a></td>
+    <td class="CGr">V得/不……（表可能）</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他看得懂中文菜單。我今天看不完這本書。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="186">186</a></td>
+    <td class="CGr">V 得/不 下</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">這個房間放得下沙發嗎？我的書包放不下這麼多書。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="187">187</a></td>
+    <td class="CGr">疑問代詞</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">這裡有很多位子，你想坐在哪裡都可以。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="188">188</a></td>
+    <td class="CGr">差不多</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">我們派對可以開始了，客人差不多都到了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="189">189</a></td>
+    <td class="CGr">Vs極了/得不得了/得很</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他終於買到演唱會的門票，心裡高興極了。這間店的空間雖然不大，但是每天生意都好得不得了。這個香蕉蛋糕的作法簡單得很。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="190">190</a></td>
+    <td class="CGr">Vs死了</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">學校裡的功課忙死了，下課還要去打工。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="191">191</a></td>
+    <td class="CGr">Vs壞了</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他忙了一整天都沒吃東西，肚子餓壞了。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="192">192</a></td>
+    <td class="CGr">Vs了一點</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">雖然排隊的人多了一點，但這間店的牛肉麵非常有名。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="193">193</a></td>
+    <td class="CGr">把O V（一）V</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">今天天氣不錯，記得出門前把衣服洗一洗。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="194">194</a></td>
+    <td class="CGr">把 O V到……（來/去）</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">請你把車開到停車場。媽媽把傘送到學校來。弟弟把大衣拿到洗衣店去。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="195">195</a></td>
+    <td class="CGr">把 O V 了</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">這件衣服穿不下，我打算把它賣了。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="196">196</a></td>
+    <td class="CGr">把……V+結果補語</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他把菜洗好了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="197">197</a></td>
+    <td class="CGr">把 O V-在 PW</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">我把書放在桌子上。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="198">198</a></td>
+    <td class="CGr">把+N¹+V給+N²</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">回家後再麻煩你把郵件寄給我。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="199">199</a></td>
+    <td class="CGr">被+（N）+V得</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">鄰居的聲音太大了，妹妹被吵得睡不著。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="200">200</a></td>
+    <td class="CGr">其實</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">一個禮拜運動兩次，其實不難。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="201">201</a></td>
+    <td class="CGr">什麼都……就是……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他什麼都吃，就是不敢吃臭豆腐。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="202">202</a></td>
+    <td class="CGr">V好</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">颱風快來了，媽媽把食物跟水都先買好了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="203">203</a></td>
+    <td class="CGr">V完</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他剛去市場買完菜。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="204">204</a></td>
+    <td class="CGr">VP+VP(連動)</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">我要回家吃飯了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="205">205</a></td>
+    <td class="CGr">才……就……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">我跟他才談沒多久，他就有事先離開了。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="206">206</a></td>
+    <td class="CGr">時段+否定</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他兩天沒睡覺了，讓他多睡一點。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="207">207</a></td>
+    <td class="CGr">從……起</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">從現在起，你應該多吃菜少吃肉。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="208">208</a></td>
+    <td class="CGr">V  得/不 起</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">這支手錶現在在打折，一般學生也買得起。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="209">209</a></td>
+    <td class="CGr">V （得/不）出來</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">從他說話的樣子來看，感覺不出來他很緊張。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="210">210</a></td>
+    <td class="CGr">V住</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">姐姐學一遍，就記住所有作法了。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="211">211</a></td>
+    <td class="CGr">V著（ㄓㄠˊ）</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他喝完牛奶很快就睡著了。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="212">212</a></td>
+    <td class="CGr">V 得/不 動</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">你拿得動這些書架嗎？</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="213">213</a></td>
+    <td class="CGr">V慣</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他已經過慣了城市的生活，去鄉下常覺得不習慣。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="214">214</a></td>
+    <td class="CGr">V掉</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">今天生意很好，一下子就賣掉了四雙皮鞋。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="215">215</a></td>
+    <td class="CGr">V個不停/沒完</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他很喜歡跳舞，每次聽到音樂就跳個不停。他對旅遊很有興趣，每次一講都講個沒完。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="216">216</a></td>
+    <td class="CGr">V個夠</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">這次演唱會一共有三十首歌，你可以一次聽個夠。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="217">217</a></td>
+    <td class="CGr">PW+V（存現）</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">餐桌上放著很多新鮮的水果。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="218">218</a></td>
+    <td class="CGr">會……的</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">長大後，人的想法是會改變的。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="219">219</a></td>
+    <td class="CGr">（連）……/一……都/也+不/沒……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">我連家旁邊開了一間健身房都不知道。畢業後，我們一次也沒見過。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="220">220</a></td>
+    <td class="CGr">不是……就是……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他週末不是打籃球，就是去慢跑。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="221">221</a></td>
+    <td class="CGr">V（了）（一）V</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">王小姐高興地笑了笑。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="222">222</a></td>
+    <td class="CGr">一M一M ……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他們一步一步爬上去。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="223">223</a></td>
+    <td class="CGr">不再……了</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">找到工作後，他現在不再擔心錢的問題了。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="224">224</a></td>
+    <td class="CGr">一點也/都+不/沒</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">年輕時，整晚不睡一點都不累。我昨晚一點酒也沒喝。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="225">225</a></td>
+    <td class="CGr">從來+不/沒……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">李明華從來沒搭過飛機。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="226">226</a></td>
+    <td class="CGr">不/沒+嗎</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">你今天怎麼那麼早就回家了，你不舒服嗎？你怎麼站在外面，你沒帶鑰匙嗎？</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="227">227</a></td>
+    <td class="CGr">不是/沒……嗎</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">如果參加活動可以認識更多人，這樣不是很好嗎？你怎麼還在家裡，王美美沒跟你說改時間了嗎？</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="228">228</a></td>
+    <td class="CGr">……QW……就……QW……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">這次作文沒有題目，你想寫什麼就寫什麼。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="229">229</a></td>
+    <td class="CGr">其中</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他們兩兄弟，其中一個適合做生意，一個適合教書。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="230">230</a></td>
+    <td class="CGr">等/等等</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他很喜歡吃甜食，像是巧克力、蛋糕、冰淇淋等。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="231">231</a></td>
+    <td class="CGr">以+上/下/內/外</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他每天通車要花費兩個小時以上。在臺灣，十八歲以下不能買酒。妳可以選一個一千元以內的禮物。他摔到五公尺以外的草地。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="232">232</a></td>
+    <td class="CGr">除了……（以外），……都……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">除了牛肉以外，其他的肉我都可以吃。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="233">233</a></td>
+    <td class="CGr">除了……以外， 還/也……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">這次的活動除了杯子以外，還送毛巾。除了我以外，還有十幾位同學也收到了一樣的郵件。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="234">234</a></td>
+    <td class="CGr">數+（量詞）+左右</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">他每天搭車上班的時間需要一個小時左右。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="235">235</a></td>
+    <td class="CGr">百分數</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">這裡只有百分之五的人沒出過國。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="236">236</a></td>
+    <td class="CGr">倍數</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">姐姐的行李是我的兩倍重。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="237">237</a></td>
+    <td class="CGr">分數</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">這條腳踏車步道他大概只騎了三分之一。</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="238">238</a></td>
+    <td class="CGr">四則運算</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">1+2=3 一加二等於三3-2=1 三減二等於一3×2=6 三乘以二等於六8÷4=2 八除以四等於二</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="239">239</a></td>
+    <td class="CGr">小數點</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">3.254 三點二五四</td>
+  </tr>
+  <tr class="L2 even">
+    <td class="CID"><a name="240">240</a></td>
+    <td class="CGr">VP/S+的……</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">這本書討論的是美洲的歷史。</td>
+  </tr>
+  <tr class="L2 odd">
+    <td class="CID"><a name="241">241</a></td>
+    <td class="CGr">別（再）……了</td>
+    <td class="CLe">3*</td>
+    <td class="CEx">別再說話了，比賽要開始囉！</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="242">242</a></td>
+    <td class="CGr">可¹</td>
+    <td class="CLe">4</td>
+    <td class="CEx">一般民眾不可免費使用本校的游泳池。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="243">243</a></td>
+    <td class="CGr">可²</td>
+    <td class="CLe">4</td>
+    <td class="CEx">他不但可理解老師上課的內容，還能說出重點。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="244">244</a></td>
+    <td class="CGr">可³</td>
+    <td class="CLe">4</td>
+    <td class="CEx">做好資源回收可改善環境。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="245">245</a></td>
+    <td class="CGr">該¹</td>
+    <td class="CLe">4</td>
+    <td class="CEx">我們平常不該吃太鹹的食物。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="246">246</a></td>
+    <td class="CGr">該²</td>
+    <td class="CLe">4</td>
+    <td class="CEx">時間不早了，我該回家了。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="247">247</a></td>
+    <td class="CGr">V出²</td>
+    <td class="CLe">4</td>
+    <td class="CEx">在重要時刻他總能提出有用的想法或辦法。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="248">248</a></td>
+    <td class="CGr">還³</td>
+    <td class="CLe">4</td>
+    <td class="CEx">他白天上班，晚上還當家教，根本沒時間回信。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="249">249</a></td>
+    <td class="CGr">V起來⁴</td>
+    <td class="CLe">4</td>
+    <td class="CEx">你今天看起來很累。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="250">250</a></td>
+    <td class="CGr">不能不/不得不/不可不</td>
+    <td class="CLe">4</td>
+    <td class="CEx">流了一整天的汗，我的衣服不能不洗。他要搬家了，所以不得不轉學。日常生活中，我們對吃的東西不可不小心。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="251">251</a></td>
+    <td class="CGr">跟/和……比起來</td>
+    <td class="CLe">4</td>
+    <td class="CEx">跟在國內讀書比起來，出國留學是更大的挑戰。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="252">252</a></td>
+    <td class="CGr">A像B一樣……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">畢業後，我們不再像以前一樣經常見面。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="253">253</a></td>
+    <td class="CGr">A不如B</td>
+    <td class="CLe">4</td>
+    <td class="CEx">最近幾年，火車站附近的發展不如新市區。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="254">254</a></td>
+    <td class="CGr">多Vs啊</td>
+    <td class="CLe">4</td>
+    <td class="CEx">他的新髮型多漂亮啊！</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="255">255</a></td>
+    <td class="CGr">差一點（就）……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">他差一點就遲到了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="256">256</a></td>
+    <td class="CGr">跟……（沒）有關</td>
+    <td class="CLe">4</td>
+    <td class="CEx">現代人生病往往都跟壓力有關。一個人會不會賺錢跟年紀沒太大關係。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="257">257</a></td>
+    <td class="CGr">給……帶來……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">持續工作可以給我們帶來穩定的收入。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="258">258</a></td>
+    <td class="CGr">不……不……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">你不來，活動就不能開始。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="259">259</a></td>
+    <td class="CGr">看/要看/得看</td>
+    <td class="CLe">4</td>
+    <td class="CEx">遇到問題時，要看每個人用什麼態度去面對它，處理方式就會不一樣。明天能不能去野餐還得看天氣才能決定。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="260">260</a></td>
+    <td class="CGr">不論/無論</td>
+    <td class="CLe">4</td>
+    <td class="CEx">近年來不論是企業或個人，使用網路的情況都越來越普遍。無論是開車出門或到餐廳吃飯，我都會選擇人少的時間去。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="261">261</a></td>
+    <td class="CGr">只是</td>
+    <td class="CLe">4</td>
+    <td class="CEx">他身體很健康，只是眼睛不太好。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="262">262</a></td>
+    <td class="CGr">卻</td>
+    <td class="CLe">4</td>
+    <td class="CEx">外面太陽很大，但溫度卻很低。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="263">263</a></td>
+    <td class="CGr">（要）不然</td>
+    <td class="CLe">4</td>
+    <td class="CEx">爸爸叫我們動作快，（要）不然船要開走了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="264">264</a></td>
+    <td class="CGr">是</td>
+    <td class="CLe">4</td>
+    <td class="CEx">A：出版旅遊雜誌要花不少錢吧！B：（出版旅遊雜誌的）成本是很高。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="265">265</a></td>
+    <td class="CGr">哪裡……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">他本來打算去租影片，哪裡知道那間店在三天前竟然關了！</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="266">266</a></td>
+    <td class="CGr">說……就……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">山上的天氣不太穩定，常常說變就變。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="267">267</a></td>
+    <td class="CGr">通過</td>
+    <td class="CLe">4</td>
+    <td class="CEx">通過這次溝通，老師又更理解學生的想法了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="268">268</a></td>
+    <td class="CGr">經過</td>
+    <td class="CLe">4</td>
+    <td class="CEx">經過一段時間之後，他已經可以適應研究所的生活了。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="269">269</a></td>
+    <td class="CGr">拿</td>
+    <td class="CLe">4</td>
+    <td class="CEx">上課的時候，老師常常拿自己的經驗來作例子。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="270">270</a></td>
+    <td class="CGr">按照</td>
+    <td class="CLe">4</td>
+    <td class="CEx">他們按照旅遊書上的介紹，安排了三天兩夜的旅行。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="271">271</a></td>
+    <td class="CGr">照（著）</td>
+    <td class="CLe">4</td>
+    <td class="CEx">我照著媽媽的做法包水餃。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="272">272</a></td>
+    <td class="CGr">趁（著）</td>
+    <td class="CLe">4</td>
+    <td class="CEx">趁著年節的時候，爸爸拜訪了很多親戚。趁飯菜還熱著時，趕緊先來吃吧。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="273">273</a></td>
+    <td class="CGr">離</td>
+    <td class="CLe">4</td>
+    <td class="CEx">離過年只剩兩天了，火車票幾乎全賣完了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="274">274</a></td>
+    <td class="CGr">V著V著……就……了</td>
+    <td class="CLe">4</td>
+    <td class="CEx">弟弟常常在床上看書，看著看著就睡著了。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="275">275</a></td>
+    <td class="CGr">早就……了</td>
+    <td class="CLe">4</td>
+    <td class="CEx">說點別的吧，這個故事他早就聽過了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="276">276</a></td>
+    <td class="CGr">……以內/之內</td>
+    <td class="CLe">4</td>
+    <td class="CEx">網站的使用人數在一天之內就增加了十倍。每個人都要在會議上做一個十分鐘以內的報告。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="277">277</a></td>
+    <td class="CGr">一會兒……，一會兒……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">他一個人就扮演了四、五個角色，一會兒是公車司機，一會兒是老闆。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="278">278</a></td>
+    <td class="CGr">一下……一下……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">春天的天氣一下冷、一下熱，很容易讓人感冒。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="279">279</a></td>
+    <td class="CGr">既……又……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">這家賣的水果既新鮮又好吃。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="280">280</a></td>
+    <td class="CGr">一V起</td>
+    <td class="CLe">4</td>
+    <td class="CEx">一聊起喜歡的食物，人們都變得十分感興趣。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="281">281</a></td>
+    <td class="CGr">V起N（來）</td>
+    <td class="CLe">4</td>
+    <td class="CEx">他最不愛上學，現在竟然當起老師來了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="282">282</a></td>
+    <td class="CGr">V光</td>
+    <td class="CLe">4</td>
+    <td class="CEx">你回來的路上可以買條吐司嗎？家裡的吐司都吃光了。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="283">283</a></td>
+    <td class="CGr">因為……的關係</td>
+    <td class="CLe">4</td>
+    <td class="CEx">因為工作的關係，哥哥手機常常關機，所以很難聯絡到他。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="284">284</a></td>
+    <td class="CGr">另外</td>
+    <td class="CLe">4</td>
+    <td class="CEx">這間餐廳環境很不錯，另外還提供兒童免費的遊戲空間。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="285">285</a></td>
+    <td class="CGr">再加上</td>
+    <td class="CLe">4</td>
+    <td class="CEx">哥哥現在工作穩定，再加上之前存的錢，所以日子過得還不錯。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="286">286</a></td>
+    <td class="CGr">不只……而且/還/也……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">這個杯子的設計不只好看而且還很方便。這輛車不只便宜，還很好開。這種餅乾很好吃，不只小孩喜歡，大人也喜歡。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="287">287</a></td>
+    <td class="CGr">除了……之外……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">姐姐平常除了喝水之外，不喝其他的飲料。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="288">288</a></td>
+    <td class="CGr">像……什麼的</td>
+    <td class="CLe">4</td>
+    <td class="CEx">臺灣有些食物，像臭豆腐、大腸麵線、豬血糕什麼的，都是以前我沒吃過的。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="289">289</a></td>
+    <td class="CGr">……而已</td>
+    <td class="CLe">4</td>
+    <td class="CEx">第一次上課的內容只不過是教一些基本動作而已。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="290">290</a></td>
+    <td class="CGr">以+內/外/左/右/東/西/南/北（位置）</td>
+    <td class="CLe">4</td>
+    <td class="CEx">捷運站黃線以內的範圍不能吃東西。這條河以東。和平東路以西。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="291">291</a></td>
+    <td class="CGr">說到/談到/講到</td>
+    <td class="CLe">4</td>
+    <td class="CEx">談到資訊設備，這間圖書館的電腦都是最新的。說到夢想，大家有各式各樣的回答。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="292">292</a></td>
+    <td class="CGr">拿……來說</td>
+    <td class="CLe">4</td>
+    <td class="CEx">拿臺灣來說，現在的老年人口越來越多，出生率卻越來越低。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="293">293</a></td>
+    <td class="CGr">對……來說</td>
+    <td class="CLe">4</td>
+    <td class="CEx">對幼兒來說，遊戲就是他生活中最重要的事。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="294">294</a></td>
+    <td class="CGr">不是</td>
+    <td class="CLe">4</td>
+    <td class="CEx">這句話的意思不是很清楚，可以說明一下嗎？他們的意見我不是很同意。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="295">295</a></td>
+    <td class="CGr">不到</td>
+    <td class="CLe">4</td>
+    <td class="CEx">身高不到九十公分的兒童可以免費入場。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="296">296</a></td>
+    <td class="CGr">怎麼（一）回事</td>
+    <td class="CLe">4</td>
+    <td class="CEx">聽說姐姐跟室友吵架了，你知道是怎麼一回事嗎？</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="297">297</a></td>
+    <td class="CGr">量詞重疊</td>
+    <td class="CLe">4</td>
+    <td class="CEx">今年的玫瑰花朵朵都開得很好。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="298">298</a></td>
+    <td class="CGr">害</td>
+    <td class="CLe">4</td>
+    <td class="CEx">他忘了帶手機，害我一整天都找不到他。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="299">299</a></td>
+    <td class="CGr">把 ……V成……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">請你把英文翻成中文。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="300">300</a></td>
+    <td class="CGr">把……V作/做……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">爺爺把旅行當作退休之後最重要的活動。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="301">301</a></td>
+    <td class="CGr">被……V作/做……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">他被鄰居當作小偷。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="302">302</a></td>
+    <td class="CGr">被……V成……</td>
+    <td class="CLe">4</td>
+    <td class="CEx">他被人打成重傷。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="303">303</a></td>
+    <td class="CGr">賓+受（N）+V</td>
+    <td class="CLe">4</td>
+    <td class="CEx">今年香蕉受產量影響，價格跌得很低。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="304">304</a></td>
+    <td class="CGr">一般來說</td>
+    <td class="CLe">4</td>
+    <td class="CEx">一般來說，收入越多，花費會越高。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="305">305</a></td>
+    <td class="CGr">你說</td>
+    <td class="CLe">4</td>
+    <td class="CEx">你說這麼晚了，他還會回來吃飯嗎？</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="306">306</a></td>
+    <td class="CGr">看樣子</td>
+    <td class="CLe">4</td>
+    <td class="CEx">哥哥的身材很好，看樣子平時有運動的習慣。李明華今天精神很不集中，看樣子昨晚沒睡好。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="307">307</a></td>
+    <td class="CGr">誰知道</td>
+    <td class="CLe">4</td>
+    <td class="CEx">才下了一個鐘頭的雨，誰知道家裡就淹水了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="308">308</a></td>
+    <td class="CGr">所以啦</td>
+    <td class="CLe">4</td>
+    <td class="CEx">A：演唱會的票都賣光了。B：所以啦，下次應該早點去排隊。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="309">309</a></td>
+    <td class="CGr">可⁴</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">這間牛肉麵店可算是臺北最有名的了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="310">310</a></td>
+    <td class="CGr">與¹</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">日月潭與阿里山都是臺灣有名的旅遊地點。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="311">311</a></td>
+    <td class="CGr">與²</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">這位作家很喜歡與讀者分享生活的感動。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="312">312</a></td>
+    <td class="CGr">由¹</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">深夜山上的溫度由十度降到零度以下。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="313">313</a></td>
+    <td class="CGr">多少²</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">他多少存了點錢，所以你不用擔心。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="314">314</a></td>
+    <td class="CGr">都²</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">都提醒過幾次了，他還是忘記還書。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="315">315</a></td>
+    <td class="CGr">V去²</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">他把名字從名單上除去。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="316">316</a></td>
+    <td class="CGr">V過來²</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">父母用教育的方式把孩子不好的行為改過來。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="317">317</a></td>
+    <td class="CGr">還²</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">這組沙發的價格還算便宜。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="318">318</a></td>
+    <td class="CGr">才⁵</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">這麼短的裙子他才不敢穿呢！</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="319">319</a></td>
+    <td class="CGr">A有B（這/那麼）……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">這間教室有一個籃球場這麼大。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="320">320</a></td>
+    <td class="CGr">比……來得 Vs</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">弟弟的身高比同年紀的孩子來得高。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="321">321</a></td>
+    <td class="CGr">Vs得沒話說</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">他們家姊妹的感情好得沒話說，幾乎從來沒有吵過架。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="322">322</a></td>
+    <td class="CGr">向</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">我向爸爸借了一千塊。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="323">323</a></td>
+    <td class="CGr">為</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">換工作有時會為你帶來新的機會。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="324">324</a></td>
+    <td class="CGr">既然……就……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">既然在學校上課，就可以利用時間好好使用學校的資源。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="325">325</a></td>
+    <td class="CGr">不/沒（有）……，就……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">沒有填寫信箱，申請就不會成功。不註冊，就無法選課。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="326">326</a></td>
+    <td class="CGr">再不……就……了</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">我必須先離開了，再不走就要遲到了。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="327">327</a></td>
+    <td class="CGr">非……不（可）</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">我開會快遲到了，現在非走不可了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="328">328</a></td>
+    <td class="CGr">即使……也……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">即使大學畢業了，平時自己也要多學習新的知識。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="329">329</a></td>
+    <td class="CGr">就是……，也……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">如果運動對健康有幫助，就是花費多一點時間也是值得的。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="330">330</a></td>
+    <td class="CGr">再……也……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">他很喜歡彈鋼琴，所以平時練習再辛苦也不怕。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="331">331</a></td>
+    <td class="CGr">就算……也……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">就算沒有相機，手機也可以拍照。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="332">332</a></td>
+    <td class="CGr">除非</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">除非你對教書很有興趣，否則很容易就會失去耐心。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="333">333</a></td>
+    <td class="CGr">否則</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">快去叫醒爸爸，否則他上班要遲到了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="334">334</a></td>
+    <td class="CGr">假如…… （就）……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">假如你吃不完的話，就當作下午的點心吧！假如你要去會場，記得可以先到服務臺拿講義。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="335">335</a></td>
+    <td class="CGr">倒（是）</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">這間公司是值得投資的，至於投資多少倒是可以再討論。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="336">336</a></td>
+    <td class="CGr">寧願……也（不）要……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">他寧願少賺一點錢，也不要把時間都花在工作上。在國外，弟弟寧願多花些電話費，也要常常打電話回家。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="337">337</a></td>
+    <td class="CGr">寧可……也（不）要……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">我寧可少賺一點錢，也要有自己的休閒時間。我寧可多花一點錢買洗衣機，也不要再等到周年慶了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="338">338</a></td>
+    <td class="CGr">居然</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">他平時工作很忙，居然還有時間可以寫小說。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="339">339</a></td>
+    <td class="CGr">簡直</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">一天寫好一篇論文，簡直是不可能的事。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="340">340</a></td>
+    <td class="CGr">反正</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">借錢也好，先賺錢再讀書也好，反正他一定要念完大學。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="341">341</a></td>
+    <td class="CGr">幸虧</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">他差點走錯路，幸虧停下來查了地圖。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="342">342</a></td>
+    <td class="CGr">難道……（嗎）</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">我們是二十年的老朋友了，難道我還不了解你嗎？</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="343">343</a></td>
+    <td class="CGr">算（是）</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">這次的颱風算強颱，你一定要先準備好水跟食物。尖峰時刻竟然沒塞車，我們算是運氣很好。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="344">344</a></td>
+    <td class="CGr">難怪/怪不得</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">果然是你，難怪我覺得聲音很熟悉。這座運動中心在半年前剛剛建好，怪不得這麼新。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="345">345</a></td>
+    <td class="CGr">果然</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">爸爸忘了戴帽子出門，回來果然曬傷了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="346">346</a></td>
+    <td class="CGr">竟（然）</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">一個不到十歲的孩子，竟然會有這麼成熟的想法。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="347">347</a></td>
+    <td class="CGr">照V</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">雖然他月底才搬進來，這個月的房租還是照付。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="348">348</a></td>
+    <td class="CGr">就是</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">不管遇到什麼問題，他就是很有自信。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="349">349</a></td>
+    <td class="CGr">光N/V（O）就</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">光從書名就知道這是一本很有創意的書。光聽就學會了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="350">350</a></td>
+    <td class="CGr">根本</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">他每天工作都很忙，根本沒時間與孩子們相處。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="351">351</a></td>
+    <td class="CGr">靠/靠著</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">生活上有任何問題，我們都要努力靠自己的力量去解決。他習慣靠著閱讀放鬆心情。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="352">352</a></td>
+    <td class="CGr">根據</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">根據氣象報告，明天下午會下雨。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="353">353</a></td>
+    <td class="CGr">……好……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">自己在國外生活，記得有空多打電話回家，好讓家人放心。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="354">354</a></td>
+    <td class="CGr">自從……後</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">自從他的研究發表後，受到很多的肯定。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="355">355</a></td>
+    <td class="CGr">自從……以來</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">自從開始學習網球以來，他的表現一直都很出色。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="356">356</a></td>
+    <td class="CGr">至今</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">他講了一句話，至今仍讓我印象深刻。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="357">357</a></td>
+    <td class="CGr">原來A，如今B</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">這塊地原來種香蕉，如今改種芒果。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="358">358</a></td>
+    <td class="CGr">一方面……，一方面……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">表演的時候，一方面要注意動作，一方面還要跟別人配合。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="359">359</a></td>
+    <td class="CGr">一面……一面……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">臺下的觀眾一面拍手，一面跟著唱。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="360">360</a></td>
+    <td class="CGr">千萬</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">出國時，千萬要記得帶護照。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="361">361</a></td>
+    <td class="CGr">V中</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">意外發生的原因目前仍在調查中。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="362">362</a></td>
+    <td class="CGr">結果</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">他去很多家公司面試，結果只有一家公司通知他去上班。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="363">363</a></td>
+    <td class="CGr">由於</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">表達能力差正是我的弱點，但由於多講多寫，這些弱點也就克服了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="364">364</a></td>
+    <td class="CGr">因此</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">這家麵店參加牛肉麵比賽得了第一名，因此吸引了更多顧客。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="365">365</a></td>
+    <td class="CGr">甚至（於）</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">妹妹很怕黑，甚至連晚上睡覺都要開燈。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="366">366</a></td>
+    <td class="CGr">任何</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">做任何重大的決定以前，都應該要經過仔細的思考。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="367">367</a></td>
+    <td class="CGr">以上</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">由以上的報告，我們可以知道不同地區學生的學習差異。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="368">368</a></td>
+    <td class="CGr">（在）……方面</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">除了運動，爸爸在飲食方面也非常注意。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="369">369</a></td>
+    <td class="CGr">關於</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">張老師寫了一篇關於梵谷作品欣賞的文章。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="370">370</a></td>
+    <td class="CGr">以/從……來看</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">得到這份工作的時候，我覺得以薪水來看，算是相當不錯。從穩定性來看，這間公司值得投資。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="371">371</a></td>
+    <td class="CGr">V 得/不 來</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">暑假的實習生和我們年紀差不多大，大家都很合得來。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="372">372</a></td>
+    <td class="CGr">V下</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">他以很低的價格買下這棟房子。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="373">373</a></td>
+    <td class="CGr">不免</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">生活中不免遇到很多問題和挑戰。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="374">374</a></td>
+    <td class="CGr">不見得</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">成績不好的學生，不見得無法獲得成功的機會。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="375">375</a></td>
+    <td class="CGr">並+不/沒</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">雖然他們的宗教不同，但並不影響他們的合作關係。讓孩子對閱讀產生興趣並沒那麼難。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="376">376</a></td>
+    <td class="CGr">再也（不/沒）</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">自從那次在公車上遇見王明後，我就再也沒見過他了。生過一場大病後，他再也不喝酒了。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="377">377</a></td>
+    <td class="CGr">沒有一M（N） 不/沒……的</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">來過這間餐廳用餐的顧客，沒有一個不說好的。哥哥很喜歡這位歌手，沒有一首歌他沒聽過的。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="378">378</a></td>
+    <td class="CGr">把……V為……</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">教授把演講題目定為「團隊精神」。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="379">379</a></td>
+    <td class="CGr">老實說</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">老實說，這個笑話不好笑。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="380">380</a></td>
+    <td class="CGr">據說</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">據說這個地方本來沒有湖，是大地震之後才出現的。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="381">381</a></td>
+    <td class="CGr">我看</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">我看還是早點出門，等等遲到就不好了。這個工作太危險，我看你別做了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="382">382</a></td>
+    <td class="CGr">你看</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">你看這件事到底是怎麼回事？</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="383">383</a></td>
+    <td class="CGr">這麼說</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">A：他通常會在三點左右離開。B：這麼說，我得三點以前去找他。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="384">384</a></td>
+    <td class="CGr">相反地</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">我認為父母不應該直接告訴孩子答案；相反地，應該讓他們有機會多嘗試。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="385">385</a></td>
+    <td class="CGr">再說</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">他對看電影沒興趣，再說生意這麼忙，他也沒時間。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="386">386</a></td>
+    <td class="CGr">（也/那/這）就是說</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">氣象報告說週末會有颱風，也/那/這就是說，我們不能去海邊了。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="387">387</a></td>
+    <td class="CGr">可不是</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">A：多接近大自然可以放鬆心情。B：可不是！也可以呼吸新鮮空氣。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="388">388</a></td>
+    <td class="CGr">怎麼說呢</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">A：你怎麼不跟他結婚呢？B：怎麼說呢，就是覺得合不來。</td>
+  </tr>
+  <tr class="L3 odd">
+    <td class="CID"><a name="389">389</a></td>
+    <td class="CGr">這樣一來</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">我先買好車票了，這樣一來，我們等一下就可以放心去買伴手禮了。</td>
+  </tr>
+  <tr class="L3 even">
+    <td class="CID"><a name="390">390</a></td>
+    <td class="CGr">算了</td>
+    <td class="CLe">4*</td>
+    <td class="CEx">算了，這麼晚了你先回去吧，剩下的我來整理就可以了。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="391">391</a></td>
+    <td class="CGr">以¹</td>
+    <td class="CLe">5</td>
+    <td class="CEx">今天所討論的，如果有任何建議，歡迎以電子郵件提出。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="392">392</a></td>
+    <td class="CGr">以²</td>
+    <td class="CLe">5</td>
+    <td class="CEx">學生要加強自己的能力，以增加自己進入理想行業的機會。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="393">393</a></td>
+    <td class="CGr">於¹</td>
+    <td class="CLe">5</td>
+    <td class="CEx">總經理已於下午兩點前往越南拜訪客戶。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="394">394</a></td>
+    <td class="CGr">於²</td>
+    <td class="CLe">5</td>
+    <td class="CEx">本活動將於國際會議中心舉行。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="395">395</a></td>
+    <td class="CGr">由²</td>
+    <td class="CLe">5</td>
+    <td class="CEx">抽獎活動將由電腦選出得獎者。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="396">396</a></td>
+    <td class="CGr">又³</td>
+    <td class="CLe">5</td>
+    <td class="CEx">你又沒做錯事，有什麼好怕的？</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="397">397</a></td>
+    <td class="CGr">就³</td>
+    <td class="CLe">5</td>
+    <td class="CEx">不是每個外國人都不吃臭豆腐，我的日本朋友就很喜歡吃。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="398">398</a></td>
+    <td class="CGr">透過</td>
+    <td class="CLe">5</td>
+    <td class="CEx">透過這本書，我們知道他不斷學習與成長的過程。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="399">399</a></td>
+    <td class="CGr">順（著）</td>
+    <td class="CLe">5</td>
+    <td class="CEx">順著音樂聲走過去，就會看到一群人在運動。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="400">400</a></td>
+    <td class="CGr">沿（著）</td>
+    <td class="CLe">5</td>
+    <td class="CEx">黃昏的時候，我經常沿著河邊散步。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="401">401</a></td>
+    <td class="CGr">以……為……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">他以取得律師資格為目標。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="402">402</a></td>
+    <td class="CGr">憑</td>
+    <td class="CLe">5</td>
+    <td class="CEx">他憑自己的努力考上了全國最好的設計學院。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="403">403</a></td>
+    <td class="CGr">視……而定</td>
+    <td class="CLe">5</td>
+    <td class="CEx">房子的價格主要視地點和大小而定。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="404">404</a></td>
+    <td class="CGr">經由……而來……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這些數據是經由統計而來的。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="405">405</a></td>
+    <td class="CGr">A跟B……相當</td>
+    <td class="CLe">5</td>
+    <td class="CEx">坐在前面的那個男生，看起來大約跟我年紀相當。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="406">406</a></td>
+    <td class="CGr">比不上</td>
+    <td class="CLe">5</td>
+    <td class="CEx">買來的玩具雖然精緻，但比不上親自做的有價值。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="407">407</a></td>
+    <td class="CGr">（A）與B相比</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這座城市現在與五年前相比，繁榮了許多。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="408">408</a></td>
+    <td class="CGr">於是</td>
+    <td class="CLe">5</td>
+    <td class="CEx">抽煙有害身體健康，於是爸爸決定戒煙。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="409">409</a></td>
+    <td class="CGr">（之）所以……，是因為……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">他之所以成功，是因為堅持和努力。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="410">410</a></td>
+    <td class="CGr">隨著</td>
+    <td class="CLe">5</td>
+    <td class="CEx">隨著時代的改變，許多價值觀開始受到挑戰。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="411">411</a></td>
+    <td class="CGr">因（為）……而……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">政府因人民的抗議而改變這項政策。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="412">412</a></td>
+    <td class="CGr">因而</td>
+    <td class="CLe">5</td>
+    <td class="CEx">受到颱風影響，因而造成飛機停飛。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="413">413</a></td>
+    <td class="CGr">為了A而B</td>
+    <td class="CLe">5</td>
+    <td class="CEx">他聽從醫生的建議，開始為了健康而控制飲食。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="414">414</a></td>
+    <td class="CGr">無須</td>
+    <td class="CLe">5</td>
+    <td class="CEx">政府蓋了一條新的道路後，居民無須再繞遠路。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="415">415</a></td>
+    <td class="CGr">不至於</td>
+    <td class="CLe">5</td>
+    <td class="CEx">臺北的冬天雖然濕冷，但還不至於下雪。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="416">416</a></td>
+    <td class="CGr">絕不</td>
+    <td class="CLe">5</td>
+    <td class="CEx">他的個性小心謹慎，沒有根據的話絕不亂說。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="417">417</a></td>
+    <td class="CGr">未曾</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這篇文章未曾發表過。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="418">418</a></td>
+    <td class="CGr">不得</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這家公司規定員工每天工作時間不得超過八小時。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="419">419</a></td>
+    <td class="CGr">無法</td>
+    <td class="CLe">5</td>
+    <td class="CEx">王美美是一個很愛乾淨的人，無法忍受一點髒亂。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="420">420</a></td>
+    <td class="CGr">以及</td>
+    <td class="CLe">5</td>
+    <td class="CEx">我把旅行中遇到的人、有趣的事，以及看到的美景說給大家聽。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="421">421</a></td>
+    <td class="CGr">一來……二來……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這裡一來沒電話，二來沒網路，聯絡很不方便。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="422">422</a></td>
+    <td class="CGr">既A，也B</td>
+    <td class="CLe">5</td>
+    <td class="CEx">來臺灣既可以學中文，也可以享受美食。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="423">423</a></td>
+    <td class="CGr">（請）勿</td>
+    <td class="CLe">5</td>
+    <td class="CEx">請勿在公共區域吸煙！</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="424">424</a></td>
+    <td class="CGr">使得</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這位作家花了兩年的時間修改，使得這部小說更加完整。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="425">425</a></td>
+    <td class="CGr">使</td>
+    <td class="CLe">5</td>
+    <td class="CEx">早上喝一杯咖啡能使他頭腦更加清醒。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="426">426</a></td>
+    <td class="CGr">令</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這間餐廳的氣氛和服務，令人印象深刻。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="427">427</a></td>
+    <td class="CGr">（在）……之餘</td>
+    <td class="CLe">5</td>
+    <td class="CEx">他在工作之餘，還不忘充實自己的專業知識。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="428">428</a></td>
+    <td class="CGr">一口氣</td>
+    <td class="CLe">5</td>
+    <td class="CEx">他一口氣跑了五千公尺。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="429">429</a></td>
+    <td class="CGr">早晚</td>
+    <td class="CLe">5</td>
+    <td class="CEx">我們還是把車子壞掉的事告訴爸爸吧，他早晚會知道的。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="430">430</a></td>
+    <td class="CGr">若</td>
+    <td class="CLe">5</td>
+    <td class="CEx">若成本增加，價格恐怕也將提高。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="431">431</a></td>
+    <td class="CGr">要不是</td>
+    <td class="CLe">5</td>
+    <td class="CEx">要不是你的幫忙，這件事可能就沒辦法進行得這麼順利。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="432">432</a></td>
+    <td class="CGr">萬一</td>
+    <td class="CLe">5</td>
+    <td class="CEx">如果島上有家醫院，萬一發生車禍可以立即處理。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="433">433</a></td>
+    <td class="CGr">一旦</td>
+    <td class="CLe">5</td>
+    <td class="CEx">環境一旦破壞了，就很難再恢復。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="434">434</a></td>
+    <td class="CGr">沒有……就沒有……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">沒有他的指導，就沒有這麼有創意的點子。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="435">435</a></td>
+    <td class="CGr">儘管……（還/但是）……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">儘管不常見面，但是我們每次聚會都聊得很開心。儘管工作再忙，爸爸週末還是會留點時間去當志工。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="436">436</a></td>
+    <td class="CGr">將</td>
+    <td class="CLe">5</td>
+    <td class="CEx">老師也必須不斷學習，才能將新知識帶給學生。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="437">437</a></td>
+    <td class="CGr">Vs得要命</td>
+    <td class="CLe">5</td>
+    <td class="CEx">就算出太陽，天氣還是冷得要命。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="438">438</a></td>
+    <td class="CGr">不料</td>
+    <td class="CLe">5</td>
+    <td class="CEx">他們已經提早半小時出門，不料路上塞車，結果還是遲到了。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="439">439</a></td>
+    <td class="CGr">誰叫……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">誰叫你不早點來，食物全都被吃光了。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="440">440</a></td>
+    <td class="CGr">有什麼好V（O）/SV的</td>
+    <td class="CLe">5</td>
+    <td class="CEx">結果都已經確定了，還有什麼好討論的！</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="441">441</a></td>
+    <td class="CGr">畢竟</td>
+    <td class="CLe">5</td>
+    <td class="CEx">他畢竟是個孩子，喜歡玩是正常的。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="442">442</a></td>
+    <td class="CGr">難免</td>
+    <td class="CLe">5</td>
+    <td class="CEx">即使是新車，難免也會有些小毛病。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="443">443</a></td>
+    <td class="CGr">別看</td>
+    <td class="CLe">5</td>
+    <td class="CEx">別看他工作忙碌，他還是會抽出時間去運動。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="444">444</a></td>
+    <td class="CGr">無所謂</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這個問題的答案無所謂對或錯，只是每個人看法不同而已。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="445">445</a></td>
+    <td class="CGr">動不動就</td>
+    <td class="CLe">5</td>
+    <td class="CEx">他最近的情緒很不穩定，動不動就哭。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="446">446</a></td>
+    <td class="CGr">明明</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這裡明明寫著禁止帶寵物，你怎麼還把小狗帶進來了呢。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="447">447</a></td>
+    <td class="CGr">好在</td>
+    <td class="CLe">5</td>
+    <td class="CEx">好在這次還不是正式演出，大家可以再重新練習一遍。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="448">448</a></td>
+    <td class="CGr">所+V+的（N）</td>
+    <td class="CLe">5</td>
+    <td class="CEx">一般來說 ，語言學家所關注的是語言規則的問題。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="449">449</a></td>
+    <td class="CGr">無論如何</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這場會議很重要，無論如何你都要參加。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="450">450</a></td>
+    <td class="CGr">一般而言</td>
+    <td class="CLe">5</td>
+    <td class="CEx">一般而言，薪水越高，越容易吸引到人才。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="451">451</a></td>
+    <td class="CGr">這下子</td>
+    <td class="CLe">5</td>
+    <td class="CEx">他找到了一份不錯的工作，這下子，總算可以把貸款還完了。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="452">452</a></td>
+    <td class="CGr">主要（的）是</td>
+    <td class="CLe">5</td>
+    <td class="CEx">今天請大家來開會，主要是想了解大家對這個問題的看法。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="453">453</a></td>
+    <td class="CGr">基本上</td>
+    <td class="CLe">5</td>
+    <td class="CEx">基本上，這些軟體都是免費的，如果想要有更多功能才需要付錢。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="454">454</a></td>
+    <td class="CGr">可見</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這本雜誌一個月可以賣出五萬多本，可見很受市場歡迎。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="455">455</a></td>
+    <td class="CGr">（可是）話說回來</td>
+    <td class="CLe">5</td>
+    <td class="CEx">人與人相處的確是一件困難的事情，可是話說回來，只要真誠就可以交到好朋友。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="456">456</a></td>
+    <td class="CGr">反之</td>
+    <td class="CLe">5</td>
+    <td class="CEx">睡前過度運動容易睡不好，反之，聽點音樂可以幫助睡眠</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="457">457</a></td>
+    <td class="CGr">換句話說</td>
+    <td class="CLe">5</td>
+    <td class="CEx">出生率降低了，換句話說，就是孩子越來越少了。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="458">458</a></td>
+    <td class="CGr">除此之外</td>
+    <td class="CLe">5</td>
+    <td class="CEx">他不但是個成功的企業家，也是個學者，除此之外，更是個好父親。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="459">459</a></td>
+    <td class="CGr">相對地</td>
+    <td class="CLe">5</td>
+    <td class="CEx">公司的規模越來越大，相對地需要的空間也變大了。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="460">460</a></td>
+    <td class="CGr">事實上</td>
+    <td class="CLe">5</td>
+    <td class="CEx">一般人認為運動一定可以減肥，事實上，飲食控制才是最重要的。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="461">461</a></td>
+    <td class="CGr">總之</td>
+    <td class="CLe">5</td>
+    <td class="CEx">不管會碰到什麼困難、結果如何，總之，先踏出第一步再說。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="462">462</a></td>
+    <td class="CGr">由此可知/看來/可見</td>
+    <td class="CLe">5</td>
+    <td class="CEx">就算再忙，他還是會去當志工，由此可知/看來/可見，他是一個熱心的人。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="463">463</a></td>
+    <td class="CGr">總而言之</td>
+    <td class="CLe">5</td>
+    <td class="CEx">今天說了那麼多，總而言之，就是要幫助各位增加財富管理的觀念。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="464">464</a></td>
+    <td class="CGr">簡言之</td>
+    <td class="CLe">5</td>
+    <td class="CEx">假如我們的心情愉快，就比較可以抵抗病菌的感染。簡言之，心情好，抵抗力就強。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="465">465</a></td>
+    <td class="CGr">如此一來</td>
+    <td class="CLe">5</td>
+    <td class="CEx">現在經濟逐漸好轉，如此一來，工作機會就會增加。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="466">466</a></td>
+    <td class="CGr">從……的角度來+V</td>
+    <td class="CLe">5</td>
+    <td class="CEx">從使用者的角度來設計商品，不但實用也能增加購買的人數。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="467">467</a></td>
+    <td class="CGr">至於</td>
+    <td class="CLe">5</td>
+    <td class="CEx">開會的時間必須延期，至於延到什麼時候會再通知。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="468">468</a></td>
+    <td class="CGr">所謂……是指/就是……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">所謂公平就是每個人都有一樣的機會。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="469">469</a></td>
+    <td class="CGr">在……（之）下</td>
+    <td class="CLe">5</td>
+    <td class="CEx">在比賽的壓力下，他表現得沒有預期的好。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="470">470</a></td>
+    <td class="CGr">對（於）……而言</td>
+    <td class="CLe">5</td>
+    <td class="CEx">對於公司的員工而言，加薪是一種很大的鼓勵。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="471">471</a></td>
+    <td class="CGr">（在）……（之）中</td>
+    <td class="CLe">5</td>
+    <td class="CEx">在臺灣各種美食中，他最喜歡小籠包。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="472">472</a></td>
+    <td class="CGr">就……而言</td>
+    <td class="CLe">5</td>
+    <td class="CEx">就經濟發展而言，今年的平均薪資比去年成長百分之三。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="473">473</a></td>
+    <td class="CGr">在……上</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這位有名的導演拍攝了一部電影，在國際上得到了很好的評價。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="474">474</a></td>
+    <td class="CGr">以……為主</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這個國家的經濟是以農業為主。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="475">475</a></td>
+    <td class="CGr">是否</td>
+    <td class="CLe">5</td>
+    <td class="CEx">每次外出，我一定會檢查是否帶了皮包跟鑰匙。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="476">476</a></td>
+    <td class="CGr">如何</td>
+    <td class="CLe">5</td>
+    <td class="CEx">我們把聚會的時間定在明天下午如何？</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="477">477</a></td>
+    <td class="CGr">（更）何況</td>
+    <td class="CLe">5</td>
+    <td class="CEx">比賽前一定會緊張，更何況是第一次參加比賽的選手。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="478">478</a></td>
+    <td class="CGr">不說……還……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">他寫作能力好不說，還得過演講比賽第一名。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="479">479</a></td>
+    <td class="CGr">更別說……了</td>
+    <td class="CLe">5</td>
+    <td class="CEx">山上的天氣非常寒冷，白天也才五度，更別說夜晚了。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="480">480</a></td>
+    <td class="CGr">別說……（連）……也……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">別說學生不認識這個字，老師也不認識。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="481">481</a></td>
+    <td class="CGr">此外</td>
+    <td class="CLe">5</td>
+    <td class="CEx">今天加入會員不但享有折扣，還可以免費體驗。此外，生日當天還有贈品。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="482">482</a></td>
+    <td class="CGr">非但……還……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">新產品的銷售量非但沒有增加，還減少了百分之三十。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="483">483</a></td>
+    <td class="CGr">小自……大至……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">我們公司小自買筆，大至投資計畫都由總經理親自決定。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="484">484</a></td>
+    <td class="CGr">正如</td>
+    <td class="CLe">5</td>
+    <td class="CEx">正如我們所猜想的，商品在一天之內全都賣光了。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="485">485</a></td>
+    <td class="CGr">（V）自</td>
+    <td class="CLe">5</td>
+    <td class="CEx">這部電影的靈感出自紅樓夢。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="486">486</a></td>
+    <td class="CGr">（V）於</td>
+    <td class="CLe">5</td>
+    <td class="CEx">李明華畢業於中文系。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="487">487</a></td>
+    <td class="CGr">至</td>
+    <td class="CLe">5</td>
+    <td class="CEx">本公司徵求行銷人員，薪水三萬五千至四萬。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="488">488</a></td>
+    <td class="CGr">以……為例</td>
+    <td class="CLe">5</td>
+    <td class="CEx">臺北的交通很方便，以捷運為例，附近的景點都到得了。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="489">489</a></td>
+    <td class="CGr">免得</td>
+    <td class="CLe">5</td>
+    <td class="CEx">趕緊把頭髮擦乾，免得感冒了。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="490">490</a></td>
+    <td class="CGr">然而</td>
+    <td class="CLe">5</td>
+    <td class="CEx">經濟發展雖然重要，然而也不能忽略環境的保護。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="491">491</a></td>
+    <td class="CGr">不是……而是……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">改變命運的關鍵不是靠算命，而是靠自己的努力。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="492">492</a></td>
+    <td class="CGr">(不但)不/沒……反而……</td>
+    <td class="CLe">5</td>
+    <td class="CEx">雖然爬山爬了一整天，但他們不覺得累，反而精神很好。不小心打破了花瓶，爸爸不但沒罵我，反而安慰我。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="493">493</a></td>
+    <td class="CGr">則</td>
+    <td class="CLe">5</td>
+    <td class="CEx">電動車不會污染空氣，缺點則是價格偏高。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="494">494</a></td>
+    <td class="CGr">而</td>
+    <td class="CLe">5</td>
+    <td class="CEx">周末晚上大家都去聚餐，而我寧可在家自己做飯。</td>
+  </tr>
+  <tr class="L4 odd">
+    <td class="CID"><a name="495">495</a></td>
+    <td class="CGr">竟</td>
+    <td class="CLe">5</td>
+    <td class="CEx">短短不到幾年的時間，這間公司的資本額竟高達數億美金。</td>
+  </tr>
+  <tr class="L4 even">
+    <td class="CID"><a name="496">496</a></td>
+    <td class="CGr">之</td>
+    <td class="CLe">5</td>
+    <td class="CEx">父母陪孩子一起走過成長之路。</td>
+  </tr>
+  </tbody>
+
+</table>
+</div>
+</html>
